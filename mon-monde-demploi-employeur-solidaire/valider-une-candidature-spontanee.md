@@ -1,0 +1,16 @@
+# Valider une candidature spontanée
+
+{% hint style="success" %}
+Si vous êtes une [**SIAE**](https://doc.inclusion.beta.gouv.fr/presentation/employeurs-solidaires), **vous pouvez désormais recruter** une personne en **candidature spontanée** ou **adressée par un** [**orienteur**](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/orienteur)**.** 
+
+Après avoir réalisé le [**diagnostic socio-professionnel** ](https://doc.inclusion.beta.gouv.fr/qui-est-eligible-iae-criteres-eligibilite#diagnostic_de_reference)du candidat, vous pouvez **valider son éligibilité en ligne** !
+{% endhint %}
+
+1. Dans **Tableau de bord**, cliquez sur **Obtenir un numéro d'agrément** 
+2. Renseignez le **mail du candidat** pour lui **créer son compte** s'il n'en possède pas
+3. **Saisissez ses informations**, puis cliquez sur **Continuer**
+4. Sélectionnez le **poste concerné** et rédigez le **message du candidat**
+5. Cliquez sur **Enregistrer la candidature.** Recevez le [**Pass IAE**](https://doc.inclusion.beta.gouv.fr/qui-peut-beneficier-des-contrats-dinsertion-par-lactivite-economique) **sous + ou - 6 jours**
+
+![Je suis employeur et fais une candidature spontan&#xE9;e](https://s5.gifyu.com/images/demo-employeur-spontv2.gif)
+

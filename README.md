@@ -1,0 +1,31 @@
+# 📚Documentation sur la Plateforme de l'inclusion
+
+Découvrez **toute l’information** pour **mieux** [**comprendre le service**](pourquoi-une-plateforme-de-linclusion/) numérique de la [**Plateforme de l'inclusion**](https://inclusion.beta.gouv.fr/) et **orienter vos recherches**.
+
+La **Plateforme de l’inclusion** a été conçue dans le cadre du [**Pacte IAE**](https://travail-emploi.gouv.fr/IMG/pdf/pacte_d_ambition_iae_sept_2019_synthese.pdf), un dispositif d’État pour l’**Inclusion par l’Activité Économique** **des personnes les plus éloignées de l’emploi** en raison de difficultés sociales, professionnelles, ou de santé.
+
+C’est un **téléservice évolutif** porté par :
+
+* Le [Haut-commissariat à l'inclusion dans l'emploi et à l'engagement des entreprises \(HCIEE\)](https://travail-emploi.gouv.fr/ministere/organisation/article/haut-commissaire-a-l-inclusion-dans-l-emploi-et-a-l-engagement-des-entreprises)
+* La [Délégation générale à l’emploi et à la formation professionnelle \(DGEFP\)](https://travail-emploi.gouv.fr/ministere/organisation/organisation-des-directions-et-services/article/organisation-de-la-delegation-generale-a-l-emploi-et-a-la-formation)
+* Les services [Pôle emploi](https://www.pole-emploi.fr/accueil/)
+* Et accompagné par la [Direction Interministérielle au Numérique \(DINUM\)](https://www.numerique.gouv.fr/)
+
+## En accès rapide : mes infos utiles 👇
+
+![](.gitbook/assets/edit%20%281%29.svg) La [liste des prescripteurs habilités](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-en-national) au niveau national
+
+![](.gitbook/assets/award-1-%20%281%29.svg) Les [critères d'éligibilité](qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1) à l'IAE
+
+![](.gitbook/assets/check-square.svg) Le [Diagnostic socio-professionnel](qui-est-eligible-iae-criteres-eligibilite.md#diagnostic_de_reference)
+
+![](.gitbook/assets/monitor.svg) Le calendrier des [webinaires de la Plateforme de l'inclusion avec les replays](outils-information-communiation-de-la-plateforme/rendez-vous-webinaires.md)
+
+![](.gitbook/assets/book-open.svg) Le [Kit de communication](outils-information-communiation-de-la-plateforme/kit-de-communication/) de la Plateforme 🚀 
+
+
+
+              **Consulter le Pacte IAE** 👇 
+
+\*\*\*\*[![](.gitbook/assets/pacte_d_ambition_iae_sept_2019_synthese-2.png) ](https://travail-emploi.gouv.fr/IMG/pdf/pacte_d_ambition_iae_sept_2019_synthese.pdf)
+
