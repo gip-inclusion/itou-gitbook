@@ -26,7 +26,7 @@ Vérifiez que la Plateforme de l'inclusion est bien ouverte sur votre territoire
 
 Si c'est le cas, pensez à renseigner sur la fiche d'inscription le SIRET de votre structure tel qu'il est indiqué sur l'Extranet IAE 2.0 de l'ASP. Vous pouvez suivez notre [Mode d'emploi ''employeur''](../mon-monde-demploi-employeur-solidaire/) pour vous aider.
 
-Si toutefois ‘’Erreur’’ apparaît, c'est peut-être que vous avez déménagé et que l'Extranet IAE 2.0 de l'ASP ne reconnait pas encore votre nouveau SIRET. Essayez alors avec votre ancien SIRET. Un mail d’alerte sera envoyé à l'ASP. Si le problème persiste ou si vous avez des difficultés, n'hésitez pas à [nous contacter](mailto:assistance@inclusion.beta.gouv.fr).
+Si votre siret n'est toujours pas reconnu, vous pouvez utiliser [ce formulaire.](https://itou.typeform.com/to/RYfNLR79)
 
 ### Ma structure a différentes activités sur plusieurs sites, puis-je différencier mes fiches de poste selon les sites ?
 
