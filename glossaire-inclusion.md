@@ -48,7 +48,7 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
 | **GEIQ** | Groupement d'employeurs pour l'insertion et la qualification \([employeurs solidaires](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)\) |
 | **HCIEE** | Haut-commissariat à l'inclusion dans l'emploi et à l'engagement des entreprises |
 | **IAE** | Insertion par l'activité économique |
-| **ML** | Mission locale \([prescripteur](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)\) |
+| **ML - Milo** | Mission locale \([prescripteur](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)\) |
 | **NIR** | Numéro d'inscription au répertoire = numéro de Sécurité sociale \([en savoir plus](https://fr.wikipedia.org/wiki/Num%C3%A9ro_de_s%C3%A9curit%C3%A9_sociale_en_France)\) |
 | **OACAS** | Organisme d'accueil communautaire et d'activité solidaire \([prescripteur](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)\) |
 | **PE** | Pôle emploi \([prescripteur](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)\) |
