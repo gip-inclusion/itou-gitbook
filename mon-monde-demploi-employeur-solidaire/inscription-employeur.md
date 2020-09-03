@@ -12,7 +12,7 @@
 {% hint style="danger" %}
 **Le mail est envoyé à la personne référencée dans l'extranet IAE 2.0 de l'ASP.** 
 
-Cette adresse mail est utilisée comme adresse d’authentification et permet ainsi de sécuriser les accès sur la Plateforme de l'inclusion.
+Cette adresse mail est utilisée comme adresse d’authentification et permet ainsi de sécuriser les inscriptions.
 {% endhint %}
 
 {% hint style="warning" %}
