@@ -6,14 +6,15 @@
 2. Cliquez sur **Inscrivez-vous**
 3. Cliquez sur **Créer un compte** dans le 1er pavé  "Vous êtes employeur solidaire..."
 4. Renseignez votre **type de structure** et **numéro de SIRET**
-5. L'ASP \(Agence de Service et Paiement\) **validera votre inscription par mail.**
+5. Cliquez sur inscription 
+6. Cliquez sur le lien de confirmation reçu par mail
 
-{% hint style="success" %}
-Si votre entreprise est référencée dans notre base, un mail est envoyé à la personne référencée à l'ASP \(Agence de Service et Paiement\).
+{% hint style="danger" %}
+Le mail est envoyé à la personne référencée dans l'extranet IAE 2.0 de l'ASP
 {% endhint %}
 
 {% hint style="warning" %}
-Si vous n'êtes pas dans notre base, merci de nous [**contacter par mail**](mailto:contact@inclusion.beta.gouv.fr). 
+Si votre SIRET n'est pas reconnu, merci d'utiliser [ce formulaire](https://itou.typeform.com/to/RYfNLR79)
 {% endhint %}
 
 ![Je suis employeur et je souhaite m&apos;inscrire](https://s5.gifyu.com/images/demo-employeur.gif)
