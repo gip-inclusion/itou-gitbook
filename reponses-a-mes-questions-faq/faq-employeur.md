@@ -26,7 +26,7 @@ Vérifiez que la Plateforme de l'inclusion est bien ouverte sur votre territoire
 
 Si c'est le cas, pensez à renseigner sur la fiche d'inscription le SIRET de votre structure tel qu'il est indiqué sur l'Extranet IAE 2.0 de l'ASP. Vous pouvez suivez notre [Mode d'emploi ''employeur''](../mon-monde-demploi-employeur-solidaire/) pour vous aider.
 
-Si votre siret n'est toujours pas reconnu, vous pouvez utiliser [ce formulaire.](https://itou.typeform.com/to/RYfNLR79)
+Si votre SIRET  n'est pas reconnu, vous pouvez utiliser [ce formulaire.](https://itou.typeform.com/to/RYfNLR79)
 
 ### Ma structure a différentes activités sur plusieurs sites, puis-je différencier mes fiches de poste selon les sites ?
 
