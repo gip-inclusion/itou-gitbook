@@ -6,8 +6,8 @@
 2. Cliquez sur **Inscrivez-vous**
 3. Cliquez sur **Créer un compte** dans le 1er pavé  "Vous êtes employeur solidaire..."
 4. Renseignez votre **type de structure** et **numéro de SIRET**
-5. Cliquez sur inscription 
-6. Cliquez sur le lien de confirmation reçu par mail
+5. Cliquez sur **inscription** 
+6. Cliquez sur le **lien de confirmation reçu par mail**
 
 {% hint style="danger" %}
 **Le mail est envoyé à la personne référencée dans l'extranet IAE 2.0 de l'ASP.** 
