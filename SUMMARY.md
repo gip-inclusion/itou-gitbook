@@ -22,7 +22,7 @@
 * [📗Mon mode d'emploi ''candidat''](mon-mode-demploi-candidat/README.md)
   * [M'inscrire sur la Plateforme en créant mon compte](mon-mode-demploi-candidat/inscription-candidat.md)
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
-* [📘Mon mode d'emploi ''prescripteur'' ?](mon-mode-demploi-prescripteur/README.md)
+* [📘Mon mode d'emploi ''prescripteur''](mon-mode-demploi-prescripteur/README.md)
   * [M'inscrire sur la Plateforme](mon-mode-demploi-prescripteur/inscription-prescripteur.md)
   * [Compléter et décrire mon organisation](mon-mode-demploi-prescripteur/description-organisation.md)
   * [Inviter mes collaborateurs à se rattacher au compte de l'organisation](mon-mode-demploi-prescripteur/rattachement-collaborateur-au-compte.md)
