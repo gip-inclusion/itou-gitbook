@@ -36,7 +36,7 @@
   * [Embaucher un candidat](mon-monde-demploi-employeur-solidaire/embaucher-un-candidat.md)
   * [Créer une nouvelle structure](mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)
   * [Annuler l'embauche d'un candidat](mon-monde-demploi-employeur-solidaire/annuler-lembauche-dun-candidat.md)
-* [🛠️Mes outils d'info & de com ?](outils-information-communiation-de-la-plateforme/README.md)
+* [🛠️Mes outils d'info & de com](outils-information-communiation-de-la-plateforme/README.md)
   * [Outils d'information](outils-information-communiation-de-la-plateforme/outils-dinformation/README.md)
     * [Flyer de présentation](outils-information-communiation-de-la-plateforme/outils-dinformation/flyer-de-presentation.md)
     * [Infolettres mensuelles](outils-information-communiation-de-la-plateforme/outils-dinformation/infolettres.md)
