@@ -1,4 +1,4 @@
-# 📗Mon mode d'emploi ''candidat'' ?
+# 📗Mon mode d'emploi ''candidat''
 
 **Découvrez des vidéos qui vous montrent comment utiliser la Plateforme pour :**
 

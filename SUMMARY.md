@@ -19,7 +19,7 @@
   * [Fonctionnalités candidat](a-quoi-va-me-servir-la-plateforme/fonctionnalites-candidat.md)
   * [Fonctionnalités prescripteur](a-quoi-va-me-servir-la-plateforme/fonctionnalites-prescripteur.md)
   * [Fonctionnalités employeur](a-quoi-va-me-servir-la-plateforme/fonctionnalites-employeur.md)
-* [📗Mon mode d'emploi ''candidat'' ?](mon-mode-demploi-candidat/README.md)
+* [📗Mon mode d'emploi ''candidat''](mon-mode-demploi-candidat/README.md)
   * [M'inscrire sur la Plateforme en créant mon compte](mon-mode-demploi-candidat/inscription-candidat.md)
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
 * [📘Mon mode d'emploi ''prescripteur'' ?](mon-mode-demploi-prescripteur/README.md)
