@@ -81,14 +81,14 @@ En revanche, **un candidat inscrit chez Pôle emploi qui ne renseigne pas son id
 
 ### Que se passe-t-il quand le délai de carence n’est pas respecté ?
 
-* La candidature a été transmise par un prescripteur habilité ?  ![](../.gitbook/assets/arrow-right-circle-1-.svg) Le Pass IAE est accordé \(seul un prescripteur habilité peut déroger au délai de carence de 2 ans\).
+* La candidature a été transmise par un [prescripteur habilité](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite) ?  ![](../.gitbook/assets/arrow-right-circle-1-.svg) Le Pass IAE est accordé \(seul un prescripteur habilité peut déroger au délai de carence de 2 ans\).
 * La candidature a été transmise par un autre acteur ? ![](../.gitbook/assets/arrow-right-circle-1-.svg) Le Pass IAE est refusé.
 
-Dans ce dernier cas, l’employeur peut se rapprocher d’un prescripteur habilité et exposer la situation de son candidat. Si le prescripteur habilité est favorable à une dérogation du délai de carence pour le candidat, il transmettra la candidature à l’employeur via la Plateforme et déclenchera la délivrance du Pass IAE.  
+Dans ce dernier cas, l’employeur peut se rapprocher d’un prescripteur habilité et exposer la situation de son candidat. Si le [prescripteur habilité](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite) est favorable à une dérogation du délai de carence pour le candidat, il transmettra la candidature à l’employeur via la Plateforme et déclenchera la délivrance du Pass IAE.  
 
 
 {% hint style="info" %}
-**Pour trouver les prescripteurs habilités proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
+**Pour trouver les** [**prescripteurs habilités**](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite) **proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
 {% endhint %}
 
 
