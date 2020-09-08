@@ -66,5 +66,32 @@ Cette **refonte de l’agrément** a été mise en œuvre sur **3 régions d’e
 👉\*\*\*\*[ **Retrouvez tout le détail de la refonte de l'agrément**](https://synesi.fr/wp-content/uploads/2019/09/20190910-Pacte_d_ambition_iae_sept_2019_Mesure-29.pdf)
 {% endhint %}
 
-\*\*\*\*
+## Vérification des demandes de PASS IAE
+
+Une demande de Pass IAE sur la Plateforme de l’inclusion implique de **vérifier l’existence d’un agrément Pôle emploi en cours de validité ou avec une date d’échéance inférieure à 2 ans \(délai de carence légal\).**
+
+**Si l'identifiant Pôle emploi est renseigné ou que le candidat n’est pas chez Pôle emploi, la vérification s’opère automatiquement.**
+
+En revanche, **un candidat inscrit chez Pôle emploi qui ne renseigne pas son identifiant doit obligatoirement entraîner une vérification manuelle.** 
+
+### **La vérification permet de contrôler quoi ?**
+
+* L’existence d’un agrément en cours de validité  ![](../.gitbook/assets/arrow-right-circle-1-.svg)Si c’est le cas, l’employeur recevra un Pass IAE qui reprend le numéro et la durée restante de validité de l’agrément.   
+* Qu’aucun agrément Pôle emploi n’a  été délivré durant les 2 années de carence  ![](../.gitbook/assets/arrow-right-circle-1-.svg) L’employeur recevra alors un Pass IAE d’une durée de validité de 2 ans.
+
+### Que se passe-t-il quand le délai de carence n’est pas respecté ?
+
+* La candidature a été transmise par un prescripteur habilité ?  ![](../.gitbook/assets/arrow-right-circle-1-.svg) Le Pass IAE est accordé \(seul un prescripteur habilité peut déroger au délai de carence de 2 ans\).
+* La candidature a été transmise par un autre acteur ? ![](../.gitbook/assets/arrow-right-circle-1-.svg) Le Pass IAE est refusé.
+
+Dans ce dernier cas, l’employeur peut se rapprocher d’un prescripteur habilité et exposer la situation de son candidat. Si le prescripteur habilité est favorable à une dérogation du délai de carence pour le candidat, il transmettra la candidature à l’employeur via la Plateforme et déclenchera la délivrance du Pass IAE.  
+
+
+{% hint style="info" %}
+**Pour trouver les prescripteurs habilités proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
+{% endhint %}
+
+
+
+
 
