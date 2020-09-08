@@ -19,7 +19,6 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 **Webinaires de lancement officiel Septembre 2020 :**
 
-* 8[ Septembre 14h : pré-lancement officiel en **Occitanie**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-occitanie) ****
 * [15 Septembre 14h : pré-lancement officiel en **Centre-Val-de-Loire**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-centre-val-de-loire) ****
 * [22 Septembre 14h : pré-lancement officiel en **Nouvelle Aquitaine**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-nouvelle-aquitaine) ****
 {% endhint %}
@@ -40,6 +39,14 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 {% endhint %}
 
 ## **Retrouvez les webinaires précédents :**
+
+### 👉 **08.09.20 Webinaire de pré-lancement officiel en Occitanie**
+
+Le support de présentation est [disponible ici](https://drive.google.com/file/d/1KsO1OYdDuUx7xhBxWMxgbXGy3xDK8nd5/view)
+
+{% embed url="https://youtu.be/IaNLwzHRD9s" %}
+
+
 
 ### 👉 22.07.20 Webinaire de démonstration spécial prescripteurs
 
