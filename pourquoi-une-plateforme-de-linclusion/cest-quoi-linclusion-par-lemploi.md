@@ -1,8 +1,8 @@
-# C'est quoi l'inclusion ?
+# C'est quoi l'inclusion par l'emploi ?
 
 ![](../.gitbook/assets/capture-de-cran-2020-05-15-a-10.59.27.png)
 
-L’inclusion est un **projet de société gouvernemental** qui permet aux **personnes les plus fragiles** de bénéficier de l’**accès à l’emploi et à la formation** pour **s’insérer dans la société** **par le travail** \(**I**nsertion par l'**A**ctivité **É**conomique - **IAE**\).
+L’inclusion par l'emploi est un **projet de société gouvernemental** qui permet aux **personnes les plus fragiles** de bénéficier de l’**accès à l’emploi et à la formation** pour **s’insérer dans la société** **par le travail** \(**I**nsertion par l'**A**ctivité **É**conomique - **IAE**\).
 
 C’est **un** **enjeu majeur** porté par le [**Pacte de l’IAE**](https://travail-emploi.gouv.fr/IMG/pdf/pacte_d_ambition_iae_sept_2019_synthese.pdf) ****pour lutter contre le **chômage longue durée, l'exclusion** et la **pauvreté.**
 
