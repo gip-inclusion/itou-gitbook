@@ -46,7 +46,13 @@ Le support de présentation est [disponible ici](https://drive.google.com/file/d
 
 {% embed url="https://youtu.be/IaNLwzHRD9s" %}
 
+## 
 
+### 👉 07/09/20 Webinaire 1er RDV des Régionales de l'inclusion
+
+{% embed url="https://youtu.be/n2gnHo-yJ-c" %}
+
+## 
 
 ### 👉 22.07.20 Webinaire de démonstration spécial prescripteurs
 
