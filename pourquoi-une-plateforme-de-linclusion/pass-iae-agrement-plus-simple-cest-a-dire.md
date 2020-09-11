@@ -8,7 +8,7 @@
 
 ![](../.gitbook/assets/thumbs-up.svg) **Envoi de candidatures réalisables par** [**tous les prescripteurs**](qui-sont-les-differents-prescripteurs/) **sans exception** \(SPE, organismes habilités en national ou par le Préfet, orienteurs avec ou sans organisation\), et **en** **auto-prescription par les** [**SIAE**](qui-sont-les-employeurs-solidaires.md) \(candidatures spontanées\). Toutefois, si le **candidat est adressé par un orienteur**, son **éligibilité** **sera validée par la SIAE**.
 
-![](../.gitbook/assets/thumbs-up.svg) **Pass IAE délivré par la Plateforme sous ≈ 6 jours** pour toute demande d'embauche, dès lors que **le candidat remplit** [**1 critère de niveau 1 ou 3 critères de niveau 2**](../qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1). **Éligibilité du candidat garantie 6 mois**. 
+![](../.gitbook/assets/thumbs-up.svg) **Pass IAE délivré par la Plateforme sous ≈ 2 jours ouvrés** pour toute demande d'embauche, dès lors que **le candidat remplit** [**1 critère de niveau 1 ou 3 critères de niveau 2**](../qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1). **Éligibilité du candidat garantie 6 mois**. 
 
 \*\*\*\*![](../.gitbook/assets/thumbs-up.svg) **Numéro de Pass IAE qui remplace l'agrément Pôle emploi**. À la même valeur. Est valide, dès sa réception par mail, pour l'**Extranet IAE 2.0 de l'ASP**.
 
