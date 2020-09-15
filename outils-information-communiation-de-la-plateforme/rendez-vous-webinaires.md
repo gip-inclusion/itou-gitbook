@@ -19,7 +19,7 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 **Webinaires de lancement officiel Septembre 2020 :**
 
-* [15 Septembre 14h : pré-lancement officiel en **Centre-Val-de-Loire**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-centre-val-de-loire) ****
+* [22 septembre 10h : Session rattrapage Webinaire Lancement - Centre Val de Loire](https://app.livestorm.co/itou/or-session-de-rattrapage-pre-lancement-officiel-de-la-plateforme-de-linclusion-en-centre-val-de-loire)
 * [22 Septembre 14h : pré-lancement officiel en **Nouvelle Aquitaine**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-nouvelle-aquitaine) ****
 
 **Webinaires de démonstration :**
