@@ -80,7 +80,7 @@ A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** pu
 
 ![](../.gitbook/assets/autre.png)
 
-A la question **"**_Pour qui travaillez-vous ?"_, sélectionnez **"Pour une organisation habilitée par le Préfet,** puis cliquez sur **"Continuer"**
+À la question **"**_Pour qui travaillez-vous ?"_, sélectionnez **"Pour une organisation habilitée par le Préfet,** puis cliquez sur **"Continuer"**
 
 ![](../.gitbook/assets/questionhabilitation.png)
 
