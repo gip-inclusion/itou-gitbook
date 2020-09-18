@@ -2,7 +2,7 @@
 
 Depuis votre tableau de bord, cliquez sur **"Collaborateurs"**
 
-![](../.gitbook/assets/invit1.png)
+![](../.gitbook/assets/invitation.png)
 
 Puis cliquez sur **"Inviter des collaborateurs"**
 
