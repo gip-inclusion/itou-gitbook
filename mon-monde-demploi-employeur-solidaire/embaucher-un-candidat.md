@@ -6,7 +6,7 @@
 4. **Votre candidat peut commencer dès le lendemain** sans attendre le Pass IAE ! 👍 
 
 {% hint style="info" %}
-Pour les [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md), le [**Pass IAE** ](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire)vous sera adressé par mail sous 2 jours en moyenne. Vous pouvez aussi téléchargez votre **Pass IAE** dans votre **Tableau de bord**. Il apparaît en lien avec la **candidature acceptée** et vous pouvez aussi le retrouver dans **Candidatures reçues.** 
+Pour les [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md), le [**Pass IAE** ](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire)vous sera adressé par mail sous 2 jours en moyenne. Vous pouvez aussi téléchargez votre **Pass IAE** depuis votre **Tableau de bord**. Il apparaît en lien avec la **candidature acceptée** et vous pouvez aussi le retrouver dans **Candidatures reçues.** 
 {% endhint %}
 
 
