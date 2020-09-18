@@ -38,7 +38,7 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](qui-
 
 ### Critères administratifs de niveau 2
 
-* **Niveau d'étude III ou infra** : sur justificatif diplôme ou attestation sur l'honneur
+* **Niveau d'étude 3 \(CAP, BEP\) ou infra** : sur justificatif diplôme ou attestation sur l'honneur
 * **Senior \(+ 50 ans\) :** sur pièce d'identité
 * **Jeunes \(- 26 ans\) :** sur pièce d'identité
 * **Sortant de l'ASE** : sur attestation ASE
