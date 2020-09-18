@@ -10,7 +10,7 @@ Après avoir réalisé le [**diagnostic socio-professionnel** ](https://doc.incl
 2. Renseignez le **mail du candidat** pour lui **créer son compte** s'il n'en possède pas
 3. **Saisissez ses informations**, puis cliquez sur **Continuer**
 4. Sélectionnez le **poste concerné** et rédigez le **message du candidat**
-5. Cliquez sur **Enregistrer la candidature.** Recevez le [**Pass IAE**](https://doc.inclusion.beta.gouv.fr/qui-peut-beneficier-des-contrats-dinsertion-par-lactivite-economique) **sous + ou - 6 jours**
+5. Cliquez sur **Enregistrer la candidature.** Recevez le [**Pass IAE**](https://doc.inclusion.beta.gouv.fr/qui-peut-beneficier-des-contrats-dinsertion-par-lactivite-economique) **sous environs 2 jours**
 
 ![Je suis employeur et fais une candidature spontan&#xE9;e](https://s5.gifyu.com/images/demo-employeur-spontv2.gif)
 
