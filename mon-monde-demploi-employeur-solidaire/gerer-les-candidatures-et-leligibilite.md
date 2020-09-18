@@ -15,7 +15,7 @@
 {% endhint %}
 
 {% hint style="warning" %}
-**Si une candidature vous est transmise par un prescripteur habilité, l'éligibilité du candidat est acquise.**
+**Si une candidature vous est transmise par un prescripteur, l'éligibilité du candidat est acquise.**
 {% endhint %}
 
 ![Je suis candidats et valide les crit&#xE8;res d&apos;&#xE9;ligibilit&#xE9; d&apos;un candidat ](https://s5.gifyu.com/images/demo-employeur-repondre1.gif)
