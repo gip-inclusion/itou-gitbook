@@ -24,7 +24,7 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 **Webinaires de démonstration :**
 
-* [29 Septembre 14h : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-prescripteurs-habilites)
+* [05 octobre 10h : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-prescripteurs-habilites)
 * [08 octobre 10h : Démonstration pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-siae-2020)
 {% endhint %}
 
