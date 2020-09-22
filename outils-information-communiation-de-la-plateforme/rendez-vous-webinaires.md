@@ -16,21 +16,16 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 {% hint style="success" %}
  **Pour vous inscrire aux prochains rendez-vous, cliquez sur le thème qui vous intéresse !** 👇
+{% endhint %}
 
-**Webinaires de lancement officiel Septembre 2020 :**
-
-* [22 septembre 10h : Session rattrapage Webinaire Lancement - Centre Val de Loire](https://app.livestorm.co/itou/or-session-de-rattrapage-pre-lancement-officiel-de-la-plateforme-de-linclusion-en-centre-val-de-loire)
-* [22 Septembre 14h : pré-lancement officiel en **Nouvelle Aquitaine**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-nouvelle-aquitaine) ****
-
+{% hint style="info" %}
 **Webinaires de démonstration :**
 
 * [05 octobre 10h : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-prescripteurs-habilites)
 * [08 octobre 10h : Démonstration pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-siae-2020)
 {% endhint %}
 
-{% hint style="success" %}
- **Pour vous inscrire aux prochains rendez-vous, cliquez sur le thème qui vous intéresse !** 👇
-
+{% hint style="info" %}
 **Webinaires de lancement officiel Novembre 2020 :**
 
 * [27 Octobre 14h : pré-lancement officiel en **Bretagne**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-bretagne) ****
@@ -44,6 +39,20 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 {% endhint %}
 
 ## **Retrouvez les webinaires précédents :**
+
+###  ****👉22**.09.20 Webinaire de Lancement officiel en Centre-Val de Loire**
+
+📕[Voir le support de présentation](https://drive.google.com/file/d/13HLouIwbnQnCi83oJ-r5WKzZEfz2brOd/view?usp=sharing)
+
+{% embed url="https://www.youtube.com/watch?v=gfHdfbnyuiM&feature=youtu.be" %}
+
+### 👉22**.09.20 Webinaire de Lancement officiel en Nouvelle Aquitaine**
+
+📕[Voir le support de présentation](https://drive.google.com/file/d/13HLouIwbnQnCi83oJ-r5WKzZEfz2brOd/view?usp=sharing)
+
+{% embed url="https://youtu.be/PFCzyQgcCm0" %}
+
+
 
 ### 👉 **08.09.20 Webinaire de pré-lancement officiel en Occitanie**
 
