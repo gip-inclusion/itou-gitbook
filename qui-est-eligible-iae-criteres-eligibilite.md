@@ -31,7 +31,7 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](qui-
 
 ### Critères administratifs de niveau 1
 
-* **Bénéficiaire RSA :** sur attestation RSA
+* **Bénéficiaire RSA \(socle\) :** sur attestation RSA
 * **Allocataire ASS :** sur attestation ASS
 * **Allocataire AAH :** sur attestation AAH
 * **DETLD \(+ 24 mois de chômage\)** : sur attestation Pôle emploi
