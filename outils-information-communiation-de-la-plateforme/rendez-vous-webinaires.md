@@ -23,8 +23,14 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 {% hint style="info" %}
 **💻 Open Webinaires de démonstration :**
 
+**En octobre :** 
+
 * [05 octobre 10h : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-prescripteurs-habilites)
 * [08 octobre 10h : Démonstration pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-siae-2020)
+
+**En novembre :**
+
+* \*\*\*\*[05 novembre 14h30 : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs)
 {% endhint %}
 
 ## La Plateforme bientôt dans votre région ! Inscrivez-vous à nos webinaires de pré-lancement :  
