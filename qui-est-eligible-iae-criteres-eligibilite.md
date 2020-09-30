@@ -15,7 +15,7 @@
 * Les [**prescripteurs habilités**](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)\*\*\*\*
 * Les [**SIAE**](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)\*\*\*\*
 
-**Une fois l'embauche confirmée sur la Plateforme par une SIAE, le** [**Pass IAE** ](pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md)**est délivré par mail à l'entreprise sous ≈ 6 jours.**
+**Une fois l'embauche confirmée sur la Plateforme par une SIAE, le** [**Pass IAE** ](pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md)**est délivré par mail à l'entreprise sous ≈ 2 jours.**
 
 ![](.gitbook/assets/copie-de-parcours-candidat-a-liae-_-qui-fait-quoi-_-1-.png)
 
