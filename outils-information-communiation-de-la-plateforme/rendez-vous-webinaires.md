@@ -44,6 +44,18 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 ## **Retrouvez les webinaires précédents :**
 
+### 👉29**.09.20** Présentation de l'IAE & de la Plateforme de l'inclusion - DIRECCTE & Pôle emploi - AURA
+
+{% embed url="https://youtu.be/cxbGcP2sUTA" %}
+
+### 👉23**.09.20** Pôle emploi & la Plateforme de l'inclusion- régions : Bretagne - Normandie - PDL - Outre Mer
+
+📕[Voir le support de présentation](https://drive.google.com/file/d/13HLouIwbnQnCi83oJ-r5WKzZEfz2brOd/view?usp=sharing)
+
+{% embed url="https://youtu.be/vpx\_ei-rfBU" %}
+
+\*\*\*\*
+
 ### 👉22**.09.20 Webinaire de Lancement officiel en Nouvelle Aquitaine**
 
 📕[Voir le support de présentation](https://drive.google.com/file/d/13HLouIwbnQnCi83oJ-r5WKzZEfz2brOd/view?usp=sharing)
