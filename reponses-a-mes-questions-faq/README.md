@@ -1,6 +1,6 @@
 # 🧞‍♂️Des réponses à mes questions dans les FAQ !
 
-Vous trouverez **la plupart des réponses à vos questions dans nos FAQ dédiées**. 
+La plupart des utilisateurs trouvent une réponse à leur question via **nos FAQ dédiées :** 
 
 {% page-ref page="faq-candidat.md" %}
 
