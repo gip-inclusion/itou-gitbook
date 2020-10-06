@@ -3,9 +3,9 @@
 ### 1. **Créez votre compte structure**
 
 1. **Rendez-vous** sur le site la ****[**Plateforme de l'inclusion**](https://inclusion.beta.gouv.fr/signup/select_prescriber_type)\*\*\*\*
-2. Cliquez sur **Inscrivez-vous**
+2. Cliquez sur **Inscrivez-vous en haut à droite**
 3. Cliquez sur **Créer un compte** dans le 1er pavé  "Vous êtes employeur solidaire..."
-4. Renseignez votre **type de structure** et **numéro de SIRET**
+4. Renseignez **votre numéro de SIREN**
 5. Cliquez sur **inscription** 
 6. Cliquez sur le **lien de confirmation reçu par mail**
 
