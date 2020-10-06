@@ -20,12 +20,12 @@ Je peux créer mes antennes A et B de la manière suivante :
 Si votre SIREN ou que le type de structure est différent ou  : vous devrez créer des comptes séparés via la page [**Employeur solidaire - Inscription**](https://inclusion.beta.gouv.fr/signup/select_siae). 
 {% endhint %}
 
-1. Sur **Tableau de bord**, cliquez sur **Ajouter une nouvelle structure**
+1. Sur **Tableau de bord**, cliquez sur **Créer/Rejoindre une autre structure**
 2. **Renseignez les informations** de la structure
 3. Cliquez sur **Enregistrer,** voilà c'est fait ! **Procédez ainsi pour toutes vos structures**😊 
 
 {% hint style="success" %}
-**Vous pourrez basculer d'une structure à l'autre en cliquant en haut à droite de l'écran.**
+**Vous pourrez basculer d'une structure à l'autre en cliquant sur "Changer de structure" en haut à droite de l'écran.**
 {% endhint %}
 
 \*\*\*\*
