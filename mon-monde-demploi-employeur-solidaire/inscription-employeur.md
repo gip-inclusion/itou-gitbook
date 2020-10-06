@@ -3,11 +3,12 @@
 ### 1. **Créez votre compte structure**
 
 1. **Rendez-vous** sur le site la ****[**Plateforme de l'inclusion**](https://inclusion.beta.gouv.fr/signup/select_prescriber_type)\*\*\*\*
-2. Cliquez sur **Inscrivez-vous en haut à droite**
+2. Cliquez sur **Inscrivez-vous** en haut à droite
 3. Cliquez sur **Créer un compte** dans le 1er pavé  "Vous êtes employeur solidaire..."
 4. Renseignez **votre numéro de SIREN**
-5. Cliquez sur **inscription** 
-6. Cliquez sur le **lien de confirmation reçu par mail**
+5. Choisissez la structure que vous désirez créer
+6. Cliquez sur **inscription** 
+7. Cliquez sur le **lien de confirmation reçu par mail**
 
 {% hint style="danger" %}
 **Le mail est envoyé à la personne référencée en tant que "Correspondant technique" dans l'extranet IAE 2.0 de l'ASP.** 
