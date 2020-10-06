@@ -1,6 +1,6 @@
 # Configurer mes fiches de postes
 
-1. Dans **Tableau de bord**, cliquez sur **Configurer les fiches de postes**
+1. Dans **Tableau de bord**, cliquez sur **Configurer les descriptions de postes**
 2. Supprimez un poste ou cliquez sur le bouton **Ajouter un métier** pour en créer un
 3. Rédigez le **descriptif du poste** pour recevoir des candidatures pertinentes
 4. Cliquez sur **Enregistrer les modifications**. Votre offre est sur la Plateforme !😊 
