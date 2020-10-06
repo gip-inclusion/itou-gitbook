@@ -1,6 +1,6 @@
 # Gérer les candidatures et l'éligibilité
 
-1. Dans **Tableau de bord,** cliquez sur **Répondre aux candidatures** 
+1. Dans **Tableau de bord,** cliquez sur **Candidatures à traiter**
 2. S'il s'agit d'une nouvelle candidature, cliquez sur **Gérer la candidature**
 3. Pour en prendre connaissance, sélectionnez **J'étudie cette candidature**
    * Traitez ensuite la candidature : à l’étude, acceptée, pour plus tard, refusée
