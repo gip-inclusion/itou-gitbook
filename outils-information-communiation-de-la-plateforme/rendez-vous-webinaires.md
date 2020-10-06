@@ -25,14 +25,15 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 **En octobre :** 
 
-* [05 octobre 10h : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-prescripteurs-habilites)
-* [08 octobre 10h : Démonstration pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-siae-2020)
+* [08 octobre 10h : Démonstration pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-siae-2020)\*\*\*\*
 
 **En novembre :**
 
-* \*\*\*\*[05 novembre 14h30 : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs)
+* [05 novembre 14h30 : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs)
 * date à venir pour la démonstration SIAE
 {% endhint %}
+
+
 
 ## La Plateforme bientôt dans votre région ! Inscrivez-vous à nos webinaires de pré-lancement :  
 
@@ -50,6 +51,12 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 {% endhint %}
 
 ## **Retrouvez les webinaires précédents :**
+
+### 👉02.10**.20** Open webinaire de démonstration pour les prescripteurs
+
+{% embed url="https://youtu.be/6-NdfEAWgPk" %}
+
+📕 Voir le support de présentation
 
 ### 👉29**.09.20** Présentation de l'IAE & de la Plateforme de l'inclusion - DIRECCTE & Pôle emploi - AURA
 
