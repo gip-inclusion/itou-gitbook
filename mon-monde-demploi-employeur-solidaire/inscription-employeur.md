@@ -10,9 +10,10 @@
 6. Cliquez sur le **lien de confirmation reçu par mail**
 
 {% hint style="danger" %}
-**Le mail est envoyé à la personne référencée dans l'extranet IAE 2.0 de l'ASP.** 
+**Le mail est envoyé à la personne référencée en tant que "Correspondant technique" dans l'extranet IAE 2.0 de l'ASP.** 
 
-Cette adresse mail est utilisée comme adresse d’authentification et permet ainsi de sécuriser les inscriptions.
+Cette adresse mail est utilisée comme adresse d’authentification et permet ainsi de sécuriser les inscriptions.  
+Retrouvez cette adresse mail dans votre extranet ASP en suivant le chemin suivant : Insertion par l'activité économique &gt; Gérer ma SIAE &gt; Gestion des comptes utilisateurs
 {% endhint %}
 
 {% hint style="warning" %}
