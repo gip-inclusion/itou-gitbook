@@ -6,7 +6,7 @@ Si vous êtes une [**SIAE**](https://doc.inclusion.beta.gouv.fr/presentation/emp
 Après avoir réalisé le [**diagnostic socio-professionnel** ](https://doc.inclusion.beta.gouv.fr/qui-est-eligible-iae-criteres-eligibilite#diagnostic_de_reference)du candidat, vous pouvez **valider son éligibilité en ligne** !
 {% endhint %}
 
-1. Dans **Tableau de bord**, cliquez sur **Obtenir un numéro d'agrément** 
+1. Dans **Tableau de bord**, cliquez sur **Obtenir un Pass IAE \(Candidature spontanée\)**
 2. Renseignez le **mail du candidat** pour lui **créer son compte** s'il n'en possède pas
 3. **Saisissez ses informations**, puis cliquez sur **Continuer**
 4. Sélectionnez le **poste concerné** et rédigez le **message du candidat**
