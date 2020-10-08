@@ -91,7 +91,7 @@ Dans ce dernier cas, l’employeur peut se rapprocher d’un prescripteur habili
 **Pour trouver les** [**prescripteurs habilités**](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite) **proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
 {% endhint %}
 
-## **Extension, Suspension, Prolongation : Quels changements avec le PASS IAE ?**
+## **Extension, Suspension, Prolongation, Dérogation : Quels changements avec le PASS IAE ?**
 
 ### Extension : 
 
