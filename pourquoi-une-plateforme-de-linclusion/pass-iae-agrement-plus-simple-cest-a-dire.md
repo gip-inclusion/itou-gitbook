@@ -140,5 +140,15 @@ Pour le moment, seuls les agréments Pôle emploi sont concernés par les cas de
 **Procédure de demande de prolongation pour les PASS IAE \(applicable dès Novembre 2021\) :**  L’employeur pourra solliciter le prescripteur habilité de son choix pour demander une prolongation de PASS IAE.  
 {% endhint %}
 
+### Dérogation
 
+{% hint style="info" %}
+Seuls les [**prescripteurs habilités** ](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite)peuvent déroger au délai de carence exigé entre 2 pass iae/agréments  \(= 2 ans\).
+
+Pour ce faire, le prescripteur doit utiliser la Plateforme pour envoyer la candidature à l'employeur.
+{% endhint %}
+
+{% hint style="info" %}
+**Pour trouver les** [**prescripteurs habilités**](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite) **proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
+{% endhint %}
 
