@@ -10,7 +10,7 @@ Sur la Plateforme, lorsque le **délai d'éligibilité de 6 mois d'un candidat e
 
 ![](../../.gitbook/assets/capture-de-cran-2020-06-23-a-11.59.48.png)
 
-### \*\*\*\*👉 **Liste des prescripteurs habilités en national**
+### \*\*\*\*👉 **Liste des prescripteurs habilités en national\***
 
 * Acteurs du service public de l’emploi \([**Pôle emploi**](https://www.pole-emploi.fr/accueil/)**,** [**CAP emploi**](https://travail-emploi.gouv.fr/ministere/service-public-de-l-emploi/article/cap-emploi)**,** [**mission locale**](https://www.mission-locale.fr/)**\)**
 * Services sociaux du Conseil départemental
@@ -32,7 +32,7 @@ Sur la Plateforme, lorsque le **délai d'éligibilité de 6 mois d'un candidat e
 * Centres d’hébergement d’urgence \(**CHU**\)
 * Structures agréées Organisme d’accueil communautaire et d’activité solidaire \(**OACAS\)**
 
-Source **:**[ ****Arrêté du 7 avril 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041845730/)
+\*Source **:**[ ****Arrêté du 7 avril 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041845730/)
 
 {% hint style="success" %}
 **Cette liste peut être complétée localement par arrêté préfectoral, notamment :**  associations locales œuvrant dans l’accompagnement social, la lutte contre la pauvreté et l’exclusion.
