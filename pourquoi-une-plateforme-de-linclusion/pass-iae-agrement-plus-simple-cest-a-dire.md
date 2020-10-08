@@ -148,15 +148,15 @@ Seuls les [**prescripteurs habilités** ](https://app.gitbook.com/@itou/s/doc-in
 Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoyer la candidature à l'employeur.
 {% endhint %}
 
-{% hint style="info" %}
-**Pour trouver les** [**prescripteurs habilités**](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite) **proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
-{% endhint %}
-
 ### Dérogation aux critères administratifs exigés pour entrer en parcours IAE
 
 {% hint style="info" %}
 Les [**prescripteurs habilités** ](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite)sont les seuls autorisés à prescrire un parcours IAE à un candidat qui ne remplit pas les critères d'éligibilité. 
 
 Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoyer la candidature à l'employeur.
+{% endhint %}
+
+{% hint style="success" %}
+**Pour trouver les** [**prescripteurs habilités**](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite) **proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
 {% endhint %}
 
