@@ -142,7 +142,7 @@ Pour le moment, seuls les agréments Pôle emploi sont concernés par les cas de
 
 ### Dérogation
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Seuls les [**prescripteurs habilités** ](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite)peuvent déroger au délai de carence exigé entre 2 pass iae/agréments  \(= 2 ans\).
 
 Pour ce faire, le prescripteur doit utiliser la Plateforme pour envoyer la candidature à l'employeur.
