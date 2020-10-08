@@ -133,7 +133,7 @@ _\*Circulaire DGEFP/DGAS n°2003-24 du 3 octobre 2003 relative à l’aménageme
 ### Prolongation :
 
 {% hint style="info" %}
-Pour le moment, seuls les agréments Pôle emploi sont concernés par les cas de prolongation. Pour toute demande de prolongation, l’employeur doit contacter  Pôle emploi.
+Pour le moment, seuls les agréments Pôle emploi sont concernés par les cas de prolongation. Pour toute demande de prolongation d'agrément, l’employeur doit contacter  Pôle emploi.
 {% endhint %}
 
 {% hint style="success" %}
