@@ -140,7 +140,7 @@ Pour le moment, seuls les agréments Pôle emploi sont concernés par les cas de
 **Procédure de demande de prolongation pour les PASS IAE \(applicable dès Novembre 2021\) :**  L’employeur pourra solliciter le prescripteur habilité de son choix pour demander une prolongation de PASS IAE.  
 {% endhint %}
 
-### Dérogation
+### Dérogation au délai de carence
 
 {% hint style="warning" %}
 Seuls les [**prescripteurs habilités** ](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite)peuvent déroger au délai de carence exigé entre 2 pass iae/agréments  \(= 2 ans\).
@@ -150,5 +150,13 @@ Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoye
 
 {% hint style="info" %}
 **Pour trouver les** [**prescripteurs habilités**](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite) **proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
+{% endhint %}
+
+### Dérogation aux critères administratifs exigés pour entrer en parcours IAE
+
+{% hint style="info" %}
+Les [**prescripteurs habilités** ](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite)sont les seuls autorisés à prescrire un parcours IAE à un candidat qui ne remplit pas les critères d'éligibilité. 
+
+Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoyer la candidature à l'employeur.
 {% endhint %}
 
