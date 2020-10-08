@@ -32,6 +32,8 @@ Sur la Plateforme, lorsque le **délai d'éligibilité de 6 mois d'un candidat e
 * Centres d’hébergement d’urgence \(**CHU**\)
 * Structures agréées Organisme d’accueil communautaire et d’activité solidaire \(**OACAS\)**
 
+Source **:**[ ****Arrêté du 7 avril 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041845730/)
+
 {% hint style="success" %}
 **Cette liste peut être complétée localement par arrêté préfectoral, notamment :**  associations locales œuvrant dans l’accompagnement social, la lutte contre la pauvreté et l’exclusion.
 {% endhint %}
