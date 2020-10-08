@@ -91,7 +91,54 @@ Dans ce dernier cas, l’employeur peut se rapprocher d’un prescripteur habili
 **Pour trouver les** [**prescripteurs habilités**](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite) **proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
 {% endhint %}
 
+## **Extension, Suspension, Prolongation : Quels changements avec le PASS IAE ?** 
 
+### Extension : 
+
+{% hint style="danger" %}
+**L’extension d’agrément n’existe plus.**
+
+Le **PASS IAE délivré pour une durée de 2 ans est valable dans toutes les SIAE** quelque soit le type de structure.  
+{% endhint %}
+
+### Suspension : 
+
+{% hint style="info" %}
+Pour toute demande de suspension l’employeur doit nous [contacter par mail ](mailto:assistance@inclusion.beta.gouv.fr)et nous indiquer:
+
+* la référence du pass iae
+* le nom prénom du candidat
+* la date d’arrêt
+* le motif de suspension
+
+**Les motifs de suspension légitimes\* sont :**
+
+* **Arrêt pour longue maladie**
+* **Congé de maternité**
+* **Incarcération**
+* **Période d’essai auprès d’un employeur ne relevant pas de l’insertion par l’activité économique**
+* **Période de cure pour désintoxication**
+* **Raison de force majeure conduisant le salarié à quitter son emploi**
+* **et toute autre situation faisant l’objet d’un accord entre les acteurs membres du CTA**
+
+Un abandon de poste ou une fin de contrat de travail ne peut donner lieu à une suspension. Il est de la responsabilité partagée des structures employeuses et les prescripteurs, en fonction de leurs compétences propres, d’assurer la continuité du parcours en proposant des solutions permettant le maintien dans l’emploi du bénéficiaire, des actions de formation professionnelle ou toute action favorisant l’insertion professionnelle durable.  
+
+
+Pour les ETTI, les périodes d’intermission ne sont pas décomptées comme périodes non travaillées justifiant la neutralisation du PASS IAE/ Agrément sauf lorsqu’elles entrent dans les catégories énumérées ci-dessus.  
+
+
+_\*Circulaire DGEFP/DGAS n°2003-24 du 3 octobre 2003 relative à l’aménagement de la procédure d’agrément par l’ANPE et au suivi des personnes embauchées dans une structure d’insertion par l’activité économique._ 
+{% endhint %}
+
+### Prolongation
+
+{% hint style="info" %}
+Pour le moment, seuls les agréments Pôle emploi sont concernés par les cas de prolongation. Pour toute demande de prolongation, l’employeur doit contacter  Pôle emploi.
+{% endhint %}
+
+{% hint style="success" %}
+**Procédure de demande de prolongation pour les PASS IAE \(applicable dès Novembre 2021\) :**  L’employeur pourra solliciter le prescripteur habilité de son choix pour demander une prolongation de PASS IAE.  
+{% endhint %}
 
 
 
