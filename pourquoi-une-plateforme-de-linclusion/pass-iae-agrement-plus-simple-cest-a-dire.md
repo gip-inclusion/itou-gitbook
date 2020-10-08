@@ -103,7 +103,7 @@ Le **PASS IAE délivré pour une durée de 2 ans est valable dans toutes les SIA
 
 ### Suspension : 
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Pour toute demande de suspension l’employeur doit nous [contacter par mail ](mailto:assistance@inclusion.beta.gouv.fr)et nous indiquer:
 
 * la référence du pass iae
@@ -150,7 +150,7 @@ Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoye
 
 ### Dérogation aux critères administratifs exigés pour entrer en parcours IAE
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Les [**prescripteurs habilités** ](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite)sont les seuls autorisés à prescrire un parcours IAE à un candidat qui ne remplit pas les critères d'éligibilité. 
 
 Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoyer la candidature à l'employeur.
