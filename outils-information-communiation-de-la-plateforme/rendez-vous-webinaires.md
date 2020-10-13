@@ -31,7 +31,7 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 **Pour les employeurs solidaires :** 
 
-* date à venir 
+* dates à venir 
 {% endhint %}
 
 
