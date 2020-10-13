@@ -5,7 +5,7 @@
 * \*\*\*\*[**M'inscrire sur la Plateforme**](inscription-employeur.md)\*\*\*\*
 * \*\*\*\*[**Décrire ma structure**](description-structure.md)\*\*\*\*
 * \*\*\*\*[**Configurer mes fiches de postes**](gerer-les-fiches-de-poste.md)\*\*\*\*
-* \*\*\*\*[**Inviter mes collaborateurs**](invitation-collaborateurs.md)\*\*\*\*
+* \*\*\*\*[**Inviter mes collaborateurs à se rattacher au compte de ma structure**](invitation-collaborateurs.md)
 * \*\*\*\*[**Valider une candidature spontanée**](valider-une-candidature-spontanee.md)\*\*\*\*
 * \*\*\*\*[**Gérer les candidatures et l'éligibilité**](gerer-les-candidatures-et-leligibilite.md)\*\*\*\*
 * \*\*\*\*[**Embaucher un candidat**](embaucher-un-candidat.md)\*\*\*\*
