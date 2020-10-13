@@ -31,6 +31,7 @@
   * [M'inscrire sur la Plateforme](mon-monde-demploi-employeur-solidaire/inscription-employeur.md)
   * [Décrire ma structure](mon-monde-demploi-employeur-solidaire/description-structure.md)
   * [Configurer mes fiches de postes](mon-monde-demploi-employeur-solidaire/gerer-les-fiches-de-poste.md)
+  * [Inviter mes collaborateurs à se rattacher au compte de ma structure](mon-monde-demploi-employeur-solidaire/invitation-collaborateurs.md)
   * [Valider une candidature spontanée](mon-monde-demploi-employeur-solidaire/valider-une-candidature-spontanee.md)
   * [Gérer les candidatures et l'éligibilité](mon-monde-demploi-employeur-solidaire/gerer-les-candidatures-et-leligibilite.md)
   * [Embaucher un candidat](mon-monde-demploi-employeur-solidaire/embaucher-un-candidat.md)
