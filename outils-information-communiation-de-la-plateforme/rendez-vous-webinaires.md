@@ -42,7 +42,7 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 **🚀 Webinaires de lancement officiel Novembre 2020 :**
 
 * [27 Octobre 14h : pré-lancement officiel en **Bretagne**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-bretagne) ****
-* [03 Novembre 15h : pré-lancement officiel **Outre mer**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-france-outre-mer) 
+* [03 Novembre 15h \[CET\] : pré-lancement officiel **Outre mer**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-france-outre-mer) 
 * [10 Novembre 14h : pré-lancement officiel **Pays de Loire**](%20https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-pays-de-loire) ****
 * [17 Novembre 14h : pré-lancement officiel **Normandie**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-normandie)\*\*\*\*
 {% endhint %}
