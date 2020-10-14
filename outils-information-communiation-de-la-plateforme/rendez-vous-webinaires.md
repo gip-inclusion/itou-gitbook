@@ -25,13 +25,14 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 **Pour les prescripteurs :** 
 
-\*\*\*\*[05 Novembre à 14h30 \[UTC +1\] : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs)
+* \*\*\*\*[**05 Novembre à 14h30 \[UTC +1\]** : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs)
+* \*\*\*\*[**26 Novembre  à 10h00 \[UTC +1\]** : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/webinaire-demo-pour-les-prescripteurs)
 
-[26 Novembre  à 10h00 \[UTC +1\]: Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/webinaire-demo-pour-les-prescripteurs)
+**Pour les employeurs solidaires \(SIAE, GEIQ, EA ...\) :** 
 
-**Pour les employeurs solidaires :** 
-
-* dates à venir 
+* [**Jeudi 19 Novembre à 10h00** : Webinaire de formation pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-a-destination-des-siae)
+* [**Mardi 1er Décembre à 10h00** : Webinaire de formation pour les SIAE ](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-dediee-aux-siae)
+* [**Mardi 15 Décembre à 10h00** : Webinaire de formation pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-pour-les-siae)
 {% endhint %}
 
 
