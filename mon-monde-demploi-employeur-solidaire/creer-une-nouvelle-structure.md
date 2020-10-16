@@ -7,7 +7,7 @@ Seul **l'administrateur** \(celui qui a créé le compte\) peut **ajouter une no
 {% hint style="info" %}
 Vous pouvez **rattacher plusieurs établissements à un même compte** à condition qu'ils **soient du même type** et qu'ils aient le **même numéro SIREN**, suivez le mode d'emploi plus bas.
 
-Nous utilisons le SIRET comme identifiant unique sur la plateforme. Si vos établissements ont le même SIRET, il faudra modifier le ou les dernier\(s\) chiffre\(s\) pour vous permettre d'avoir un nouvel identifiant unique \(le SIREN doit resté le même\).
+Nous utilisons le SIRET comme identifiant unique sur la plateforme. Si vos établissements ont le même SIRET, il faudra modifier le ou les dernier\(s\) chiffre\(s\) pour vous permettre d'avoir un nouvel identifiant unique \(le SIREN doit rester le même\).
 
 Exemple : Je m'inscris avec le SIRET 999999999000**25**  
 Je peux créer mes antennes A et B de la manière suivante : 
