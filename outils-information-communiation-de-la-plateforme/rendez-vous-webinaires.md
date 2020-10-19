@@ -25,7 +25,7 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 **Pour les prescripteurs :** 
 
-* \*\*\*\*[**05 Novembre à 14h30 \[UTC +1\]** : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs)
+* \*\*\*\*[**05 Novembre à 15h30 \[UTC +1\]** : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs)
 * \*\*\*\*[**26 Novembre  à 10h00 \[UTC +1\]** : Démonstration pour les prescripteurs habilités](https://app.livestorm.co/itou/webinaire-demo-pour-les-prescripteurs)
 
 **Pour les employeurs solidaires \(SIAE, GEIQ, EA ...\) :** 
