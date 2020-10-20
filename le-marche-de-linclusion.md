@@ -6,7 +6,7 @@ description: Pour développer les activités des Structures Inclusives
 
 Afin d'assurer la pérennité du secteur de l'inclusion soutenir le développement des Structures Inclusives, nous mettons en place une solution en ligne sous forme d'une place de marché.
 
-### C'est quoi une **Structures Inclusives ?**
+### C'est quoi une **Structure Inclusive ?**
 
 C'est un [employeur solidaire](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) aussi appelé une "entreprise sociale inclusive"
 
