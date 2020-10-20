@@ -49,6 +49,7 @@
     * [2 Logos de la Plateforme de l'inclusion](outils-information-communiation-de-la-plateforme/kit-de-communication/logos-plateforme-inclusion.md)
 * [🚀La BANDE À ITOU !](la-bande-a-itou.md)
 * [💬Mon Forum de l'inclusion](forum-de-linclusion.md)
+* [🤝 Le Marché de l'inclusion](le-marche-de-linclusion.md)
 * [🧞‍♂️Des réponses à mes questions dans les FAQ !](reponses-a-mes-questions-faq/README.md)
   * [FAQ candidat](reponses-a-mes-questions-faq/faq-candidat.md)
   * [FAQ prescripteur](reponses-a-mes-questions-faq/faq-prescripteur.md)
