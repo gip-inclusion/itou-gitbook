@@ -54,7 +54,19 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 ## **Retrouvez les webinaires précédents :**
 
-### 👉02.10**.20** Open webinaire de démonstration pour les prescripteurs
+### 👉**12.10.20** Webinaire prescripteurs organisé par la DIRECCTE Nouvelle Aquitaine INAE et Pole emploi
+
+{% embed url="https://youtu.be/zIDfSJWkmcE" %}
+
+
+
+### 👉 **08.10.20** Webinaire organisé par les ambassadeurs de Bourgogne-Franche-Comté
+
+{% embed url="https://youtu.be/SN5rULHg\_1U" %}
+
+
+
+### 👉05.10**.20** Open webinaire de démonstration pour les prescripteurs
 
 {% embed url="https://youtu.be/6-NdfEAWgPk" %}
 
