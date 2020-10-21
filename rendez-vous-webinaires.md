@@ -12,7 +12,7 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 **Voici le calendrier d'ouverture de la Plateforme de l'inclusion, ainsi que les dates des webinaires de pré-lancement organisés pour chaque région**  👇
 
-![](.gitbook/assets/deploiement-2-.png)
+![](.gitbook/assets/copie-de-deploiement-1-.png)
 
 {% hint style="success" %}
  **Pour vous inscrire aux prochains rendez-vous, cliquez sur le thème qui vous intéresse !** 👇
