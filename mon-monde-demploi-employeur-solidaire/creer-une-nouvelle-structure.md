@@ -7,22 +7,25 @@ Seul **l'administrateur** \(celui qui a créé le compte\) peut **ajouter une no
 {% hint style="info" %}
 Vous pouvez **rattacher plusieurs établissements à un même compte** à condition qu'ils **soient du même type** et qu'ils aient le **même numéro SIREN**, suivez le mode d'emploi plus bas.
 
-Nous utilisons le SIRET comme identifiant unique sur la plateforme. Si vos établissements ont le même SIRET, il faudra modifier le ou les dernier\(s\) chiffre\(s\) pour vous permettre d'avoir un nouvel identifiant unique \(le SIREN doit rester le même\).
+Nous utilisons le SIRET comme identifiant unique sur la plateforme. Si vos établissements ont le même SIRET, il faudra modifier les cinq derniers chiffres par 99999 pour vous permettre d'avoir un nouvel identifiant unique \(le SIREN doit rester le même\).
 
-Exemple : Je m'inscris avec le SIRET 999999999000**25**  
-Je peux créer mes antennes A et B de la manière suivante : 
+Exemple : Je m'inscris avec le SIRET 252525252 12345  
+Je peux créer mes antennes A et B de la manière suivante :
 
-* Antenne A : 999999999000**26**
-* Antenne B : 999999999000**27**
+--&gt; SIREN \(9 premiers chiffes\) + 99999 
+
+* Antenne A : 252525252 99999 
+* Antenne B : 252525252 99991
+* Antenne C : 252525252 99992 
 {% endhint %}
 
 {% hint style="info" %}
-Si votre SIREN ou que le type de structure est différent ou  : vous devrez créer des comptes séparés via la page [**Employeur solidaire - Inscription**](https://inclusion.beta.gouv.fr/signup/select_siae). 
-{% endhint %}
+Si votre SIREN ou que le type de structure est différent ou, vous devrez nous écrire à assistance@inclusion.beta.gouv.fr, nous demander de vous rattacher à cette SIAE en nous précisant :
 
-1. Sur **Tableau de bord**, cliquez sur **Créer/Rejoindre une autre structure**
-2. **Renseignez les informations** de la structure
-3. Cliquez sur **Enregistrer,** voilà c'est fait ! **Procédez ainsi pour toutes vos structures**😊 
+* l'e-mail de votre compte personnel sur la plateforme
+* le type et le SIRET de la structure que vous voulez créer
+* le type et le SIRET de la structure dont vous êtes déjà membre
+{% endhint %}
 
 {% hint style="success" %}
 **Vous pourrez basculer d'une structure à l'autre en cliquant sur "Changer de structure" en haut à droite de l'écran.**
