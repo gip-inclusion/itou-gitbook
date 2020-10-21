@@ -2,17 +2,17 @@
 description: Les webinaires thématiques ou régionaux de la Plateforme
 ---
 
-# Rendez-vous webinaires
+# 💻 Rendez-vous webinaires
 
 Pour **accompagner le déploiement et faciliter la prise en main de la Plateforme** par tous les acteurs de l'inclusion, nous organisons des **Webinaires de présentation par thématique et/ou par région**. Retrouvez **tous les replay sur cette page**.
 
 Vous retrouverez les [réponses aux questions posées pendant les webinaires ici](https://docs.google.com/spreadsheets/d/1piM7ZiGsAYUPRJ_P2iAoIx7LpYhdqChnotUvTo5LxUg/edit#gid=151808733)
 
-![](../.gitbook/assets/arrow-right-circle-1-.svg) **Nos webinaires sont organisés à la demande des acteurs sur chaque territoire, mais ils sont ouverts à tous. N'hésitez pas à vous inscrire.**
+![](.gitbook/assets/arrow-right-circle-1-.svg) **Nos webinaires sont organisés à la demande des acteurs sur chaque territoire, mais ils sont ouverts à tous. N'hésitez pas à vous inscrire.**
 
 **Voici le calendrier d'ouverture de la Plateforme de l'inclusion, ainsi que les dates des webinaires de pré-lancement organisés pour chaque région**  👇
 
-![](../.gitbook/assets/deploiement-2-.png)
+![](.gitbook/assets/deploiement-2-.png)
 
 {% hint style="success" %}
  **Pour vous inscrire aux prochains rendez-vous, cliquez sur le thème qui vous intéresse !** 👇
@@ -134,7 +134,7 @@ Copiez le lien pour partager ce replay : [https://youtu.be/BrE46IdIYno](https://
 
 Copiez le lien pour partager ce replay : [https://youtu.be/Bwh4JzcGHsM](https://youtu.be/Bwh4JzcGHsM)
 
-{% file src="../.gitbook/assets/webinaire-cap-emploi.pdf" caption="Support de présentation 09.07.20" %}
+{% file src=".gitbook/assets/webinaire-cap-emploi.pdf" caption="Support de présentation 09.07.20" %}
 
 {% embed url="https://youtu.be/Bwh4JzcGHsM" %}
 
@@ -144,7 +144,7 @@ Copiez le lien pour partager ce replay : [https://youtu.be/Bwh4JzcGHsM](https://
 
 Copiez le lien pour partager ce replay : [https://youtu.be/\_tnJKEdjvtI](https://youtu.be/_tnJKEdjvtI)
 
-{% file src="../.gitbook/assets/2020.07.02-experimentation-la-place-de-marche-de-linclusion.pdf" caption="Support de présentation 02.07.20" %}
+{% file src=".gitbook/assets/2020.07.02-experimentation-la-place-de-marche-de-linclusion.pdf" caption="Support de présentation 02.07.20" %}
 
 {% embed url="https://youtu.be/\_tnJKEdjvtI" %}
 
