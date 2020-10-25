@@ -27,7 +27,7 @@ En phase de développement, le Marché de l'inclusion est désormais ouvert sur 
   
 🚨Afin que ce projet soit une réussite et qu'il soit déployé sur la France entière et sur toutes les filières, **nous proposons un accompagnement collectif toutes les structures qui le désirent​ ​**afin de procéder à l'inscription et la publication de leur offre !
 
-🧐 **Suivez notre actu et inscrivez-vous au prochain** [**Open Webinaire d'inscription sur le Marché de l'inclusion**](https://app.livestorm.co/itou)\*\*\*\*
+🧐 **Suivez notre actu et inscrivez-vous au prochain** [**Open Webinaire d'inscription sur le Marché de l'inclusion**](rendez-vous-webinaires/le-marche-de-linclusion.md)\*\*\*\*
 
 
 
