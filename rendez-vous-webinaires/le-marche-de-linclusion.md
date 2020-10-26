@@ -16,12 +16,34 @@ La participation à ces sessions d'information vous permettra une assistance per
  ****[**Open Webinaire du mardi 3 novembre de 11h à 12h**](https://app.livestorm.co/itou/open-webinaire-le-marche-de-linclusion-2)\*\*\*\*
 {% endhint %}
 
-
-
 ## Retrouvez les Webinaires en Replay !
 
 {% hint style="warning" %}
 **A venir** 
+{% endhint %}
+
+
+
+### 👉 Pour un accompagnement personnalisé et des ateliers en petits groupes
+
+**⚠︎ Ces ateliers sont des sessions de travail !** Il est indispensable de se connecter avec tous les éléments permettant d'aller au bout de la publication de vos offres : 
+
+ - Votre logo en bonne qualité
+
+- Votre numéro de SIREN ou SIRET
+
+- Une brève description de votre structure
+
+- Une description d'une ou plusieurs prestations proposées
+
+- Des photos qui correspondent à ces mêmes prestations
+
+{% hint style="danger" %}
+**Sans ces éléments, vous risquez de faire perdre du temps au reste du groupe.** 
+
+**🤓** Vous avez tout préparé ? Alors c'est parti !
+
+👩‍💻🧑‍💻 **Inscrivez-vous :** [**Atelier Publication d'une offre sur le Marché de l'inclusion**](https://calendly.com/inclusion-beta-gouv-fr)\*\*\*\*
 {% endhint %}
 
 
