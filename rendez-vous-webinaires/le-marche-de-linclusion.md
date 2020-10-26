@@ -9,14 +9,20 @@ La participation à ces sessions d'information vous permettra une assistance per
 ### 👉 Assistez au prochain Webinaire de présentation de l'outil.
 
 {% hint style="info" %}
-**Inscriptions :** [**Open Webinaire du mardi 27 octobre de 10h à 11h**](https://app.livestorm.co/itou/open-webinaire-dinscription-sur-le-marche-de-linclusion)\*\*\*\*
+**Inscriptions :**
+
+ ****[**Open Webinaire du mardi 27 octobre de 10h à 11h**](https://app.livestorm.co/itou/open-webinaire-dinscription-sur-le-marche-de-linclusion)\*\*\*\*
+
+ ****[**Open Webinaire du mardi 3 novembre de 11h à 12h**](https://app.livestorm.co/itou/open-webinaire-le-marche-de-linclusion-2)\*\*\*\*
 {% endhint %}
 
 
 
+## Retrouvez les Webinaires en Replay !
 
-
-
+{% hint style="warning" %}
+**A venir** 
+{% endhint %}
 
 
 
