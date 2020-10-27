@@ -42,13 +42,7 @@ La participation à ces sessions d'information vous permettra une assistance per
 
 ## Retrouvez les Webinaires en Replay !
 
-{% hint style="warning" %}
-**A venir** 
-{% endhint %}
+### 👉27**.10.20** Open Webinaire \#1 : Inscription sur le Marché de l'inclusion
 
-```text
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gtGP_aEIYRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
-
-
+{% embed url="https://youtu.be/gtGP\_aEIYRQ" %}
 
