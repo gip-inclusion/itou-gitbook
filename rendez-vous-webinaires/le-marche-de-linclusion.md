@@ -16,12 +16,6 @@ La participation à ces sessions d'information vous permettra une assistance per
  ****[**Open Webinaire du mardi 3 novembre de 11h à 12h**](https://app.livestorm.co/itou/open-webinaire-le-marche-de-linclusion-2)\*\*\*\*
 {% endhint %}
 
-## Retrouvez les Webinaires en Replay !
-
-{% hint style="warning" %}
-**A venir** 
-{% endhint %}
-
 
 
 ### 👉 Pour un accompagnement personnalisé et des ateliers en petits groupes
@@ -46,5 +40,11 @@ La participation à ces sessions d'information vous permettra une assistance per
 👩‍💻🧑‍💻 **Inscrivez-vous :** [**Atelier Publication d'une offre sur le Marché de l'inclusion**](https://calendly.com/inclusion-beta-gouv-fr)\*\*\*\*
 {% endhint %}
 
+## Retrouvez les Webinaires en Replay !
 
+{% hint style="warning" %}
+**A venir** 
+{% endhint %}
+
+[https://youtu.be/gtGP\_aEIYRQ](https://youtu.be/gtGP_aEIYRQ)
 
