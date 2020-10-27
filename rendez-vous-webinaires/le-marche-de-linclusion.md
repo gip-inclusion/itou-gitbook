@@ -46,5 +46,9 @@ La participation à ces sessions d'information vous permettra une assistance per
 **A venir** 
 {% endhint %}
 
-[https://youtu.be/gtGP\_aEIYRQ](https://youtu.be/gtGP_aEIYRQ)
+```text
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gtGP_aEIYRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
+
 
