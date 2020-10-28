@@ -44,7 +44,6 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 {% hint style="info" %}
 **🚀 Webinaires de lancement officiel Novembre 2020 :**
 
-* [27 Octobre 14h : pré-lancement officiel en **Bretagne**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-bretagne) ****
 * [03 Novembre 15h \[UTC +1\] : pré-lancement officiel **Outre mer**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-france-outre-mer) 
 * [10 Novembre 14h : pré-lancement officiel **Pays de Loire**](%20https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-pays-de-loire) ****
 * [17 Novembre 14h : pré-lancement officiel **Normandie**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-normandie)\*\*\*\*
@@ -55,6 +54,14 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 {% endhint %}
 
 ## **Retrouvez les webinaires précédents :**
+
+### 👉 **27.10.2020 Webinaire de lancement officiel en Bretagne** 
+
+ 📕 [Voir le Support de présentation ](https://drive.google.com/file/d/1fGrScZwPGOIVT3PT3S82zxQi-SNbRDN4/view)
+
+{% embed url="https://www.youtube.com/watch?v=gTCfPKoIPbU" %}
+
+\*\*\*\*
 
 ### 👉**12.10.20** Webinaire prescripteurs organisé par la DIRECCTE Nouvelle Aquitaine INAE et Pole emploi
 
@@ -71,8 +78,6 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 ### 👉05.10**.20** Open webinaire de démonstration pour les prescripteurs
 
 {% embed url="https://youtu.be/6-NdfEAWgPk" %}
-
-📕 Voir le support de présentation
 
 ### 👉29**.09.20** Présentation de l'IAE & de la Plateforme de l'inclusion - DIRECCTE & Pôle emploi - AURA
 
