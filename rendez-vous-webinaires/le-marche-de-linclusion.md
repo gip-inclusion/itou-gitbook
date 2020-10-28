@@ -11,10 +11,10 @@ La participation à ces sessions d'information vous permettra une assistance per
 {% hint style="info" %}
 **Inscriptions :**
 
- ****[**Open Webinaire du mardi 27 octobre de 10h à 11h**](https://app.livestorm.co/itou/open-webinaire-dinscription-sur-le-marche-de-linclusion)\*\*\*\*
-
  ****[**Open Webinaire du mardi 3 novembre de 11h à 12h**](https://app.livestorm.co/itou/open-webinaire-le-marche-de-linclusion-2)\*\*\*\*
 {% endhint %}
+
+\*\*\*\*
 
 
 
