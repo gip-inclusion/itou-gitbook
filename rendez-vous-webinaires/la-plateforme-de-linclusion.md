@@ -44,9 +44,8 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 {% hint style="info" %}
 **🚀 Webinaires de lancement officiel Novembre 2020 :**
 
-* [03 Novembre 15h \[UTC +1\] : pré-lancement officiel **Outre mer**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-france-outre-mer) 
 * [10 Novembre 14h : pré-lancement officiel **Pays de Loire**](%20https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-pays-de-loire) ****
-* [17 Novembre 14h : pré-lancement officiel **Normandie**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-normandie)\*\*\*\*
+* \*\*\*\*[17 Novembre 14h : pré-lancement officiel **Normandie**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-normandie)\*\*\*\*
 {% endhint %}
 
 {% hint style="info" %}
@@ -54,6 +53,18 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 {% endhint %}
 
 ## **Retrouvez les webinaires précédents :**
+
+### 👉 **05.11.2020** Webinaire organisé par la DIRECCTE et Pôle emploi - Pour l'AUBE et la HAUTE-MARNE
+
+{% embed url="https://youtu.be/Ajh4teBwBSE" %}
+
+
+
+###  ****👉**03.11.2020 Webinaire de lancement officiel en Outre-Mer**
+
+ 📕 [Voir le Support de présentation ](https://drive.google.com/file/d/1fGrScZwPGOIVT3PT3S82zxQi-SNbRDN4/view)
+
+{% embed url="https://youtu.be/OEc2ImVLqCk" %}
 
 ### 👉 **27.10.2020 Webinaire de lancement officiel en Bretagne** 
 
