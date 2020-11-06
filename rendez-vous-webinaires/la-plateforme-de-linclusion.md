@@ -59,6 +59,14 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 ## **Retrouvez les webinaires précédents :**
 
+### 👉 **05.11.2020 Webinaire organisé par CHEOPS Occitanie \(Réseau CAP EMPLOI\)**
+
+ 📕 [**Voir le support de présentation**](https://drive.google.com/file/d/1uc6DJGeJy9nQEMmZ9NnJl5d4EeM9WDxZ/view?usp=sharing)\*\*\*\*
+
+{% embed url="https://www.youtube.com/watch?v=RdPDCFPCbrs" %}
+
+\*\*\*\*
+
 ### 👉 **05.11.2020** Webinaire organisé par la DIRECCTE et Pôle emploi - Pour l'AUBE et la HAUTE-MARNE
 
 {% embed url="https://youtu.be/Ajh4teBwBSE" %}
