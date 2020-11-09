@@ -50,6 +50,8 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](qui-
 * **Résident** en [ZRR ](https://www.data.gouv.fr/fr/datasets/zones-de-revitalisation-rurale-zrr/): sur justificatif de domicile
 * **Résident** [QPV](https://sig.ville.gouv.fr/) : sur justificatif de domicile
 
+Source : [arrêté du 7 avril 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041845730/2020-11-04/)
+
 {% hint style="warning" %}
 **ETTI : RÈGLE DE VALIDATION SPÉCIALE POUR LES ETTI**
 
