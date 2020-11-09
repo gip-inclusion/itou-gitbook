@@ -1,4 +1,4 @@
-# 📘Mon mode d'emploi ''prescripteur''
+# 📘Mon mode d'emploi ''prescripteur/orienteur''
 
 **Découvrez des tutos pour vous aider à utiliser la Plateforme :**
 
