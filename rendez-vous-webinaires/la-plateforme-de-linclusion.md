@@ -29,7 +29,7 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 * [**Jeudi 26 Novembre  à 10h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/webinaire-demo-pour-les-prescripteurs)
 * [**Lundi 30 Novembre à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-2)
-* [**Mardi 08 Décembre à 15h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-3)
+* [**Mardi 08 Décembre à 15h15** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-3)
 * [**Lundi 14 Décembre à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-4)
 * \*\*\*\*[**Jeudi 17 Décembre à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-5)
 {% endhint %}
