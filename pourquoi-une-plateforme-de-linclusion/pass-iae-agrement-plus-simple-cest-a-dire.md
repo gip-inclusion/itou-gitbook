@@ -104,12 +104,7 @@ Le **PASS IAE délivré pour une durée de 2 ans est valable dans toutes les SIA
 ### Suspension : 
 
 {% hint style="warning" %}
-Pour toute demande de suspension l’employeur doit nous [contacter par mail ](mailto:assistance@inclusion.beta.gouv.fr)et nous indiquer:
-
-* la référence du pass iae
-* le nom prénom du candidat
-* la date d’arrêt
-* le motif de suspension
+Pour toute demande de suspension l’employeur doit [remplir ce formulaire](https://itou.typeform.com/to/kKqCM8Hn)
 
 **Les motifs de suspension légitimes\* sont :**
 
@@ -128,6 +123,8 @@ Pour les ETTI, les périodes d’intermission ne sont pas décomptées comme pé
 
 
 _\*Circulaire DGEFP/DGAS n°2003-24 du 3 octobre 2003 relative à l’aménagement de la procédure d’agrément par l’ANPE et au suivi des personnes embauchées dans une structure d’insertion par l’activité économique._ 
+
+\_\_
 {% endhint %}
 
 ### Prolongation :
