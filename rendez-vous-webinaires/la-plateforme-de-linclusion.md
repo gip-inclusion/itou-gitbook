@@ -59,6 +59,14 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 ## **Retrouvez les webinaires précédents :**
 
+### 👉**10.11.2020 Webinaire de lancement Pays de la Loire**
+
+ 📕 [Voir le Support de présentation ](https://drive.google.com/file/d/1fGrScZwPGOIVT3PT3S82zxQi-SNbRDN4/view)
+
+{% embed url="https://www.youtube.com/watch?v=zotUzpWv-Bo" %}
+
+\*\*\*\*
+
 ### 👉 **05.11.2020 Webinaire organisé par CHEOPS Occitanie \(Réseau CAP EMPLOI\)**
 
  📕 [**Voir le support de présentation**](https://drive.google.com/file/d/1uc6DJGeJy9nQEMmZ9NnJl5d4EeM9WDxZ/view?usp=sharing)\*\*\*\*
