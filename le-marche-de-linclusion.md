@@ -19,7 +19,9 @@ C'est un [employeur solidaire](pourquoi-une-plateforme-de-linclusion/qui-sont-le
 
 
 {% hint style="danger" %}
-En phase de développement, le Marché de l'inclusion est désormais ouvert sur 3 régions de France : **Les Hauts-de-France, l'Île-de-France et Grand Est**. Il concerne pour le moment la filière : **Nettoyage, Propreté et Entretien**.
+En phase de développement, le Marché de l'inclusion est désormais ouvert sur 3 régions de France : **Les Hauts-de-France, l'Île-de-France et Grand Est**. 
+
+**Toutes les filières sont désormais concernées !**
 {% endhint %}
 
 
