@@ -20,5 +20,11 @@
 
 ![Je suis candidats et valide les crit&#xE8;res d&apos;&#xE9;ligibilit&#xE9; d&apos;un candidat ](https://s5.gifyu.com/images/demo-employeur-repondre1.gif)
 
+#### Changer le statut d'une candidature
 
+Le statut des candidatures, une fois définitif n'est pas modifiable
+
+1. Si j'ai "décliné" par erreur une candidature, je ne peux pas revenir en arrière. Toutefois, je peux renouveler la candidature en cliquant sur "Obtenir un PASS IAE". En réutilisant bien **la même adresse e-mail pour le candidat** je retrouverai son diagnostic d'éligibilité. 
+2. * Si le candidat est envoyé par un prescripteur habilité, son diagnostic d'éligibilité à l'IAE a une durée de vie de 6 mois 
+   * Si le candidat est envoyé par un orienteur, je devrai quoiqu'il en soit porter la responsabilité du diagnostic donc ce sera à moi d'entrer les critères 
 
