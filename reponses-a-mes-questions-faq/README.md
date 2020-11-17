@@ -1,4 +1,4 @@
-# 🧞‍♂️Des réponses à mes questions dans les FAQ !
+# ��‍♂️Des réponses à mes questions dans les FAQ !
 
 La plupart des utilisateurs trouvent une réponse à leur question via **nos FAQ dédiées :** 
 

@@ -10,20 +10,10 @@ Pour **accompagner le déploiement et faciliter la prise en main de la Plateform
 
 Vous retrouverez les [réponses aux questions posées pendant les webinaires ici](https://docs.google.com/spreadsheets/d/1piM7ZiGsAYUPRJ_P2iAoIx7LpYhdqChnotUvTo5LxUg/edit#gid=151808733)
 
-![](../.gitbook/assets/arrow-right-circle-1-.svg) **Nos webinaires sont organisés à la demande des acteurs sur chaque territoire, mais ils sont ouverts à tous. N'hésitez pas à vous inscrire.**
-
-**Voici le calendrier d'ouverture de la Plateforme de l'inclusion, ainsi que les dates des webinaires de pré-lancement organisés pour chaque région**  👇
-
-![](../.gitbook/assets/copie-de-deploiement-1-.png)
-
-{% hint style="success" %}
- **Pour vous inscrire aux prochains rendez-vous, cliquez sur le thème qui vous intéresse !** 👇
-{% endhint %}
-
-## Vous souhaitez assister à une démonstration détaillée de la Plateforme ? Inscrivez-vous à nos webinaires de démonstration : 
+## Vous souhaitez assister à une démonstration détaillée de la Plateforme ? Inscrivez-vous à nos webinaires de formation : 
 
 {% hint style="info" %}
-**💻 Open Webinaires de démonstration technique :**
+**💻 Open Webinaires de formation technique :**
 
 **Pour les prescripteurs :** 
 
@@ -38,26 +28,16 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 **Pour les employeurs solidaires \(SIAE, GEIQ, EA ...\) :** 
 
 * [**Jeudi 19 Novembre à 10h00** : Webinaire de formation pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-a-destination-des-siae)
+* [**Jeudi 19 Novembre à 15h20** : Webinaire de formation pour les SIAE](https://app.livestorm.co/itou/demo-de-la-plateforme-de-linclusion-a-destination-des-siae)
 * [**Mardi 1er Décembre à 10h00** : Webinaire de formation pour les SIAE ](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-dediee-aux-siae)
 * [**Mardi 15 Décembre à 10h00** : Webinaire de formation pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-pour-les-siae)
 {% endhint %}
 
-
-
-## La Plateforme bientôt dans votre région ! Inscrivez-vous à nos webinaires de pré-lancement :  
-
 {% hint style="info" %}
-**🚀 Webinaires de lancement officiel Novembre 2020 :**
-
-* [10 Novembre 14h : pré-lancement officiel **Pays de Loire**](%20https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-pays-de-loire) ****
-* \*\*\*\*[17 Novembre 14h : pré-lancement officiel **Normandie**](https://app.livestorm.co/itou/pre-lancement-officiel-de-la-plateforme-de-linclusion-en-normandie)\*\*\*\*
+ Vous souhaitez **organiser un webinaire de formation** sur votre territoire ou au sein de votre réseau ? 👉\*\*\*\*[**Accéder au formulaire**](https://startupsbeta.typeform.com/to/btgqYsdQ) ! 😊 
 {% endhint %}
 
-{% hint style="info" %}
- Vous souhaitez **organiser un webinaire de déploiement ou de présentation** sur votre territoire ou au sein de votre réseau ? 👉\*\*\*\*[**Accéder au formulaire**](https://startupsbeta.typeform.com/to/btgqYsdQ) ! 😊 
-{% endhint %}
-
-## **Retrouvez les webinaires précédents :**
+## **Retrouvez les replays des webinaires précédents :**
 
 ### 👉**10.11.2020 Webinaire de lancement Pays de la Loire**
 

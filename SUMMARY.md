@@ -52,7 +52,7 @@
 * [🚀La BANDE À ITOU !](la-bande-a-itou.md)
 * [💬Mon Forum de l'inclusion](forum-de-linclusion.md)
 * [🤝 Le Marché de l'inclusion](le-marche-de-linclusion.md)
-* [🧞‍♂️Des réponses à mes questions dans les FAQ !](reponses-a-mes-questions-faq/README.md)
+* [��‍♂️Des réponses à mes questions dans les FAQ !](reponses-a-mes-questions-faq/README.md)
   * [FAQ candidat](reponses-a-mes-questions-faq/faq-candidat.md)
   * [FAQ prescripteur](reponses-a-mes-questions-faq/faq-prescripteur.md)
   * [FAQ employeur solidaire](reponses-a-mes-questions-faq/faq-employeur.md)
