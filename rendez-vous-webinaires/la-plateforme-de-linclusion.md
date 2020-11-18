@@ -39,6 +39,12 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 ## **Retrouvez les replays des webinaires précédents :**
 
+### 👉**17.11.2020 Webinaire de lancement : Normandie**
+
+ 📕 [Voir le Support de présentation ](https://drive.google.com/file/d/1fGrScZwPGOIVT3PT3S82zxQi-SNbRDN4/view)
+
+{% embed url="https://youtu.be/IEEHeBpekXA" %}
+
 ### 👉**10.11.2020 Webinaire de lancement Pays de la Loire**
 
  📕 [Voir le Support de présentation ](https://drive.google.com/file/d/1fGrScZwPGOIVT3PT3S82zxQi-SNbRDN4/view)
