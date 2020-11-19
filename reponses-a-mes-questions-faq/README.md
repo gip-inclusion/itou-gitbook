@@ -1,7 +1,5 @@
 # 🔎 Foire aux questions
 
-
-
 ![](../.gitbook/assets/picmoteur.png)
 
 La plupart des utilisateurs trouvent une réponse à leur question via **nos FAQ dédiées :** 
