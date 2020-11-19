@@ -132,7 +132,7 @@ A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** pu
 
 ![](../.gitbook/assets/penon.png)
 
-**Sélectionnez "Service social du Conseil Départemental"**, puis cliquez sur **"Continuer"**
+Sélectionnez **"Service social du Conseil Départemental"**, puis cliquez sur **"Continuer"**
 
 ![](../.gitbook/assets/cd.png)
 
