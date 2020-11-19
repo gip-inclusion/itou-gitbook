@@ -122,7 +122,7 @@ Vous serez notifié\(e\) par mail dès que votre demande d'habilitation aura ét
  **Si l'arrêté préfectoral n'est pas transmis, vos prescriptions ne seront pas considérées comme celles d’un prescripteur habilité mais comme celles d’un orienteur.**
 {% endhint %}
 
-## Inscription pour une organisation conventionnée par un Conseil Départemental **pour le suivi des \(Bénéficiaires du RSA\)**
+## Inscription pour une organisation conventionnée par un Conseil Départemental **pour le suivi des Bénéficiaires du RSA**
 
 {% hint style="success" %}
 Si votre organisation travaille pour le compte du Conseil Départemental dans le cadre du suivi des BRSA, vous pouvez prétendre au statut de prescripteur habilité.
