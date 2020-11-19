@@ -114,6 +114,10 @@ Un message d'information en jaune vous invite à nous **transmettre votre arrêt
 Vous serez notifié\(e\) par mail dès que votre demande d'habilitation aura été traitée par notre équipe.
 {% endhint %}
 
+{% hint style="danger" %}
+ **Si l'arrêté préfectoral n'est pas transmis, vos prescriptions ne seront pas considérées comme celles d’un prescripteur habilité mais comme celles d’un orienteur.**
+{% endhint %}
+
 ## Inscription pour une organisation conventionnée par un Conseil Départemental **pour le suivi des \(Bénéficiaires du RSA\)**
 
 A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** puis sur **"Continuer"**
