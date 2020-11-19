@@ -20,7 +20,7 @@ Puis cliquez sur **"Créer un compte prescripteur" :**
 
 📝[Voir le processus d'inscription pour un prescripteur habilité au national](inscription-prescripteur.md#inscription-pour-un-prescripteur-habilite-au-national)
 
-📝[Voir le processus d'inscription pour une organisation conventionnée par un Conseil   Départemental pour le suivi des bénéficiaires du RSA](inscription-prescripteur.md#inscription-pour-une-organisation-conventionnee-par-un-conseil-departemental-pour-le-suivi-des-beneficiaires-du-rsa)
+📝[Voir le processus d'inscription pour une organisation conventionnée par un Conseil Départemental pour le suivi des bénéficiaires du RSA](inscription-prescripteur.md#inscription-pour-une-organisation-conventionnee-par-un-conseil-departemental-pour-le-suivi-des-beneficiaires-du-rsa)
 
 📝[Voir le processus d'inscription pour un prescripteur habilité au niveau préfectoral](inscription-prescripteur.md#inscription-pour-un-prescripteur-habilite-au-niveau-prefectoral)
 
