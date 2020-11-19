@@ -72,6 +72,10 @@ Complétez le formulaire en renseignant votre **adresse e-mail professionnelle, 
 Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoindre le compte de votre organisation que sur invitation. Contactez l'administrateur de l'organisation pour qu'il puisse vous inviter. [\[ Procédure d'invitation des collaborateurs \]](rattachement-collaborateur-au-compte.md)
 {% endhint %}
 
+{% hint style="danger" %}
+**Le statut de votre habilitation restera en attente le temps qu’un modérateur vérifie votre identité. Pendant ce laps de temps, vos prescriptions ne seront pas considérées comme celles d’un prescripteur habilité mais comme celles d’un orienteur.**
+{% endhint %}
+
 ## Inscription pour un prescripteur habilité au niveau préfectoral
 
 A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** puis sur **"Continuer"**
