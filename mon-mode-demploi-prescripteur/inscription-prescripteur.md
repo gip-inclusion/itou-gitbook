@@ -124,6 +124,10 @@ Vous serez notifié\(e\) par mail dès que votre demande d'habilitation aura ét
 
 ## Inscription pour une organisation conventionnée par un Conseil Départemental **pour le suivi des \(Bénéficiaires du RSA\)**
 
+{% hint style="success" %}
+Si votre organisation travaille pour le compte du Conseil Départemental dans le cadre du suivi des BRSA, vous pouvez prétendre au statut de prescripteur habilité.
+{% endhint %}
+
 A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** puis sur **"Continuer"**
 
 ![](../.gitbook/assets/penon.png)
