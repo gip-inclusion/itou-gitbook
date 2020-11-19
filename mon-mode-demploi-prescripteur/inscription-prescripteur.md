@@ -20,6 +20,8 @@ Puis cliquez sur **"Créer un compte prescripteur" :**
 
 📝[Voir le processus d'inscription pour un prescripteur habilité au national](inscription-prescripteur.md#inscription-pour-un-prescripteur-habilite-au-national)
 
+📝[Voir le processus d'inscription pour une organisation conventionnée par un Conseil   Départemental pour le suivi des bénéficiaires du RSA](inscription-prescripteur.md#inscription-pour-une-organisation-conventionnee-par-un-conseil-departemental-pour-le-suivi-des-beneficiaires-du-rsa)
+
 📝[Voir le processus d'inscription pour un prescripteur habilité au niveau préfectoral](inscription-prescripteur.md#inscription-pour-un-prescripteur-habilite-au-niveau-prefectoral)
 
 📝 [Voir le processus d'inscription pour un orienteur](inscription-prescripteur.md#inscription-pour-un-orienteur)
@@ -110,6 +112,33 @@ Un message d'information en jaune vous invite à nous **transmettre votre arrêt
 
 {% hint style="info" %}
 Vous serez notifié\(e\) par mail dès que votre demande d'habilitation aura été traitée par notre équipe.
+{% endhint %}
+
+## Inscription pour une organisation conventionnée par un Conseil Départemental **pour le suivi des \(Bénéficiaires du RSA\)**
+
+A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** puis sur **"Continuer"**
+
+![](../.gitbook/assets/penon.png)
+
+**Sélectionnez "Service social du Conseil Départemental"**, puis cliquez sur **"Continuer"**
+
+![](../.gitbook/assets/cd.png)
+
+Renseignez le **numéro de SIRET** de votre organisation, puis cliquez sur "**Continuer"**
+
+![](../.gitbook/assets/siret.png)
+
+  
+Complétez le formulaire en renseignant votre **adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur **"Inscription"**
+
+![](../.gitbook/assets/siretcd.png)
+
+{% hint style="info" %}
+**Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**
+{% endhint %}
+
+{% hint style="warning" %}
+Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoindre le compte de votre organisation que sur invitation. Contactez l'administrateur de l'organisation pour qu'il puisse vous inviter. [\[ Procédure d'invitation des collaborateurs\]](rattachement-collaborateur-au-compte.md)
 {% endhint %}
 
 ## Inscription pour un orienteur
