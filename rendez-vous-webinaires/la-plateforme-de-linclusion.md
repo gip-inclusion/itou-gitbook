@@ -27,8 +27,6 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 {% hint style="info" %}
 **Pour les employeurs solidaires \(SIAE, GEIQ, EA ...\) :** 
 
-* [**Jeudi 19 Novembre à 10h00** : Webinaire de formation pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-a-destination-des-siae)
-* [**Jeudi 19 Novembre à 15h20** : Webinaire de formation pour les SIAE](https://app.livestorm.co/itou/demo-de-la-plateforme-de-linclusion-a-destination-des-siae)
 * [**Mardi 1er Décembre à 10h00** : Webinaire de formation pour les SIAE ](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-dediee-aux-siae)
 * [**Mardi 15 Décembre à 10h00** : Webinaire de formation pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-pour-les-siae)
 {% endhint %}
