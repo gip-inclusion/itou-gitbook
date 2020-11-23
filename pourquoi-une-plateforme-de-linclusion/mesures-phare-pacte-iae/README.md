@@ -6,7 +6,7 @@ description: >-
 
 # Quelles sont les mesures phare du Pacte IAE ?
 
-![](../.gitbook/assets/1h.png)
+![](../../.gitbook/assets/1h.png)
 
 ###       ****Engagement n°1 : Accompagner chaque personne selon ses besoins
 
@@ -17,7 +17,7 @@ description: >-
 
 
 
-![](../.gitbook/assets/2h.png)
+![](../../.gitbook/assets/2h.png)
 
 ###       Engagement n°2 : Innover et libérer le potentiel de création d’emplois
 
@@ -31,7 +31,7 @@ description: >-
 
 \*\*\*\*
 
-![](../.gitbook/assets/3h.png)
+![](../../.gitbook/assets/3h.png)
 
 ### **Engagement n°3 :** Rallier toutes les entreprises et tous les acteurs publics à la cause de l’inclusion
 
@@ -42,7 +42,7 @@ description: >-
 
 \*\*\*\*
 
-![](../.gitbook/assets/4h.png)
+![](../../.gitbook/assets/4h.png)
 
 ###       **Engagement n°4 : Agir ensemble sur tous les territoires**
 
@@ -51,7 +51,7 @@ description: >-
 
 \*\*\*\*
 
-![](../.gitbook/assets/5h.png)
+![](../../.gitbook/assets/5h.png)
 
 ###       **Engagement n°5 :** Simplifier, digitaliser et co-construire en confiance
 
@@ -63,7 +63,7 @@ description: >-
 
 ###                                           Le pacte IAE en bref ! 👇 
 
-![](../.gitbook/assets/avant_apres.8e5565a1e84b%20%281%29.png)
+![](../../.gitbook/assets/avant_apres.8e5565a1e84b%20%281%29.png)
 
 {% hint style="info" %}
 \*\*\*\*👉 [**Télécharger le Pacte IAE complet**](https://travail-emploi.gouv.fr/IMG/pdf/pacte_d_ambition___insertion_par_l_activite_economique.pdf) ****📃 
