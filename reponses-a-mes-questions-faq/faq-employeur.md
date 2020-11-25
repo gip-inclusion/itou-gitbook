@@ -20,6 +20,10 @@ Dans notre exemple, si vous annulez le PASS, les 3 jours travaillés ne pourront
 
 Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourrez plus l'annuler par vous-même. Vous devrez [nous contacter](mailto:assistance@inclusion.beta.gouv.fr) en prenant soin de mentionner les références du PASS et les raisons de cette demande tardive.
 
+### Je souhaite retirer un collaborateur ?
+
+Un collaborateur de votre entreprise change de fonction ou quitte votre entreprise ? Depuis son tableau de bord, l'administrateur peut **gérer des collaborateurs**. Ce menu lui permet de retirer un collaborateur, mais aussi d'octroyer les droits d'administrateur.
+
 ### Je n'ai toujours pas reçu de Pass IAE, comment faire ?
 
 Le délai moyen entre la candidature et l’obtention du Pass IAE est en moyenne de 6 jours. Si ce délai est largement dépassé, assurez-vous que le mail du Pass IAE ne se trouve pas dans vos spams.
