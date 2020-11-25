@@ -24,6 +24,10 @@ Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourr
 
 Un collaborateur de votre entreprise change de fonction ou quitte votre entreprise ? Depuis son tableau de bord, l'administrateur peut **gérer des collaborateurs**. Ce menu lui permet de retirer un collaborateur, mais aussi d'octroyer les droits d'administrateur.
 
+### J'ai validé l'embauche d'un candidat sans de mande de PASS IAE, mais il m'en fallait un.
+
+Une erreur arrive vite ! Que faire si vous avez cliqué sur le mauvais bouton et que finalement vous avez besoin d'un PASS IAE ? Vous devez refaire l'ensemble du processus en créant  **une nouvelle candidature**. _Attention, si la candidature provenait d'un prescripteur habilité, celui-ci doit la refaire_. C'est un peu lourd, mais c'est la seule possibilité. Vous ferez plus attention la prochaine fois 😉
+
 ### Je n'ai toujours pas reçu de Pass IAE, comment faire ?
 
 Le délai moyen entre la candidature et l’obtention du Pass IAE est en moyenne de 6 jours. Si ce délai est largement dépassé, assurez-vous que le mail du Pass IAE ne se trouve pas dans vos spams.
