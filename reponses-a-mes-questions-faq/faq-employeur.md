@@ -10,9 +10,15 @@
 
 ### Puis-je annuler un Pass IAE ?
 
-Vous pouvez annuler le Pass IAE et l’embauche d’un candidat jusqu’à 96 heures après le début de son contrat, quel que soit le motif \(ex : la personne ne s'est pas présentée, vous avez annulé la mission, vous n’avez finalement pas eu le marché...\).
+La question revient régulièrement au support : j’ai embauché un candidat et obtenu un PASS IAE. Au troisième jour le contrat est rompu \( fin de période d’essai à l’initiative d’une des deux parties par exemple\). Dois-je annuler le PASS IAE ?
 
-Passé ce délai, vous ne pourrez plus annuler le Pass IAE par vous-même. Vous devrez [nous contacter.](mailto:assistance@inclusion.beta.gouv.fr) 
+Premier point d’attention : **un PASS IAE n’est pas un contrat de travail** et ne se gère pas comme tel. Un PASS IAE est un élément incontournable pour obtenir une aide au poste.
+
+Nous permettons d’annuler un PASS IAE dans les 96 heures \(par exemple parce que le candidat ne s’est finalement pas présenté\). Dans ce cas le PASS IAE est supprimé et il ne vous permettra pas de toucher l’aide au poste et le candidat pour travailler dans une autre SIAE devra bénéficier d’un nouveau PASS.
+
+Dans notre exemple, si vous annulez le PASS, les 3 jours travaillés ne pourront bénéficier de l’aide au poste. Pour toucher l’aide au poste pour ces 3 jours, il ne faut donc **PAS** annuler le PASS. Le candidat pourra travailler dans une autre SIAE avec le même PASS car il aura débuté un parcours.
+
+Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourrez plus l'annuler par vous-même. Vous devrez [nous contacter](mailto:assistance@inclusion.beta.gouv.fr) en prenant soin de mentionner les références du PASS et les raisons de cette demande tardive.
 
 ### Je n'ai toujours pas reçu de Pass IAE, comment faire ?
 
