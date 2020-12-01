@@ -12,6 +12,8 @@ La participation à ces sessions d'information vous permettra une assistance per
 **Inscriptions :**
 
 \*\*\*\*[**Open Webinaire du jeudi 17 décembre de 10h à 11h**](https://app.livestorm.co/itou/open-webinaire-le-marche-de-linclusion)\*\*\*\*
+
+\*\*\*\*[**Open Webinaire du mardi 12 janvier 2021 de 10h à 11h**](https://app.livestorm.co/itou/open-webinaire-de-rentree-le-marche-de-linclusion)
 {% endhint %}
 
 \*\*\*\*
