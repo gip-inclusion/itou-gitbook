@@ -16,10 +16,6 @@ La participation à ces sessions d'information vous permettra une assistance per
 
 \*\*\*\*
 
-\*\*\*\*
-
-
-
 ### 👉 Pour un accompagnement personnalisé et des ateliers en petits groupes
 
 **⚠︎ Ces ateliers sont des sessions de travail !** Il est indispensable de se connecter avec tous les éléments permettant d'aller au bout de la publication de vos offres : 
