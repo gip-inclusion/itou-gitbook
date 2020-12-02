@@ -17,8 +17,6 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 **Pour les prescripteurs :** 
 
-* [**Jeudi 26 Novembre  à 10h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/webinaire-demo-pour-les-prescripteurs)
-* [**Lundi 30 Novembre à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-2)
 * [**Mardi 08 Décembre à 15h15** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-3)
 * [**Lundi 14 Décembre à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-4)
 * \*\*\*\*[**Jeudi 17 Décembre à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-5)
@@ -27,7 +25,6 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 {% hint style="info" %}
 **Pour les employeurs solidaires \(SIAE, GEIQ, EA ...\) :** 
 
-* [**Mardi 1er Décembre à 10h00** : Webinaire de formation pour les SIAE ](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-dediee-aux-siae)
 * [**Mardi 15 Décembre à 10h00** : Webinaire de formation pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-pour-les-siae)
 {% endhint %}
 
