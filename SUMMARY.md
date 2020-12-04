@@ -25,6 +25,7 @@
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
 * [📘Mon mode d'emploi ''prescripteur/orienteur''](mon-mode-demploi-prescripteur/README.md)
   * [M'inscrire sur la Plateforme](mon-mode-demploi-prescripteur/inscription-prescripteur.md)
+  * [Administrateur de l'organisation](mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
   * [Compléter et décrire mon organisation](mon-mode-demploi-prescripteur/description-organisation.md)
   * [Inviter mes collaborateurs à se rattacher au compte de l'organisation](mon-mode-demploi-prescripteur/rattachement-collaborateur-au-compte.md)
   * [Postuler pour un candidat - Prescrire](mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
