@@ -4,6 +4,8 @@
 
 Le statut d'administrateur n'est pas uniquement réservé aux managers, chaque organisation définit qui peut être administrateur \(exemple : le ou les référents IAE, le manager d'équipe, le responsable du Pôle insertion ou toute autre personne volontaire…\)
 
+Une **organisation peut avoir plusieurs administrateurs.**
+
 Un administrateur peut : 
 
 * **Nommer d'autres administrateurs** en cliquant sur **\[Ajouter en tant qu'administrateur\]**
