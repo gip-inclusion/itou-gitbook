@@ -156,6 +156,10 @@ Oui l'employeur choisit parmi une liste de motifs, le prescripteur reçoit le mo
 
 Non, la DIRECCTE ne contrôlera que les embauches pour lesquelles l'employeur a validé lui même les critères d'éligibilité.
 
+### Comment contacter l'équipe ? Existe-t-il une hotline ?
+
+Il n'y a pas de hotline, vous pouvez [contacter l'assistance technique par mail](mailto:%20assistance@inclusion.beta.gouv.fr)
+
 {% hint style="info" %}
 **Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** [**contactez l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) ****!  😊 
 {% endhint %}
