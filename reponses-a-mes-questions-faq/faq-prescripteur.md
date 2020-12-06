@@ -8,17 +8,17 @@
 
 ## ⚡LES THEMES DE LA FAQ : 
 
-#### 1️⃣ [Rôle du prescripteur / orienteur](faq-prescripteur.md#1-role-du-prescripteur-orienteur-1)
+#### 1️⃣[ Rôle du prescripteur / orienteur](faq-prescripteur.md#1-role-du-prescripteur-orienteur)
 
-#### 2️⃣ [Gestion de compte](faq-prescripteur.md#2-gestion-de-compte-1)
+#### 2️⃣[ Gestion de compte](faq-prescripteur.md#2-gestion-de-compte)
 
-#### 3️⃣[ Diagnostic & Orientation du candidat](faq-prescripteur.md#3-diagnostic-and-orientation-du-candidat-1)
+#### 3️⃣ [Diagnostic & Orientation du candidat](faq-prescripteur.md#3-diagnostic-and-orientation-du-candidat)
 
-#### 4️⃣ [Suivi des candidatures](faq-prescripteur.md#4-suivi-des-candidatures-1)
+#### 4️⃣ [Suivi des candidatures](faq-prescripteur.md#4-suivi-des-candidatures)
 
-#### 5️⃣ [Pass IAE](faq-prescripteur.md#5-pass-iae-1)
+#### 5️⃣ [Pass IAE](faq-prescripteur.md#5-pass-iae)
 
-#### 6️⃣ [Autre](faq-prescripteur.md#6-autre-1)
+#### 6️⃣ [Autre](faq-prescripteur.md#6-autre)
 
 ## 1️⃣ Rôle du prescripteur / orienteur
 
