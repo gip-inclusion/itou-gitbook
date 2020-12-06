@@ -2,9 +2,9 @@
 
 ## 🔥 **Questions les plus fréquentes**
 
-* [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/~/drafts/-MNtQ5MAhIogwwD7-NXX/reponses-a-mes-questions-faq/faq-prescripteur#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
+* [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?](faq-prescripteur.md#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
 * [Je souhaite changer l’adresse mail de mon compte utilisateur, que dois-je faire ?](faq-prescripteur.md#je-souhaite-changer-ladresse-mail-de-mon-compte-que-dois-je-faire)
-* [J'ai fait une erreur de saisie dans le profil du candidat, comment modifier ?](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/~/drafts/-MNtWiH7__Xppiz7gpsW/reponses-a-mes-questions-faq/faq-prescripteur#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat-comment-modifier)
+* [J'ai fait une erreur de saisie dans le profil du candidat, comment modifier ?](faq-prescripteur.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat-comment-modifier)
 
 ## ⚡LES THEMES DE LA FAQ : 
 
