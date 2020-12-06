@@ -128,6 +128,14 @@ Non, tant que l'employeur bloque les candidatures on ne peut plus postuler aupr�
 
 Il faut l'aider à en créer une, car l'adresse e-mail est obligatoire pour postuler. Nous vous recommandons d'utiliser le site laposte.net. Il ne faut pas utiliser votre adresse mail professionnelle pour postuler pour le candidat.
 
+### Comment candidater pour une personne incarcérée, qui n'a pas d'accès internet ?
+
+Le prescripteur peut candidater pour le candidat et il pourra suivre la candidature grâce aux notifications mail et au tableau de suivi disponible sur la plateforme. Le prescripteur peut utiliser le champ " message de candidature" pour informer l'employeur des éventuels délais nécessaires pour obtenir une autorisation de sortie s'il prévoit de recevoir le candidat en entretien.
+
+### Que doit-on rédiger dans la partie "Message de candidature" ?
+
+Le prescripteur renseigne toutes les informations utiles à l'examen de la candidature par l'employeur. N'hésitez pas à donner des détails pour que l'employeur puisse avoir toutes les informations utiles qui lui permettront de prendre une décision. Vous pouvez renseigner des éléments du diagnostic socio-professionnel ainsi que des informations liées à la motivation du candidat
+
 {% hint style="info" %}
 **Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** [**contactez l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) ****!  😊 
 {% endhint %}
