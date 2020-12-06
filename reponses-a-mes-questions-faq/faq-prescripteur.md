@@ -141,6 +141,19 @@ Tous les membres du tableau de bord
 Il faut renvoyer une nouvelle invitation.
 {% endhint %}
 
+### Un prescripteur peut-il être membre de plusieurs organisations de prescripteurs/orienteurs?
+
+{% hint style="info" %}
+Oui un prescripteur peut être présent sur plusieurs organisations de prescripteurs ou orienteurs. 
+
+2 cas de figure : 
+
+* **L'autre organisation que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur la plateforme
+* **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur la plateforme** = il faut nous contacter par mail afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
+
+Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'autre en cliquant sur le bouton situé en haut à droite "changer de structure"**
+{% endhint %}
+
 ## 3️⃣ Diagnostic & orientation du candidat
 
 ### Comment sont triés les résultats d'une recherche d'employeurs ?
