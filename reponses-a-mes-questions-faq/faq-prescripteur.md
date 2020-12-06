@@ -102,6 +102,10 @@ Chacun de ces trois groupes est trié aléatoirement avec la vocation suivante :
 
 Oui, à condition de respecter un délai de carence obligatoire de 2 ans entre chaque parcours. Seul le prescripteur habilité peut prescrire un parcours qui déroge à l'obligation de carence ou aux critères d'éligibilité s'il l'estime nécessaire au vu de la situation d'un candidat.
 
+### Est-ce que le prescripteur est informé si un candidat a déjà été positionné auprès de cet employeur
+
+Oui un message s'affiche au moment où le prescripteur souhaite postuler. On lui donne la date de la dernière candidature envoyée à cet employeur pour ce candidat
+
 
 
 {% hint style="info" %}
