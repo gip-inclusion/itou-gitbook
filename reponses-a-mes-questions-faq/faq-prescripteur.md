@@ -70,6 +70,14 @@ Aucune demande d'habilitation n’est nécessaire. Tout orienteur peut se créer
 L'habilitation des prescripteurs se fait au niveau local, à travers les Unités départementales des Direccte. Faites votre demande auprès d'eux.
 {% endhint %}
 
+### Comment savoir si mon organisation est habilitée au niveau préfectorale ?
+
+{% hint style="info" %}
+Vous devez avoir un arrêté préfectoral qui mentionne votre habilitation. Nous n'avons pas la liste de toutes les organisations habilitées au niveau préfectoral, il faut donc vérifier cette information au niveau local \(votre direction ou la DIRECCTE\)
+{% endhint %}
+
+
+
 ## 2️⃣ Gestion de compte 
 
 ### _J’ai créé compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ?_
