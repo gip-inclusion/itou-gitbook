@@ -61,6 +61,12 @@ Si votre organisation n'est pas habilitée, vous pouvez créer votre compte orie
 Si vous avez créé le compte de votre organisation et que vous ne souhaitez pas être administrateur, vous pouvez inviter la personne qui prendra ce rôle et lui attribuer le statut d'administrateur. Le nouvel administrateur se chargera de vous retirer les droits admin. [\[Consultez la note dédiée aux Administrateurs\]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/administrateur-de-lorganisation)
 {% endhint %}
 
+### Quel est le rôle de l'administrateur ?
+
+{% hint style="info" %}
+Pour en savoir plus consultez le mode d'emploi à la rubrique ["administrateur de l'organisation"](../mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
+{% endhint %}
+
 ### _J'ai fait une erreur de saisie dans le profil du candidat, comment modifier ?_
 
 {% hint style="info" %}
@@ -212,10 +218,29 @@ Oui l'employeur choisit parmi une liste de motifs, le prescripteur reçoit le mo
 Uniquement celles qui sont envoyées par votre organisation
 {% endhint %}
 
+### Comment voir toutes les candidatures envoyées par mon organisation
+
+{% hint style="info" %}
+Depuis votre tableau de bord, cliquez "suivi des candidatures. Vous visualiserez toutes vos candidatures ainsi que celles de tous les membres de votre organisation
+{% endhint %}
+
 ### Le candidat que j'ai accompagné à postuler est-il tenu informé de l’avancement de sa candidature ?
 
 {% hint style="info" %}
 Si vous avez postulé pour lui en indiquant son mail, il sera informé par mail à chaque étape du traitement de sa candidature \(à l’étude, acceptée, pour plus tard, refusée…\).
+{% endhint %}
+
+### Quels sont les différents statuts liés aux candidatures ?
+
+{% hint style="info" %}
+_Il existe 6 types de statut :_
+
+* _**Nouvelle candidature** = L'employeur n'a pas encore pris connaissance de la candidature_
+* _**Candidature à l'étude =** L'employeur a pris connaissance de la candidature_
+* _**Candidature acceptée =** L'employeur a décidé d'embaucher le candidat_
+* _**Embauche pour plus tard** = L'employeur a différé la réponse \( l'embauche n'est pas garantie\)_
+* _Ca**ndidature déclinée =** L'employeur a refusé la candidature_
+* _**Embauche annulée =** L'employeur avait accepté l'embauche mais s'est rétracté \( exemple : le candidat ne se présente pas\)_
 {% endhint %}
 
 ## 5️⃣ PASS IAE 
