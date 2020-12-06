@@ -83,7 +83,7 @@ Suite au confinement, tout Pass IAE en cours de validité entre le 17 mars et le
 
 ### J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?
 
-Si vous avez créé le compte de votre organisation et que vous ne souhaitez pas être administrateur, vous pouvez inviter la personne qui prendra ce rôle et lui attribuer le statut d'administrateur. Le nouvel administrateur se chargera de vous retirer les droits admin.
+Si vous avez créé le compte de votre organisation et que vous ne souhaitez pas être administrateur, vous pouvez inviter la personne qui prendra ce rôle et lui attribuer le statut d'administrateur. Le nouvel administrateur se chargera de vous retirer les droits admin. [\[Consultez la note dédiée aux Administrateurs\]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/administrateur-de-lorganisation)
 
 ### Comment sont triés les résultats d'une recherche d'employeurs ?
 
