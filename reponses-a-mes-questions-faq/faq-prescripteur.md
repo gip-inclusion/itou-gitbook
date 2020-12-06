@@ -250,6 +250,12 @@ Oui, à condition de respecter un délai de carence obligatoire de 2 ans entre c
 Consultez notre [note dédiée aux extensions, prolongations, suspensions](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae)
 {% endhint %}
 
+### _Comment se fait la vérification que les personnes ont déjà eu un agrément: par contact ensuite avec le conseiller, ou l'information remonte dans la plateforme?_
+
+{% hint style="info" %}
+La Direction Générale de Pôle emploi nous a fait parvenir l'historique des PASS IAE déjà délivrés, ainsi qu'un fichier mensuel de mise à jour des nouveaux agréments délivrés. Cela permet à notre outil de détecter automatiquement si un PASS IAE a déjà été délivré ou non, et d'éviter ainsi les doublons.
+{% endhint %}
+
 ## 6️⃣ Autre
 
 ### Existe-t-il une hotline \(numéro pour joindre l'assistance technique\) ?
