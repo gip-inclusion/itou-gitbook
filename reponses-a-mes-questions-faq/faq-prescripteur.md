@@ -136,6 +136,20 @@ Le prescripteur peut candidater pour le candidat et il pourra suivre la candidat
 
 Le prescripteur renseigne toutes les informations utiles à l'examen de la candidature par l'employeur. N'hésitez pas à donner des détails pour que l'employeur puisse avoir toutes les informations utiles qui lui permettront de prendre une décision. Vous pouvez renseigner des éléments du diagnostic socio-professionnel ainsi que des informations liées à la motivation du candidat
 
+### Est-il possible de présenter un candidat sur plusieurs structures en une seule manipulation ?
+
+Pour le moment ce n'est pas possible
+
+### Peut on prescrire sur la plateforme sans orienter sur une structure en particulier ?
+
+Non il faut postuler auprès d'une structure.
+
+### Peut on voir toutes les candidatures d'un demandeur d'emploi ?
+
+Uniquement celles qui sont envoyées par votre organisation
+
+
+
 {% hint style="info" %}
 **Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** [**contactez l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) ****!  😊 
 {% endhint %}
