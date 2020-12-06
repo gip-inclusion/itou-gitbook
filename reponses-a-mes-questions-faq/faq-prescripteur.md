@@ -2,7 +2,7 @@
 
 ## **Questions les plus fréquentes**
 
-* [En tant qu'orienteur, j’ai un code d’invitation, où dois-je le saisir ?](faq-prescripteur.md#en-tant-quorienteur-jai-un-code-dinvitation-pour-me-rattacher-a-mon-organisation-ou-dois-je-le-saisir)
+* [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/~/drafts/-MNtQ5MAhIogwwD7-NXX/reponses-a-mes-questions-faq/faq-prescripteur#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
 * [Je me suis rattaché à la mauvaise organisation, comment faire ?](faq-prescripteur.md#je-me-suis-rattache-a-la-mauvaise-organisation-comment-faire)
 * [Je souhaite changer l’adresse mail de mon compte utilisateur, que dois-je faire ?](faq-prescripteur.md#je-souhaite-changer-ladresse-mail-de-mon-compte-que-dois-je-faire)
 
@@ -106,7 +106,23 @@ Oui, à condition de respecter un délai de carence obligatoire de 2 ans entre c
 
 Oui un message s'affiche au moment où le prescripteur souhaite postuler. On lui donne la date de la dernière candidature envoyée à cet employeur pour ce candidat
 
+Est-il possible de d'envoyer une relance aux collaborateurs qui n'ont pas fait leur inscription sur la plateforme suite au mail d'invitation ?
 
+### Qui peut utiliser la fonction "inviter des collaborateurs" ?
+
+Tous les membres du tableau de bord
+
+**Est-il possible de d'envoyer une relance aux collaborateurs qui n'ont pas fait leur inscription sur la plateforme suite au mail d'invitation ?**
+
+Il faut renvoyer une nouvelle invitation
+
+### En tant que prescripteur habilité, dois-je fournir les pièces justificatives à l'employeur ?
+
+Le prescripteur n'a pas à conserver ni à transmettre de pièces justificatives à l'employeur.
+
+### Peut on faire une candidature spontanée si l'employeur a bloqué les candidatures ?
+
+Non, tant que l'employeur bloque les candidatures on ne peut plus postuler auprès de sa structure
 
 {% hint style="info" %}
 **Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** [**contactez l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) ****!  😊 
