@@ -148,7 +148,7 @@ Non il faut postuler auprès d'une structure.
 
 Uniquement celles qui sont envoyées par votre organisation
 
-LA SIAE a t-elle la possibilité d'expliquer son refus d'embauche ?
+### L'employeur a-t-il la possibilité d'expliquer son refus d'embauche ?
 
 Oui l'employeur choisit parmi une liste de motifs, le prescripteur reçoit le motif de refus \(celui-ci n'est pas communiqué au candidat\). Le candidat reçoit uniquement le message de réponse.
 
