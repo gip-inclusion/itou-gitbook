@@ -154,6 +154,14 @@ Oui un prescripteur peut être présent sur plusieurs organisations de prescript
 Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'autre en cliquant sur le bouton situé en haut à droite "changer de structure"**
 {% endhint %}
 
+### Un employeur peut-il avoir un compte prescripteur ?
+
+{% hint style="info" %}
+Les collaborateurs des entreprises qui sont en charge d'accompagner les candidater peuvent créer un compte "orienteur" pour proposer les candidats à d'autres employeurs solidaires.
+
+A noter qu'il faudra utiliser une adresse mail différente si celle ci est déjà utilisée pour le compte employeur.
+{% endhint %}
+
 ## 3️⃣ Diagnostic & orientation du candidat
 
 ### Comment sont triés les résultats d'une recherche d'employeurs ?
