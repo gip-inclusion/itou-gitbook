@@ -1,5 +1,7 @@
 # FAQ prescripteur
 
+![](../.gitbook/assets/picmoteur.png)
+
 ## 🔥 **Questions les plus fréquentes**
 
 * [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?](faq-prescripteur.md#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
@@ -26,6 +28,32 @@
 
 {% hint style="info" %}
 Le prescripteur habilité peut à la fois postuler pour un candidat et valider son éligibilité. L'orienteur peut également postuler pour un candidat, mais l’éligibilité sera validée par la SIAE. Seul un prescripteur habilité peut prescrire un parcours IAE hors critères d'éligibilité ou obligation de carence de 2 ans entre deux parcours. [Pour + d'info](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/).
+{% endhint %}
+
+### _**Quel est le rôle d'un prescripteur habilité ?**_
+
+{% hint style="info" %}
+Le prescripteur habilité peut :
+
+* Proposer des candidatures aux employeurs solidaires
+* Valider l’éligibilité à l’IAE d’un candidat pour 6 mois
+* Déroger aux critères administratifs exigés pour l’IAE \( s’il estime qu’un parcours IAE est pertinent suite au diagnostic socio-professionnel
+* Déroger au délai de carence entre 2 PASS IAE/Agrément \(délai de carence = 2 ans\)
+
+Et prochainement, il pourra : 
+
+* Autoriser une prolongation du PASS IAE
+{% endhint %}
+
+### _Quel est le rôle d'un orienteur ?_
+
+{% hint style="info" %}
+L'orienteur peut :
+
+* S’inscrire dans le cadre d’une organisation ou seul\(e\)
+* Proposer des candidatures aux employeurs solidaires sans valider l'éligibilité  à l'IAE
+
+L’éligibilité de son candidat sera réalisée par la SIAE au moment de l'embauche.
 {% endhint %}
 
 ### _**Faut-il obligatoirement être habilité pour orienter un candidat vers un employeur via la Plateforme?**_
