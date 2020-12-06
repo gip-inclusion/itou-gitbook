@@ -24,9 +24,14 @@ Si votre organisation n'est pas habilitée, créez votre compte sans indiquer d'
 
 ### J’ai créé compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ?
 
-La liste correspond uniquement aux prescripteurs habilités. Si vous pensez que votre organisation est habilitée et qu’elle n’apparaît cependant pas, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
+La liste correspond uniquement aux prescripteurs habilités au national. 
 
-Si votre organisation n'est pas habilitée, créez votre compte sans indiquer d'organisation, puis modifier votre organisation ensuite.
+Si votre votre organisation est : 
+
+* Habilitée par le préfet [\[ Voir mode d'emploi \]](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-prescripteur-habilite-au-national)
+* Conventionnée par un Conseil départemental [\[Voir Mode d'emploi \]](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-prescripteur-habilite-au-niveau-prefectoral)
+
+Si votre organisation n'est pas habilitée, vous pouvez créer votre compte orienteur [\[Voir mode d'emploi \]](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-orienteur)
 
 ### J'ai perdu mon mot de passe, comment faire ?
 
