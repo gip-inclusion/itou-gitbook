@@ -1,7 +1,5 @@
 # FAQ prescripteur
 
-
-
 ![](../.gitbook/assets/picmoteur.png)
 
 ## 🔥 **Questions les plus fréquentes**
