@@ -150,9 +150,11 @@ Uniquement celles qui sont envoyées par votre organisation
 
 ### L'employeur a-t-il la possibilité d'expliquer son refus d'embauche ?
 
-Oui l'employeur choisit parmi une liste de motifs, le prescripteur reçoit le motif de refus \(celui-ci n'est pas communiqué au candidat\). Le candidat reçoit uniquement le message de réponse.
+Oui l'employeur choisit parmi une liste de motifs, le prescripteur reçoit le motif de refus \(celui-ci n'est pas communiqué au candidat\). Le candidat reçoit uniquement le message de réponse
 
+### Le diagnostic d'éligibilité du prescripteur habilité peut-il être remis en cause par la DIRECCTE ?
 
+Non, la DIRECCTE ne contrôlera que les embauches pour lesquelles l'employeur a validé lui même les critères d'éligibilité.
 
 {% hint style="info" %}
 **Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** [**contactez l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) ****!  😊 
