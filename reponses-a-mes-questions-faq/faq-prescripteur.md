@@ -59,7 +59,9 @@ L’éligibilité de son candidat sera réalisée par la SIAE au moment de l'emb
 ### _**Faut-il obligatoirement être habilité pour orienter un candidat vers un employeur via la Plateforme?**_
 
 {% hint style="info" %}
-Aucune demande d'habilitation n’est nécessaire. Tout orienteur peut se créer un compte sur la Plateforme et postuler pour un ou plusieurs candidats auprès des entreprises solidaires référencées. [Inscrivez-vous en quelques clics !](https://inclusion.beta.gouv.fr/signup/select_prescriber_type)
+Aucune demande d'habilitation n’est nécessaire. Tout orienteur peut se créer un compte sur la Plateforme et postuler pour un ou plusieurs candidats auprès des entreprises solidaires référencées. [Inscrivez-vous en quelques clics !](https://inclusion.beta.gouv.fr/signup/prescriber/choose_kind)
+
+[Voir mode d'emploi pour s'inscrire en tant qu'orienteur](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-orienteur)
 {% endhint %}
 
 ### _Comment devenir prescripteur habilité si je ne le suis pas ?_
