@@ -73,7 +73,7 @@ L'habilitation des prescripteurs se fait au niveau local, à travers les Unités
 ### Comment savoir si mon organisation est habilitée au niveau préfectorale ?
 
 {% hint style="info" %}
-Vous devez avoir un arrêté préfectoral qui mentionne votre habilitation. Nous n'avons pas la liste de toutes les organisations habilitées au niveau préfectoral, il faut donc vérifier cette information au niveau local \(votre direction ou la DIRECCTE\)
+Vous devez avoir un arrêté préfectoral qui mentionne votre habilitation. Nous n'avons pas la liste de toutes les organisations habilitées par les préfets,  il faut donc vérifier cette information au niveau local \(votre direction ou la DIRECCTE\)
 {% endhint %}
 
 
