@@ -124,6 +124,10 @@ Le prescripteur n'a pas à conserver ni à transmettre de pièces justificatives
 
 Non, tant que l'employeur bloque les candidatures on ne peut plus postuler auprès de sa structure
 
+### Mon candidat n'a pas d'adresse mail, comment faire ?
+
+Il faut l'aider à en créer une, car l'adresse e-mail est obligatoire pour postuler. Nous vous recommandons d'utiliser le site laposte.net. Il ne faut pas utiliser votre adresse mail professionnelle pour postuler pour le candidat.
+
 {% hint style="info" %}
 **Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** [**contactez l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) ****!  😊 
 {% endhint %}
