@@ -179,7 +179,9 @@ Si vous êtes  prescripteur habilité, vous pouvez passer outre les critères ad
 ### _Puis-je orienter un candidat vers un employeur d'un autre département ?_
 
 {% hint style="info" %}
-Il est effectivement possible via la Plateforme d'orienter un candidat vers un employeur situé dans un autre département.
+Il est effectivement possible via la Plateforme d'orienter un candidat vers un employeur situé dans un autre département. 
+
+Certains acteurs nous signalent que certains employeurs refusent d'embaucher des candidats en dehors de leur département,  nous les invitons à prendre contact avec leur DIRECCTE
 {% endhint %}
 
 ### _Le diagnostic d'éligibilité du prescripteur habilité peut-il être remis en cause par la DIRECCTE ?_
