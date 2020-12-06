@@ -160,6 +160,10 @@ Non, la DIRECCTE ne contrôlera que les embauches pour lesquelles l'employeur a 
 
 Il n'y a pas de hotline, vous pouvez [contacter l'assistance technique par mail](mailto:%20assistance@inclusion.beta.gouv.fr)
 
+### Je veux tester la plateforme de l'inclusion, comment faire ?
+
+Vous pouvez utiliser notre [espace de démonstration](https://demo.inclusion.beta.gouv.fr/)
+
 {% hint style="info" %}
 **Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** [**contactez l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) ****!  😊 
 {% endhint %}
