@@ -28,8 +28,8 @@ La liste correspond uniquement aux prescripteurs habilités au national.
 
 Si votre votre organisation est : 
 
-* Habilitée par le préfet [\[ Voir mode d'emploi \]](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-prescripteur-habilite-au-national)
-* Conventionnée par un Conseil départemental [\[Voir Mode d'emploi \]](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-prescripteur-habilite-au-niveau-prefectoral)
+* Habilitée par le préfet[ \[ Voir mode d'emploi \]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/inscription-prescripteur#inscription-pour-un-prescripteur-habilite-au-niveau-prefectoral)
+* Conventionnée par un Conseil départemental [\[Voir Mode d'emploi \]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/inscription-prescripteur#inscription-pour-une-organisation-conventionnee-par-un-conseil-departemental-pour-le-suivi-des-beneficiaires-du-rsa)
 
 Si votre organisation n'est pas habilitée, vous pouvez créer votre compte orienteur [\[Voir mode d'emploi \]](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-orienteur)
 
