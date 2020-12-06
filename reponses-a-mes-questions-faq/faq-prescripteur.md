@@ -5,7 +5,7 @@
 ## 🔥 **Questions les plus fréquentes**
 
 * [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment faire ?](faq-prescripteur.md#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
-* [Je souhaite changer l’adresse mail de mon compte utilisateur, que dois-je faire ?](faq-prescripteur.md#je-souhaite-changer-ladresse-mail-de-mon-compte-que-dois-je-faire)
+* [Je souhaite changer l’adresse mail de mon compte utilisateur](faq-prescripteur.md#je-souhaite-changer-ladresse-mail-de-mon-compte-que-dois-je-faire)
 * [J'ai fait une erreur de saisie dans le profil du candidat et/ou le diagnostic d'éligibilité](faq-prescripteur.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat-et-ou-le-diagnostic-deligibilite)
 
 ## ⚡LES THEMES DE LA FAQ : 
@@ -117,7 +117,7 @@ Pour le moment il n'est pas possible de  modifier ces informations depuis la pla
 Vous ne pouvez pas le modifier par vous-même pour l'instant, mais cela viendra ! [Contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) pour nous le signaler, merci.
 {% endhint %}
 
-### _Je souhaite changer l’adresse mail de mon compte, que dois-je faire ?_
+### _Je souhaite changer l’adresse mail de mon compte_
 
 {% hint style="info" %}
 \_\_[Contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) pour nous indiquer l’adresse mail que vous souhaitez rattacher à votre compte. Nous procèderons au changement.
