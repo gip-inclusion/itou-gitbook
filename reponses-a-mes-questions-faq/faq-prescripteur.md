@@ -28,20 +28,14 @@ La liste correspond uniquement aux prescripteurs habilités au national.
 
 Si votre votre organisation est : 
 
-* Habilitée par le préfet[ \[ Voir mode d'emploi \]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/inscription-prescripteur#inscription-pour-un-prescripteur-habilite-au-niveau-prefectoral)
-* Conventionnée par un Conseil départemental [\[Voir Mode d'emploi \]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/inscription-prescripteur#inscription-pour-une-organisation-conventionnee-par-un-conseil-departemental-pour-le-suivi-des-beneficiaires-du-rsa)
+* Habilitée par le préfet[ \[ Consultez le mode d'emploi pour vous inscrire \]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/inscription-prescripteur#inscription-pour-un-prescripteur-habilite-au-niveau-prefectoral)
+* Conventionnée par un Conseil départemental [\[Consultez le mode d'emploi pour vous inscrire \]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/inscription-prescripteur#inscription-pour-une-organisation-conventionnee-par-un-conseil-departemental-pour-le-suivi-des-beneficiaires-du-rsa)
 
 Si votre organisation n'est pas habilitée, vous pouvez créer votre compte orienteur [\[Voir mode d'emploi \]](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-orienteur)
 
 ### J'ai perdu mon mot de passe, comment faire ?
 
 Vous pouvez réinitialiser votre mot de passe sur cette [page](https://inclusion.beta.gouv.fr/accounts/password/reset/).
-
-### Comment créer mon organisation, elle n'apparaît pas ?
-
-Une fois inscrit et connecté, allez sur ‘’Tableau de bord’’ puis cliquez sur "Créer une organisation". Saisissez les informations de votre organisation et enregistrez-les. Vous deviendrez alors administrateur du compte.
-
-Pour ceux qui s’enregistrent comme ‘’orienteur’’, un code unique vous est attribué afin d’inviter vos collaborateurs à rejoindre votre compte organisation et être ainsi tous reliés.
 
 ### Si je suis orienteur, dois-je envoyer le candidat vers un prescripteur habilité ?
 
@@ -87,15 +81,9 @@ Suite au confinement, tout Pass IAE en cours de validité entre le 17 mars et le
 
 [Contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) pour nous indiquer l’adresse mail que vous souhaitez rattacher à votre compte. Nous procèderons au changement au plus vite.
 
-### En tant qu'orienteur, j’ai un code d’invitation pour me rattacher à mon organisation, où dois-je le saisir ?
-
-Ce code permet aux orienteurs d’une même organisation d’être rattachés automatiquement au compte de l'organisation. Il vous a été transmis par la personne qui a créé ce compte \(l’administrateur\).
-
-Connectez-vous ou créez votre votre compte ‘’orienteur’’. Saisissez vos informations sur la fiche d’inscription \(nom, prénom, mail, choix de mot de passe\), indiquez votre code d’invitation \(ex : 300C5B\), puis cliquez sur ‘’Inscription’’. Vous êtes maintenant relié à votre organisation !
-
 ### J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?
 
-Pour que ce rôle soit attribué à une autre personne, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
+Si vous avez créé le compte de votre organisation et que vous ne souhaitez pas être administrateur, vous pouvez inviter la personne qui prendra ce rôle et lui attribuer le statut d'administrateur. Le nouvel administrateur se chargera de vous retirer les droits admin.
 
 ### Comment sont triés les résultats d'une recherche d'employeurs ?
 
