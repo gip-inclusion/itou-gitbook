@@ -236,6 +236,12 @@ Pour le moment ce n'est pas possible de le faire en une fois, on peut postuler a
 Non il faut postuler auprès d'une structure.
 {% endhint %}
 
+### Que se passe-t-il si le diagnostic d'éligibilité IAE du candidat expire ?
+
+{% hint style="info" %}
+Si l'employeur souhaite embauche un candidat qui a un diagnostic d'éligibilité IAE, il devra valider lui même les critères d'éligibilité. Par conséquent cette embauche sera soumise aux contrôles aléatoires de la DIRECCTE
+{% endhint %}
+
 ## 4️⃣ Suivi des candidatures
 
 ### _Suis-je tenu informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_
