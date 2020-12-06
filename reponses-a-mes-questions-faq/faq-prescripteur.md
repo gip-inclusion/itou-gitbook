@@ -5,6 +5,7 @@
 * [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/~/drafts/-MNtQ5MAhIogwwD7-NXX/reponses-a-mes-questions-faq/faq-prescripteur#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
 * [Je me suis rattaché à la mauvaise organisation, comment faire ?](faq-prescripteur.md#je-me-suis-rattache-a-la-mauvaise-organisation-comment-faire)
 * [Je souhaite changer l’adresse mail de mon compte utilisateur, que dois-je faire ?](faq-prescripteur.md#je-souhaite-changer-ladresse-mail-de-mon-compte-que-dois-je-faire)
+* [J'ai fait une erreur de saisie dans le profil du candidat, comment modifier ?](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/~/drafts/-MNtWiH7__Xppiz7gpsW/reponses-a-mes-questions-faq/faq-prescripteur#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat-comment-modifier)
 
 \*\*\*\*
 
@@ -32,6 +33,10 @@ Si votre votre organisation est :
 * Conventionnée par un Conseil départemental [\[Consultez le mode d'emploi pour vous inscrire \]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/inscription-prescripteur#inscription-pour-une-organisation-conventionnee-par-un-conseil-departemental-pour-le-suivi-des-beneficiaires-du-rsa)
 
 Si votre organisation n'est pas habilitée, vous pouvez créer votre compte orienteur [\[Voir mode d'emploi \]](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-orienteur)
+
+### J'ai fait une erreur de saisie dans le profil du candidat, comment modifier ?
+
+Pour le moment il n'est pas possible de le modifier depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
 
 ### J'ai perdu mon mot de passe, comment faire ?
 
@@ -163,6 +168,10 @@ Il n'y a pas de hotline, vous pouvez [contacter l'assistance technique par mail]
 ### Je veux tester la plateforme de l'inclusion, comment faire ?
 
 Vous pouvez utiliser notre [espace de démonstration](https://demo.inclusion.beta.gouv.fr/)
+
+### Aura t-on les mêmes possibilités : extension, prolongation, suspension?
+
+Consultez notre [note dédiée aux extensions, prolongations, suspensions](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae)
 
 {% hint style="info" %}
 **Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** [**contactez l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) ****!  😊 
