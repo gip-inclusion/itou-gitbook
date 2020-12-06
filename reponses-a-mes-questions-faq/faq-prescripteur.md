@@ -8,7 +8,7 @@
 
 * [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment faire ?](faq-prescripteur.md#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
 * [Je souhaite changer l’adresse mail de mon compte utilisateur, que dois-je faire ?](faq-prescripteur.md#je-souhaite-changer-ladresse-mail-de-mon-compte-que-dois-je-faire)
-* [J'ai fait une erreur de saisie dans le profil du candidat et/ou le diagnostic d'éligibilité](faq-prescripteur.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat-comment-modifier)
+* [J'ai fait une erreur de saisie dans le profil du candidat et/ou le diagnostic d'éligibilité](faq-prescripteur.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat-et-ou-le-diagnostic-deligibilite)
 
 ## ⚡LES THEMES DE LA FAQ : 
 
@@ -110,7 +110,7 @@ Pour en savoir plus consultez le mode d'emploi à la rubrique ["administrateur d
 ### _J'ai fait une erreur de saisie dans le profil du candidat et/ou le diagnostic d'éligibilité_
 
 {% hint style="info" %}
-Pour le moment il n'est pas possible de le modifier depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
+Pour le moment il n'est pas possible de  modifier ces informations depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
 {% endhint %}
 
 ### Sur mon compte, le type d'organisation \(Cap emploi, Mission locale...\) n'est pas bon ou pas renseigné. Comment rectifier ?
