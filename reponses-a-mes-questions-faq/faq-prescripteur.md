@@ -1,12 +1,14 @@
 # FAQ prescripteur
 
+
+
 ![](../.gitbook/assets/picmoteur.png)
 
 ## 🔥 **Questions les plus fréquentes**
 
 * [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment faire ?](faq-prescripteur.md#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
 * [Je souhaite changer l’adresse mail de mon compte utilisateur, que dois-je faire ?](faq-prescripteur.md#je-souhaite-changer-ladresse-mail-de-mon-compte-que-dois-je-faire)
-* [J'ai fait une erreur de saisie dans le profil du candidat, comment modifier ?](faq-prescripteur.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat-comment-modifier)
+* [J'ai fait une erreur de saisie dans le profil du candidat et/ou le diagnostic d'éligibilité](faq-prescripteur.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat-comment-modifier)
 
 ## ⚡LES THEMES DE LA FAQ : 
 
@@ -105,7 +107,7 @@ Si vous avez créé le compte de votre organisation et que vous ne souhaitez pas
 Pour en savoir plus consultez le mode d'emploi à la rubrique ["administrateur de l'organisation"](../mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
 {% endhint %}
 
-### _J'ai fait une erreur de saisie dans le profil du candidat, comment modifier ?_
+### _J'ai fait une erreur de saisie dans le profil du candidat et/ou le diagnostic d'éligibilité_
 
 {% hint style="info" %}
 Pour le moment il n'est pas possible de le modifier depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
