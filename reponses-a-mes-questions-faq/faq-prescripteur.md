@@ -1,12 +1,26 @@
 # FAQ prescripteur
 
-## **Questions les plus fréquentes**
+## 🔥 **Questions les plus fréquentes**
 
 * [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/~/drafts/-MNtQ5MAhIogwwD7-NXX/reponses-a-mes-questions-faq/faq-prescripteur#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
 * [Je souhaite changer l’adresse mail de mon compte utilisateur, que dois-je faire ?](faq-prescripteur.md#je-souhaite-changer-ladresse-mail-de-mon-compte-que-dois-je-faire)
 * [J'ai fait une erreur de saisie dans le profil du candidat, comment modifier ?](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/~/drafts/-MNtWiH7__Xppiz7gpsW/reponses-a-mes-questions-faq/faq-prescripteur#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat-comment-modifier)
 
-## Rôle du prescripteur / orienteur
+## ⚡LES THEMES DE LA FAQ : 
+
+#### 1️⃣ [Rôle du prescripteur / orienteur](faq-prescripteur.md#1-role-du-prescripteur-orienteur-1)
+
+#### 2️⃣ [Gestion de compte](faq-prescripteur.md#2-gestion-de-compte-1)
+
+#### 3️⃣[ Diagnostic & Orientation du candidat](faq-prescripteur.md#3-diagnostic-and-orientation-du-candidat-1)
+
+#### 4️⃣ [Suivi des candidatures](faq-prescripteur.md#4-suivi-des-candidatures-1)
+
+#### 5️⃣ [Pass IAE](faq-prescripteur.md#5-pass-iae-1)
+
+#### 6️⃣ [Autre](faq-prescripteur.md#6-autre-1)
+
+## 1️⃣ Rôle du prescripteur / orienteur
 
 ### _Quelle est la différence entre un prescripteur habilité et un orienteur ?_ 
 
@@ -26,7 +40,7 @@ Aucune demande d'habilitation n’est nécessaire. Tout orienteur peut se créer
 L'habilitation des prescripteurs se fait au niveau local, à travers les Unités départementales des Direccte. Faites votre demande auprès d'eux.
 {% endhint %}
 
-## Gestion de compte 
+## 2️⃣ Gestion de compte 
 
 ### _J’ai créé compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ?_
 
@@ -83,7 +97,7 @@ Tous les membres du tableau de bord
 Il faut renvoyer une nouvelle invitation.
 {% endhint %}
 
-## Diagnostic & orientation du candidat
+## 3️⃣ Diagnostic & orientation du candidat
 
 ### Comment sont triés les résultats d'une recherche d'employeurs ?
 
@@ -178,7 +192,7 @@ Pour le moment ce n'est pas possible de le faire en une fois, on peut postuler a
 Non il faut postuler auprès d'une structure.
 {% endhint %}
 
-## Suivi de la candidature
+## 4️⃣ Suivi des candidatures
 
 ### _Suis-je tenu informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_
 
@@ -204,7 +218,7 @@ Uniquement celles qui sont envoyées par votre organisation
 Si vous avez postulé pour lui en indiquant son mail, il sera informé par mail à chaque étape du traitement de sa candidature \(à l’étude, acceptée, pour plus tard, refusée…\).
 {% endhint %}
 
-## PASS IAE 
+## 5️⃣ PASS IAE 
 
 ### _Quelle est la différence entre un agrément et un Pass IAE ?_
 
@@ -236,7 +250,7 @@ Oui, à condition de respecter un délai de carence obligatoire de 2 ans entre c
 Consultez notre [note dédiée aux extensions, prolongations, suspensions](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae)
 {% endhint %}
 
-## Autre
+## 6️⃣ Autre
 
 ### Existe-t-il une hotline \(numéro pour joindre l'assistance technique\) ?
 
