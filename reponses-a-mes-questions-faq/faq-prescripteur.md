@@ -149,7 +149,7 @@ Oui un prescripteur peut être présent sur plusieurs organisations de prescript
 2 cas de figure : 
 
 * **L'autre organisation que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur la plateforme
-* **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur la plateforme** = il faut nous contacter par mail afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
+* **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur la plateforme** = il faut nous [contacter par mail ](mailto:assistance@inclusion.beta.gouv.fr)afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
 
 Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'autre en cliquant sur le bouton situé en haut à droite "changer de structure"**
 {% endhint %}
