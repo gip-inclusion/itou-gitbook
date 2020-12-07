@@ -1,6 +1,8 @@
 # FAQ employeur solidaire
 
-## **Questions les plus fréquentes**
+![](../.gitbook/assets/picmoteur.png)
+
+## 🔥 **Questions les plus fréquentes**
 
 * [Quel est l'impact de la crise sanitaire sur mes embauches et le Pass IAE ?](faq-employeur.md#quel-est-limpact-de-la-crise-sanitaire-sur-mes-embauches-et-le-pass-iae)
 * [Comment ajouter mes collaborateurs sur le compte de ma structure ?](faq-employeur.md#comment-ajouter-mes-collaborateurs-sur-le-compte-de-ma-structure)
