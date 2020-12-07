@@ -4,7 +4,9 @@ description: La Foire Aux Questions que l'on se pose sur la Plateforme
 
 # FAQ candidat
 
-## **Questions les plus fréquentes**
+![](../.gitbook/assets/picmoteur.png)
+
+## 🔥 **Questions les plus fréquentes**
 
 * [À quoi me sert la plateforme de l’inclusion ?](../a-quoi-va-me-servir-la-plateforme/fonctionnalites-candidat.md)
 * [Comment m'inscrire ?](../mon-mode-demploi-candidat/inscription-candidat.md)
