@@ -314,7 +314,7 @@ _Il existe 7 types de statut :_
 ### _Les employeurs sont-ils alertés en cas d’embauche par un autre employeur ?_
 
 {% hint style="info" %}
-Oui, toutes les autres candidatures sont mises à jour avec la mention "embauché ailleurs"
+Oui, toutes les autres candidatures du candidat sont mises à jour avec la mention "embauché ailleurs"
 {% endhint %}
 
 ## 5️⃣ PASS IAE 
