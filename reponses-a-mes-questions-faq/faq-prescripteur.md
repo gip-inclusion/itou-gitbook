@@ -265,6 +265,16 @@ Non il faut postuler auprès d'une structure.
 Si l'employeur souhaite embauche un candidat qui a un diagnostic d'éligibilité IAE, il devra valider lui même les critères d'éligibilité. Par conséquent cette embauche sera soumise aux contrôles aléatoires de la DIRECCTE
 {% endhint %}
 
+### _Est-ce qu'il faut encore utiliser des fiches de positionnement IAE ?_
+
+{% hint style="info" %}
+Non :\) La fiche de positionnement IAE n'est plus nécessaire, tout se fait sur la Plateforme de l'inclusion. Il ne faut donc pas envoyer de fiches de positionnement aux employeurs mais orienter vos candidats via la plateforme.
+
+Les prescripteurs habilités pourront valider le diagnostic d'éligibilité IAE directement sur la Plateforme. 
+
+Si un employeur reçoit une fiche de positionnement il n'a aucun moyen de la renseigner sur la Plateforme, par conséquent s'il souhaite embaucher votre candidat et obtenir un PASS IAE, il ne pourra le faire que dans le cadre d'une auto-prescription et donc on perd l'origine de la prescription. De plus l'employeur aura la responsabilité de valider lui même les critères d'éligibilité IAE.
+{% endhint %}
+
 ## 4️⃣ Suivi des candidatures
 
 ### _Suis-je tenu informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_
