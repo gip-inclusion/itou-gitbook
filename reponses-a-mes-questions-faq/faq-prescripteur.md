@@ -316,7 +316,7 @@ _Il existe 7 types de statut :_
 * _**Candidature à l'étude =** L'employeur a pris connaissance de la candidature_
 * _**Candidature acceptée =** L'employeur a décidé d'embaucher le candidat_
 * _**Embauche pour plus tard** = L'employeur a différé la réponse \( l'embauche n'est pas garantie\)_
-* _Ca**ndidature déclinée =** L'employeur a refusé la candidature_
+* _**Candidature déclinée =** L'employeur a refusé la candidature_
 * _**Embauche annulée =** L'employeur avait accepté l'embauche mais s'est rétracté \( exemple : le candidat ne se présente pas\)_
 * _**Embauché ailleurs =** Une autre structure a embauché ce candidat_
 {% endhint %}
