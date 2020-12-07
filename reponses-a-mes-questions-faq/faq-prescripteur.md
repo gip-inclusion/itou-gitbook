@@ -300,7 +300,7 @@ Si vous avez postulé pour lui en indiquant son mail, il sera informé par mail 
 ### Quels sont les différents statuts liés aux candidatures ?
 
 {% hint style="info" %}
-_Il existe 6 types de statut :_
+_Il existe 7 types de statut :_
 
 * _**Nouvelle candidature** = L'employeur n'a pas encore pris connaissance de la candidature_
 * _**Candidature à l'étude =** L'employeur a pris connaissance de la candidature_
@@ -308,6 +308,7 @@ _Il existe 6 types de statut :_
 * _**Embauche pour plus tard** = L'employeur a différé la réponse \( l'embauche n'est pas garantie\)_
 * _Ca**ndidature déclinée =** L'employeur a refusé la candidature_
 * _**Embauche annulée =** L'employeur avait accepté l'embauche mais s'est rétracté \( exemple : le candidat ne se présente pas\)_
+* _**Embauché ailleurs =** Une autre structure a embauché ce candidat_
 {% endhint %}
 
 ## 5️⃣ PASS IAE 
