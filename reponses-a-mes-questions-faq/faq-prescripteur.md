@@ -365,6 +365,16 @@ Consultez notre [note dédiée aux extensions, prolongations, suspensions](https
 La Direction Générale de Pôle emploi nous a fait parvenir l'historique des PASS IAE déjà délivrés, ainsi qu'un fichier mensuel de mise à jour des nouveaux agréments délivrés. Cela permet à notre outil de détecter automatiquement si un PASS IAE a déjà été délivré ou non, et d'éviter ainsi les doublons.
 {% endhint %}
 
+### _Que se passe-t-il en cas de doublon agrément Pole emploi/ Pass IAE , lequel est valable ? Et quel impact sur le financement ?_
+
+{% hint style="info" %}
+En cas de doublon, nous alignons les dates. \(c'est la date la plus ancienne qui est retenue\)
+
+L'employeur pourra utiliser le numéro de PASS **ou** le numéro d'agrément Pôle emploi pour sa déclaration dans l'extranet IAE 2.0 de l'ASP, les 2 numéros sont valables.
+
+Il n'y a pas de risque de double financement car l'ASP vérifie les déclarations, c'est donc transparent pour l'employeur.
+{% endhint %}
+
 ## 6️⃣ Autre
 
 ### Existe-t-il une hotline \(numéro pour joindre l'assistance technique\) ?
