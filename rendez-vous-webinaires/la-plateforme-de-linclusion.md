@@ -8,7 +8,7 @@ description: >-
 
 Pour **accompagner le déploiement et faciliter la prise en main de la Plateforme** par tous les acteurs de l'inclusion, nous organisons des **Webinaires de présentation par thématique et/ou par région**. Retrouvez **les replay sur cette page**.
 
-## Vous souhaitez assister à une démonstration détaillée de la Plateforme ? Inscrivez-vous à nos webinaires de formation technique
+## 📺 Inscrivez-vous à nos webinaires de formation technique
 
 ### _Open webinaires de formation pour les prescripteurs_ 
 
