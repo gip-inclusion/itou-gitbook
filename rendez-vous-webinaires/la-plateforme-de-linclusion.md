@@ -8,8 +8,6 @@ description: >-
 
 Pour **accompagner le déploiement et faciliter la prise en main de la Plateforme** par tous les acteurs de l'inclusion, nous organisons des **Webinaires de présentation par thématique et/ou par région**. Retrouvez **les replay sur cette page**.
 
-Vous retrouverez les [réponses aux questions posées pendant les webinaires ici](https://docs.google.com/spreadsheets/d/1piM7ZiGsAYUPRJ_P2iAoIx7LpYhdqChnotUvTo5LxUg/edit#gid=151808733)
-
 ## 📺  Inscrivez-vous à nos webinaires de formation 
 
 ### _Open webinaires de formation pour les prescripteurs_ 
@@ -35,11 +33,15 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 * [**Mardi 15 Décembre à 10h00** : Webinaire sur le format d'un Questions/Réponses pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-pour-les-siae)
 {% endhint %}
 
-#### En vous inscrivant, vous recevrez un lien d'accès individuel. Le jour J pensez à privilégier le navigateur Google chrome ou Firefox. Internet explorer n'est pas compatible.
+{% hint style="danger" %}
+En vous inscrivant, vous recevrez un lien d'accès individuel. Le jour J pensez à privilégier le navigateur Google chrome ou Firefox. Internet explorer n'est pas compatible.
+{% endhint %}
 
 {% hint style="info" %}
  Vous souhaitez **organiser un webinaire de formation** sur votre territoire ou au sein de votre réseau ? 👉\*\*\*\*[**Accéder au formulaire**](https://startupsbeta.typeform.com/to/btgqYsdQ) ! 😊 
 {% endhint %}
+
+Vous retrouverez les [réponses aux questions posées pendant les webinaires ici](https://docs.google.com/spreadsheets/d/1piM7ZiGsAYUPRJ_P2iAoIx7LpYhdqChnotUvTo5LxUg/edit#gid=151808733)
 
 ## **Retrouvez les replays des webinaires publics :**
 
