@@ -20,7 +20,7 @@ Pour **accompagner le déploiement et faciliter la prise en main de la Plateform
 * [**Lundi 14 Décembre à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-4)
 * \*\*\*\*[**Jeudi 17 Décembre à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-5)
 * \*\*\*\*[**Mardi 05 Janvier à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-6)
-* \*\*\*\*[**Mardi 19 Janvier à 10h** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-7)
+* \*\*\*\*[**Mardi 19 Janvier à 10h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-7)
 * \*\*\*\*[**Lundi 25 Janvier à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-8)
 * [**Jeudi 04 Février à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-9)
 {% endhint %}
