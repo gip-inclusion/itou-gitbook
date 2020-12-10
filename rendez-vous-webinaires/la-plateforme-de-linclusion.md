@@ -6,7 +6,7 @@ description: >-
 
 # La Plateforme de l'inclusion
 
-Pour **accompagner le déploiement et faciliter la prise en main de la Plateforme** par tous les acteurs de l'inclusion, nous organisons des **Webinaires de présentation par thématique et/ou par région**. Retrouvez **tous les replay sur cette page**.
+Pour **accompagner le déploiement et faciliter la prise en main de la Plateforme** par tous les acteurs de l'inclusion, nous organisons des **Webinaires de présentation par thématique et/ou par région**. Retrouvez **les replay sur cette page**.
 
 Vous retrouverez les [réponses aux questions posées pendant les webinaires ici](https://docs.google.com/spreadsheets/d/1piM7ZiGsAYUPRJ_P2iAoIx7LpYhdqChnotUvTo5LxUg/edit#gid=151808733)
 
@@ -44,6 +44,12 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 
 ## **Retrouvez les replays des webinaires précédents :**
+
+### 👉**10.12.2020 Open webinaire de démonstration pour les prescripteurs**
+
+{% embed url="https://youtu.be/9IhgM-Mgds8" %}
+
+[Voir les supports et liens utiles ](http://x2hik.mjt.lu/lnk/AUoAABkYIhcAAc2EFtAAAAQdO8UAAAAAOZoAJcqqAA-DkgBf0OAEWhrqWAQ-StSYMDH5lTmKDgAPR6Y/4/D5V00QgZJkvQJaCB-betkA/aHR0cHM6Ly9mb3J1bS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyL3Qvb3Blbi13ZWJpbmFpcmUtZGUtZGVtb25zdHJhdGlvbi1wb3VyLWxlcy1wcmVzY3JpcHRldXJzLzE0MTQ)
 
 ### 👉**17.11.2020 Webinaire de lancement : Normandie**
 
