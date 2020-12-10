@@ -14,7 +14,7 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 ### _Open webinaires de formation pour les prescripteurs_ 
 
-{% hint style="info" %}
+{% hint style="success" %}
 **⌛ Durée : 1h30**
 
 **📜 Programme: une présentation détaillée de la Plateforme spéciale prescripteurs + des réponses à vos questions** 
@@ -29,7 +29,7 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
 
 ### _Open webinaires de formation pour les employeurs solidaires \(SIAE, GEIQ, EA...\)_
 
-{% hint style="info" %}
+{% hint style="success" %}
 **⌛ Durée : 1h30**
 
 * [**Mardi 15 Décembre à 10h00** : Webinaire sur le format d'un Questions/Réponses pour les SIAE](https://app.livestorm.co/itou/demonstration-de-la-plateforme-de-linclusion-pour-les-siae)
