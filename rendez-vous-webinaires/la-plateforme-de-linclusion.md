@@ -41,15 +41,11 @@ Vous retrouverez les [réponses aux questions posées pendant les webinaires ici
  Vous souhaitez **organiser un webinaire de formation** sur votre territoire ou au sein de votre réseau ? 👉\*\*\*\*[**Accéder au formulaire**](https://startupsbeta.typeform.com/to/btgqYsdQ) ! 😊 
 {% endhint %}
 
+## **Retrouvez les replays des webinaires publics :**
 
-
-## **Retrouvez les replays des webinaires précédents :**
-
-### 👉**10.12.2020 Open webinaire de démonstration pour les prescripteurs**
-
-{% embed url="https://youtu.be/9IhgM-Mgds8" %}
-
-[Voir les supports et liens utiles ](http://x2hik.mjt.lu/lnk/AUoAABkYIhcAAc2EFtAAAAQdO8UAAAAAOZoAJcqqAA-DkgBf0OAEWhrqWAQ-StSYMDH5lTmKDgAPR6Y/4/D5V00QgZJkvQJaCB-betkA/aHR0cHM6Ly9mb3J1bS5pbmNsdXNpb24uYmV0YS5nb3V2LmZyL3Qvb3Blbi13ZWJpbmFpcmUtZGUtZGVtb25zdHJhdGlvbi1wb3VyLWxlcy1wcmVzY3JpcHRldXJzLzE0MTQ)
+{% hint style="info" %}
+**Certains replays ne sont pas publiés sur cette page mais sont uniquement partagés aux inscrits. Ils sont transmis par mail par l'équipe de la Plateforme ou les organisateurs.**
+{% endhint %}
 
 ### 👉**17.11.2020 Webinaire de lancement : Normandie**
 
