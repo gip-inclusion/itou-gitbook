@@ -10,7 +10,7 @@ Pour **accompagner le déploiement et faciliter la prise en main de la Plateform
 
 Vous retrouverez les [réponses aux questions posées pendant les webinaires ici](https://docs.google.com/spreadsheets/d/1piM7ZiGsAYUPRJ_P2iAoIx7LpYhdqChnotUvTo5LxUg/edit#gid=151808733)
 
-## 📺 Vous souhaitez assister à une démonstration détaillée de la Plateforme ? Inscrivez-vous à nos webinaires de formation technique
+## 📺  Inscrivez-vous à nos webinaires de formation 
 
 ### _Open webinaires de formation pour les prescripteurs_ 
 
