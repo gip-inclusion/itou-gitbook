@@ -34,7 +34,7 @@ Pour **accompagner le déploiement et faciliter la prise en main de la Plateform
 {% endhint %}
 
 {% hint style="danger" %}
-En vous inscrivant, vous recevrez un lien d'accès individuel. Le jour J pensez à privilégier le navigateur Google chrome ou Firefox. Internet explorer n'est pas compatible.
+En vous inscrivant, vous recevrez un lien d'accès individuel. Le jour J pensez à privilégier le navigateur Google chrome ou Firefox. L'outil de webinaire Livestorm n'est pas compatible avec Internet Explorer
 {% endhint %}
 
 {% hint style="info" %}
