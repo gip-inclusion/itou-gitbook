@@ -279,6 +279,14 @@ Les prescripteurs habilités pourront valider le diagnostic d'éligibilité IAE 
 Si un employeur reçoit une fiche de positionnement il n'a aucun moyen de la renseigner sur la Plateforme, par conséquent s'il souhaite embaucher votre candidat et obtenir un PASS IAE, il ne pourra le faire que dans le cadre d'une auto-prescription et donc on perd l'origine de la prescription. De plus l'employeur aura la responsabilité de valider lui même les critères d'éligibilité IAE.
 {% endhint %}
 
+### _Quel numéro d'identifiant Pole emploi doit-on saisir ?_ 
+
+{% hint style="info" %}
+Il faut renseigner le numéro de dossier Pole emploi \(et pas l'identifiant de connexion pole-emploi.fr \) 
+
+Il est composé de 8 caractères : 7 chiffres suivis d'une 1 lettre ou d'un chiffre.
+{% endhint %}
+
 ## 4️⃣ Suivi des candidatures
 
 ### _Suis-je tenu informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_
