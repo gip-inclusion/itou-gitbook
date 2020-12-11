@@ -339,6 +339,12 @@ _Il existe 7 types de statut :_
 Oui, toutes les autres candidatures du candidat sont mises à jour avec la mention "embauché ailleurs"
 {% endhint %}
 
+### _Comment faire si le candidat n'a pas la possibilité d'accéder à sa boite mail ?_
+
+{% hint style="info" %}
+En tant que prescripteur vous serez notifié de la décision prise par l'employeur. N'hésitez pas à utiliser le message de candidature pour préciser à l'employeur que le candidat n'a pas accès à sa boite mail
+{% endhint %}
+
 ## 5️⃣ PASS IAE 
 
 ### _Quelle est la différence entre un agrément et un Pass IAE ?_
