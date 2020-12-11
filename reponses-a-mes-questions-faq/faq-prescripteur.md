@@ -97,7 +97,7 @@ Si votre organisation n'est pas habilitée, vous pouvez créer votre compte orie
 Si vous avez créé le compte de votre organisation et que vous ne souhaitez pas être administrateur, vous pouvez inviter la personne qui prendra ce rôle et lui attribuer le statut d'administrateur. Le nouvel administrateur se chargera de vous retirer les droits admin. [\[Consultez la note dédiée aux Administrateurs\]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/administrateur-de-lorganisation)
 {% endhint %}
 
-### Quel est le rôle de l'administrateur ?
+### _Quel est le rôle de l'administrateur ?_
 
 {% hint style="info" %}
 Pour en savoir plus consultez le mode d'emploi à la rubrique ["administrateur de l'organisation"](../mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
@@ -145,7 +145,7 @@ Tous les membres du tableau de bord
 Il faut renvoyer une nouvelle invitation.
 {% endhint %}
 
-### Un prescripteur peut-il être membre de plusieurs organisations de prescripteurs/orienteurs?
+### _Un prescripteur peut-il être membre de plusieurs organisations de prescripteurs/orienteurs?_
 
 {% hint style="info" %}
 Oui un prescripteur peut être présent sur plusieurs organisations de prescripteurs ou orienteurs. 
@@ -158,12 +158,18 @@ Oui un prescripteur peut être présent sur plusieurs organisations de prescript
 Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'autre en cliquant sur le bouton situé en haut à droite "changer de structure"**
 {% endhint %}
 
-### Un employeur peut-il avoir un compte prescripteur ?
+### _Un employeur peut-il avoir un compte prescripteur ?_
 
 {% hint style="info" %}
 Les collaborateurs des entreprises qui sont en charge d'accompagner les candidater peuvent créer un compte "orienteur" pour proposer les candidats à d'autres employeurs solidaires.
 
 A noter qu'il faudra utiliser une adresse mail différente si celle ci est déjà utilisée pour le compte employeur.
+{% endhint %}
+
+### J'ai changé d'organisation comment faire pour rejoindre le compte de ma nouvelle organisation ?
+
+{% hint style="info" %}
+Demandez à vos nouveaux collègues de vous inviter sur le tableau de bord de votre nouvelle organisation et demandez également à l'administrateur de votre ancienne organisation de vous retirer de la liste des membres.
 {% endhint %}
 
 ## 3️⃣ Diagnostic & orientation du candidat
