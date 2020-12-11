@@ -76,12 +76,6 @@ L'habilitation des prescripteurs se fait au niveau local, à travers les Unités
 Vous devez avoir un arrêté préfectoral qui mentionne votre habilitation. Nous n'avons pas la liste de toutes les organisations habilitées par les préfets,  il faut donc vérifier cette information au niveau local \(votre direction ou la DIRECCTE\)
 {% endhint %}
 
-### _Comment retirer un collaborateur de mon organisation ?_
-
-{% hint style="info" %}
-L'administrateur de l'organisation a la possibilité de retirer un membre depuis la page "Gérer vos collaborateurs" en cliquant sur "retirer de la structure"
-{% endhint %}
-
 ## 2️⃣ Gestion de compte 
 
 ### _J’ai créé compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ?_
@@ -119,6 +113,12 @@ Pour le moment il n'est pas possible de  modifier ces informations depuis la pla
 
 {% hint style="info" %}
 Vous ne pouvez pas le modifier par vous-même pour l'instant, mais cela viendra ! [Contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) pour nous le signaler, merci.
+{% endhint %}
+
+### _Comment retirer un collaborateur de mon organisation ?_
+
+{% hint style="info" %}
+L'administrateur de l'organisation a la possibilité de retirer un membre depuis la page "Gérer vos collaborateurs" en cliquant sur "retirer de la structure"
 {% endhint %}
 
 ### _Je souhaite changer l’adresse mail de mon compte_
