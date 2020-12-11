@@ -32,7 +32,7 @@ Une erreur arrive vite ! Que faire si vous avez cliqué sur le mauvais bouton et
 
 ### Je n'ai toujours pas reçu de Pass IAE, comment faire ?
 
-Le délai moyen entre la candidature et l’obtention du Pass IAE est en moyenne de 6 jours. Si ce délai est largement dépassé, assurez-vous que le mail du Pass IAE ne se trouve pas dans vos spams.
+Le délai moyen entre la candidature et l’obtention du Pass IAE est en moyenne de 2 jours. Si ce délai est largement dépassé, assurez-vous que le mail du Pass IAE ne se trouve pas dans vos spams.
 
 Si ce n’est pas le cas, faites une vérification de la candidature dans votre ‘’Tableau de bord’’. Si l’agrément a été délivré, la candidature affichera le numéro. Si le numéro d'agrément n’apparaît pas, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
 
@@ -116,7 +116,7 @@ Oui, le Pass IAE a même valeur que l'agrément Pôle emploi. Il est valide dès
 
 ### Je reçois le numéro d'agrément en combien de temps via la Plateforme \(Pass IAE\)?
 
-Le délai entre la candidature et l’obtention du Pass IAE est de 6 jours en moyenne. Votre candidat peut néanmoins commencer à travailler en attendant sa réception. Il suffit de simplement confirmer son embauche sur la Plateforme.
+Le délai entre la candidature et l’obtention du Pass IAE est de 2 jours en moyenne. Votre candidat peut néanmoins commencer à travailler en attendant sa réception. Il suffit de simplement confirmer son embauche sur la Plateforme.
 
 ### Vais-je recevoir le numéro d'agrément aussi par courrier postal ?
 
@@ -189,7 +189,11 @@ Le prescripteur habilité peut à la fois postuler pour un candidat et valider s
 
 Oui, à condition de respecter un délai de carence obligatoire de 2 ans entre chaque parcours. Seul le prescripteur habilité peut prescrire un parcours qui déroge à l'obligation de carence ou aux critères d'éligibilité s'il l'estime nécessaire au vu de la situation d'un candidat.
 
+### J'ai eu la confirmation d'attribution de mon PASS IAE mais je n'ai toujours pas l'attestation de PASS IAE
 
+L'attestation de PASS IAE est disponible en téléchargement 5 jours après le démarrage du parcours IAE
+
+## 
 
 {% hint style="info" %}
 **Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** [**contactez l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) ****!  😊 
