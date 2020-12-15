@@ -12,6 +12,8 @@ description: Aidez vos partenaires dans la prise en main de la Plateforme
 
 {% file src="../../.gitbook/assets/mode-demploi-siae.pdf" %}
 
+{% file src="../../.gitbook/assets/mode-demploi\_geiq.pdf" caption="Mode d\'emploi GEIQ" %}
+
 {% file src="../../.gitbook/assets/mode-demploi-par-type-dutilisateurs\_p \(2\).pdf" caption="Mode d\'emploi \"Prescripteur\" - flyer" %}
 
 {% file src="../../.gitbook/assets/mode-demploi-par-type-dutilisateurs\_c.pdf" caption="Mode d\'emploi \"Candidat\" - flyer" %}
