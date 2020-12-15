@@ -49,7 +49,7 @@
     * [Infolettres mensuelles](outils-information-communiation-de-la-plateforme/outils-dinformation/infolettres.md)
   * [Kit de communication](outils-information-communiation-de-la-plateforme/kit-de-communication/README.md)
     * [3 Modèles de mail](outils-information-communiation-de-la-plateforme/kit-de-communication/modeles-de-mail.md)
-    * [3 Flyers mode d'emploi](outils-information-communiation-de-la-plateforme/kit-de-communication/flyers-mode-demploi.md)
+    * [4 Flyers mode d'emploi](outils-information-communiation-de-la-plateforme/kit-de-communication/flyers-mode-demploi.md)
     * [3 Présentations de réunion](outils-information-communiation-de-la-plateforme/kit-de-communication/presentations-de-reunion.md)
     * [2 Logos de la Plateforme de l'inclusion](outils-information-communiation-de-la-plateforme/kit-de-communication/logos-plateforme-inclusion.md)
 * [🚀La BANDE À ITOU !](la-bande-a-itou.md)

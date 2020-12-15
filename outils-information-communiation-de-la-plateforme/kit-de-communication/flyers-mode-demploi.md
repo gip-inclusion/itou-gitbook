@@ -2,7 +2,7 @@
 description: Aidez vos partenaires dans la prise en main de la Plateforme
 ---
 
-# 3 Flyers mode d'emploi
+# 4 Flyers mode d'emploi
 
 **Découvrez les modes d'emploi de la Plateforme à joindre à vos mails. Un outil pratique qui aidera vos partenaires à bien s'y retrouver !** 
 
