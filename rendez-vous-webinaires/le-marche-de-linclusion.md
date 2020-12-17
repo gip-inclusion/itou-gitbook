@@ -37,10 +37,16 @@ La participation à ces sessions d'information vous permettra une assistance per
 
 **🤓** Vous avez tout préparé ? Alors c'est parti !
 
-👩‍💻🧑‍💻 **Inscrivez-vous :** [**Atelier Publication d'une offre sur le Marché de l'inclusion**](https://calendly.com/inclusion-beta-gouv-fr)\*\*\*\*
+👩‍💻🧑‍💻 **Inscrivez-vous :** [**Atelier Publication d'une offre sur le Marché de l'inclusion**](https://calendly.com/sophie-beta-gouv/atelier-publication-d-une-offre-sur-le-marche)\*\*\*\*
 {% endhint %}
 
 ## Retrouvez les Webinaires en Replay !
+
+### 👉17.12**.20** Open Webinaire \#4 : Inscription sur le Marché de l'inclusion
+
+{% embed url="https://youtu.be/-n4V2Fzrh\_8" %}
+
+
 
 ### 👉27**.10.20** Open Webinaire \#1 : Inscription sur le Marché de l'inclusion
 
