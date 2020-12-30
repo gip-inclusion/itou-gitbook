@@ -399,6 +399,14 @@ L'employeur pourra utiliser le numéro de PASS **ou** le numéro d'agrément Pô
 Il n'y a pas de risque de double financement car l'ASP vérifie les déclarations, c'est donc transparent pour l'employeur.
 {% endhint %}
 
+### j'avais signalé une interruption de PASS IAE à Pole Emploi, mais celle-ci n'a pas été prise en compte par la Plateforme
+
+{% hint style="info" %}
+La Plateforme de l'inclusion ne prend pas en compte les interruptions d'agréments mais seulement les suspensions.
+
+Pour en savoir plus sur les motifs légitimes de suspension, consultez notre espace de documentation : [https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire\#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae). Tout autre motif ne sera pas pris en compte par la plateforme, et sera considéré comme une "interruption".
+{% endhint %}
+
 ## 6️⃣ Autre
 
 ### Existe-t-il une hotline \(numéro pour joindre l'assistance technique\) ?
