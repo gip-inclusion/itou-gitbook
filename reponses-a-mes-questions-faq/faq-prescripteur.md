@@ -124,7 +124,13 @@ L'administrateur de l'organisation a la possibilité de retirer un membre depuis
 ### _Je souhaite changer l’adresse mail de mon compte_
 
 {% hint style="info" %}
-\_\_[Contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) pour nous indiquer l’adresse mail que vous souhaitez rattacher à votre compte. Nous procèderons au changement.
+Pour modifier votre e-mail d'accès au compte, vous devez au préalable vous connecter à votre compte : 
+
+* Cliquer sur "Modifier mon adresse e-mail" Remplir les champs indiquant la nouvelle adresse e-mail 
+
+ATTENTION : vérifiez de ne pas avoir fait d'erreur de frappe car cela serait bloquant pour la suite Vous allez ensuite être déconnecté. 
+
+* Reconnectez vous en utilisant le nouvel e-mail choisi. On vous invitera à vérifier vos mails pour valider votre nouvelle adresse mail. Validez via le lien et connectez vous !
 {% endhint %}
 
 ### _J'ai perdu mon mot de passe, comment faire ?_
