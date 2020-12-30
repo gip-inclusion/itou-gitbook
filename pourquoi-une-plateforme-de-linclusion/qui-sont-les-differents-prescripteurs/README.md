@@ -12,7 +12,7 @@ Il existe **2 types de prescripteurs** qui n'ont **pas le même champ d'action**
 ![](../../.gitbook/assets/capture-de-cran-2020-06-22-a-17.24.20.png)
 
 {% hint style="info" %}
-[**Prescripteurs : des réponses à vos questions dans notre FAQ**](../../reponses-a-mes-questions-faq/faq-prescripteur.md)\*\*\*\*
+[**Prescripteurs : des réponses à vos questions dans notre FAQ**]()\*\*\*\*
 {% endhint %}
 
 ###     ****👉 ****[**Je suis prescripteur ? Je m'inscris à la Plateforme** ](https://inclusion.beta.gouv.fr/)\*\*\*\*

@@ -1,94 +1,10 @@
+---
+description: PAGE EN COURS D'EVOLUTION
+---
+
 # FAQ employeur solidaire
 
-![](../.gitbook/assets/picmoteur.png)
-
-## 🔥 **Questions les plus fréquentes**
-
-* [Quel est l'impact de la crise sanitaire sur mes embauches et le Pass IAE ?](faq-employeur.md#quel-est-limpact-de-la-crise-sanitaire-sur-mes-embauches-et-le-pass-iae)
-* [Comment ajouter mes collaborateurs sur le compte de ma structure ?](faq-employeur.md#comment-ajouter-mes-collaborateurs-sur-le-compte-de-ma-structure)
-* [Comment ajouter un autre établissement ?](faq-employeur.md#comment-ajouter-un-autre-etablissement)
-
-
-
-### Puis-je annuler un Pass IAE ?
-
-La question revient régulièrement au support : j’ai embauché un candidat et obtenu un PASS IAE. Au troisième jour le contrat est rompu \( fin de période d’essai à l’initiative d’une des deux parties par exemple\). Dois-je annuler le PASS IAE ?
-
-Premier point d’attention : **un PASS IAE n’est pas un contrat de travail** et ne se gère pas comme tel. Un PASS IAE est un élément incontournable pour obtenir une aide au poste.
-
-Nous permettons d’annuler un PASS IAE dans les 96 heures \(par exemple parce que le candidat ne s’est finalement pas présenté\). Dans ce cas le PASS IAE est supprimé et il ne vous permettra pas de toucher l’aide au poste et le candidat pour travailler dans une autre SIAE devra bénéficier d’un nouveau PASS.
-
-Dans notre exemple, si vous annulez le PASS, les 3 jours travaillés ne pourront bénéficier de l’aide au poste. Pour toucher l’aide au poste pour ces 3 jours, il ne faut donc **PAS** annuler le PASS. Le candidat pourra travailler dans une autre SIAE avec le même PASS car il aura débuté un parcours.
-
-Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourrez plus l'annuler par vous-même. Vous devrez [nous contacter](mailto:assistance@inclusion.beta.gouv.fr) en prenant soin de mentionner les références du PASS et les raisons de cette demande tardive.
-
-### Je souhaite retirer un collaborateur ?
-
-Un collaborateur de votre entreprise change de fonction ou quitte votre entreprise ? Depuis son tableau de bord, l'administrateur peut **gérer des collaborateurs**. Ce menu lui permet de retirer un collaborateur, mais aussi d'octroyer les droits d'administrateur.
-
-### J'ai validé l'embauche d'un candidat sans demander de PASS IAE, mais il m'en fallait un.
-
-Une erreur arrive vite ! Que faire si vous avez cliqué sur le mauvais bouton et que finalement vous avez besoin d'un PASS IAE ? Vous devez refaire l'ensemble du processus en créant  **une nouvelle candidature**. _Attention, si la candidature provenait d'un prescripteur habilité, celui-ci doit la refaire_. C'est un peu lourd, mais c'est la seule possibilité. Vous ferez plus attention la prochaine fois 😉
-
-### Je n'ai toujours pas reçu de Pass IAE, comment faire ?
-
-Le délai moyen entre la candidature et l’obtention du Pass IAE est en moyenne de 2 jours. Si ce délai est largement dépassé, assurez-vous que le mail du Pass IAE ne se trouve pas dans vos spams.
-
-Si ce n’est pas le cas, faites une vérification de la candidature dans votre ‘’Tableau de bord’’. Si l’agrément a été délivré, la candidature affichera le numéro. Si le numéro d'agrément n’apparaît pas, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
-
-### Je n'arrive pas à créer mon compte Employeur ou j'ai un message ''Siret non reconnu'' que dois-je faire ?
-
-Vérifiez que la Plateforme de l'inclusion est bien ouverte sur votre territoire grâce au [calendrier de déploiement](../pourquoi-une-plateforme-de-linclusion/calendrier-de-deploiement-de-la-plateforme.md).
-
-Si c'est le cas, pensez à renseigner sur la fiche d'inscription le SIRET de votre structure tel qu'il est indiqué sur l'Extranet IAE 2.0 de l'ASP. Vous pouvez suivez notre [Mode d'emploi ''employeur''](../mon-monde-demploi-employeur-solidaire/) pour vous aider.
-
-Si votre SIRET  n'est pas reconnu, vous pouvez utiliser [ce formulaire.](https://itou.typeform.com/to/RYfNLR79)
-
-### Ma structure a différentes activités sur plusieurs sites, puis-je différencier mes fiches de poste selon les sites ?
-
-L’administrateur du compte peut [créer une nouvelle structure ](../mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)autant de fois qu’il le souhaite depuis son ‘’Tableau de bord’’. Une nouvelle fonctionnalité apparaitra alors pour vous permettre de passer d'une structure à l'autre et ainsi gérer facilement vos fiches de postes.
-
-Si vous souhaitez que le rôle d'administrateur soit attribué à une autre personne, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
-
-### J'ai perdu mon mot de passe
-
-Vous pouvez réinitialiser votre mot de passe sur cette [page](https://inclusion.beta.gouv.fr/accounts/password/reset/).
-
-### Je ne vois pas ma structure dans la liste, comment faire ?
-
-La liste des structures référencées sur la Plateforme correspond aux structures conventionnées. Si votre conventionnement est récent, il est probable que vous n’apparaissiez pas encore. Nous mettons régulièrement à jour les nouveaux conventionnements. Si vous cela tarde, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
-
-### Aucun métier n’apparaît sous ma structure, comment rectifier ?
-
-Une fois que vous avez créé votre compte Employeur, rendez-vous sur votre ‘’Tableau de bord’’ puis "Configurer les fiches de postes".
-
-Saisissez un métier dans la barre de recherche en bas de page et laissez-vous guider. N'oubliez pas de cliquer sur "Enregistrer les modifications".
-
-### Il n'y a pas de bouton "Postuler" sous les métiers proposés pour ma structure, que dois-je faire ?
-
-Pour que le bouton "Postuler" soit actif \(et ainsi recevoir des candidatures\), il faut créer votre compte Employeur puis ajouter des métiers. Pensez à cliquer sur ‘’Enregistrer les modifications’’ en bas de page.
-
-### Dans les résultats de recherche, pourquoi ma structure n'est-elle pas géolocalisée au bon endroit ?
-
-La géolocalisation dépend de l'adresse de votre structure. Si l’adresse comporte une erreur, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
-
-### Comment corriger le nom de ma structure s’il est incorrect ?
-
-Nous indiquons par défaut la raison sociale de votre structure connue dans l'extranet IAE 2.0 de l'ASP. Vous pouvez néanmoins, depuis votre ‘’Tableau de bord’’, indiquer une enseigne qui se substituera à votre raison sociale. Si toutefois vous constatez une erreur sur votre raison sociale, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr). 
-
-### Je ne souhaite plus recruter sur un métier
-
-Sur ''Tableau de bord, cliquez "Configurer les fiches de postes", puis désactivez le métier concerné en décochant la case dans la colonne "Recevoir des candidatures".
-
-N'oubliez pas de cliquer sur "Enregistrer les modifications" en bas de page.
-
-Vous pourrez de la même manière réactiver ce métier par la suite. Vous avez également l'option de supprimer un métier si celui-ci n'est plus valable dans votre SIAE.
-
-### Que se passe-t-il si je clique sur le bouton "J'étudie la candidature" ?
-
-En cliquant "J'étudie la candidature", vous signifiez au candidat et au prescripteur que la candidature est en cours de traitement et qu'ils auront bientôt des nouvelles. Vous indiquez en même temps à vos collaborateurs que vous gérez cette candidature.
-
-### Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?
+**Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?**
 
  Si vous êtes une SIAE, la vérification de l’éligibilité se fait a posteriori sur échantillon par la Direccte et Pôle emploi.
 
@@ -189,9 +105,7 @@ Le prescripteur habilité peut à la fois postuler pour un candidat et valider s
 
 Oui, à condition de respecter un délai de carence obligatoire de 2 ans entre chaque parcours. Seul le prescripteur habilité peut prescrire un parcours qui déroge à l'obligation de carence ou aux critères d'éligibilité s'il l'estime nécessaire au vu de la situation d'un candidat.
 
-### J'ai eu la confirmation d'attribution de mon PASS IAE mais je n'ai toujours pas l'attestation de PASS IAE
-
-L'attestation de PASS IAE est disponible en téléchargement 5 jours après le démarrage du parcours IAE
+### 
 
 ## 
 

@@ -1,20 +1,10 @@
 ---
-description: La Foire Aux Questions que l'on se pose sur la Plateforme
+description: PAGE EN COURS DE CONSTRUCTION
 ---
 
 # FAQ candidat
 
-![](../.gitbook/assets/picmoteur.png)
-
-## 🔥 **Questions les plus fréquentes**
-
-* [À quoi me sert la plateforme de l’inclusion ?](../a-quoi-va-me-servir-la-plateforme/fonctionnalites-candidat.md)
-* [Comment m'inscrire ?](../mon-mode-demploi-candidat/inscription-candidat.md)
-* [Comment envoyer ma candidature](../mon-mode-demploi-candidat/envoyer-candidature.md)
-
-### 
-
-### J'ai perdu mon mot de passe, comment faire ?
+J'ai perdu mon mot de passe, comment faire ?
 
 Pour recréer un mot de passe cliquez [**ici**](https://inclusion.beta.gouv.fr/accounts/password/reset/). Ensuite laissez-vous guider !
 

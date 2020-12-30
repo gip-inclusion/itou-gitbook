@@ -25,7 +25,7 @@ Elle **simplifie mes procédures**, et fluidifie les parcours. Sur la page d’a
 ![](../.gitbook/assets/capture-de-cran-2020-06-24-a-18.01.31.png)
 
 {% hint style="info" %}
-[**Prescripteurs : des réponses à vos questions dans notre FAQ**](../reponses-a-mes-questions-faq/faq-prescripteur.md)\*\*\*\*
+[**Prescripteurs : des réponses à vos questions dans notre FAQ**]()\*\*\*\*
 {% endhint %}
 
 ###     ****👉 ****[**Je suis prescripteur ? Je m'inscris à la Plateforme**](https://inclusion.beta.gouv.fr/)\*\*\*\*

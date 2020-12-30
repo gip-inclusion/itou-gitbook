@@ -15,7 +15,7 @@ Si le **candidat ne remplit pas les** [**critères administratifs d'éligibilit�
 
 
 {% hint style="info" %}
-\*\*\*\*[**Prescripteurs : des réponses à vos questions dans notre FAQ**](../../reponses-a-mes-questions-faq/faq-prescripteur.md)\*\*\*\*
+\*\*\*\*[**Prescripteurs : des réponses à vos questions dans notre FAQ**]()\*\*\*\*
 {% endhint %}
 
 ###     ****👉 ****[**Je suis orienteur ? Je m'inscris à la Plateforme**](https://inclusion.beta.gouv.fr/) ****

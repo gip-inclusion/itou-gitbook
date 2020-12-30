@@ -41,7 +41,7 @@ Sur la Plateforme, lorsque le **délai d'éligibilité de 6 mois d'un candidat e
 
 
 {% hint style="info" %}
-[**Prescripteurs : des réponses à vos questions dans notre FAQ**](../../reponses-a-mes-questions-faq/faq-prescripteur.md)\*\*\*\*
+[**Prescripteurs : des réponses à vos questions dans notre FAQ**]()\*\*\*\*
 {% endhint %}
 
 ###     ****👉 ****[**Je suis prescripteur habilité ? Je m'inscris à la Plateforme**](https://inclusion.beta.gouv.fr/) ****
