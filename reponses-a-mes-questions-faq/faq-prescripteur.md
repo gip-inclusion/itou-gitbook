@@ -399,7 +399,7 @@ L'employeur pourra utiliser le numéro de PASS **ou** le numéro d'agrément Pô
 Il n'y a pas de risque de double financement car l'ASP vérifie les déclarations, c'est donc transparent pour l'employeur.
 {% endhint %}
 
-### j'avais signalé une interruption de PASS IAE à Pole Emploi, mais celle-ci n'a pas été prise en compte par la Plateforme
+### _**J''avais signalé une interruption de PASS IAE à Pole Emploi, mais celle-ci n'a pas été prise en compte par la Plateforme**_
 
 {% hint style="info" %}
 La Plateforme de l'inclusion ne prend pas en compte les interruptions d'agréments mais seulement les suspensions.
