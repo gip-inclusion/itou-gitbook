@@ -148,9 +148,11 @@ Il n'est pas nécessaire d'informer Pôle emploi. Un protocole automatique est e
 
 Le délai entre la candidature et l’obtention du Pass IAE est de 2 jours en moyenne. Votre candidat peut néanmoins commencer à travailler en attendant sa réception. Il suffit de simplement confirmer son embauche sur la Plateforme.
 
-**Vous n’avez pas trouvé la réponse à votre question ?**
+\*\*\*\*
 
 {% hint style="warning" %}
+**Vous n’avez pas trouvé la réponse à votre question ?**
+
 **2 Possibilités :**
 
 * 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).
