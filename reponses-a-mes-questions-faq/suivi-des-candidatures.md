@@ -66,6 +66,16 @@ En cliquant "J'étudie la candidature", vous signifiez au candidat et au prescri
 A noter qu'aucune notification n'est envoyée lorsqu'une candidature passe au statut de "candidature à l'étude"
 {% endhint %}
 
+### J'ai trop de candidatures à gérer pour une offre de poste, comment l'indiquer aux candidats ?
+
+Vous pouvez bloquer temporairement la réception de nouvelles candidatures à partir de votre tableau de bord en cochant la case ''Bloquer les candidatures'' . Votre fiche employeur indiquera : "Cet employeur ne traite plus de nouvelles candidatures pour l'instant.'' Votre Tableau de bord reste actif pour obtenir un Pass IAE si besoin. Pour réactiver le poste, il suffit de décocher la case
+
+
+
+**Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?**
+
+Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors attribuer un Pass IAE pour une durée de 2 ans. Si vous renouvelez son contrat ou qu'il travaille ailleurs, le numéro du Pass IAE ne changera pas, il est désormais attaché au candidat et non plus au parcours..
+
 **Vous n’avez pas trouvé la réponse à votre question ?**
 
 {% hint style="warning" %}

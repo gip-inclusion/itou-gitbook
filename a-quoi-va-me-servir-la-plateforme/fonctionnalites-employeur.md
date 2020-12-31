@@ -16,7 +16,7 @@ Le **recrutement est plus direct, plus simple, plus rapide** pour moi. Sur la pa
 
 \*\*\*\*![](../.gitbook/assets/award-1-.svg) **Valider l’éligibilité d’une candidature** spontanée ou adressée par un prescripteur non-habilité\*
 
-\*\*\*\*![](../.gitbook/assets/smile.svg) **Confirmer une embauche et obtenir automatiquement un** [**Pass IAE**](../reponses-a-mes-questions-faq/faq-employeur.md#quelle-est-la-difference-entre-un-agrement-et-un-pass-iae)**\*** via la Plateforme
+\*\*\*\*![](../.gitbook/assets/smile.svg) **Confirmer une embauche et obtenir automatiquement un** [**Pass IAE**]()**\*** via la Plateforme
 
 _\* Dans le cas d'une SIAE._ 
 
@@ -31,7 +31,7 @@ Les [**GEIQ, EA, EATT**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-e
 ![](../.gitbook/assets/capture-de-cran-2020-06-24-a-18.00.07.png)
 
 {% hint style="info" %}
-[**Employeurs : des réponses à vos questions dans notre FAQ**](../reponses-a-mes-questions-faq/faq-employeur.md)\*\*\*\*
+[**Employeurs : des réponses à vos questions dans notre FAQ**]()\*\*\*\*
 {% endhint %}
 
 ###   ****👉 ****[**Je suis employeur solidaire ? Je m'inscris sur la Plateforme**](https://inclusion.beta.gouv.fr/)\*\*\*\*

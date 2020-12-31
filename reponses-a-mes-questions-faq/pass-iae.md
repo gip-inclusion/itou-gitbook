@@ -1,4 +1,4 @@
-# PASS IAE
+# Embauches et PASS IAE
 
 ![](../.gitbook/assets/picmoteur.png)
 
@@ -46,6 +46,14 @@ En cas de doublon, nous alignons les dates. \(c'est la date la plus ancienne qui
 L'employeur pourra utiliser le numéro de PASS **ou** le numéro d'agrément Pôle emploi pour sa déclaration dans l'extranet IAE 2.0 de l'ASP, les 2 numéros sont valables.
 
 Il n'y a pas de risque de double financement car l'ASP vérifie les déclarations, c'est donc transparent pour l'employeur.
+{% endhint %}
+
+### Dois-je demander à Pôle emploi un numéro d'agrément pour un candidat ?
+
+{% hint style="info" %}
+Non, il n'est plus nécessaire de demander de numéro d'agrément à Pôle emploi. Le numéro de Pass IAE remplace l’agrément Pôle emploi, il a la même valeur. Il vous est délivré par mail via la Plateforme. Il apparaît aussi sur la fiche candidature de votre ‘’Tableau de bord’’.
+
+Le délai entre la candidature et l’obtention du Pass IAE est de 6 jours en moyenne.
 {% endhint %}
 
 ### _**Puis-je annuler un Pass IAE ?**_
@@ -97,6 +105,48 @@ Si ce n’est pas le cas, faites une vérification de la candidature dans votre 
 {% hint style="info" %}
 L'attestation de PASS IAE est disponible en téléchargement 5 jours après le démarrage du parcours IAE
 {% endhint %}
+
+### Un candidat peut-il bénéficier de plusieurs parcours IAE successifs ?
+
+{% hint style="info" %}
+Oui, à condition de respecter un délai de carence obligatoire de 2 ans entre chaque parcours. Seul le prescripteur habilité peut prescrire un parcours qui déroge à l'obligation de carence ou aux critères d'éligibilité s'il l'estime nécessaire au vu de la situation d'un candidat.
+
+\*\*\*\*
+{% endhint %}
+
+### Le numéro d'agrément délivré par la Plateforme est-il valide et de même valeur que l'agrément Pôle emploi ?
+
+{% hint style="info" %}
+Oui, le Pass IAE a même valeur que l'agrément Pôle emploi. Il est valide dès réception. Vous pourrez l’indiquer sur l'Extranet IAE 2.0 de l'ASP.
+{% endhint %}
+
+### Comment obtenir une extension d'agrément ?
+
+L'agrément est désormais rattaché à une personne et non plus à un parcours. Il reste donc le même tout au long du parcours professionnel même si la personne change de SIAE. C’est plus simple !
+
+### Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?
+
+Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors attribuer un Pass IAE pour une durée de 2 ans. Si vous renouvelez son contrat ou qu'il travaille ailleurs, le numéro du Pass IAE ne changera pas, il est désormais attaché au candidat et non plus au parcours.
+
+### J’ai un problème avec « la date de début du contrat ne doit pas être dans le passé », que faire ?
+
+Il n’est pas possible d'antidater un contrat. Lorsque vous cliquez sur ‘’Je l'embauche’’, la date du contrat doit toujours être dans le futur.
+
+### Comment obtenir une extension d'agrément ?
+
+L'agrément est désormais rattaché à une personne et non plus à un parcours. Il reste donc le même tout au long du parcours professionnel même si la personne change de SIAE. C’est plus simple !
+
+### Dois-je informer Pôle emploi qu'un Pass IAE m'a été délivré ?
+
+Il n'est pas nécessaire d'informer Pôle emploi. Un protocole automatique est en place entre la Plateforme et Pôle emploi \(fichier partagé des Pass IAE\). Une agence départementale est chargée de mettre à jour les dossiers de l'ensemble des candidats embauchés sur le département.
+
+**Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?**
+
+ Si vous êtes une SIAE, la vérification de l’éligibilité se fait a posteriori sur échantillon par la Direccte et Pôle emploi.
+
+### Je reçois le numéro d'agrément en combien de temps via la Plateforme \(Pass IAE\)?
+
+Le délai entre la candidature et l’obtention du Pass IAE est de 2 jours en moyenne. Votre candidat peut néanmoins commencer à travailler en attendant sa réception. Il suffit de simplement confirmer son embauche sur la Plateforme.
 
 **Vous n’avez pas trouvé la réponse à votre question ?**
 

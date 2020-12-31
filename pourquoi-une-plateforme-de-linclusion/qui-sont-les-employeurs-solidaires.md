@@ -30,7 +30,7 @@ Les **employeurs solidaires**, appelés aussi **‘’entreprises sociales inclu
 
 
 {% hint style="info" %}
-\*\*\*\*[**Employeurs : des réponses à vos questions dans notre FAQ**](../reponses-a-mes-questions-faq/faq-employeur.md)\*\*\*\*
+\*\*\*\*[**Employeurs : des réponses à vos questions dans notre FAQ**]()\*\*\*\*
 {% endhint %}
 
 ###   ****👉 ****[**Je suis employeur solidaire ? Je m'inscris sur la Plateforme**](https://inclusion.beta.gouv.fr/)\*\*\*\*

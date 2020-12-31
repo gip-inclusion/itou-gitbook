@@ -4,11 +4,9 @@ description: PAGE EN COURS DE CONSTRUCTION
 
 # FAQ candidat
 
-J'ai perdu mon mot de passe, comment faire ?
+\*\*\*\*
 
-Pour recréer un mot de passe cliquez [**ici**](https://inclusion.beta.gouv.fr/accounts/password/reset/). Ensuite laissez-vous guider !
-
-### **Comment savoir où en est la candidature que j’ai envoyée à un employeur solidaire ?**
+**Comment savoir où en est la candidature que j’ai envoyée à un employeur solidaire ?**
 
 Vous êtes alerté par mail de l’avancement de votre candidature \(à l’étude, acceptée, pour plus tard, refusée\). Mais si vous préférez, vous pouvez à tout moment consulter votre ‘’Tableau de bord’’ pour savoir où en sont vos candidatures. Pour cela [**connectez-vous à votre compte**](https://inclusion.beta.gouv.fr/accounts/login/?account_type=job_seeker) sur la Plateforme.
 
