@@ -76,9 +76,9 @@ Vous pouvez bloquer temporairement la réception de nouvelles candidatures à pa
 
 Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors attribuer un Pass IAE pour une durée de 2 ans. Si vous renouvelez son contrat ou qu'il travaille ailleurs, le numéro du Pass IAE ne changera pas, il est désormais attaché au candidat et non plus au parcours..
 
+{% hint style="warning" %}
 **Vous n’avez pas trouvé la réponse à votre question ?**
 
-{% hint style="warning" %}
 **2 Possibilités :**
 
 * 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).
