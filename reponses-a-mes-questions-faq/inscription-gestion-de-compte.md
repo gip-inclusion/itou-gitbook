@@ -54,7 +54,7 @@ description: ✅ Cliquez sur la question pour accéder à la réponse
 
 ## 1️⃣ INSCRIPTION
 
-### _J’ai veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ?_ 
+### _Je veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ?_ 
 
 {% hint style="info" %}
 La liste correspond uniquement aux prescripteurs habilités au national. 
