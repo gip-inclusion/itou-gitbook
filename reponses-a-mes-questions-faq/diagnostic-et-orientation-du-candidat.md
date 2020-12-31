@@ -127,34 +127,36 @@ Il est composé de 8 caractères : 7 chiffres suivis d'une 1 lettre ou d'un chif
 Aucun justificatif n'est demandé sur la Plateforme, cependant vos interlocuteurs de la Direccte et de Pôle emploi pourront vous demander les justificatifs liés aux critères d’éligibilité de votre candidat a posteriori. Gardez-les précieusement dans le dossier de candidature.
 {% endhint %}
 
-**Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?**
+### **Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?**
 
+{% hint style="info" %}
  Si vous êtes une SIAE, la vérification de l’éligibilité se fait a posteriori sur échantillon par la Direccte et Pôle emploi.
+{% endhint %}
 
-### Puis-je embaucher un candidat venant d'un autre département ?
+### _Puis-je embaucher un candidat venant d'un autre département ?_
 
+{% hint style="info" %}
 Oui, il n’y a pas de problème via la Plateforme pour recruter un candidat venant d'un autre département.
+{% endhint %}
 
-**Vous n’avez pas trouvé la réponse à votre question ?**
+### _Comment sont triés les résultats d'une recherche d'employeurs ?_
 
-
-
-### Comment sont triés les résultats d'une recherche d'employeurs ?
-
+{% hint style="info" %}
 Le tri est aléatoire et a pour vocation :
 
 * D'équilibrer les candidatures entre les employeurs pertinents afin qu'aucun ne soit plus  avantagé dans une même ville lors d'une recherche.
 * De rendre la sélection plus dynamique d'un jour à l'autre avec des employeurs différents mis en avant.
+{% endhint %}
 
-### La Plateforme vérifie-t-elle l'éligibilité d’un candidat ?
+### _La Plateforme vérifie-t-elle l'éligibilité d’un candidat ?_
 
+{% hint style="info" %}
 La Plateforme ne vérifie pas les critères administratifs et l’éligibilité d’un candidat.
 
 Si le candidat est adressé par un prescripteur habilité, il est réputé éligible. S’il arrive en candidat spontané ou est adressé par un prescripteur non-habilité, la SIAE doit réaliser un diagnostic socio-professionnel pour vérifier son éligibilité, puis indiquer sur la Plateforme le/les critères justifiant l’éligibilité. La SIAE doit également conserver les justificatifs correspondants aux critères dans le dossier de candidature.
 
 Les GEIQ, EA, AI, EATT n'ont pas de contraintes d'éligibilité.
-
-
+{% endhint %}
 
 ### _J'ai fait une erreur de saisie dans le profil du candidat et/ou le diagnostic d'éligibilité_
 
@@ -163,6 +165,8 @@ Pour le moment il n'est pas possible de  modifier ces informations depuis la pla
 {% endhint %}
 
 {% hint style="warning" %}
+**Vous n’avez pas trouvé la réponse à votre question ?**
+
 **2 Possibilités :**
 
 * 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).
