@@ -14,9 +14,9 @@
 
  2️⃣ **\[ POSTULER POUR UN CANDIDAT \]**
 
-_Mon candidat n'a pas d'adresse mail, comment faire ?_
+\_\_[_Mon candidat n'a pas d'adresse mail, comment faire ?_](diagnostic-et-orientation-du-candidat.md#mon-candidat-na-pas-dadresse-mail-comment-faire)
 
-Si je suis orienteur, dois-je envoyer le candidat vers un prescripteur habilité ?
+[Si je suis orienteur, dois-je envoyer le candidat vers un prescripteur habilité ?](diagnostic-et-orientation-du-candidat.md#si-je-suis-orienteur-dois-je-envoyer-le-candidat-vers-un-prescripteur-habilite)
 
 _Comment candidater pour une personne incarcérée, qui n'a pas d'accès internet ?_
 
