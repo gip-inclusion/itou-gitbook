@@ -14,45 +14,45 @@
 
  2️⃣ **\[ POSTULER POUR UN CANDIDAT \]**
 
-\_\_[_Mon candidat n'a pas d'adresse mail, comment faire ?_](diagnostic-et-orientation-du-candidat.md#mon-candidat-na-pas-dadresse-mail-comment-faire)
+\_\_[Mon candidat n'a pas d'adresse mail, comment faire ?](diagnostic-et-orientation-du-candidat.md#mon-candidat-na-pas-dadresse-mail-comment-faire)
 
 [Si je suis orienteur, dois-je envoyer le candidat vers un prescripteur habilité ?](diagnostic-et-orientation-du-candidat.md#si-je-suis-orienteur-dois-je-envoyer-le-candidat-vers-un-prescripteur-habilite)
 
-\_\_[_Comment candidater pour une personne incarcérée, qui n'a pas d'accès internet ?_](diagnostic-et-orientation-du-candidat.md#comment-candidater-pour-une-personne-incarceree-qui-na-pas-dacces-internet)
+[Comment candidater pour une personne incarcérée, qui n'a pas d'accès internet ?](diagnostic-et-orientation-du-candidat.md#comment-candidater-pour-une-personne-incarceree-qui-na-pas-dacces-internet)
 
 [Est-ce que le prescripteur est informé si un candidat a déjà été positionné auprès de cet employeur](diagnostic-et-orientation-du-candidat.md#est-ce-que-le-prescripteur-est-informe-si-un-candidat-a-deja-ete-positionne-aupres-de-cet-employeur)
 
-\_\_[_Que doit-on rédiger dans la partie "Message de candidature" ?_](diagnostic-et-orientation-du-candidat.md#que-doit-on-rediger-dans-la-partie-message-de-candidature)
+[Que doit-on rédiger dans la partie "Message de candidature" ?](diagnostic-et-orientation-du-candidat.md#que-doit-on-rediger-dans-la-partie-message-de-candidature)
 
-\_\_[_Peut-on faire une candidature spontanée si l'employeur a bloqué les candidatures ?_](diagnostic-et-orientation-du-candidat.md#peut-on-faire-une-candidature-spontanee-si-lemployeur-a-bloque-les-candidatures)
+[Peut-on faire une candidature spontanée si l'employeur a bloqué les candidatures ?](diagnostic-et-orientation-du-candidat.md#peut-on-faire-une-candidature-spontanee-si-lemployeur-a-bloque-les-candidatures)
 
-\_\_[_Est-il possible de postuler sur plusieurs structures en une seule manipulation ?_](diagnostic-et-orientation-du-candidat.md#est-il-possible-de-postuler-sur-plusieurs-structures-en-une-seule-manipulation)
+[Est-il possible de postuler sur plusieurs structures en une seule manipulation ?](diagnostic-et-orientation-du-candidat.md#est-il-possible-de-postuler-sur-plusieurs-structures-en-une-seule-manipulation)
 
-\_\_[_Peut-on prescrire sur la plateforme sans orienter sur une structure en particulier ?_](diagnostic-et-orientation-du-candidat.md#peut-on-prescrire-sur-la-plateforme-sans-orienter-sur-une-structure-en-particulier)
+[Peut-on prescrire sur la plateforme sans orienter sur une structure en particulier ?](diagnostic-et-orientation-du-candidat.md#peut-on-prescrire-sur-la-plateforme-sans-orienter-sur-une-structure-en-particulier)
 
-\_\_[_Quel numéro d'identifiant Pôle emploi doit-on saisir ?_ ](diagnostic-et-orientation-du-candidat.md#quel-numero-didentifiant-pole-emploi-doit-on-saisir)
+[Quel numéro d'identifiant Pôle emploi doit-on saisir ? ](diagnostic-et-orientation-du-candidat.md#quel-numero-didentifiant-pole-emploi-doit-on-saisir)
 
-\_\_[_J'ai fait une erreur de saisie dans le profil du candidat_ ](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat)
+[J'ai fait une erreur de saisie dans le profil du candidat ](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat)
 
 **3️⃣   \[ DIAGNOSTIC & ELIGIBILITE IAE \]**
 
-\_\_[_Doit-on utiliser des fiches de positionnement \( ou fiches de liaison\) IAE ?_](diagnostic-et-orientation-du-candidat.md#doit-on-utiliser-des-fiches-de-positionnement-ou-fiches-de-liaison-iae)
+\_\_[Doit-on utiliser des fiches de positionnement \( ou fiches de liaison\) IAE ?](diagnostic-et-orientation-du-candidat.md#doit-on-utiliser-des-fiches-de-positionnement-ou-fiches-de-liaison-iae)
 
-\_\_[_La personne que j'accompagne ne remplit aucun critère exigé par l'IAE. Puis-je tout de même valider son éligibilité ?_](diagnostic-et-orientation-du-candidat.md#la-personne-que-jaccompagne-ne-remplit-aucun-critere-exige-par-liae-puis-je-tout-de-meme-valider-son-eligibilite)
+[Le candidat ne remplit aucun critère exigé par l'IAE. Puis-je tout de même valider son éligibilité ?](diagnostic-et-orientation-du-candidat.md#le-candidat-ne-remplit-aucun-critere-exige-par-liae-puis-je-tout-de-meme-valider-son-eligibilite)
 
-_En tant que prescripteur habilité, dois-je fournir les pièces justificatives à l'employeur ?_
+[Doit-on fournir / conserver les pièces justificatives ?](diagnostic-et-orientation-du-candidat.md#doit-on-fournir-conserver-les-pieces-justificatives)
 
-_Le diagnostic d'éligibilité du prescripteur habilité peut-il être remis en cause par la DIRECCTE ?_
+[Le diagnostic d'éligibilité du prescripteur habilité peut-il être remis en cause par la DIRECCTE ?](diagnostic-et-orientation-du-candidat.md#le-diagnostic-deligibilite-du-prescripteur-habilite-peut-il-etre-remis-en-cause-par-la-direccte)
 
-Que se passe-t-il si le diagnostic d'éligibilité IAE du candidat expire ?
+[Que se passe-t-il si le diagnostic d'éligibilité IAE du candidat expire ?](diagnostic-et-orientation-du-candidat.md#que-se-passe-t-il-si-le-diagnostic-deligibilite-iae-du-candidat-expire)
 
-_Dois-je prouver l'éligibilité du candidat que je veux recruter ?_
+[Dois-je prouver l'éligibilité du candidat que je veux recruter ?](diagnostic-et-orientation-du-candidat.md#dois-je-prouver-leligibilite-du-candidat-que-je-veux-recruter)
 
-**Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?**
+[Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?](diagnostic-et-orientation-du-candidat.md#qui-verifie-le-dossier-du-candidat-lorsque-je-valide-son-eligibilite)
 
-_**La Plateforme vérifie-t-elle l'éligibilité d’un candidat ?**_
+[La Plateforme vérifie-t-elle l'éligibilité d’un candidat ?](diagnostic-et-orientation-du-candidat.md#la-plateforme-verifie-t-elle-leligibilite-dun-candidat)
 
-_J'ai fait une erreur de saisie dans le diagnostic d'éligibilité_
+[J'ai fait une erreur de saisie dans le diagnostic d'éligibilité](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-diagnostic-deligibilite)
 
 ## 1️⃣ **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
 
@@ -206,15 +206,20 @@ Si un employeur reçoit une fiche de positionnement il n'a aucun moyen de la ren
 ### _Le candidat ne remplit aucun critère exigé par l'IAE. Puis-je tout de même valider son éligibilité ?_
 
 {% hint style="info" %}
-Si vous êtes  prescripteur habilité, vous pouvez passer outre les critères administratifs. Si vous êtes orienteur, adressez le candidat vers un prescripteur habilité.
+Si vous êtes  prescripteur habilité, vous pouvez passer outre les critères administratifs. 
 
-Si vous êtes un employeur solidaire qui souhaite réaliser une auto-prescription, prenez contact avec un prescripteur habilité. Si le prescripteur habilité est favorable à la dérogation des critères administratifs pour valider l'éligibilité IAE, il pourra vous transmettre la candidature comme une candidature classique. 
+Si vous êtes orienteur ou employeur solidaire, adressez le candidat vers un prescripteur habilité \( Utilisez le moteur de recherche prescripteur pour trouver facilement un prescripteur habilité \). Si le prescripteur habilité accepte de valider l'éligibilité IAE, il lui suffit de [postuler pour le candidat ](../mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
 {% endhint %}
 
-### _En tant que prescripteur habilité, dois-je fournir les pièces justificatives à l'employeur ?_
+### _Doit-on fournir / conserver les pièces justificatives ?_
 
 {% hint style="info" %}
-Le prescripteur n'a pas à conserver ni à transmettre de pièces justificatives à l'employeur.
+Les prescripteurs \(habilités et orienteurs\) n'ont aucune pièce à fournir ni à conserver.
+
+Pour les employeurs, 2 cas de figure : 
+
+* Si la validation de l'éligibilité IAE est réalisée par un prescripteur habilité = Aucune pièce justificative n'est à conserver
+* Si la validation de l'éligibilité IAE est réalisée par l'employeur  = L'employeur doit conserver les pièces justificatives en cas de contrôle.
 {% endhint %}
 
 ### _Le diagnostic d'éligibilité du prescripteur habilité peut-il être remis en cause par la DIRECCTE ?_
@@ -232,10 +237,10 @@ Si l'employeur souhaite embaucher un candidat qui a un diagnostic d'éligibilit�
 ### _Dois-je prouver l'éligibilité du candidat que je veux recruter ?_
 
 {% hint style="info" %}
-Aucun justificatif n'est demandé sur la Plateforme, cependant vos interlocuteurs de la Direccte et de Pôle emploi pourront vous demander les justificatifs liés aux critères d’éligibilité de votre candidat a posteriori \(uniquement si l'employeur est à l'origine de la validation de l'éligibilité IAE du candidat\). Gardez-les précieusement dans le dossier de candidature.
+Aucun justificatif n'est demandé sur la Plateforme, cependant vos interlocuteurs de la Direccte pourront vous demander les justificatifs liés aux critères d’éligibilité de votre candidat _à_ posteriori \(uniquement si l'employeur est à l'origine de la validation de l'éligibilité IAE du candidat\). 
 {% endhint %}
 
-### **Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?**
+### _**Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?**_
 
 {% hint style="info" %}
  Si vous êtes une SIAE, la vérification de l’éligibilité se fait a posteriori sur échantillon par la Direccte et Pôle emploi.
