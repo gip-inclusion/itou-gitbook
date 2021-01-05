@@ -52,6 +52,10 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [J'ai changé d'organisation comment faire pour rejoindre le compte de ma nouvelle organisation ?](inscription-gestion-de-compte.md#jai-change-dorganisation-comment-faire-pour-rejoindre-le-compte-de-ma-nouvelle-organisation)
 
+{% hint style="warning" %}
+[Vous n’avez pas trouvé la réponse à votre question ?](inscription-gestion-de-compte.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
+{% endhint %}
+
 ## 🟢LES REPONSES : 
 
 ## 1️⃣ INSCRIPTION
@@ -231,11 +235,9 @@ Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'
 Demandez à vos nouveaux collègues de vous inviter sur le tableau de bord de votre nouvelle organisation et demandez également à l'administrateur de votre ancienne organisation de vous retirer de la liste des membres.
 {% endhint %}
 
-### 
+### Vous n’avez pas trouvé la réponse à votre question ?
 
 {% hint style="warning" %}
-**Vous n’avez pas trouvé la réponse à votre question ?**
-
 **2 Possibilités :**
 
 * 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).
