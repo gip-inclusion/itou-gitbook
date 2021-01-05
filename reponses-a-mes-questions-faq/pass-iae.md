@@ -150,6 +150,14 @@ Le délai entre la candidature et l’obtention du Pass IAE est de 2 jours en mo
 
 \*\*\*\*
 
+### _L'employeur peut-il embaucher un candidat venant d'un autre département ?_
+
+{% hint style="info" %}
+Oui, il n’y a pas de limite avec la Plateforme pour recruter un candidat venant d'un autre département.
+
+Certains acteurs nous signalent que certains employeurs refusent d'embaucher des candidats en dehors de leur département,  nous les invitons à prendre contact avec leur DIRECCTE
+{% endhint %}
+
 {% hint style="warning" %}
 **Vous n’avez pas trouvé la réponse à votre question ?**
 

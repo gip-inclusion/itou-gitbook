@@ -4,7 +4,7 @@ description: >-
   la FAQ
 ---
 
-# 🔎 Foire aux questions
+# 🔎 Foire aux questions PRO
 
 ![](../.gitbook/assets/picmoteur.png)
 
