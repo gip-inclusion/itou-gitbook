@@ -6,6 +6,8 @@ description: ✅ Cliquez sur la question pour accéder à la réponse
 
 ![](../.gitbook/assets/picmoteur.png)
 
+## 🟡 LISTE DES QUESTIONS  :
+
 1️⃣ **\[ INSCRIPTION \]**
 
 [Je veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ? ](inscription-gestion-de-compte.md#je-veux-creer-un-compte-prescripteur-mais-je-ne-trouve-pas-mon-organisation-dans-la-liste-des-prescripteurs)
@@ -51,6 +53,8 @@ description: ✅ Cliquez sur la question pour accéder à la réponse
 [Un prescripteur peut-il être membre de plusieurs organisations de prescripteurs/orienteurs?](inscription-gestion-de-compte.md#un-prescripteur-peut-il-etre-membre-de-plusieurs-organisations-de-prescripteurs-orienteurs)
 
 [J'ai changé d'organisation comment faire pour rejoindre le compte de ma nouvelle organisation ?](inscription-gestion-de-compte.md#jai-change-dorganisation-comment-faire-pour-rejoindre-le-compte-de-ma-nouvelle-organisation)
+
+## 🟢LES REPONSES : 
 
 ## 1️⃣ INSCRIPTION
 
