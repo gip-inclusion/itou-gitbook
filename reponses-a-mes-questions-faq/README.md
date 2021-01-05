@@ -6,8 +6,6 @@ description: >-
 
 # 🔎 Foire aux questions PRO
 
-
-
 ![](../.gitbook/assets/picmoteur.png)
 
 {% hint style="info" %}
