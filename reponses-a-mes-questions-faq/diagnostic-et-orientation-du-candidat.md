@@ -145,8 +145,6 @@ Ce n'est plus nécessaire ! Vous pouvez directement postuler pour le compte du c
 Le prescripteur peut candidater pour le candidat et il pourra suivre la candidature grâce aux notifications mail et au tableau de suivi disponible sur la plateforme. Le prescripteur peut utiliser le champ " message de candidature" pour informer l'employeur des éventuels délais nécessaires pour obtenir une autorisation de sortie s'il prévoit de recevoir le candidat en entretien.
 {% endhint %}
 
-### \_\_
-
 ### _Puis-je orienter un candidat vers un employeur d'un autre département ?_
 
 {% hint style="info" %}

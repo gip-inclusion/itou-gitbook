@@ -186,8 +186,6 @@ Depuis votre tableau de bord, cliquez sur "Modifier les informations"
 
 ## 3️⃣ GESTION DE VOTRE COMPTE UTILISATEUR
 
-### \_\_
-
 ### _Je souhaite changer l’adresse mail de mon compte_
 
 {% hint style="info" %}
