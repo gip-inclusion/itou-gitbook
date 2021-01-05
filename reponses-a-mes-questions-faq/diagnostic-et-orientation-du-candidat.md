@@ -2,15 +2,15 @@
 
 1️⃣  **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
 
-#### Comment lancer une recherche sur la Plateforme de l'inclusion ?
+[Comment lancer une recherche sur la Plateforme de l'inclusion ?](diagnostic-et-orientation-du-candidat.md#comment-lancer-une-recherche-sur-la-plateforme-de-linclusion)
 
-#### A quoi correspondent les sigles disponibles en filtre ? 
+[A quoi correspondent les sigles disponibles en filtre de recherche ?](diagnostic-et-orientation-du-candidat.md#a-quoi-correspondent-les-sigles-disponibles-en-filtre)
 
-Comment sont triés les résultats d'une recherche d'employeurs ?
+[Comment sont triés les résultats d'une recherche d'employeurs ?](diagnostic-et-orientation-du-candidat.md#comment-sont-tries-les-resultats-dune-recherche-demployeurs)
 
-#### Peut-on rechercher un employeur par nom ?
+[Peut-on rechercher un employeur par nom ?](diagnostic-et-orientation-du-candidat.md#peut-on-rechercher-un-employeur-par-nom)
 
-#### **Peut-on rechercher des fiches de poste / offres ?**
+[Peut-on rechercher des fiches de poste / offres ?](diagnostic-et-orientation-du-candidat.md#peut-on-rechercher-des-fiches-de-poste-offres)
 
  2️⃣ **\[ POSTULER POUR UN CANDIDAT \]**
 
@@ -56,7 +56,7 @@ _J'ai fait une erreur de saisie dans le diagnostic d'éligibilité_
 
 ## 1️⃣ **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
 
-#### Comment lancer une recherche sur la Plateforme de l'inclusion ?
+### _Comment lancer une recherche sur la Plateforme de l'inclusion ?_
 
 {% hint style="info" %}
 Rendez-vous sur [https://inclusion.beta.gouv.fr/](https://inclusion.beta.gouv.fr/)
@@ -68,7 +68,7 @@ Par défaut le rayon de recherche est de 5km vous pouvez l'agrandir en cliquant 
 A droite du champ "ville" vous avez la possibilité de filtrer par type d'employeur
 {% endhint %}
 
-### A quoi correspondent les sigles disponibles en filtre ? 
+### _A quoi correspondent les sigles disponibles en filtre de recherche?_ 
 
 {% hint style="info" %}
 Les sigles correspondent aux différents types d'employeurs solidaires. En cliquant sur un des sigles vous pourrez filtrer sur un type d'employeur.
@@ -88,7 +88,7 @@ EA = Entreprise adaptée
 EATT = Entreprise adaptée de travail temporaire
 {% endhint %}
 
-### **Comment sont triés les résultats d'une recherche d'employeurs ?**
+### _**Comment sont triés les résultats d'une recherche d'employeurs ?**_
 
 {% hint style="info" %}
 Les employeurs sont répartis en trois groupes affichés dans cet ordre :
@@ -103,13 +103,13 @@ Chacun de ces trois groupes est trié aléatoirement avec la vocation suivante :
 * De rendre la sélection plus dynamique d'un jour à l'autre avec des employeurs différents mis en avant.
 {% endhint %}
 
-### **Peut-on rechercher un employeur par nom ?**
+### _**Peut-on rechercher un employeur par nom ?**_
 
 {% hint style="info" %}
 Non la recherche est possible uniquement par localisation en inscrivant la Ville et le rayon de recherche souhaité.
 {% endhint %}
 
-### **Peut-on rechercher des fiches de poste / offres ?**
+### _**Peut-on rechercher des fiches de poste / offres ?**_
 
 {% hint style="info" %}
 Non la recherche est possible uniquement par localisation en inscrivant la Ville et le rayon de recherche souhaité.
