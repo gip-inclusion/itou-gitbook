@@ -60,6 +60,10 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [J'ai fait une erreur de saisie dans le diagnostic d'éligibilité](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-diagnostic-deligibilite)
 
+{% hint style="warning" %}
+
+{% endhint %}
+
 ## 🟢 LES REPONSES : 
 
 ## 1️⃣ **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
