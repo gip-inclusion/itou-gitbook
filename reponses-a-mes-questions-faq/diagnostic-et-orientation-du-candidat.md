@@ -1,6 +1,6 @@
 # Orientation candidat & Eligibilité IAE
 
-## LISTE DES QUESTIONS :
+## 🟡 LISTE DES QUESTIONS  :
 
 1️⃣  **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
 
@@ -56,7 +56,7 @@
 
 [J'ai fait une erreur de saisie dans le diagnostic d'éligibilité](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-diagnostic-deligibilite)
 
-## LES REPONSES : 
+## 🟢LES REPONSES : 
 
 ## 1️⃣ **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
 
