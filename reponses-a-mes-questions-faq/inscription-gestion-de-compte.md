@@ -4,8 +4,6 @@ description: ✅ Cliquez sur la question pour accéder à la réponse
 
 # Inscription & Gestion de compte
 
-![](../.gitbook/assets/picmoteur.png)
-
 ## 🟡 LISTE DES QUESTIONS  :
 
 1️⃣ **\[ INSCRIPTION \]**
