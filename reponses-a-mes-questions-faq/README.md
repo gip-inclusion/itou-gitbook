@@ -6,9 +6,11 @@ description: >-
 
 # 🔎 Foire aux questions PRO
 
-
-
 ![](../.gitbook/assets/picmoteur.png)
+
+{% hint style="info" %}
+#### Cette Foire aux questions est destinée aux professionnels \(Employeurs, prescripteurs habilités et orienteurs\), si vous êtes un candidat consultez [la Foire aux questions Candidats](../foire-aux-questions-candidats.md)
+{% endhint %}
 
 ## 🔥 **Questions les plus fréquentes**
 
@@ -31,8 +33,6 @@ description: >-
 {% page-ref page="role-des-differents-utilisateurs.md" %}
 
 {% page-ref page="forum-de-linclusion.md" %}
-
-{% page-ref page="../foire-aux-questions-candidats.md" %}
 
 {% page-ref page="autre.md" %}
 
