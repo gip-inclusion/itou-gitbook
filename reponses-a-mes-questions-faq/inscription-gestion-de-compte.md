@@ -20,7 +20,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 **2️⃣ \[ GESTION DE VOTRE STRUCTURE \]**
 
-[_Quel est le rôle de l'administrateur ?_](inscription-gestion-de-compte.md#quel-est-le-role-de-ladministrateur)\_\_
+[Quel est le rôle de l'administrateur ?](inscription-gestion-de-compte.md#quel-est-le-role-de-ladministrateur)
 
 [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?](inscription-gestion-de-compte.md#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
 
@@ -28,17 +28,17 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Sur mon compte, le type d'organisation \(Cap emploi, Mission locale…\) n'est pas bon ou pas renseigné. Comment rectifier ?](inscription-gestion-de-compte.md#sur-mon-compte-le-type-dorganisation-cap-emploi-mission-locale-nest-pas-bon-ou-pas-renseigne-comment-rectifier)
 
-\_\_[_Ma structure a différentes activités sur plusieurs sites, puis-je différencier mes fiches de poste selon les sites ?_](inscription-gestion-de-compte.md#ma-structure-a-differentes-activites-sur-plusieurs-sites-puis-je-differencier-mes-fiches-de-poste-selon-les-sites)
+[Ma structure a différentes activités sur plusieurs sites, puis-je différencier mes fiches de poste selon les sites ?](inscription-gestion-de-compte.md#ma-structure-a-differentes-activites-sur-plusieurs-sites-puis-je-differencier-mes-fiches-de-poste-selon-les-sites)
 
-\_\_[_Je ne vois pas ma structure dans le moteur de recherche des employeurs_](inscription-gestion-de-compte.md#je-ne-vois-pas-ma-structure-dans-le-moteur-de-recherche-des-employeurs)
+[Je ne vois pas ma structure dans le moteur de recherche des employeurs](inscription-gestion-de-compte.md#je-ne-vois-pas-ma-structure-dans-le-moteur-de-recherche-des-employeurs)
 
-\_\_[_Je ne souhaite plus recruter sur un métier_](inscription-gestion-de-compte.md#je-ne-souhaite-plus-recruter-sur-un-metier)
+[Je ne souhaite plus recruter sur un métier](inscription-gestion-de-compte.md#je-ne-souhaite-plus-recruter-sur-un-metier)
 
-\_\_[_Aucun métier n’apparaît sous ma structure, comment rectifier ?_](inscription-gestion-de-compte.md#aucun-metier-napparait-sous-ma-structure-comment-rectifier)
+[Aucun métier n’apparaît sous ma structure, comment rectifier ?](inscription-gestion-de-compte.md#aucun-metier-napparait-sous-ma-structure-comment-rectifier)
 
-\_\_[_Dans les résultats de recherche, pourquoi ma structure n'est-elle pas géolocalisée au bon endroit_ ](inscription-gestion-de-compte.md#dans-les-resultats-de-recherche-pourquoi-ma-structure-nest-elle-pas-geolocalisee-au-bon-endroit)
+[Dans les résultats de recherche, pourquoi ma structure n'est-elle pas géolocalisée au bon endroit ](inscription-gestion-de-compte.md#dans-les-resultats-de-recherche-pourquoi-ma-structure-nest-elle-pas-geolocalisee-au-bon-endroit)
 
-\_\_[_Comment corriger le nom de ma structure s’il est incorrect ?_](inscription-gestion-de-compte.md#comment-corriger-le-nom-de-ma-structure-sil-est-incorrect)
+[Comment corriger le nom de ma structure s’il est incorrect ?](inscription-gestion-de-compte.md#comment-corriger-le-nom-de-ma-structure-sil-est-incorrect)
 
 **3️⃣\[ GESTION DE VOTRE COMPTE UTILISATEUR \]**
 
