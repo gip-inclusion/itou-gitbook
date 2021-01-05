@@ -30,6 +30,8 @@ description: >-
 
 {% page-ref page="forum-de-linclusion.md" %}
 
+{% page-ref page="../foire-aux-questions-candidats/" %}
+
 {% page-ref page="autre.md" %}
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-30-a-16.19.21.png)
