@@ -32,7 +32,7 @@ description: >-
 
 {% page-ref page="forum-de-linclusion.md" %}
 
-{% page-ref page="../foire-aux-questions-candidats/" %}
+{% page-ref page="../foire-aux-questions-candidats.md" %}
 
 {% page-ref page="autre.md" %}
 

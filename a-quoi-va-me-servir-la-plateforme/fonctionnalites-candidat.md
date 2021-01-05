@@ -17,7 +17,7 @@ Sur la page d’accueil, je peux même la [**tester avant de m’inscrire**](htt
 
 
 {% hint style="info" %}
-\*\*\*\*[**Candidats : des réponses à vos questions dans notre FAQ \(Foire aux questions\)**](../foire-aux-questions-candidats/faq-candidat.md)\*\*\*\*
+\*\*\*\*[**Candidats : des réponses à vos questions dans notre FAQ \(Foire aux questions\)**]()\*\*\*\*
 {% endhint %}
 
 ### 👉 ****[**Je suis candidat ? Je m'inscris sur la Plateforme**](https://inclusion.beta.gouv.fr/)\*\*\*\*
