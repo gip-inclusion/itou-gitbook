@@ -61,7 +61,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 [J'ai fait une erreur de saisie dans le diagnostic d'éligibilité](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-diagnostic-deligibilite)
 
 {% hint style="warning" %}
-
+[Vous n’avez pas trouvé la réponse à votre question ?](diagnostic-et-orientation-du-candidat.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
 {% endhint %}
 
 ## 🟢 LES REPONSES : 
@@ -274,9 +274,9 @@ Les GEIQ, EA, AI, EATT n'ont pas de contraintes d'éligibilité.
 Pour le moment il n'est pas possible de  modifier ces informations depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
 {% endhint %}
 
-{% hint style="warning" %}
-**Vous n’avez pas trouvé la réponse à votre question ?**
+### Vous n’avez pas trouvé la réponse à votre question ?
 
+{% hint style="warning" %}
 **2 Possibilités :**
 
 * 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).
