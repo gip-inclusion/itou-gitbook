@@ -28,11 +28,11 @@
 
 \_\_[_Est-il possible de postuler sur plusieurs structures en une seule manipulation ?_](diagnostic-et-orientation-du-candidat.md#est-il-possible-de-postuler-sur-plusieurs-structures-en-une-seule-manipulation)
 
-_Peut-on prescrire sur la plateforme sans orienter sur une structure en particulier ?_
+\_\_[_Peut-on prescrire sur la plateforme sans orienter sur une structure en particulier ?_](diagnostic-et-orientation-du-candidat.md#peut-on-prescrire-sur-la-plateforme-sans-orienter-sur-une-structure-en-particulier)
 
-_Quel numéro d'identifiant Pole emploi doit-on saisir ?_ 
+\_\_[_Quel numéro d'identifiant Pôle emploi doit-on saisir ?_ ](diagnostic-et-orientation-du-candidat.md#quel-numero-didentifiant-pole-emploi-doit-on-saisir)
 
-_J'ai fait une erreur de saisie dans le profil du candidat_ 
+\_\_[_J'ai fait une erreur de saisie dans le profil du candidat_ ](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat)
 
 **3️⃣   \[ DIAGNOSTIC & ELIGIBILITE IAE \]**
 
@@ -174,10 +174,10 @@ Pour le moment ce n'est pas possible de le faire en une fois, on peut postuler a
 ### _Peut-on prescrire sur la plateforme sans orienter sur une structure en particulier ?_
 
 {% hint style="info" %}
-Non il faut postuler auprès d'une structure.
+Non il faut obligatoirement postuler auprès d'une structure.
 {% endhint %}
 
-### _Quel numéro d'identifiant Pole emploi doit-on saisir ?_ 
+### _Quel numéro d'identifiant Pôle emploi doit-on saisir ?_ 
 
 {% hint style="info" %}
 Il faut renseigner le numéro de dossier Pole emploi \(et pas l'identifiant de connexion pole-emploi.fr \) 
