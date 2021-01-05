@@ -1,5 +1,5 @@
 ---
-description: ✅ Cliquez sur la question pour accéder à la réponse
+description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
 ---
 
 # Orientation candidat & Eligibilité IAE
