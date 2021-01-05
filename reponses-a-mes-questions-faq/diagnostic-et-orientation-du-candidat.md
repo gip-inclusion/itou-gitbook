@@ -1,5 +1,7 @@
 # Orientation candidat & Eligibilité IAE
 
+## LISTE DES QUESTIONS :
+
 1️⃣  **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
 
 [Comment lancer une recherche sur la Plateforme de l'inclusion ?](diagnostic-et-orientation-du-candidat.md#comment-lancer-une-recherche-sur-la-plateforme-de-linclusion)
@@ -53,6 +55,8 @@
 [La Plateforme vérifie-t-elle l'éligibilité d’un candidat ?](diagnostic-et-orientation-du-candidat.md#la-plateforme-verifie-t-elle-leligibilite-dun-candidat)
 
 [J'ai fait une erreur de saisie dans le diagnostic d'éligibilité](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-diagnostic-deligibilite)
+
+## LES REPONSES : 
 
 ## 1️⃣ **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
 
