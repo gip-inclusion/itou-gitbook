@@ -20,15 +20,15 @@
 
 \_\_[_Comment candidater pour une personne incarcérée, qui n'a pas d'accès internet ?_](diagnostic-et-orientation-du-candidat.md#comment-candidater-pour-une-personne-incarceree-qui-na-pas-dacces-internet)
 
-Est-ce que le prescripteur est informé si un candidat a déjà été positionné auprès de cet employeur
+[Est-ce que le prescripteur est informé si un candidat a déjà été positionné auprès de cet employeur](diagnostic-et-orientation-du-candidat.md#est-ce-que-le-prescripteur-est-informe-si-un-candidat-a-deja-ete-positionne-aupres-de-cet-employeur)
 
-_Que doit-on rédiger dans la partie "Message de candidature" ?_
+\_\_[_Que doit-on rédiger dans la partie "Message de candidature" ?_](diagnostic-et-orientation-du-candidat.md#que-doit-on-rediger-dans-la-partie-message-de-candidature)
 
-_Peut on faire une candidature spontanée si l'employeur a bloqué les candidatures ?_
+\_\_[_Peut-on faire une candidature spontanée si l'employeur a bloqué les candidatures ?_](diagnostic-et-orientation-du-candidat.md#peut-on-faire-une-candidature-spontanee-si-lemployeur-a-bloque-les-candidatures)
 
-_Est-il possible de présenter un candidat sur plusieurs structures en une seule manipulation ?_
+\_\_[_Est-il possible de postuler sur plusieurs structures en une seule manipulation ?_](diagnostic-et-orientation-du-candidat.md#est-il-possible-de-postuler-sur-plusieurs-structures-en-une-seule-manipulation)
 
-_Peut on prescrire sur la plateforme sans orienter sur une structure en particulier ?_
+_Peut-on prescrire sur la plateforme sans orienter sur une structure en particulier ?_
 
 _Quel numéro d'identifiant Pole emploi doit-on saisir ?_ 
 
@@ -147,7 +147,7 @@ Il est effectivement possible via la Plateforme d'orienter un candidat vers un e
 Certains acteurs nous signalent que certains employeurs refusent d'embaucher des candidats en dehors de leur département,  nous les invitons à prendre contact avec leur DIRECCTE
 {% endhint %}
 
-### Est-ce que le prescripteur est informé si un candidat a déjà été positionné auprès de cet employeur
+### _Est-ce que le prescripteur est informé si un candidat a déjà été positionné auprès de cet employeur_
 
 {% hint style="info" %}
 Oui un message s'affiche au moment où le prescripteur souhaite postuler. On lui donne la date de la dernière candidature envoyée à cet employeur pour ce candidat
@@ -159,19 +159,19 @@ Oui un message s'affiche au moment où le prescripteur souhaite postuler. On lui
 Le prescripteur renseigne toutes les informations utiles à l'examen de la candidature par l'employeur. N'hésitez pas à donner des détails pour que l'employeur puisse avoir toutes les informations utiles qui lui permettront de prendre une décision. Vous pouvez renseigner des éléments du diagnostic socio-professionnel ainsi que des informations liées à la motivation du candidat
 {% endhint %}
 
-### _Peut on faire une candidature spontanée si l'employeur a bloqué les candidatures ?_
+### _Peut-on faire une candidature spontanée si l'employeur a bloqué les candidatures ?_
 
 {% hint style="info" %}
 Non, tant que l'employeur bloque les candidatures on ne peut plus postuler auprès de sa structure
 {% endhint %}
 
-### _Est-il possible de présenter un candidat sur plusieurs structures en une seule manipulation ?_
+### _Est-il possible de postuler sur plusieurs structures en une seule manipulation ?_
 
 {% hint style="info" %}
 Pour le moment ce n'est pas possible de le faire en une fois, on peut postuler auprès d'une structure à la fois. 
 {% endhint %}
 
-### _Peut on prescrire sur la plateforme sans orienter sur une structure en particulier ?_
+### _Peut-on prescrire sur la plateforme sans orienter sur une structure en particulier ?_
 
 {% hint style="info" %}
 Non il faut postuler auprès d'une structure.
