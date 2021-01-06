@@ -56,6 +56,7 @@
 * [💬Mon Forum de l'inclusion](forum-de-linclusion.md)
 * [🤝 Le Marché de l'inclusion](le-marche-de-linclusion.md)
 * [🔎 Foire aux questions PRO](reponses-a-mes-questions-faq/README.md)
+  * [Pilotage de l'inclusion](reponses-a-mes-questions-faq/pilotage-de-linclusion.md)
   * [Inscription & Gestion de compte](reponses-a-mes-questions-faq/inscription-gestion-de-compte.md)
   * [Orientation candidat & Eligibilité IAE](reponses-a-mes-questions-faq/diagnostic-et-orientation-du-candidat.md)
   * [Suivi et gestion des candidatures](reponses-a-mes-questions-faq/suivi-des-candidatures.md)
