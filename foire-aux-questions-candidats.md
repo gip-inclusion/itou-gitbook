@@ -1,6 +1,8 @@
-# 🔎 Foire aux questions Candidats
+---
+description: PAGE EN COURS DE CONSTRUCTION
+---
 
-![](.gitbook/assets/picmoteur.png)
+# 🔎 Foire aux questions Candidats
 
 ### _Je souhaite changer l’adresse mail de mon compte_
 
