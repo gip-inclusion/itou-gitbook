@@ -41,6 +41,7 @@ Un employeur solidaire peut :
 
 * Afficher des informations sur sa structure \(coordonnées de contact, site web, description\)
 * Afficher ses besoins en recrutement
+* Bloquer la réception de nouvelles candidatures
 * Réaliser des auto-prescriptions
 
 Une SIAE peut également : 
