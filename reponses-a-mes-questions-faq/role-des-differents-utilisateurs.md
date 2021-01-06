@@ -58,6 +58,7 @@ Le prescripteur habilité peut :
 
 * Afficher des informations sur son organisation \(coordonnées de contact, site web, description\)
 * Proposer des candidatures aux employeurs solidaires
+* Suivre l'avancée des candidatures envoyées par tous les membres de son organisation
 * Valider l’éligibilité à l’IAE d’un candidat pour 6 mois
 * Déroger aux critères administratifs exigés pour l’IAE \( s’il estime qu’un parcours IAE est pertinent suite au diagnostic socio-professionnel
 * Déroger au délai de carence entre 2 PASS IAE/Agrément \(délai de carence = 2 ans\)
@@ -74,6 +75,7 @@ L'orienteur peut :
 
 * S’inscrire dans le cadre d’une organisation ou seul\(e\)
 * Proposer des candidatures aux employeurs solidaires sans valider l'éligibilité  à l'IAE
+* Suivre l'avancée des candidatures envoyées par tous les membres de son organisation
 
 L’éligibilité de son candidat sera réalisée par la SIAE au moment de l'embauche.
 {% endhint %}
