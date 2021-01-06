@@ -6,7 +6,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 ## 🟡 LISTE DES QUESTIONS  :
 
-1️⃣ **\[ SUIVI DES CANDIDATURES DANS L'ESPACE EMPLOYEUR \]**
+1️⃣ **\[ SUIVI DES CANDIDATURES PAR L'EMPLOYEUR \]**
 
 [Je n'ai pas le lien "candidatures à traiter" ?](suivi-des-candidatures.md#je-nai-pas-le-lien-candidatures-a-traiter)
 
@@ -20,7 +20,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 \_\_[_J'ai refusé / annulé une candidature par erreur, comment la récupérer ?_](suivi-des-candidatures.md#jai-refuse-annule-une-candidature-par-erreur-comment-la-recuperer)
 
-2️⃣ **\[ SUIVI DES CANDIDATURES DANS L'ESPACE PRESCRIPTEUR \]**
+2️⃣ **\[ SUIVI DES CANDIDATURES PAR LE PRESCRIPTEUR \]**
 
 \_\_[_Suis-je informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_](suivi-des-candidatures.md#suis-je-informe-e-de-lavancee-des-candidatures-des-personnes-que-jaccompagne)
 
@@ -44,7 +44,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 ## 🟢LES REPONSES : 
 
-## 1️⃣ **\[ SUIVI DES CANDIDATURES DANS L'ESPACE EMPLOYEUR \]**
+## 1️⃣ **\[ SUIVI DES CANDIDATURES PAR L'EMPLOYEUR \]**
 
 ### _Je n'ai pas le lien "candidatures à traiter"_
 
@@ -84,7 +84,7 @@ Vous pouvez bloquer temporairement la réception de nouvelles candidatures à pa
 On ne peut pas revenir sur une candidature annulée ou refusée. L'employeur doit refaire une nouvelle candidature, depuis son tableau de bord, en cliquant sur "obtenir un pass iae \(candidature spontanée\)". Si un diagnostic d'éligibilité IAE avait été validé par un prescripteur habilité celui-ci sera récupéré automatiquement s'il est encore valable \(pour rappel un diagnostic d'éligibilité IAE est valable 6 mois\)
 {% endhint %}
 
-## 2️⃣**\[ SUIVI DES CANDIDATURES DANS L'ESPACE PRESCRIPTEUR\]**
+## 2️⃣**\[ SUIVI DES CANDIDATURES PAR LE PRESCRIPTEUR\]**
 
 ### _Suis-je informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_
 
