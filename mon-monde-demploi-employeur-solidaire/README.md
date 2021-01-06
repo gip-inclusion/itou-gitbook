@@ -2,7 +2,7 @@
 
 **Découvrez des tutos pour vous aider à utiliser la Plateforme :**
 
-* \*\*\*\*[**M'inscrire sur la Plateforme**](inscription-employeur.md)\*\*\*\*
+* \*\*\*\*[**M'inscrire sur la Plateforme**](inscription-employeur.md) ****
 * \*\*\*\*[**Décrire ma structure**](description-structure.md)\*\*\*\*
 * \*\*\*\*[**Configurer mes fiches de postes**](gerer-les-fiches-de-poste.md)\*\*\*\*
 * \*\*\*\*[**Inviter mes collaborateurs à se rattacher au compte de ma structure**](invitation-collaborateurs.md)
