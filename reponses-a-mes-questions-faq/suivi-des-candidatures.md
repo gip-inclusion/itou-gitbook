@@ -8,33 +8,39 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 1️⃣ **\[ SUIVI DES CANDIDATURES DANS L'ESPACE EMPLOYEUR \]**
 
-Je n'ai pas le lien "candidatures à traiter" ?
+[Je n'ai pas le lien "candidatures à traiter" ?](suivi-des-candidatures.md#je-nai-pas-le-lien-candidatures-a-traiter)
 
-J'ai reçu une notification mail pour une nouvelle candidature mais je ne la trouve pas dans mes candidatures à traiter
+[J'ai reçu une notification mail pour une nouvelle candidature mais je ne la trouve pas dans mes candidatures à traiter](suivi-des-candidatures.md#jai-recu-une-notification-mail-pour-une-nouvelle-candidature-mais-je-ne-la-trouve-pas-dans-mes-candidatures-a-traiter)
 
-_Que se passe-t-il si je clique sur le bouton "J'étudie la candidature" ?_
+\_\_[_Que se passe-t-il si je clique sur le bouton "J'étudie la candidature" ?_](suivi-des-candidatures.md#que-se-passe-t-il-si-je-clique-sur-le-bouton-jetudie-la-candidature)
 
-_Les employeurs sont-ils alertés en cas d’embauche par un autre employeur ?_
+\_\_[_Les employeurs sont-ils alertés en cas d’embauche par un autre employeur ?_](suivi-des-candidatures.md#les-employeurs-sont-ils-alertes-en-cas-dembauche-par-un-autre-employeur)
 
-J'ai trop de candidatures à gérer pour une offre de poste, comment l'indiquer aux candidats ?
+[J'ai trop de candidatures à gérer_,_ comment l'indiquer aux candidats ?](suivi-des-candidatures.md#jai-trop-de-candidatures-a-gerer-comment-lindiquer-aux-candidats)
+
+\_\_[_J'ai refusé / annulé une candidature par erreur, comment la récupérer ?_](suivi-des-candidatures.md#jai-refuse-annule-une-candidature-par-erreur-comment-la-recuperer)
 
 2️⃣ **\[ SUIVI DES CANDIDATURES DANS L'ESPACE PRESCRIPTEUR \]**
 
-_Suis-je informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_
+\_\_[_Suis-je informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_](suivi-des-candidatures.md#suis-je-informe-e-de-lavancee-des-candidatures-des-personnes-que-jaccompagne)
 
-Le prescripteur est il informé du motif de refus d'embauche ?
+[Le prescripteur est il informé du motif de refus d'embauche ?](suivi-des-candidatures.md#le-prescripteur-est-il-informe-du-motif-de-refus-dembauche)
 
-Peut**-**on voir toutes les candidatures d'un demandeur d'emploi ?
+[Peut**-**on voir toutes les candidatures d'un demandeur d'emploi ?](suivi-des-candidatures.md#peut-on-voir-toutes-les-candidatures-dun-demandeur-demploi)
 
-Comment voir toutes les candidatures envoyées par mon organisation
+[Comment voir toutes les candidatures envoyées par mon organisation ?](suivi-des-candidatures.md#comment-voir-toutes-les-candidatures-envoyees-par-mon-organisation)
 
-Le candidat que j'ai accompagné à postuler est-il tenu informé de l’avancement de sa candidature ?
+[Le candidat que j'ai accompagné à postuler est-il tenu informé de l’avancement de sa candidature ?](suivi-des-candidatures.md#le-candidat-que-jai-accompagne-a-postuler-est-il-tenu-informe-de-lavancement-de-sa-candidature)
 
-Quels sont les différents statuts liés aux candidatures ?
+[Quels sont les différents statuts liés aux candidatures ?](suivi-des-candidatures.md#quels-sont-les-differents-statuts-lies-aux-candidatures)
 
-_Les employeurs sont-ils alertés en cas d’embauche par un autre employeur ?_
+\_\_[_Comment faire si le candidat n'a pas la possibilité d'accéder à sa boite mail ?_](suivi-des-candidatures.md#comment-faire-si-le-candidat-na-pas-la-possibilite-dacceder-a-sa-boite-mail)
 
-_Comment faire si le candidat n'a pas la possibilité d'accéder à sa boite mail ?_
+[Peut-on filtrer les candidatures par SIAE ?](suivi-des-candidatures.md#peut-on-filtrer-les-candidatures-par-siae)
+
+{% hint style="warning" %}
+[Vous n’avez pas trouvé la réponse à votre question ?](suivi-des-candidatures.md)
+{% endhint %}
 
 ## 🟢LES REPONSES : 
 
@@ -66,10 +72,16 @@ A noter qu'aucune notification n'est envoyée lorsqu'une candidature passe au st
 Oui, toutes les autres candidatures du candidat sont mises à jour avec la mention "embauché ailleurs"
 {% endhint %}
 
-### J'ai trop de candidatures à gérer pour une offre de poste, comment l'indiquer aux candidats ?
+### J'ai trop de candidatures à gérer, comment l'indiquer aux candidats ?
 
 {% hint style="info" %}
 Vous pouvez bloquer temporairement la réception de nouvelles candidatures à partir de votre tableau de bord en cochant la case ''Bloquer les candidatures'' . Votre fiche employeur indiquera : "Cet employeur ne traite plus de nouvelles candidatures pour l'instant.'' Votre Tableau de bord reste actif pour obtenir un Pass IAE si besoin. Pour réactiver le poste, il suffit de décocher la case
+{% endhint %}
+
+### _J'ai refusé / annulé une candidature par erreur, comment la récupérer ?_
+
+{% hint style="info" %}
+On ne peut pas revenir sur une candidature annulée ou refusée. L'employeur doit refaire une nouvelle candidature, depuis son tableau de bord, en cliquant sur "obtenir un pass iae \(candidature spontanée\)". Si un diagnostic d'éligibilité IAE avait été validé par un prescripteur habilité celui-ci sera récupéré automatiquement s'il est encore valable \(pour rappel un diagnostic d'éligibilité IAE est valable 6 mois\)
 {% endhint %}
 
 ## 2️⃣**\[ SUIVI DES CANDIDATURES DANS L'ESPACE PRESCRIPTEUR\]**
@@ -80,31 +92,31 @@ Vous pouvez bloquer temporairement la réception de nouvelles candidatures à pa
 Oui, votre Tableau de bord vous permet de vérifier l’état des candidatures \(à l’étude, acceptées, pour plus tard, refusées…\), et vous êtes également alerté par mail d’un changement de statut.
 {% endhint %}
 
-### Le prescripteur est il informé du motif de refus d'embauche ?
+### _Le prescripteur est il informé du motif de refus d'embauche ?_
 
 {% hint style="info" %}
 Oui l'employeur choisit parmi une liste de motifs, le prescripteur reçoit le motif de refus \(celui-ci n'est pas communiqué au candidat\). Le candidat reçoit uniquement le message de réponse
 {% endhint %}
 
-### Peut**-**on voir toutes les candidatures d'un demandeur d'emploi ?
+### _Peut**-**on voir toutes les candidatures d'un demandeur d'emploi ?_
 
 {% hint style="info" %}
 Uniquement celles qui sont envoyées par votre organisation.
 {% endhint %}
 
-### Comment voir toutes les candidatures envoyées par mon organisation
+### _Comment voir toutes les candidatures envoyées par mon organisation ?_
 
 {% hint style="info" %}
 Depuis votre tableau de bord, cliquez "suivi des candidatures. Vous visualiserez toutes vos candidatures ainsi que celles de tous les membres de votre organisation
 {% endhint %}
 
-### Le candidat que j'ai accompagné à postuler est-il tenu informé de l’avancement de sa candidature ?
+### _Le candidat que j'ai accompagné à postuler est-il tenu informé de l’avancement de sa candidature ?_
 
 {% hint style="info" %}
 Si vous avez postulé pour lui en indiquant son mail, il sera informé par mail à chaque étape du traitement de sa candidature \(à l’étude, acceptée, pour plus tard, refusée…\).
 {% endhint %}
 
-### Quels sont les différents statuts liés aux candidatures ?
+### _Quels sont les différents statuts liés aux candidatures ?_
 
 {% hint style="info" %}
 _Il existe 7 types de statut :_
@@ -124,9 +136,13 @@ _Il existe 7 types de statut :_
 En tant que prescripteur vous serez notifié de la décision prise par l'employeur. N'hésitez pas à utiliser le message de candidature pour préciser à l'employeur que le candidat n'a pas accès à sa boite mail
 {% endhint %}
 
-\*\*\*\*
+### _Peut-on filtrer les candidatures par SIAE ?_
 
-**Vous n’avez pas trouvé la réponse à votre question ?**
+{% hint style="info" %}
+Oui, cliquez sur "Rechercher dans vos candidatures" puis inscrivez le nom de la SIAE dans le champ " Structures destinataires"
+{% endhint %}
+
+### **Vous n’avez pas trouvé la réponse à votre question ?**
 
 {% hint style="warning" %}
 **2 Possibilités :**
