@@ -34,6 +34,8 @@ Cette Foire aux questions est destinée aux professionnels \(Employeurs, prescri
 
 {% page-ref page="le-marche-de-linclusion.md" %}
 
+{% page-ref page="pilotage-de-linclusion.md" %}
+
 {% page-ref page="autre.md" %}
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-30-a-16.19.21.png)
