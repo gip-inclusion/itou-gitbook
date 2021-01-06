@@ -39,8 +39,8 @@ Le prescripteur habilité peut à la fois postuler pour un candidat et valider s
 {% hint style="info" %}
 Un employeur solidaire peut : 
 
-* Afficher des informations sur sa structure \(coordonnées de contact, site web, description\)
-* Afficher ses besoins en recrutement
+* Publier des informations sur sa structure \(coordonnées de contact, site web, description\)
+* Publier ses besoins en recrutement
 * Bloquer la réception de nouvelles candidatures
 * Réaliser des auto-prescriptions
 * Accepter, refuser ou mettre en attente une candidature
@@ -57,7 +57,7 @@ Une SIAE peut également :
 {% hint style="info" %}
 Le prescripteur habilité peut :
 
-* Afficher des informations sur son organisation \(coordonnées de contact, site web, description\)
+* Publier des informations sur son organisation \(coordonnées de contact, site web, description\)
 * Proposer des candidatures aux employeurs solidaires
 * Suivre l'avancée des candidatures envoyées par tous les membres de son organisation
 * Valider l’éligibilité à l’IAE d’un candidat pour 6 mois \(valable sur toutes les structures\)
