@@ -2,7 +2,7 @@
 description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
 ---
 
-# Suivi et gestion des candidatures
+# 👀 Suivi et gestion des candidatures
 
 ## 🟡 LISTE DES QUESTIONS  :
 

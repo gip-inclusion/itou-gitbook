@@ -2,7 +2,7 @@
 description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
 ---
 
-# Rôle des différents utilisateurs \(employeurs, prescripteurs habilités, orienteurs, candidats\)
+# 👥 Rôle des différents utilisateurs \(employeurs, prescripteurs habilités, orienteurs, candidats\)
 
 ## 🟡 LISTE DES QUESTIONS  :
 

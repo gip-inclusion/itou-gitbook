@@ -2,7 +2,7 @@
 description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
 ---
 
-# Embauches et PASS IAE
+# 🔑 Embauches et PASS IAE
 
 ## 🟡 LISTE DES QUESTIONS  :
 
@@ -213,7 +213,7 @@ La Plateforme de l'inclusion ne prend pas en compte les interruptions d'agrémen
 Pour en savoir plus sur les motifs légitimes de suspension, consultez notre espace de documentation : [https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire\#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae). 
 {% endhint %}
 
-### Comment obtenir une extension d'agrément ?
+### _Comment obtenir une extension d'agrément ?_
 
 {% hint style="info" %}
 L'extension n'existe plus car le PASS IAE est rattaché à une personne et non plus à un employeur \(comme c'était le cas pour l'agrément\)  Il reste donc le même tout au long du parcours professionnel même si la personne change de SIAE. 
@@ -221,20 +221,20 @@ L'extension n'existe plus car le PASS IAE est rattaché à une personne et non p
 Le nouvel employeur peut récupérer le PASS IAE en enregistrant le candidat sur le plateforme \( En cliquant sur "obtenir un PASS IAE"\)
 {% endhint %}
 
-### Dois-je informer Pôle emploi qu'un Pass IAE m'a été délivré ?
+### _Dois-je informer Pôle emploi qu'un Pass IAE m'a été délivré ?_
 
 {% hint style="info" %}
 Il n'est pas nécessaire d'informer Pôle emploi. Un protocole automatique est en place entre la Plateforme et Pôle emploi \(fichier partagé des Pass IAE\). Les agences Pole emploi reçoivent la liste des PASS IAE pour que les conseillers puissent mettre à jour les dossiers des demandeurs d'emploi concernés.
 {% endhint %}
 
-### Je reçois le numéro d'agrément en combien de temps via la Plateforme \(Pass IAE\)?
+### _Je reçois le numéro d'agrément en combien de temps via la Plateforme \(Pass IAE\)?_
 
 {% hint style="info" %}
 Lorsque le numéro identifiant Pôle emploi est renseigné ou si le candidat n'est pas inscrit chez Pole emploi la délivrance du PASS IAE est instantanée.  
 En revanche si l'employeur a sélectionné "identifiant Pôle emploi oublié" , cela implique une vérification manuelle.  La vérification manuelle est de maximum 2 jours. 
 {% endhint %}
 
-### \_\_
+\_\_
 
 ### _Vous n’avez pas trouvé la réponse à votre question ?_
 

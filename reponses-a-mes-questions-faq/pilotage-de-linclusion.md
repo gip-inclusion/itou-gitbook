@@ -2,5 +2,5 @@
 description: PAGE EN COURS DE CONSTRUCTION
 ---
 
-# Pilotage de l'inclusion
+# 📈 Pilotage de l'inclusion
 

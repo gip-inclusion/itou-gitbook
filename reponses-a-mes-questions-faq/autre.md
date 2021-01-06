@@ -2,7 +2,7 @@
 description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
 ---
 
-# Autre
+# 🎈 Autre
 
 ### _Existe-t-il une hotline \(numéro pour joindre l'assistance technique\) ?_
 

@@ -2,7 +2,7 @@
 description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
 ---
 
-# Inscription & Gestion de compte
+# 📝 Inscription & Gestion de compte
 
 ## 🟡 LISTE DES QUESTIONS  :
 
