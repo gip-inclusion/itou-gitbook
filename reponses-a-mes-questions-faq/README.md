@@ -6,8 +6,6 @@ description: >-
 
 # 🔎 Foire aux questions PRO
 
-![](../.gitbook/assets/picmoteur.png)
-
 {% hint style="info" %}
 Cette Foire aux questions est destinée aux professionnels \(Employeurs, prescripteurs habilités et orienteurs\), **si vous êtes un candidat, consultez** [**la Foire aux questions Candidats**](../foire-aux-questions-candidats.md)\*\*\*\*
 {% endhint %}
