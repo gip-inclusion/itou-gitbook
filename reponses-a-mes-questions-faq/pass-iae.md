@@ -1,6 +1,47 @@
+---
+description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
+---
+
 # Embauches et PASS IAE
 
-![](../.gitbook/assets/picmoteur.png)
+## 🟡 LISTE DES QUESTIONS  :
+
+Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?
+
+J’ai un problème avec « la date de début du contrat ne doit pas être dans le passé », que faire ?
+
+A quoi sert un PASS IAE ?
+
+_Quelle est la différence entre un agrément et un Pass IAE ?_
+
+_Qui fait la demande de PASS IAE ?_
+
+\*\*\*\*
+
+## 🟢 LES REPONSES : 
+
+### _Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?_
+
+{% hint style="info" %}
+Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors attribuer un Pass IAE pour une durée de 2 ans. Si vous renouvelez son contrat ou qu'il travaille ailleurs, le numéro du Pass IAE ne changera pas, il est désormais attaché au candidat et non plus au parcours.
+{% endhint %}
+
+### _J’ai un problème avec « la date de début du contrat ne doit pas être dans le passé », que faire ?_
+
+{% hint style="info" %}
+Il n’est pas possible d'antidater un contrat. Lorsque vous cliquez sur ‘’Je l'embauche’’, la date du contrat doit toujours être dans le futur \(ou au plus tôt la date du jour\)
+{% endhint %}
+
+### _A quoi sert un PASS IAE ?_
+
+{% hint style="info" %}
+Le PASS IAE : 
+
+* Valide l’entrée en parcours IAE du candidat
+* A une durée de validité de 2 ans
+* Permet au candidat d’être recruté par des structures d’insertion
+* Permet à une structure d’insertion de bénéficier d’une aide au poste pour l’embauche d’un candidat
+{% endhint %}
 
 ### _Quelle est la différence entre un agrément et un Pass IAE ?_
 
@@ -124,13 +165,7 @@ Oui, le Pass IAE a même valeur que l'agrément Pôle emploi. Il est valide dès
 
 L'agrément est désormais rattaché à une personne et non plus à un parcours. Il reste donc le même tout au long du parcours professionnel même si la personne change de SIAE. C’est plus simple !
 
-### Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?
-
-Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors attribuer un Pass IAE pour une durée de 2 ans. Si vous renouvelez son contrat ou qu'il travaille ailleurs, le numéro du Pass IAE ne changera pas, il est désormais attaché au candidat et non plus au parcours.
-
-### J’ai un problème avec « la date de début du contrat ne doit pas être dans le passé », que faire ?
-
-Il n’est pas possible d'antidater un contrat. Lorsque vous cliquez sur ‘’Je l'embauche’’, la date du contrat doit toujours être dans le futur.
+### 
 
 ### Comment obtenir une extension d'agrément ?
 
