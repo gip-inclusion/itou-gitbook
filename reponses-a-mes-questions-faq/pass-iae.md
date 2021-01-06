@@ -148,6 +148,14 @@ Il n'est pas nécessaire d'informer Pôle emploi. Un protocole automatique est e
 
 Le délai entre la candidature et l’obtention du Pass IAE est de 2 jours en moyenne. Votre candidat peut néanmoins commencer à travailler en attendant sa réception. Il suffit de simplement confirmer son embauche sur la Plateforme.
 
+
+
+**Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?**
+
+{% hint style="info" %}
+Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors attribuer un Pass IAE pour une durée de 2 ans. Si vous renouvelez son contrat ou qu'il travaille ailleurs, le numéro du Pass IAE ne changera pas, il est désormais attaché au candidat et non plus au parcours.
+{% endhint %}
+
 \*\*\*\*
 
 ### _L'employeur peut-il embaucher un candidat venant d'un autre département ?_

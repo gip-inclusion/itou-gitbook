@@ -1,8 +1,80 @@
-# Suivi des candidatures
+---
+description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
+---
 
-![](../.gitbook/assets/picmoteur.png)
+# Suivi et gestion des candidatures
 
-### _Suis-je tenu informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_
+## 🟡 LISTE DES QUESTIONS  :
+
+1️⃣ **\[ SUIVI DES CANDIDATURES DANS L'ESPACE EMPLOYEUR \]**
+
+Je n'ai pas le lien "candidatures à traiter" ?
+
+J'ai reçu une notification mail pour une nouvelle candidature mais je ne la trouve pas dans mes candidatures à traiter
+
+_Que se passe-t-il si je clique sur le bouton "J'étudie la candidature" ?_
+
+_Les employeurs sont-ils alertés en cas d’embauche par un autre employeur ?_
+
+J'ai trop de candidatures à gérer pour une offre de poste, comment l'indiquer aux candidats ?
+
+2️⃣ **\[ SUIVI DES CANDIDATURES DANS L'ESPACE PRESCRIPTEUR \]**
+
+_Suis-je informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_
+
+Le prescripteur est il informé du motif de refus d'embauche ?
+
+Peut**-**on voir toutes les candidatures d'un demandeur d'emploi ?
+
+Comment voir toutes les candidatures envoyées par mon organisation
+
+Le candidat que j'ai accompagné à postuler est-il tenu informé de l’avancement de sa candidature ?
+
+Quels sont les différents statuts liés aux candidatures ?
+
+_Les employeurs sont-ils alertés en cas d’embauche par un autre employeur ?_
+
+_Comment faire si le candidat n'a pas la possibilité d'accéder à sa boite mail ?_
+
+## 🟢LES REPONSES : 
+
+## 1️⃣ **\[ SUIVI DES CANDIDATURES DANS L'ESPACE EMPLOYEUR \]**
+
+### _Je n'ai pas le lien "candidatures à traiter"_
+
+{% hint style="info" %}
+Ce lien s'affiche uniquement si des candidatures sont en attente de décision \(nouvelles candidatures + candidatures à l'étude\)
+{% endhint %}
+
+### J'ai reçu une notification mail pour une nouvelle candidature mais je ne la trouve pas dans mes candidatures à traiter
+
+{% hint style="info" %}
+Pensez à vérifier les tableaux de bord de vos autres structures en cliquant en haut à droite sur "Changer de structure"
+{% endhint %}
+
+### _Que se passe-t-il si je clique sur le bouton "J'étudie la candidature" ?_
+
+{% hint style="info" %}
+En cliquant "J'étudie la candidature", vous signifiez au candidat et au prescripteur que la candidature est en cours de traitement et qu'ils auront bientôt des nouvelles. Vous indiquez en même temps à vos collaborateurs que vous gérez cette candidature.
+
+A noter qu'aucune notification n'est envoyée lorsqu'une candidature passe au statut de "candidature à l'étude"
+{% endhint %}
+
+### _Les employeurs sont-ils alertés en cas d’embauche par un autre employeur ?_
+
+{% hint style="info" %}
+Oui, toutes les autres candidatures du candidat sont mises à jour avec la mention "embauché ailleurs"
+{% endhint %}
+
+### J'ai trop de candidatures à gérer pour une offre de poste, comment l'indiquer aux candidats ?
+
+{% hint style="info" %}
+Vous pouvez bloquer temporairement la réception de nouvelles candidatures à partir de votre tableau de bord en cochant la case ''Bloquer les candidatures'' . Votre fiche employeur indiquera : "Cet employeur ne traite plus de nouvelles candidatures pour l'instant.'' Votre Tableau de bord reste actif pour obtenir un Pass IAE si besoin. Pour réactiver le poste, il suffit de décocher la case
+{% endhint %}
+
+## 2️⃣**\[ SUIVI DES CANDIDATURES DANS L'ESPACE PRESCRIPTEUR\]**
+
+### _Suis-je informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_
 
 {% hint style="info" %}
 Oui, votre Tableau de bord vous permet de vérifier l’état des candidatures \(à l’étude, acceptées, pour plus tard, refusées…\), et vous êtes également alerté par mail d’un changement de statut.
@@ -14,10 +86,10 @@ Oui, votre Tableau de bord vous permet de vérifier l’état des candidatures \
 Oui l'employeur choisit parmi une liste de motifs, le prescripteur reçoit le motif de refus \(celui-ci n'est pas communiqué au candidat\). Le candidat reçoit uniquement le message de réponse
 {% endhint %}
 
-### Peut on voir toutes les candidatures d'un demandeur d'emploi ?
+### Peut**-**on voir toutes les candidatures d'un demandeur d'emploi ?
 
 {% hint style="info" %}
-Uniquement celles qui sont envoyées par votre organisation
+Uniquement celles qui sont envoyées par votre organisation.
 {% endhint %}
 
 ### Comment voir toutes les candidatures envoyées par mon organisation
@@ -46,39 +118,17 @@ _Il existe 7 types de statut :_
 * _**Embauché ailleurs =** Une autre structure a embauché ce candidat_
 {% endhint %}
 
-### _Les employeurs sont-ils alertés en cas d’embauche par un autre employeur ?_
-
-{% hint style="info" %}
-Oui, toutes les autres candidatures du candidat sont mises à jour avec la mention "embauché ailleurs"
-{% endhint %}
-
 ### _Comment faire si le candidat n'a pas la possibilité d'accéder à sa boite mail ?_
 
 {% hint style="info" %}
 En tant que prescripteur vous serez notifié de la décision prise par l'employeur. N'hésitez pas à utiliser le message de candidature pour préciser à l'employeur que le candidat n'a pas accès à sa boite mail
 {% endhint %}
 
-### _Que se passe-t-il si je clique sur le bouton "J'étudie la candidature" ?_
+\*\*\*\*
 
-{% hint style="info" %}
-En cliquant "J'étudie la candidature", vous signifiez au candidat et au prescripteur que la candidature est en cours de traitement et qu'ils auront bientôt des nouvelles. Vous indiquez en même temps à vos collaborateurs que vous gérez cette candidature.
-
-A noter qu'aucune notification n'est envoyée lorsqu'une candidature passe au statut de "candidature à l'étude"
-{% endhint %}
-
-### J'ai trop de candidatures à gérer pour une offre de poste, comment l'indiquer aux candidats ?
-
-Vous pouvez bloquer temporairement la réception de nouvelles candidatures à partir de votre tableau de bord en cochant la case ''Bloquer les candidatures'' . Votre fiche employeur indiquera : "Cet employeur ne traite plus de nouvelles candidatures pour l'instant.'' Votre Tableau de bord reste actif pour obtenir un Pass IAE si besoin. Pour réactiver le poste, il suffit de décocher la case
-
-
-
-**Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?**
-
-Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors attribuer un Pass IAE pour une durée de 2 ans. Si vous renouvelez son contrat ou qu'il travaille ailleurs, le numéro du Pass IAE ne changera pas, il est désormais attaché au candidat et non plus au parcours..
-
-{% hint style="warning" %}
 **Vous n’avez pas trouvé la réponse à votre question ?**
 
+{% hint style="warning" %}
 **2 Possibilités :**
 
 * 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).

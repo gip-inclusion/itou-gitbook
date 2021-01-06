@@ -58,7 +58,7 @@
 * [🔎 Foire aux questions PRO](reponses-a-mes-questions-faq/README.md)
   * [Inscription & Gestion de compte](reponses-a-mes-questions-faq/inscription-gestion-de-compte.md)
   * [Orientation candidat & Eligibilité IAE](reponses-a-mes-questions-faq/diagnostic-et-orientation-du-candidat.md)
-  * [Suivi des candidatures](reponses-a-mes-questions-faq/suivi-des-candidatures.md)
+  * [Suivi et gestion des candidatures](reponses-a-mes-questions-faq/suivi-des-candidatures.md)
   * [Embauches et PASS IAE](reponses-a-mes-questions-faq/pass-iae.md)
   * [Rôle des différents utilisateurs \(employeurs, prescripteurs habilités, orienteurs, candidats\)](reponses-a-mes-questions-faq/role-des-differents-utilisateurs.md)
   * [Forum de l'inclusion](reponses-a-mes-questions-faq/forum-de-linclusion.md)
