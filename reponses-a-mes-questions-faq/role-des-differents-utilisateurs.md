@@ -43,6 +43,7 @@ Un employeur solidaire peut :
 * Afficher ses besoins en recrutement
 * Bloquer la réception de nouvelles candidatures
 * Réaliser des auto-prescriptions
+* Accepter, refuser ou mettre en attente une candidature
 
 Une SIAE peut également : 
 
