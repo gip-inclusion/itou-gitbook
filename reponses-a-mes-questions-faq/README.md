@@ -15,7 +15,7 @@ Cette Foire aux questions est destinée aux professionnels \(Employeurs, prescri
 * [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment faire ?](inscription-gestion-de-compte.md#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
 * [Je souhaite changer l’adresse mail de mon compte utilisateur](inscription-gestion-de-compte.md#je-souhaite-changer-ladresse-mail-de-mon-compte)
 * [J'ai fait une erreur de saisie dans le profil du candidat](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat)
-* \_\_[_Y-a-t-il un impact de la crise sanitaire sur les embauches et le Pass IAE ?_](pass-iae.md#y-a-t-il-un-impact-de-la-crise-sanitaire-sur-les-embauches-et-le-pass-iae)
+* [Y-a-t-il un impact de la crise sanitaire sur les embauches et le Pass IAE ?](pass-iae.md#y-a-t-il-un-impact-de-la-crise-sanitaire-sur-les-embauches-et-le-pass-iae)
 * [Comment ajouter mes collaborateurs sur le compte de ma structure ?](inscription-gestion-de-compte.md#comment-ajouter-mes-collaborateurs-sur-le-compte-de-ma-structure)
 
 ## ⚡LES THEMES DE LA FAQ : 
