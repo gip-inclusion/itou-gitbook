@@ -47,7 +47,7 @@ Un employeur solidaire peut :
 
 Une SIAE peut également : 
 
-* Valider l’éligibilité à l’IAE d'un candidat sur la base des critères administratifs + diagnostic socio-professionnel
+* Valider l’éligibilité à l’IAE d'un candidat sur la base des critères administratifs + diagnostic socio-professionnel \(valable uniquement pour sa structure\)
 * Demander l’obtention du PASS IAE \( et l’annuler si besoin\)
 * Suspendre un PASS IAE 
 {% endhint %}
@@ -60,7 +60,7 @@ Le prescripteur habilité peut :
 * Afficher des informations sur son organisation \(coordonnées de contact, site web, description\)
 * Proposer des candidatures aux employeurs solidaires
 * Suivre l'avancée des candidatures envoyées par tous les membres de son organisation
-* Valider l’éligibilité à l’IAE d’un candidat pour 6 mois
+* Valider l’éligibilité à l’IAE d’un candidat pour 6 mois \(valable sur toutes les structures\)
 * Déroger aux critères administratifs exigés pour l’IAE \( s’il estime qu’un parcours IAE est pertinent suite au diagnostic socio-professionnel
 * Déroger au délai de carence entre 2 PASS IAE/Agrément \(délai de carence = 2 ans\)
 
