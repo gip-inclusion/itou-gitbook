@@ -152,7 +152,7 @@ Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourr
 {% hint style="info" %}
 La Plateforme de l'inclusion ne prend pas en compte les interruptions d'agréments mais seulement les suspensions.
 
-Pour en savoir plus sur les motifs légitimes de suspension, consultez notre espace de documentation : [https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire\#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae). Tout autre motif ne sera pas pris en compte par la plateforme, et sera considéré comme une "interruption".
+Pour en savoir plus sur les motifs légitimes de suspension, consultez notre espace de documentation : [https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire\#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae). 
 {% endhint %}
 
 ### _J'ai validé l'embauche d'un candidat sans demander de PASS IAE, mais il m'en fallait un._
