@@ -112,7 +112,7 @@ _C'est l'employeur lorsqu'il valide l'embauche du candidat_
 {% hint style="info" %}
 Non, il n'est plus nécessaire de demander de numéro d'agrément à Pôle emploi. Le numéro de Pass IAE remplace l’agrément Pôle emploi, il a la même valeur. Il vous est délivré par mail via la Plateforme. Il apparaît aussi sur la fiche candidature de votre ‘’Tableau de bord’’.
 
-Le délai entre la candidature et l’obtention du Pass IAE est de 6 jours en moyenne.
+Le délai entre la candidature et l’obtention du Pass IAE est de 2 jours maximum.
 {% endhint %}
 
 ### _**Comment savoir si le candidat a déjà eu un agrément ?**_
