@@ -207,7 +207,7 @@ Pour modifier votre e-mail d'accès au compte, vous devez au préalable vous con
 
 * Cliquer sur "Modifier mon adresse e-mail" Remplir les champs indiquant la nouvelle adresse e-mail 
 
-ATTENTION : vérifiez de ne pas avoir fait d'erreur de frappe car cela serait bloquant pour la suite Vous allez ensuite être déconnecté. 
+ATTENTION : vérifiez de ne pas avoir fait d'erreur de frappe car cela serait bloquant pour la suite, vous allez ensuite être déconnecté. 
 
 * Reconnectez vous en utilisant le nouvel e-mail choisi. On vous invitera à vérifier vos mails pour valider votre nouvelle adresse mail. Validez via le lien et connectez vous !
 {% endhint %}
@@ -223,7 +223,7 @@ Vous pouvez réinitialiser votre mot de passe sur cette [page](https://inclusion
 {% hint style="info" %}
 Les collaborateurs des entreprises qui sont en charge d'accompagner les candidater peuvent créer un compte "orienteur" pour proposer les candidats à d'autres employeurs solidaires.
 
-A noter qu'il faudra utiliser une adresse mail différente si celle ci est déjà utilisée pour le compte employeur.
+A noter qu'il faudra utiliser une adresse mail différente si celle-ci est déjà utilisée pour le compte employeur.
 {% endhint %}
 
 ### _Un prescripteur peut-il être membre de plusieurs organisations de prescripteurs/orienteurs?_
