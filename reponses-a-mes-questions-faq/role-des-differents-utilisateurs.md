@@ -18,9 +18,9 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Faut-il obligatoirement être habilité pour orienter un candidat vers un employeur via la Plateforme ?](role-des-differents-utilisateurs.md#faut-il-obligatoirement-etre-habilite-pour-orienter-un-candidat-vers-un-employeur-via-la-plateforme)
 
-\_\_[_Comment devenir prescripteur habilité si je ne le suis pas ?_](role-des-differents-utilisateurs.md#comment-devenir-prescripteur-habilite-si-je-ne-le-suis-pas)
+[Comment devenir prescripteur habilité si je ne le suis pas ?](role-des-differents-utilisateurs.md#comment-devenir-prescripteur-habilite-si-je-ne-le-suis-pas)
 
-[Comment savoir si mon organisation est habilitée au niveau préfectorale ?](role-des-differents-utilisateurs.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
+[Comment savoir si mon organisation est habilitée au niveau préfectorale ?](role-des-differents-utilisateurs.md#comment-savoir-si-mon-organisation-est-habilitee-au-niveau-prefectorale)
 
 {% hint style="warning" %}
 [Vous n’avez pas trouvé la réponse à votre question ?](role-des-differents-utilisateurs.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
@@ -69,7 +69,7 @@ Et prochainement, il pourra :
 * Autoriser une prolongation du PASS IAE
 {% endhint %}
 
-### Que peut faire un orienteur sur la Plateforme de l'inclusion ?
+### _Que peut faire un orienteur sur la Plateforme de l'inclusion ?_
 
 {% hint style="info" %}
 L'orienteur peut :
@@ -81,7 +81,7 @@ L'orienteur peut :
 L’éligibilité de son candidat sera réalisée par la SIAE au moment de l'embauche.
 {% endhint %}
 
-### Que peut faire un candidat sur la Plateforme de l'inclusion ?
+### _Que peut faire un candidat sur la Plateforme de l'inclusion ?_
 
 {% hint style="info" %}
 Le candidat peut :
@@ -95,7 +95,7 @@ Le candidat peut :
 {% hint style="info" %}
 Aucune demande d'habilitation n’est nécessaire. Tout orienteur peut se créer un compte sur la Plateforme et postuler pour un ou plusieurs candidats auprès des entreprises solidaires référencées. [Inscrivez-vous en quelques clics !](https://inclusion.beta.gouv.fr/signup/prescriber/choose_kind)
 
-[Voir mode d'emploi pour s'inscrire en tant qu'orienteur](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-orienteur)
+[Voir mode d'emploi pour s'inscrire e faqn tant qu'orienteur](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-orienteur)
 {% endhint %}
 
 ### _Comment devenir prescripteur habilité si je ne le suis pas ?_
@@ -104,7 +104,7 @@ Aucune demande d'habilitation n’est nécessaire. Tout orienteur peut se créer
 L'habilitation des prescripteurs se fait au niveau local, à travers les Unités départementales des Direccte. Faites votre demande auprès d'eux.
 {% endhint %}
 
-### Comment savoir si mon organisation est habilitée au niveau préfectorale ?
+### _Comment savoir si mon organisation est habilitée au niveau préfectorale ?_
 
 {% hint style="info" %}
 Vous devez avoir un arrêté préfectoral qui mentionne votre habilitation. Nous n'avons pas la liste de toutes les organisations habilitées par les préfets,  il faut donc vérifier cette information au niveau local \(votre direction ou la DIRECCTE\)
