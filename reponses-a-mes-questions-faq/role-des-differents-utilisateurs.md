@@ -45,7 +45,7 @@ Un employeur solidaire peut :
 * Réaliser des auto-prescriptions
 * Accepter, refuser ou mettre en attente une candidature
 
-Une SIAE peut également : 
+Un employeur en SIAE peut également : 
 
 * Valider l’éligibilité à l’IAE d'un candidat sur la base des critères administratifs + diagnostic socio-professionnel \(valable uniquement pour sa structure\)
 * Demander l’obtention du PASS IAE \( et l’annuler si besoin\)
