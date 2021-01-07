@@ -206,11 +206,11 @@ Pour le moment il n'est pas possible de  modifier ces informations depuis la pla
 ### _Doit-on utiliser des fiches de positionnement \( ou fiches de liaison\) IAE ?_
 
 {% hint style="info" %}
-Non :\) La fiche de positionnement IAE n'est plus nécessaire, tout se fait sur la Plateforme de l'inclusion. Il ne faut donc pas envoyer de fiches de positionnement aux employeurs mais orienter vos candidats via la plateforme.
+Non :\) La fiche de positionnement IAE n'est plus nécessaire, tout se fait sur la Plateforme de l'inclusion. Il ne faut donc pas envoyer de fiches de positionnement aux employeurs mais orienter les candidats via la plateforme.
 
 Les prescripteurs habilités pourront valider le diagnostic d'éligibilité IAE directement sur la Plateforme. 
 
-Si un employeur reçoit une fiche de positionnement il n'a aucun moyen de la renseigner sur la Plateforme, par conséquent s'il souhaite embaucher votre candidat et obtenir un PASS IAE, il ne pourra le faire que dans le cadre d'une auto-prescription et donc on perd l'origine de la prescription. De plus l'employeur aura la responsabilité de valider lui même les critères d'éligibilité IAE.
+Si un employeur reçoit une fiche de positionnement il n'a aucun moyen de la renseigner sur la Plateforme, par conséquent s'il souhaite embaucher un candidat et obtenir un PASS IAE, il ne pourra le faire que dans le cadre d'une auto-prescription et donc on perd l'origine de la prescription. De plus l'employeur aura la responsabilité de valider lui même les critères d'éligibilité IAE.
 {% endhint %}
 
 ### _Le candidat ne remplit aucun critère exigé par l'IAE. Puis-je tout de même valider son éligibilité ?_
@@ -218,7 +218,7 @@ Si un employeur reçoit une fiche de positionnement il n'a aucun moyen de la ren
 {% hint style="info" %}
 Si vous êtes  prescripteur habilité, vous pouvez passer outre les critères administratifs. 
 
-Si vous êtes orienteur ou employeur solidaire, adressez le candidat vers un prescripteur habilité \( Utilisez le moteur de recherche prescripteur pour trouver facilement un prescripteur habilité \). Si le prescripteur habilité accepte de valider l'éligibilité IAE, il lui suffit de [postuler pour le candidat ](../mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
+Si vous êtes orienteur ou employeur solidaire, adressez le candidat vers un prescripteur habilité \( Utilisez le [moteur de recherche prescripteur](https://inclusion.beta.gouv.fr/search/prescribers) pour trouver facilement un prescripteur habilité \). Si le prescripteur habilité accepte de valider l'éligibilité IAE, il lui suffit de [postuler pour le candidat ](../mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
 {% endhint %}
 
 ### _Doit-on fournir / conserver les pièces justificatives ?_
@@ -241,7 +241,7 @@ Non, la DIRECCTE ne contrôlera que les embauches pour lesquelles l'employeur a 
 ### Que se passe-t-il si le diagnostic d'éligibilité IAE du candidat expire ?
 
 {% hint style="info" %}
-Si l'employeur souhaite embaucher un candidat qui a un diagnostic d'éligibilité IAE, il devra valider lui même les critères d'éligibilité. Par conséquent cette embauche sera soumise aux contrôles aléatoires de la DIRECCTE
+Si l'employeur souhaite embaucher un candidat qui a un diagnostic d'éligibilité IAE expiré, il devra valider lui même les critères d'éligibilité. Par conséquent cette embauche sera soumise aux contrôles aléatoires de la DIRECCTE
 {% endhint %}
 
 ### _Dois-je prouver l'éligibilité du candidat que je veux recruter ?_
@@ -253,7 +253,7 @@ Aucun justificatif n'est demandé sur la Plateforme, cependant vos interlocuteur
 ### _**Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?**_
 
 {% hint style="info" %}
- Si vous êtes une SIAE, la vérification de l’éligibilité se fait a posteriori sur échantillon par la Direccte et Pôle emploi.
+ Si vous êtes une SIAE, la vérification de l’éligibilité se fait a posteriori sur échantillon par la Direccte.
 
 Si vous êtes un prescripteur habilité, il n' y aura aucune vérification à postériori. 
 {% endhint %}
