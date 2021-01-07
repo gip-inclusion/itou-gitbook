@@ -24,11 +24,11 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Dois-je demander à Pôle emploi un numéro d'agrément pour un candidat ?](pass-iae.md#dois-je-demander-a-pole-emploi-un-numero-dagrement-pour-un-candidat)
 
-[_Comment savoir si le candidat a déjà eu un agrément ?_](pass-iae.md#comment-savoir-si-le-candidat-a-deja-eu-un-agrement)
+[Comment savoir si le candidat a déjà eu un agrément ?](pass-iae.md#comment-savoir-si-le-candidat-a-deja-eu-un-agrement)
 
-[_J'ai validé l'embauche d'un candidat sans demander de PASS IAE, mais il m'en fallait un_](pass-iae.md#jai-valide-lembauche-dun-candidat-sans-demander-de-pass-iae-mais-il-men-fallait-un)
+[J'ai validé l'embauche d'un candidat sans demander de PASS IAE, mais il m'en fallait un](pass-iae.md#jai-valide-lembauche-dun-candidat-sans-demander-de-pass-iae-mais-il-men-fallait-un)
 
-[_Je n'ai toujours pas reçu de Pass IAE, comment faire ?_](pass-iae.md#je-nai-toujours-pas-recu-de-pass-iae-comment-faire)
+[Je n'ai toujours pas reçu de Pass IAE, comment faire ?](pass-iae.md#je-nai-toujours-pas-recu-de-pass-iae-comment-faire)
 
 [J'ai eu la confirmation d'attribution de mon PASS IAE mais je n'ai toujours pas l'attestation de PASS IAE](pass-iae.md#jai-eu-la-confirmation-dattribution-de-mon-pass-iae-mais-je-nai-toujours-pas-lattestation-de-pass-iae)
 
@@ -44,7 +44,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Aura-t-on les mêmes possibilités que l'agrément : extension, prolongation, suspension?](pass-iae.md#aura-t-on-les-memes-possibilites-que-lagrement-extension-prolongation-suspension)
 
-\_\_[_Que se passe-t-il en cas de doublon agrément Pole emploi/ Pass IAE , lequel est valable ? Et quel impact sur le financement ?_](pass-iae.md#que-se-passe-t-il-en-cas-de-doublon-agrement-pole-emploi-pass-iae-lequel-est-valable-et-quel-impact-sur-le-financement)
+[Que se passe-t-il en cas de doublon agrément Pole emploi/ Pass IAE , lequel est valable ? Et quel impact sur le financement ?](pass-iae.md#que-se-passe-t-il-en-cas-de-doublon-agrement-pole-emploi-pass-iae-lequel-est-valable-et-quel-impact-sur-le-financement)
 
 [Puis-je annuler un Pass IAE ?](pass-iae.md#puis-je-annuler-un-pass-iae)
 
@@ -81,7 +81,7 @@ Le PASS IAE :
 Un agrément est délivré par Pôle emploi, un [Pass IAE](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) est délivré directement par la Plateforme \(sous 2 jours en moyenne\). Tous deux ont la même valeur et peuvent être utilisés par les SIAE lors de leur déclaration sur l'Extranet IAE 2.0 de l'ASP.
 {% endhint %}
 
-### Le numéro d'agrément délivré par la Plateforme est-il valide et de même valeur que l'agrément Pôle emploi ?
+### _Le numéro d'agrément délivré par la Plateforme est-il valide et de même valeur que l'agrément Pôle emploi ?_
 
 {% hint style="info" %}
 Oui, le Pass IAE a même valeur que l'agrément Pôle emploi. Il est valide dès réception. Vous pourrez l’indiquer sur l'Extranet IAE 2.0 de l'ASP.
@@ -92,7 +92,7 @@ Oui, le Pass IAE a même valeur que l'agrément Pôle emploi. Il est valide dès
 ### _Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?_
 
 {% hint style="info" %}
-Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors attribuer un Pass IAE pour une durée de 2 ans. Si vous renouvelez son contrat ou qu'il travaille ailleurs, le numéro du Pass IAE ne changera pas, il est désormais attaché au candidat et non plus au parcours.
+Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors attribuer un Pass IAE pour une durée de 2 ans maximum. Si vous renouvelez son contrat ou qu'il travaille ailleurs, le numéro du Pass IAE ne changera pas, il n'est donc pas nécessaire de faire des démarches supplémentaires tant que le PASS IAE est valide.
 {% endhint %}
 
 ### _J’ai un problème avec « la date de début du contrat ne doit pas être dans le passé », que faire ?_
