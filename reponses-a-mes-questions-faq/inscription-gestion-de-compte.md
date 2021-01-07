@@ -128,7 +128,12 @@ Consultez les modes d'emploi :
 ### _J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?_
 
 {% hint style="info" %}
-Si vous avez créé le compte de votre organisation et que vous ne souhaitez pas être administrateur, vous pouvez inviter la personne qui prendra ce rôle et lui attribuer le statut d'administrateur. Le nouvel administrateur se chargera de vous retirer les droits admin. [\[Consultez la note dédiée aux Administrateurs\]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/administrateur-de-lorganisation)
+Si vous avez créé le compte de votre organisation et que vous ne souhaitez pas être administrateur, vous pouvez inviter la personne qui prendra ce rôle et lui attribuer le statut d'administrateur. Le nouvel administrateur se chargera de vous retirer les droits admin. 
+
+Consultez les modes d'emploi : 
+
+* [Mode d'emploi employeur : rôle de l'administrateur](../mon-monde-demploi-employeur-solidaire/administrateur-de-la-structure.md)
+* [Mode d'emploi prescripteur : rôle du prescripteur ](../mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
 {% endhint %}
 
 ### _Comment retirer un collaborateur de mon organisation ?_
