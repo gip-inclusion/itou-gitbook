@@ -10,7 +10,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Comment lancer une recherche sur la Plateforme de l'inclusion ?](diagnostic-et-orientation-du-candidat.md#comment-lancer-une-recherche-sur-la-plateforme-de-linclusion)
 
-[A quoi correspondent les sigles disponibles en filtre de recherche ?](diagnostic-et-orientation-du-candidat.md#a-quoi-correspondent-les-sigles-disponibles-en-filtre)
+[A quoi correspondent les sigles disponibles en filtre de recherche ?](diagnostic-et-orientation-du-candidat.md#a-quoi-correspondent-les-sigles-disponibles-en-filtre-de-recherche)
 
 [Comment sont triés les résultats d'une recherche d'employeurs ?](diagnostic-et-orientation-du-candidat.md#comment-sont-tries-les-resultats-dune-recherche-demployeurs)
 
