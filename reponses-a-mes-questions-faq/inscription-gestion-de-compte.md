@@ -142,7 +142,7 @@ Consultez les modes d'emploi :
 L'administrateur de l'organisation a la possibilité de retirer un membre depuis la page "Gérer vos collaborateurs" en cliquant sur "retirer de la structure"
 {% endhint %}
 
-Sur mon compte, le type d'organisation \(Cap emploi, Mission locale...\) n'est pas bon ou pas renseigné. Comment rectifier ?
+### _Sur mon compte, le type d'organisation \(Cap emploi, Mission locale...\) n'est pas bon ou pas renseigné. Comment rectifier ?_
 
 {% hint style="info" %}
 Vous ne pouvez pas le modifier par vous-même pour l'instant, mais cela viendra ! [Contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) pour nous le signaler, merci.
@@ -167,7 +167,7 @@ Si aucune des solutions proposées n'a permis de résoudre le problème  [contac
 ### _Je ne souhaite plus recruter sur un métier_
 
 {% hint style="info" %}
-Sur ''Tableau de bord, cliquez "Configurer les fiches de postes", puis désactivez le métier concerné en décochant la case dans la colonne "Publier la fiche de poste".
+Sur ''Tableau de bord", cliquez "Configurer les fiches de postes", puis désactivez le métier concerné en décochant la case dans la colonne "Publier la fiche de poste".
 
 N'oubliez pas de cliquer sur "Enregistrer les modifications" en bas de page.
 
