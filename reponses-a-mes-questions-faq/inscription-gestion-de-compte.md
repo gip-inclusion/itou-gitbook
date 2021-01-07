@@ -117,7 +117,12 @@ Il faut renvoyer une nouvelle invitation.
 ### _Quel est le rôle de l'administrateur ?_
 
 {% hint style="info" %}
-Pour en savoir plus consultez le mode d'emploi à la rubrique ["administrateur de l'organisation"](../mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
+Pour en savoir plus sur le rôle d'administrateur. 
+
+Consultez les modes d'emploi : 
+
+* [Mode d'emploi employeur : rôle de l'administrateur](../mon-monde-demploi-employeur-solidaire/administrateur-de-la-structure.md)
+* [Mode d'emploi prescripteur : rôle du prescripteur ](../mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
 {% endhint %}
 
 ### _J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?_
