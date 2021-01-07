@@ -32,8 +32,6 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [J'ai eu la confirmation d'attribution de mon PASS IAE mais je n'ai toujours pas l'attestation de PASS IAE](pass-iae.md#jai-eu-la-confirmation-dattribution-de-mon-pass-iae-mais-je-nai-toujours-pas-lattestation-de-pass-iae)
 
-[Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?](pass-iae.md#vous-me-demandez-de-mettre-une-fin-de-contrat-que-dois-je-indiquer-si-les-contrats-peuvent-etre-renouveles-1)
-
 [L'employeur peut-il embaucher un candidat venant d'un autre département ?](pass-iae.md#lemployeur-peut-il-embaucher-un-candidat-venant-dun-autre-departement)
 
 3️⃣ **\[ GERER UN PASS IAE EN COURS \]**
@@ -136,21 +134,15 @@ Si la date d'embauche est déjà passée, renseignez la date du jour en date de 
 ### _Je n'ai toujours pas reçu de Pass IAE, comment faire ?_
 
 {% hint style="info" %}
-Le délai moyen entre la candidature et l’obtention du Pass IAE est en moyenne de 2 jours. Si ce délai est largement dépassé, assurez-vous que le mail du Pass IAE ne se trouve pas dans vos spams.
+Le délai moyen entre la validation de l'embauche et l’obtention du Pass IAE est de maximum 2 jours. Si ce délai est largement dépassé, assurez-vous que le mail du Pass IAE ne se trouve pas dans vos spams.
 
 Si ce n’est pas le cas, faites une vérification de la candidature dans votre ‘’Tableau de bord’’. Si l’agrément a été délivré, la candidature affichera le numéro. Si le numéro d'agrément n’apparaît pas, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
 {% endhint %}
 
-### J'ai eu la confirmation d'attribution de mon PASS IAE mais je n'ai toujours pas l'attestation de PASS IAE
+### _J'ai eu la confirmation d'attribution de mon PASS IAE mais je n'ai toujours pas l'attestation de PASS IAE_
 
 {% hint style="info" %}
 L'attestation de PASS IAE est disponible en téléchargement 5 jours après le démarrage du parcours IAE
-{% endhint %}
-
-### _**Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?**_
-
-{% hint style="info" %}
-Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors attribuer un Pass IAE pour une durée de 2 ans. Si vous renouvelez son contrat ou qu'il travaille ailleurs, le numéro du Pass IAE ne changera pas, il est désormais attaché au candidat et non plus au parcours.
 {% endhint %}
 
 ### _L'employeur peut-il embaucher un candidat venant d'un autre département ?_
@@ -230,7 +222,7 @@ Il n'est pas nécessaire d'informer Pôle emploi. Un protocole automatique est e
 ### _Je reçois le numéro d'agrément en combien de temps via la Plateforme \(Pass IAE\)?_
 
 {% hint style="info" %}
-Lorsque le numéro identifiant Pôle emploi est renseigné ou si le candidat n'est pas inscrit chez Pole emploi la délivrance du PASS IAE est instantanée.  
+Lorsque le numéro identifiant Pôle emploi est renseigné ou si le candidat n'est pas inscrit chez Pole emploi, la délivrance du PASS IAE est instantanée.  
 En revanche si l'employeur a sélectionné "identifiant Pôle emploi oublié" , cela implique une vérification manuelle.  La vérification manuelle est de maximum 2 jours. 
 {% endhint %}
 
