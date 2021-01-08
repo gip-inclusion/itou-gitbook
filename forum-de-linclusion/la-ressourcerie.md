@@ -29,7 +29,7 @@ Cliquez sur le sujet de votre choix pour découvrir l'article de présentation e
 ### Pour partager un outil ou un service numérique avec la communauté.
 
 1. Connectez vous au Forum de l'inclusion
-2. Accédez à l'espace Ressourcerie
+2. [Accédez à l'espace Ressourcerie](https://forum.inclusion.beta.gouv.fr/c/ressourcerie/46)
 3. Cliquez sur poster un sujet
 4. Rédigez un article de présentation \[[cliquez ici pour voir comment poster un sujet](postez-un-sujet.md)\]
 
