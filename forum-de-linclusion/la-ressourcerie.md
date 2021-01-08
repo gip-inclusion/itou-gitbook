@@ -6,9 +6,9 @@ description: Sur le Forum de l'inclusion
 
 Découvrez et partagez tous les outils et services numériques utiles à la communauté des acteurs de l'inclusion.
 
-La Ressourcerie a été conçue pour les professionnels de l'inclusion afin de permettre à tous de connaitre les outils et services utilisés par tous les partenaires. Bonne pratiques et avis, n'hésitez pas à faire appel à la communauté.
+[La Ressourcerie](https://forum.inclusion.beta.gouv.fr/c/ressourcerie/46) a été conçue pour les professionnels de l'inclusion afin de permettre à tous de connaitre les **outils et services utilisés par tous les partenaires**. Bonne pratiques et avis, n'hésitez pas à faire appel à la communauté.
 
-### Pour consulter les outils de la Ressourcerie
+### Pour consulter les outils de [la Ressourcerie](https://forum.inclusion.beta.gouv.fr/c/ressourcerie/46)
 
 Sur la page d'accueil du Forum de l'inclusion, cliquez sur la Ressourcerie comme sur l'image ci-dessous.
 
