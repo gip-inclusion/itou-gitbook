@@ -22,7 +22,9 @@ Lorsque vous êtes connectés sur le Forum de l'inclusion, suivez les étapes su
 
 Puis cliquez sur préférences comme sur l'image ci-dessous.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/preferences.png)
+
+
 
 
 

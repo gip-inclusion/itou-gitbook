@@ -16,7 +16,7 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votr
 
 [Configurez votre profil](configurez-votre-profil.md)
 
-Gérez vos notifications
+[Gérez vos notifications](gerez-vos-notifications-mail.md)
 
 Découvrez les groupes d'acteurs du Forum
 

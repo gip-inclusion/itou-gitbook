@@ -69,6 +69,7 @@
   * [Créer votre compte](forum-de-linclusion/creer-votre-compte.md)
   * [Configurez votre profil](forum-de-linclusion/configurez-votre-profil.md)
   * [Gérez vos notifications mail](forum-de-linclusion/gerez-vos-notifications-mail.md)
+  * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
 * [🤝 Le Marché de l'inclusion](le-marche-de-linclusion.md)
 * [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
 * [💡Mon glossaire de l'inclusion](glossaire-inclusion.md)
