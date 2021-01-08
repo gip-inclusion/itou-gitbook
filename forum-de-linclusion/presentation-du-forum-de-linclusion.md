@@ -14,7 +14,7 @@ L’ espace d’informations, d’échanges et d’entraide de tous les acteurs 
 
 Au sein d’espaces publics et décloisonnés ou en ciblant sur un territoire, ou une communauté d’acteurs.
 
-**Les espaces d’échanges par territoire** vous permettent d’échanger avec vos partenaires locaux.  
+\*\*\*\*[**Les espaces d’échanges par territoire**](les-espaces-dechanges-par-territoire.md) vous permettent d’échanger avec vos partenaires locaux.  
 
 
 **La Ressourcerie** vous permet de partager et découvrir des outils ou services numériques destinés aux professionnels de l’inclusion.  
