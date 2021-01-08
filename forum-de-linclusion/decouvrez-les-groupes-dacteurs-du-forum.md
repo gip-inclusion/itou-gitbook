@@ -30,11 +30,13 @@ Cliquez ensuite sur Groupes.
 
 Vous avez la possibilité de demander à adhérer à un groupe existant si vous le souhaitez !
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 
 
-
+{% hint style="info" %}
+Si vous souhaitez créer votre groupe d'utilisateurs, vous pouvez contacter notre équipe en écrivant un message sur le Forum de l'inclusion. Pensez à tagger @Equipe\_Forum 😊
+{% endhint %}
 
 
 

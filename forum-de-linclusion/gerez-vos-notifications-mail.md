@@ -36,5 +36,5 @@ Complétez votre Nom, ajoutez une adresse email ou demandez un email de réiniti
 
 Sélectionnez les options de votre choix et sauvegardez. Comme sur l'image ci-dessous.
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 

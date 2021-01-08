@@ -18,7 +18,7 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votr
 
 [Gérez vos notifications](gerez-vos-notifications-mail.md)
 
-Découvrez les groupes d'acteurs du Forum
+[Découvrez les groupes d'acteurs du Forum](decouvrez-les-groupes-dacteurs-du-forum.md)
 
 Postez un sujet
 
