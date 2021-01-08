@@ -25,3 +25,29 @@ Mieux qu'une mailing list, informez des partenaires que vous ne connaissez pas e
 
 \*\*\*\*
 
+### Qui peut y avoir accès ?
+
+Tous les acteurs de l’inclusion qui visitent le Forum de l’inclusion ! 
+
+Une fois que votre espace d’échanges par territoire est créé, vous pouvez le partager à tout votre réseau. Il est accessible à tous dès sa création.
+
+Aujourd’hui, **4000 acteurs de l’inclusion se retrouvent sur le Forum**. Nous travaillons à faire connaitre ce forum afin d’offrir plus de visibilité à vos questions, et aux actualités que vous partagerez.
+
+
+
+### Comment l'utiliser ?
+
+1. Sur la page d'accueil du Forum de l'inclusion, cliquez sur "espaces d'échanges par territoire"
+2. Sélectionnez le territoire de votre choix
+3. Cliquez sur les sujets pour les consulter
+
+Si vous souhaitez commenter un sujet ou partager une information, il est nécessaire de vous créer un compte. [Cliquez ici pour accéder au pas à pas explicatif.](creer-votre-compte.md)
+
+
+
+{% hint style="info" %}
+Il n'existe pas encore d'espace d'échange pour votre territoire ? Demandez à l'équipe du Forum de le créer ! Pour cela [complétez le formulaire de demande en cliquant ici](https://itou.typeform.com/to/zFp8dBpD). 
+
+Vous serez recontactés par un membre de l'équipe dès la création de votre espace d'échanges.
+{% endhint %}
+
