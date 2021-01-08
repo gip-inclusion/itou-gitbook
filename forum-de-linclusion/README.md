@@ -14,7 +14,7 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votr
 
 [Créer votre compte](creer-votre-compte.md)
 
-Configurez votre profil
+[Configurez votre profil](configurez-votre-profil.md)
 
 Gérez vos notifications
 
