@@ -26,16 +26,6 @@ Marquez votre sujet comme "résolu"
 
 Commentez un sujet.
 
-
-
-
-
-### \*\*\*\*
-
-### \*\*\*\*
-
-### \*\*\*\*
-
 ### \*\*\*\*
 
 ### **Rendez-vous sur** [forum.inclusion.beta.gouv.fr](https://forum.inclusion.beta.gouv.fr/) ​

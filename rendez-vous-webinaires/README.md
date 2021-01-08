@@ -2,7 +2,7 @@
 description: Retrouvez toutes les informations des services de la Plateforme de l'inclusion
 ---
 
-# 💻 Rendez-vous webinaires
+# �� Rendez-vous webinaires
 
 ## **Sélectionnez le service qui vous intéresse :**
 
