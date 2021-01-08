@@ -71,6 +71,7 @@
   * [Gérez vos notifications mail](forum-de-linclusion/gerez-vos-notifications-mail.md)
   * [Postez un sujet](forum-de-linclusion/postez-un-sujet.md)
   * [Marquer vote sujet comme "résolu"](forum-de-linclusion/marquer-vote-sujet-comme-resolu.md)
+  * [Commentez un sujet](forum-de-linclusion/commentez-un-sujet.md)
   * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
 * [🤝 Le Marché de l'inclusion](le-marche-de-linclusion.md)
 * [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
