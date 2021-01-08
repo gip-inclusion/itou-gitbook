@@ -2,7 +2,7 @@
 
 #### **Afin de vous permettre d’échanger avec tous les acteurs de l’inclusion de votre territoire de façon décloisonnée, nous avons conçu** [**les espaces d’échanges par territoire**](https://forum.inclusion.beta.gouv.fr/c/se-retrouver-par-territoire/31)**.**
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 ### **A quoi sert** [**un espace d’échanges par territoire**](https://forum.inclusion.beta.gouv.fr/c/se-retrouver-par-territoire/31) **?**
 

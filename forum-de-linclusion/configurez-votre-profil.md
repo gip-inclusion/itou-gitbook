@@ -6,7 +6,7 @@ description: sur le Forum de l'inclusion
 
 Afin de vous permettre d'être identifiés par les membres de la communauté, nous vous recommandons de compléter votre profil !
 
-Lorsque vous êtes connectés sur le Forum de l'inclusion, suivez les étapes suivantes.
+Lorsque vous êtes [connectés sur le Forum de l'inclusion](https://forum.inclusion.beta.gouv.fr/), suivez les étapes suivantes.
 
 
 
