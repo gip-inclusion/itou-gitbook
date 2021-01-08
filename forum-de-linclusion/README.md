@@ -18,13 +18,13 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votr
 
 [Gérez vos notifications](gerez-vos-notifications-mail.md)
 
-[Découvrez les groupes d'acteurs du Forum](decouvrez-les-groupes-dacteurs-du-forum.md)
-
 [Postez un sujet](postez-un-sujet.md)
 
-Marquez votre sujet comme "résolu"
+[Marquez votre sujet comme "résolu"](marquer-vote-sujet-comme-resolu.md)
 
 Commentez un sujet.
+
+[Découvrez les groupes d'acteurs du Forum](decouvrez-les-groupes-dacteurs-du-forum.md)
 
 ### \*\*\*\*
 
