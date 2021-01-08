@@ -12,6 +12,18 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votr
 
 [Présentation du Forum de l'inclusion](presentation-du-forum-de-linclusion.md)
 
+[Les espaces d'échange par territoire](les-espaces-dechanges-par-territoire.md)
+
+[La Ressourcerie](la-ressourcerie.md)
+
+[Les espaces d'échanges par communauté d'acteurs](les-espaces-dechanges-par-communaute-dacteurs.md)
+
+[Formation](formation.md)
+
+
+
+### Utiliser le Forum de l'inclusion
+
 [Créer votre compte](creer-votre-compte.md)
 
 [Configurez votre profil](configurez-votre-profil.md)

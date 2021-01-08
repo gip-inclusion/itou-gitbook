@@ -69,6 +69,7 @@
   * [Les espaces d'échanges par territoire](forum-de-linclusion/les-espaces-dechanges-par-territoire.md)
   * [La Ressourcerie](forum-de-linclusion/la-ressourcerie.md)
   * [Les espaces d'échanges par communauté d'acteurs](forum-de-linclusion/les-espaces-dechanges-par-communaute-dacteurs.md)
+  * [Formation](forum-de-linclusion/formation.md)
   * [Créer votre compte](forum-de-linclusion/creer-votre-compte.md)
   * [Configurez votre profil](forum-de-linclusion/configurez-votre-profil.md)
   * [Gérez vos notifications mail](forum-de-linclusion/gerez-vos-notifications-mail.md)
