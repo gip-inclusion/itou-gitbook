@@ -20,7 +20,7 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votr
 
 [Découvrez les groupes d'acteurs du Forum](decouvrez-les-groupes-dacteurs-du-forum.md)
 
-Postez un sujet
+[Postez un sujet](postez-un-sujet.md)
 
 Marquez votre sujet comme "résolu"
 
