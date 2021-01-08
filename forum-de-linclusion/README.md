@@ -6,6 +6,8 @@ description: >-
 
 # 💬Mon Forum de l'inclusion
 
+![](../.gitbook/assets/image%20%2828%29.png)
+
 Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votre disposition pour **échanger entre acteurs de l'inclusion**. Cet espace de **discussion et de réflexion** est **ouvert à tous afin de partager des bonnes pratiques, des outils, des questionnements  pour mobiliser les leviers d’accompagnement les plus adaptés pour vos publics.**
 
 ### **En savoir plus sur le Forum de l'inclusion**
