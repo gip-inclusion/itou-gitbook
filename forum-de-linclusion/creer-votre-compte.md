@@ -24,7 +24,7 @@ Lors de votre inscription, pouvez utiliser les mêmes identifiants et mots de pa
 
 Situé en haut à droite de la page d'accueil à côté du bouton connexion. Comme sur l'image ci-dessous.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 
 
