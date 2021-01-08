@@ -34,9 +34,7 @@ Vous avez la possibilité de demander à adhérer à un groupe existant si vous 
 
 
 
-{% hint style="info" %}
-Si vous souhaitez créer votre groupe d'utilisateurs, vous pouvez contacter notre équipe en écrivant un message sur le Forum de l'inclusion. Pensez à tagger @Equipe\_Forum 😊
-{% endhint %}
+
 
 
 
