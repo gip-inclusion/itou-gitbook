@@ -10,9 +10,9 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votr
 
 ### **En savoir plus sur le Forum de l'inclusion**
 
-Présentation du Forum de l'inclusion
+[Présentation du Forum de l'inclusion](presentation-du-forum-de-linclusion.md)
 
-Créer votre compte
+[Créer votre compte](creer-votre-compte.md)
 
 Configurez votre profil
 
