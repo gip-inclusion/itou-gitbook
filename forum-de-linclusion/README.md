@@ -18,7 +18,7 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votr
 
 [La Ressourcerie](la-ressourcerie.md)
 
-[Les espaces d'échanges par communauté d'acteurs](les-espaces-dechanges-par-communaute-dacteurs.md)
+[Les espaces d'échanges par communauté d'acteurs](les-espaces-dechanges-par-communaute-dacteurs/)
 
 [Formation](formation.md)
 
