@@ -3,7 +3,9 @@
 Sur le Forum de l'inclusion, de nombreux acteurs de retrouvent pour échanger. 
 
 {% hint style="info" %}
-Les groupes d'utilisateurs vous permettent d'accéder à des espaces d'échanges dédiés. Par exemple, seuls les membres de la Bande à ITOU ont accès à leur espace d'échanges dédié.
+Les groupes d'utilisateurs vous permettent d'accéder à des espaces d'échanges dédiés. 
+
+Par exemple, seuls les membres de la Bande à ITOU ont accès à leur espace d'échanges dédié.
 {% endhint %}
 
 
@@ -32,7 +34,9 @@ Vous avez la possibilité de demander à adhérer à un groupe existant si vous 
 
 
 
-
+{% hint style="info" %}
+Si vous souhaitez créer votre groupe d'utilisateurs, vous pouvez contacter notre équipe en écrivant un message sur le Forum de l'inclusion. Pensez à tagger @Equipe\_Forum 😊
+{% endhint %}
 
 
 
