@@ -22,7 +22,7 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votr
 
 [Marquez votre sujet comme "résolu"](marquer-vote-sujet-comme-resolu.md)
 
-Commentez un sujet.
+[Commentez un sujet.](commentez-un-sujet.md)
 
 [Découvrez les groupes d'acteurs du Forum](decouvrez-les-groupes-dacteurs-du-forum.md)
 
