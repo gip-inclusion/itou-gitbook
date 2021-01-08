@@ -65,6 +65,7 @@
 * [🚀La BANDE À ITOU !](la-bande-a-itou.md)
 * [💬Mon Forum de l'inclusion](forum-de-linclusion/README.md)
   * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
+  * [Créer votre compte](forum-de-linclusion/creer-votre-compte.md)
 * [🤝 Le Marché de l'inclusion](le-marche-de-linclusion.md)
 * [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
 * [💡Mon glossaire de l'inclusion](glossaire-inclusion.md)
