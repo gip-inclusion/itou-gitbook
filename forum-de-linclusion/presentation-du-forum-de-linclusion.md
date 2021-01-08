@@ -2,7 +2,7 @@
 
 L’ espace d’informations, d’échanges et d’entraide de tous les acteurs de l’inclusion, pour découvrir des : 
 
-* Outils
+* [Outils](https://forum.inclusion.beta.gouv.fr/c/ressourcerie/46)
 * Bonnes pratiques
 * Actualités
 * Informations
