@@ -1,8 +1,10 @@
 # Les espaces d'échanges par territoire
 
-#### **Afin de vous permettre d’échanger avec tous les acteurs de l’inclusion de votre territoire de façon décloisonnée, nous avons conçu les espaces d’échanges par territoire.**
+#### **Afin de vous permettre d’échanger avec tous les acteurs de l’inclusion de votre territoire de façon décloisonnée, nous avons conçu** [**les espaces d’échanges par territoire**](https://forum.inclusion.beta.gouv.fr/c/se-retrouver-par-territoire/31)**.**
 
-### **A quoi sert un espace d’échanges par territoire ?**
+![](../.gitbook/assets/image%20%2829%29.png)
+
+### **A quoi sert** [**un espace d’échanges par territoire**](https://forum.inclusion.beta.gouv.fr/c/se-retrouver-par-territoire/31) **?**
 
 Ces espaces sont déclinables selon vos besoins : région, département, bassin d’emploi, ville….
 
@@ -33,7 +35,7 @@ Une fois que votre espace d’échanges par territoire est créé, vous pouvez l
 
 Aujourd’hui, **4000 acteurs de l’inclusion se retrouvent sur le Forum**. Nous travaillons à faire connaitre ce forum afin d’offrir plus de visibilité à vos questions, et aux actualités que vous partagerez.
 
-
+👉 **Pour découvrir** [**les espaces d'échanges par territoire cliquez ici**](https://forum.inclusion.beta.gouv.fr/c/se-retrouver-par-territoire/31)**.**
 
 ### Comment l'utiliser ?
 
