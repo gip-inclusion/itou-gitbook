@@ -18,6 +18,8 @@ Je veux créer un compte Structures Inclusives sur le Marché mais je
 
 [Est-il possible de d'envoyer une relance aux collaborateurs qui n'ont pas fait leur inscription sur la plateforme suite au mail d'invitation ?](inscription-gestion-de-compte.md#est-il-possible-de-denvoyer-une-relance-aux-collaborateurs-qui-nont-pas-fait-leur-inscription-sur-la-plateforme-suite-au-mail-dinvitation)
 
+[Mon organisation prescripteur a plusieurs antennes \(de même type\) mais un seul SIRET](inscription-gestion-de-compte.md#mon-organisation-prescripteur-a-plusieurs-antennes-de-meme-type-mais-un-seul-siret)
+
 **2️⃣ \[ GESTION DE VOTRE STRUCTURE \]**
 
 [Quel est le rôle de l'administrateur ?](inscription-gestion-de-compte.md#quel-est-le-role-de-ladministrateur)
@@ -128,10 +130,6 @@ _Le service social conseil départemental a déjà créé le compte de l'organis
 
 Avoir une organisation prescripteur inscrite sur la plateforme \( = Organisation mère \)
 {% endhint %}
-
-\*\*\*\*
-
-
 
 ## 2️⃣ GESTION DE VOTRE STRUCTURE
 
