@@ -136,7 +136,7 @@ Si vous avez cliqué par erreur sur le mauvais bouton et que finalement vous ave
 
 L'éligibilité IAE du candidat sera automatiquement récupérée. 
 
-Une fois enregistrée, vous devez finaliser l'embauche en cliquant sur "gérer la candidature"
+Une fois enregistrée la candidature sera affichée dans la page "candidatures à traiter", vous devez finaliser l'embauche en cliquant sur "gérer la candidature"
 
 Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
 {% endhint %}
@@ -148,12 +148,10 @@ Vous devez refaire la demande d'obtention de PASS IAE en cliquant sur "obtenir u
 
 L'éligibilité IAE du candidat sera automatiquement récupérée. 
 
-Une fois enregistrée, vous devez finaliser l'embauche en cliquant sur "gérer la candidature"
+Une fois enregistrée la candidature sera affichée dans la page "candidatures à traiter", vous devez finaliser l'embauche en cliquant sur "gérer la candidature"
 
 Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
 {% endhint %}
-
-
 
 ### _Je n'ai toujours pas reçu de Pass IAE, comment faire ?_
 
