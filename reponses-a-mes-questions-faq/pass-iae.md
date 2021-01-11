@@ -34,6 +34,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [L'employeur peut-il embaucher un candidat venant d'un autre département ?](pass-iae.md#lemployeur-peut-il-embaucher-un-candidat-venant-dun-autre-departement)
 
+[Le PASS IAE qui m'a été envoyé ne dure pas 2 ans mais moins, pourquoi ?](pass-iae.md#le-pass-iae-qui-ma-ete-envoye-ne-dure-pas-2-ans-mais-moins-pourquoi)
+
 3️⃣ **\[ GERER UN PASS IAE EN COURS \]**
 
 [Y-a-t-il un impact de la crise sanitaire sur les embauches et le Pass IAE ?](pass-iae.md#y-a-t-il-un-impact-de-la-crise-sanitaire-sur-les-embauches-et-le-pass-iae)
@@ -157,6 +159,12 @@ L'attestation de PASS IAE est disponible en téléchargement 5 jours après le d
 Oui, il n’y a pas de limite avec la Plateforme pour recruter un candidat venant d'un autre département.
 
 Certains acteurs nous signalent que certains employeurs refusent d'embaucher des candidats en dehors de leur département,  nous les invitons à prendre contact avec leur DIRECCTE
+{% endhint %}
+
+### _Le PASS IAE qui m'a été envoyé ne dure pas 2 ans mais moins, pourquoi ?_
+
+{% hint style="info" %}
+Cela provient surement du fait que votre candidat avait déjà un parcours d'insertion en cours avant que vous ne l'embauchiez. Vous avez donc reçu son PASS IAE en cours de validité et la plateforme vous indique le temps de validité restant sur le parcours de ce candidat.
 {% endhint %}
 
 ## 3️⃣ **\[ GERER UN PASS IAE EN COURS \]**
