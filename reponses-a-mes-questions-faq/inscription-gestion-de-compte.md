@@ -50,6 +50,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Ma SIAE a fermé, que dois-je faire ?](inscription-gestion-de-compte.md#ma-siae-a-ferme-que-dois-je-faire)
 
+[Où trouver l'ID de ma structure ? A quoi sert l'ID de ma structure ?](inscription-gestion-de-compte.md#ou-trouver-lid-de-ma-structure-a-quoi-sert-lid-de-ma-structure)
+
 **3️⃣\[ GESTION DE VOTRE COMPTE UTILISATEUR \]**
 
 [Je souhaite changer l’adresse mail de mon compte](inscription-gestion-de-compte.md#je-souhaite-changer-ladresse-mail-de-mon-compte)
@@ -248,11 +250,19 @@ Depuis votre tableau de bord, cliquez sur "Modifier les informations"
 Il n'est pas encore possible de supprimer les invitations en attente pour "nettoyer" son tableau d'invitations.
 {% endhint %}
 
-### Ma SIAE a fermé, que dois-je faire ?
+### _Ma SIAE a fermé, que dois-je faire ?_
 
 {% hint style="info" %}
 L'administrateur du compte doit [nous contacter par mail](mailto:assistance@inclusion.beta.gouv.fr) afin que nous puissions déréférencer la structure.
 {% endhint %}
+
+### Où trouver l'ID de ma structure ? A quoi sert l'ID de ma structure ?
+
+{% hint style="info" %}
+Lorsque vous communiquez avec notre équipe, nous communiquer l'ID de votre structure nous permet de la retrouver plus simplement. Vous trouverez ce numéro dans votre tableau de bord, dans le bloc "Ma structure" \(cf. capture écran\)
+{% endhint %}
+
+![](../.gitbook/assets/capture-id.png)
 
 ## 3️⃣ GESTION DE VOTRE COMPTE UTILISATEUR
 
