@@ -256,7 +256,7 @@ Il n'est pas encore possible de supprimer les invitations en attente pour "netto
 L'administrateur du compte doit [nous contacter par mail](mailto:assistance@inclusion.beta.gouv.fr) afin que nous puissions déréférencer la structure.
 {% endhint %}
 
-### Où trouver l'ID de ma structure ? A quoi sert l'ID de ma structure ?
+### _Où trouver l'ID de ma structure ? A quoi sert l'ID de ma structure ?_
 
 {% hint style="info" %}
 Lorsque vous communiquez avec notre équipe, nous communiquer l'ID de votre structure nous permet de la retrouver plus simplement. Vous trouverez ce numéro dans votre tableau de bord, dans le bloc "Ma structure" \(cf. capture écran\)
