@@ -83,7 +83,9 @@ Vous pouvez bloquer temporairement la réception de nouvelles candidatures à pa
 ### _J'ai refusé / annulé une candidature par erreur, comment la récupérer ?_
 
 {% hint style="info" %}
-On ne peut pas revenir sur une candidature annulée ou refusée. L'employeur doit refaire une nouvelle candidature, depuis son tableau de bord, en cliquant sur "obtenir un pass iae \(candidature spontanée\)". Si un diagnostic d'éligibilité IAE avait été validé par un prescripteur habilité celui-ci sera récupéré automatiquement s'il est encore valable \(pour rappel un diagnostic d'éligibilité IAE est valable 6 mois\)
+On ne peut pas revenir sur une candidature annulée ou refusée. L'employeur doit refaire une nouvelle candidature, depuis son tableau de bord, en cliquant sur "obtenir un PASS IAE \(candidature spontanée\)". Si un diagnostic d'éligibilité IAE avait été validé par un prescripteur habilité celui-ci sera récupéré automatiquement s'il est encore valable \(pour rappel un diagnostic d'éligibilité IAE est valable 6 mois\).
+
+La nouvelle candidature sera créée dans la page "candidatures à traiter".
 {% endhint %}
 
 ## 2️⃣**\[ SUIVI DES CANDIDATURES PAR LE PRESCRIPTEUR\]**

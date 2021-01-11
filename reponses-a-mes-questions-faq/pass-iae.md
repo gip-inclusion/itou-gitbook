@@ -54,7 +54,11 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Je reçois le numéro d'agrément en combien de temps via la Plateforme \(Pass IAE\)?](pass-iae.md#je-recois-le-numero-dagrement-en-combien-de-temps-via-la-plateforme-pass-iae)
 
-[Comment modifier les dates de contrat ?](pass-iae.md#comment-modifier-les-dates-de-contrat)
+\_\_[_Comment modifier la date de fin de contrat ?_](pass-iae.md#comment-modifier-la-date-de-fin-de-contrat)
+
+\_\_[_Comment modifier la date de début de contrat ?_](pass-iae.md#comment-modifier-la-date-de-debut-de-contrat)
+
+
 
 {% hint style="warning" %}
 [Vous n’avez pas trouvé la réponse à votre question ?](pass-iae.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
@@ -178,7 +182,9 @@ Consultez notre [note dédiée aux extensions, prolongations, suspensions](https
 ### _Que se passe-t-il en cas de doublon agrément Pole emploi/ Pass IAE , lequel est valable ? Et quel impact sur le financement ?_
 
 {% hint style="info" %}
-En cas de doublon, nous alignons les dates. \(c'est la date la plus ancienne qui est retenue\)
+En cas de doublon, nous alignons les dates. \(c'est la date la plus ancienne qui est retenue\).
+
+Les agents Pôle emploi peuvent [nous contacter ](mailto:assistance@inclusion.beta.gouv.fr)pour que nous puissions mettre à jour nos bases de données respectives. 
 
 L'employeur pourra utiliser le numéro de PASS **ou** le numéro d'agrément Pôle emploi pour sa déclaration dans l'extranet IAE 2.0 de l'ASP, les 2 numéros sont valables.
 
@@ -228,11 +234,37 @@ Lorsque le numéro identifiant Pôle emploi est renseigné ou si le candidat n'e
 En revanche si l'employeur a sélectionné "identifiant Pôle emploi oublié" , cela implique une vérification manuelle.  La vérification manuelle est de maximum 2 jours. 
 {% endhint %}
 
-### Comment modifier les dates de contrat ?
+### _Comment modifier la date de fin de contrat ?_
 
 {% hint style="info" %}
-Il n'est pas possible de modifier les dates de contrat saisies. A ce jour, les dates de contrat saisies sur la Plateforme de l'inclusion sont purement indicatives et n'ont aucune incidence sur la déclaration faite sur l'extranet ASP IAE 2.0 Ce qui importe, ce sont les dates du PASS IAE.
+Il n'est pas possible de modifier les dates de contrat saisies. La date de fin de contrat n'a aucune incidence sur la déclaration faite dans l'extranet IAE 2.0 de l'ASP
 {% endhint %}
+
+### _Comment modifier la date de début de contrat ?_
+
+{% hint style="info" %}
+L'utilisateur ne peut pas modifier la date de début de contrat.
+
+2 cas de figure possibles : 
+
+**Cas 1 : Ce contrat a généré un nouveau PASS IAE \(date de début de contrat = date de démarrage du PASS IAE\)**
+
+* Vous pouvez demander à repousser la date de début du PASS IAE
+* Vous pouvez demander à avancer la date de début de PASS IAE \(au plus tôt le jour où vous avez validé la demande d'embauche\).
+
+✉ [Contactez-nous ](mailto:assistance@inclusion.beta.gouv.fr)en nous indiquant les éléments suivants : 
+
+* La référence du PASS IAE à modifier
+* La nouvelle date de démarrage
+
+**Cas 2 : Ce contrat n'a pas généré de nouveau PASS IAE, il s'agit d'une reprise de PASS IAE ou d'agrément**  
+
+* Vous n'avez aucune démarche à faire car la date de début de contrat n'impacte pas le PASS IAE qui est déjà en cours.
+{% endhint %}
+
+
+
+\*\*\*\*
 
 ### _Vous n’avez pas trouvé la réponse à votre question ?_
 

@@ -8,7 +8,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 1️⃣ **\[ INSCRIPTION \]**
 
-Je veux créer un compte Structures Inclusives sur le Marché mais je 
+\_\_[_Je veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ?_ ](inscription-gestion-de-compte.md#je-veux-creer-un-compte-prescripteur-mais-je-ne-trouve-pas-mon-organisation-dans-la-liste-des-prescripteurs)\_\_
 
 [Je n'arrive pas à créer mon compte Employeur ou j'ai un message ''Siret non reconnu'' que dois-je faire ?](inscription-gestion-de-compte.md#je-narrive-pas-a-creer-mon-compte-employeur-ou-jai-un-message-siret-non-reconnu-que-dois-je-faire)
 
@@ -41,6 +41,8 @@ Je veux créer un compte Structures Inclusives sur le Marché mais je
 [Dans les résultats de recherche, pourquoi ma structure n'est-elle pas géolocalisée au bon endroit ](inscription-gestion-de-compte.md#dans-les-resultats-de-recherche-pourquoi-ma-structure-nest-elle-pas-geolocalisee-au-bon-endroit)
 
 [Comment corriger le nom de ma structure s’il est incorrect ?](inscription-gestion-de-compte.md#comment-corriger-le-nom-de-ma-structure-sil-est-incorrect)
+
+[Comment supprimer les invitations en attente ?](inscription-gestion-de-compte.md#comment-supprimer-les-invitations-en-attente)
 
 **3️⃣\[ GESTION DE VOTRE COMPTE UTILISATEUR \]**
 
@@ -215,6 +217,12 @@ La géolocalisation dépend de l'adresse de votre structure. Si l’adresse comp
 
 {% hint style="info" %}
 Depuis votre tableau de bord, cliquez sur "Modifier les informations"
+{% endhint %}
+
+### _Comment supprimer les invitations en attente ?_
+
+{% hint style="info" %}
+Il n'est pas encore possible de supprimer les invitations en attente pour "nettoyer" son tableau d'invitations.
 {% endhint %}
 
 ## 3️⃣ GESTION DE VOTRE COMPTE UTILISATEUR
