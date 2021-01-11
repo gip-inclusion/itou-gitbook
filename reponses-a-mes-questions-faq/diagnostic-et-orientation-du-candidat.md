@@ -64,7 +64,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [J'ai fait une erreur de saisie dans le diagnostic d'éligibilité](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-diagnostic-deligibilite)
 
-Je ne sais pas qualifier les critères administratifs de mon candidat
+[Je ne sais pas qualifier les critères administratifs de mon candidat](diagnostic-et-orientation-du-candidat.md#je-ne-sais-pas-qualifier-les-criteres-administratifs-de-mon-candidat)
 
 {% hint style="warning" %}
 [Vous n’avez pas trouvé la réponse à votre question ?](diagnostic-et-orientation-du-candidat.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
