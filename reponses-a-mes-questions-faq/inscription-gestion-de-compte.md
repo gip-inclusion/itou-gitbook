@@ -8,7 +8,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 1️⃣ **\[ INSCRIPTION \]**
 
-\_\_[_Je veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ?_ ](inscription-gestion-de-compte.md#je-veux-creer-un-compte-prescripteur-mais-je-ne-trouve-pas-mon-organisation-dans-la-liste-des-prescripteurs)\_\_
+[Je veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ? ](inscription-gestion-de-compte.md#je-veux-creer-un-compte-prescripteur-mais-je-ne-trouve-pas-mon-organisation-dans-la-liste-des-prescripteurs)
 
 [Je n'arrive pas à créer mon compte Employeur ou j'ai un message ''Siret non reconnu'' que dois-je faire ?](inscription-gestion-de-compte.md#je-narrive-pas-a-creer-mon-compte-employeur-ou-jai-un-message-siret-non-reconnu-que-dois-je-faire)
 
