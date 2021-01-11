@@ -64,6 +64,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [J'ai fait une erreur de saisie dans le diagnostic d'éligibilité](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-diagnostic-deligibilite)
 
+Je ne sais pas qualifier les critères administratifs de mon candidat
+
 {% hint style="warning" %}
 [Vous n’avez pas trouvé la réponse à votre question ?](diagnostic-et-orientation-du-candidat.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
 {% endhint %}
@@ -291,6 +293,18 @@ Les GEIQ, EA, AI, EATT n'ont pas de contraintes d'éligibilité.
 {% hint style="info" %}
 Pour le moment il n'est pas possible de  modifier ces informations depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
 {% endhint %}
+
+### _Je ne sais pas qualifier les critères administratifs de mon candidat_
+
+{% hint style="info" %}
+Le service de la Plateforme de l'inclusion n'a pas de légitimité à vous conseiller à ce sujet. Pour plus d'informations concernant des cas spécifiques relatifs aux critères administratifs, rapprochez vous de votre DIRECCTE.
+
+Si vous êtes prescripteur habilité vous pouvez déroger aux critères administratifs.
+
+Si vous êtes employeur en cas de doute, vous pouvez toujours demander à un prescripteur habilité de vous orienter la candidature via la plateforme, le candidat sera reconnu éligible à l'IAE même en l'absence de critères administratifs. Vous n'aurez pas à vérifier les critères administratifs. Pour contacter un prescripteur habilité vous pouvez utiliser le [moteur de recherche des prescripteurs habilités](https://inclusion.beta.gouv.fr/search/prescribers)
+{% endhint %}
+
+
 
 ### Vous n’avez pas trouvé la réponse à votre question ?
 

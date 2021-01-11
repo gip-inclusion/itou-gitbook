@@ -38,6 +38,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Peut-on filtrer les candidatures par SIAE ?](suivi-des-candidatures.md#peut-on-filtrer-les-candidatures-par-siae)
 
+[Un prescripteur peut-il modifier une candidature déjà envoyée ?](suivi-des-candidatures.md#un-prescripteur-peut-il-modifier-une-candidature-deja-envoyee)
+
 {% hint style="warning" %}
 [Vous n’avez pas trouvé la réponse à votre question ?](suivi-des-candidatures.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
 {% endhint %}
@@ -145,6 +147,14 @@ En tant que prescripteur vous serez notifié de la décision prise par l'employe
 {% hint style="info" %}
 Oui, cliquez sur "Rechercher dans vos candidatures" puis inscrivez le nom de la SIAE dans le champ " Structures destinataires"
 {% endhint %}
+
+### Un prescripteur peut-il modifier une candidature déjà envoyée ?
+
+{% hint style="info" %}
+Non. les candidatures sont comme des e-mails. Une fois envoyée, on ne peut plus les modifier.  Vous pouvez contacter l'employeur si besoin et/ou renouveler la candidature \(attention un délai de 24h est exigé pour postuler à nouveau auprès du même employeur pour un même candidat\)
+{% endhint %}
+
+
 
 ### **Vous n’avez pas trouvé la réponse à votre question ?**
 
