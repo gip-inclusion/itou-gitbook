@@ -28,6 +28,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [J'ai validé l'embauche d'un candidat sans demander de PASS IAE, mais il m'en fallait un](pass-iae.md#jai-valide-lembauche-dun-candidat-sans-demander-de-pass-iae-mais-il-men-fallait-un)
 
+[J'ai annulé par erreur l'embauche, le PASS IAE a été supprimé](pass-iae.md#jai-annule-par-erreur-lembauche-le-pass-iae-a-ete-supprime)
+
 [Je n'ai toujours pas reçu de Pass IAE, comment faire ?](pass-iae.md#je-nai-toujours-pas-recu-de-pass-iae-comment-faire)
 
 [J'ai eu la confirmation d'attribution de mon PASS IAE mais je n'ai toujours pas l'attestation de PASS IAE](pass-iae.md#jai-eu-la-confirmation-dattribution-de-mon-pass-iae-mais-je-nai-toujours-pas-lattestation-de-pass-iae)
@@ -138,6 +140,20 @@ Une fois enregistrée, vous devez finaliser l'embauche en cliquant sur "gérer l
 
 Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
 {% endhint %}
+
+### J'ai annulé par erreur l'embauche, le PASS IAE a été supprimé
+
+{% hint style="info" %}
+Vous devez refaire la demande d'obtention de PASS IAE en cliquant sur "obtenir un PASS IAE".
+
+L'éligibilité IAE du candidat sera automatiquement récupérée. 
+
+Une fois enregistrée, vous devez finaliser l'embauche en cliquant sur "gérer la candidature"
+
+Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
+{% endhint %}
+
+
 
 ### _Je n'ai toujours pas reçu de Pass IAE, comment faire ?_
 
