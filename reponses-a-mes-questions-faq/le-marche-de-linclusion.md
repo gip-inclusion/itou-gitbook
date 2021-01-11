@@ -18,6 +18,18 @@ description: PAGE EN COURS DE CONSTRUCTION
 
 [Comment faire pour que mon profil soit certifié ?](le-marche-de-linclusion.md#comment-faire-pour-que-mon-profil-soit-certifie)
 
+**3️⃣ \[ PUBLICATION D'UNE OFFRE SUR LE MARCHÉ \]**
+
+[J'ai posté une offre de prestation mais celle-ci n'apparaît toujours pas sur le Marché, pourquoi ?](le-marche-de-linclusion.md#jai-poste-une-offre-de-prestation-mais-celle-ci-napparait-toujours-pas-sur-le-marche-pourquoi)
+
+[Comment rédiger une offre claire et attractive pour les acheteurs ?](le-marche-de-linclusion.md#comment-rediger-une-offre-claire-et-attractive-pour-les-acheteurs)
+
+Puis-je faire une offre globale pour tous mes services ?
+
+Je fais de la mise à disposition de personnel, je peux proposer de nombreux services différents, comment tous les mettre en valeur ?
+
+J'ai plusieurs établissements qui proposent des services identiques, comment dupliquer ces offres ?
+
 ## 🟢LES REPONSES : 
 
 ## 1️⃣ INSCRIPTION
@@ -54,5 +66,26 @@ _Lorsque vous créer votre compte, nous vérifions certaines données :_
 * Que votre profil mette en avant votre logo de structure
 
 Si ces trois conditions sont réunies, nous "certifions" votre profil. Cette action est visible auprès des acheteurs.
+{% endhint %}
+
+## 3️⃣ PUBLICATION D'UNE OFFRE SUR LE MARCHÉ
+
+### _J'ai posté une offre de prestation mais celle-ci n'apparaît toujours pas sur le Marché, pourquoi ?_
+
+{% hint style="info" %}
+Lorsqu'une offre est postée sur le Marché de l'inclusion, elle est soumise à validation par nos équipes. Nous nous assurons qu'elle remplisse quelques critères de qualité conformément aux attentes des acheteurs qui viennent visiter les différentes annonces. 
+
+Une fois que nous constatons que votre annonce correspond bien à [une offre claire et attractive](le-marche-de-linclusion.md#comment-rediger-une-offre-claire-et-attractive-pour-les-acheteurs), nous la publions et elle sera ainsi visible par tous les visiteurs.
+{% endhint %}
+
+### _Comment rédiger une offre claire et attractive pour les acheteurs ?_
+
+{% hint style="info" %}
+Afin de passer votre annonce en statut : publiée, nous vérifions certains critères. Ainsi, votre offre doit :
+
+* Correspondre à un seul type d'activité. \(une offre par prestation différente\)
+* Avoir un titre clair en lien avec la prestation proposée
+* Être suffisamment détaillée et fournir à l'acheteur tous les éléments utiles qui l'aideront à prendre sa décision.
+* Être illustrée d'une ou plusieurs photos de qualité afin d'être rapidement identifiée parmi les annonces en ligne.
 {% endhint %}
 
