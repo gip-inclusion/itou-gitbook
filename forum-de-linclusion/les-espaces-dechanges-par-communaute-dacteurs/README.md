@@ -8,7 +8,7 @@ L'équipe du Forum de l'inclusion met à votre disposition des [espaces d'échan
 
 \*\*\*\*
 
-📢  **Créés à la demande, selon vos besoins, pour :**
+🙋  **Créés à la demande, selon vos besoins, pour :**
 
 * Les membres d'une fédération 
 * Un regroupement d'acteurs de l'inclusion d'un département
@@ -43,6 +43,8 @@ Vous avez besoin d'un espace où vous pouvez **partager des actualités et des i
 ### [Comment utiliser un espace d'échanges par communauté d'acteurs](comment-utiliser-un-espace-dechanges-par-communaute-dacteurs.md)
 
 ### [Créer votre espace d'échange par communauté d'acteurs](creer-votre-espace-dechange-par-communaute-dacteurs.md)
+
+### 
 
 ### 
 
