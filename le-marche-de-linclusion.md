@@ -16,8 +16,6 @@ C'est un [employeur solidaire](pourquoi-une-plateforme-de-linclusion/qui-sont-le
 
 🤝​ ​[lemarche.inclusion.beta.gouv.fr](http://lemarche.inclusion.beta.gouv.fr/)​ vous permet de **déposer vos offres** et de mettre en avant **vos services**. Vous gagnerez ainsi en visibilité auprès d'acheteurs engagés et solidaires qui recherchent un service de qualité dans le respect de leur politique RSE.
 
-
-
 {% hint style="danger" %}
 En phase de développement, le Marché de l'inclusion est désormais ouvert sur 3 régions de France : **Les Hauts-de-France, l'Île-de-France et Grand Est**. 
 
@@ -26,7 +24,6 @@ En phase de développement, le Marché de l'inclusion est désormais ouvert sur 
 
 
 
-  
 🚨Afin que ce projet soit une réussite et qu'il soit déployé sur la France entière et sur toutes les filières, **nous proposons un accompagnement collectif toutes les structures qui le désirent​ ​**afin de procéder à l'inscription et la publication de leur offre !
 
 🧐 **Suivez notre actu et inscrivez-vous au prochain** [**Open Webinaire d'inscription sur le Marché de l'inclusion**](rendez-vous-webinaires/le-marche-de-linclusion.md)\*\*\*\*
