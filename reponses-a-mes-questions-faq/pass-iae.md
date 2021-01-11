@@ -54,6 +54,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Je reçois le numéro d'agrément en combien de temps via la Plateforme \(Pass IAE\)?](pass-iae.md#je-recois-le-numero-dagrement-en-combien-de-temps-via-la-plateforme-pass-iae)
 
+[Comment modifier les dates de contrat ?](pass-iae.md#comment-modifier-les-dates-de-contrat)
+
 {% hint style="warning" %}
 [Vous n’avez pas trouvé la réponse à votre question ?](pass-iae.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
 {% endhint %}
@@ -226,7 +228,11 @@ Lorsque le numéro identifiant Pôle emploi est renseigné ou si le candidat n'e
 En revanche si l'employeur a sélectionné "identifiant Pôle emploi oublié" , cela implique une vérification manuelle.  La vérification manuelle est de maximum 2 jours. 
 {% endhint %}
 
-\_\_
+### Comment modifier les dates de contrat ?
+
+{% hint style="info" %}
+Il n'est pas possible de modifier les dates de contrat saisies. A ce jour, les dates de contrat saisies sur la Plateforme de l'inclusion sont purement indicatives et n'ont aucune incidence sur la déclaration faite sur l'extranet ASP IAE 2.0 Ce qui importe, ce sont les dates du PASS IAE.
+{% endhint %}
 
 ### _Vous n’avez pas trouvé la réponse à votre question ?_
 
