@@ -46,6 +46,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Comment supprimer les invitations en attente ?](inscription-gestion-de-compte.md#comment-supprimer-les-invitations-en-attente)
 
+[Ma SIAE a fermé, que dois-je faire ?](inscription-gestion-de-compte.md#ma-siae-a-ferme-que-dois-je-faire)
+
 **3️⃣\[ GESTION DE VOTRE COMPTE UTILISATEUR \]**
 
 [Je souhaite changer l’adresse mail de mon compte](inscription-gestion-de-compte.md#je-souhaite-changer-ladresse-mail-de-mon-compte)
@@ -231,6 +233,12 @@ Depuis votre tableau de bord, cliquez sur "Modifier les informations"
 
 {% hint style="info" %}
 Il n'est pas encore possible de supprimer les invitations en attente pour "nettoyer" son tableau d'invitations.
+{% endhint %}
+
+### Ma SIAE a fermé, que dois-je faire ?
+
+{% hint style="info" %}
+L'administrateur du compte doit [nous contacter par mail](mailto:assistance@inclusion.beta.gouv.fr) afin que nous puissions déréférencer la structure.
 {% endhint %}
 
 ## 3️⃣ GESTION DE VOTRE COMPTE UTILISATEUR
