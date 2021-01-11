@@ -119,7 +119,7 @@ Les employeurs peuvent créer leur antennes depuis leur tableau de bord.
 
 **En revanche les prescripteurs doivent** [**nous contacter**](mailto:assistance@inclusion.beta.gouv.fr) pour que nous puissions créer les différentes antennes.
 
-_Exemple  : Un Conseil Départemental a 10 Maison du département dans différentes villes, ces maisons du département ont le même numéro SIRET que le Conseil Départemental._
+_Exemple  : Un Conseil Départemental a 10 Maisons du département dans différentes villes, ces maisons du département ont le même numéro SIRET que le Conseil Départemental._
 
 _Le service social conseil départemental a déjà créé le compte de l'organisation mère \( = Le Conseil départemental, siège\). En nous contactant nous pourrons créer les 10 antennes \( = Les maisons du département\)_
 
