@@ -112,6 +112,35 @@ Tous les membres du tableau de bord
 Il faut renvoyer une nouvelle invitation.
 {% endhint %}
 
+### Mon organisation prescripteur a plusieurs antennes \(de même type\) mais un seul SIRET
+
+{% hint style="info" %}
+Les employeurs peuvent créer leur antennes depuis leur tableau de bord.
+
+**En revanche les prescripteurs doivent** [**nous contacter**](mailto:assistance@inclusion.beta.gouv.fr) pour que nous puissions créer les différentes antennes.
+
+_Exemple  : Un Conseil Départemental a 10 Maison du département dans différentes villes, ces maisons du département ont le même numéro SIRET que le Conseil Départemental._
+
+_Le service social conseil départemental a déjà créé le compte de l'organisation mère \( = Le Conseil départemental, siège\). En nous contactant nous pourrons créer les 10 antennes \( = Les maisons du département\)_
+
+  
+**Prérequis nécessaires à la demande de création d'antennes:** 
+
+Avoir une organisation prescripteur inscrite sur la plateforme \( = Organisation mère \)
+
+**Procédure :**
+
+Vous nous communiquez la liste des antennes à créer  : 
+
+* Siret de l'organisation mère
+* nom et adresse de chaque antenne
+* adresse mail de l'administrateur pour chaque antenne \(attention cet administrateur doit déjà être membre de l'organisation mère pour faciliter le rattachement\)
+* Nous procédons à la création de vos antennes et nous ajoutons l'administrateur de votre choix sur les antennes concernées 
+* Chaque administrateur se charge d'inviter les collaborateurs sur les antennes.
+{% endhint %}
+
+
+
 ## 2️⃣ GESTION DE VOTRE STRUCTURE
 
 ### _Quel est le rôle de l'administrateur ?_
