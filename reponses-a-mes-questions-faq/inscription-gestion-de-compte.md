@@ -26,6 +26,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Quel est le rôle de l'administrateur ?](inscription-gestion-de-compte.md#quel-est-le-role-de-ladministrateur)
 
+[Comment nommer un ou plusieurs administrateur\(s\) pour ma structure  ?](inscription-gestion-de-compte.md#comment-nommer-un-ou-plusieurs-administrateur-s-pour-ma-structure)
+
 [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?](inscription-gestion-de-compte.md#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
 
 [Comment retirer un collaborateur de mon organisation ?](inscription-gestion-de-compte.md#comment-retirer-un-collaborateur-de-mon-organisation)
@@ -149,6 +151,17 @@ Oui, c'est possible. Il faudra simplement créer un compte prescripteur depuis u
 
 {% hint style="info" %}
 Pour en savoir plus sur le rôle d'administrateur. 
+
+Consultez les modes d'emploi : 
+
+* [Mode d'emploi employeur : rôle de l'administrateur](../mon-monde-demploi-employeur-solidaire/administrateur-de-la-structure.md)
+* [Mode d'emploi prescripteur : rôle du prescripteur ](../mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
+{% endhint %}
+
+### _Comment nommer un ou plusieurs administrateur\(s\) pour ma structure ?_
+
+{% hint style="info" %}
+Par défaut, le premier qui créé le compte de son organisation devient l'administrateur. Cet administrateur peut nommer un ou plusieurs administrateurs. 
 
 Consultez les modes d'emploi : 
 
