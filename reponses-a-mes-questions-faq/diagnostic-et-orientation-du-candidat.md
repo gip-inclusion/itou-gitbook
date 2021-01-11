@@ -42,6 +42,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [En tant qu'employeur, je veux orienter un candidat vers ma SIAE, comment faire ?](diagnostic-et-orientation-du-candidat.md#en-tant-quemployeur-je-veux-orienter-un-candidat-vers-ma-siae-comment-faire)
 
+[Je suis un employeur et je veux orienter un candidat vers un autre employeur comment faire ?](diagnostic-et-orientation-du-candidat.md#je-suis-un-employeur-et-je-veux-orienter-un-candidat-vers-un-autre-employeur-comment-faire)
+
 **3️⃣   \[ DIAGNOSTIC & ELIGIBILITE IAE \]**
 
 \_\_[Doit-on utiliser des fiches de positionnement \( ou fiches de liaison\) IAE ?](diagnostic-et-orientation-du-candidat.md#doit-on-utiliser-des-fiches-de-positionnement-ou-fiches-de-liaison-iae)
@@ -207,6 +209,14 @@ Pour le moment il n'est pas possible de  modifier ces informations depuis la pla
 
 {% hint style="info" %}
 Vous pouvez réaliser une auto prescription en cliquant sur "obtenir un PASS IAE". Cela ne signifie pas nécessairement qu'une embauche est prévue pour ce candidat. La candidature sera ajoutée à la page "candidatures à traiter"
+{% endhint %}
+
+### Je suis un employeur et je veux orienter un candidat vers un autre employeur comment faire ?
+
+{% hint style="info" %}
+Il n'est pas encore possible de réaliser cette action depuis votre tableau de bord employeur, mais cela devrait arriver courant 2021.
+
+Pour le moment, vous devez vous créer un compte "orienteur" avec un e-mail différent de celui de votre compte employeur. Vous pourrez alors reprendre l'e-mail du candidat et l'orienter depuis ce compte vers une autre SIAE.
 {% endhint %}
 
 ## **3️⃣   \[ DIAGNOSTIC & ELIGIBILITE IAE \]**

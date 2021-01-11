@@ -20,6 +20,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Mon organisation prescripteur a plusieurs antennes \(de même type\) mais un seul SIRET](inscription-gestion-de-compte.md#mon-organisation-prescripteur-a-plusieurs-antennes-de-meme-type-mais-un-seul-siret)
 
+[Est-il possible pour un employeur de créer un compte prescripteur avec le même SIRET ?](inscription-gestion-de-compte.md#est-il-possible-pour-un-employeur-de-creer-un-compte-prescripteur-avec-le-meme-siret)
+
 **2️⃣ \[ GESTION DE VOTRE STRUCTURE \]**
 
 [Quel est le rôle de l'administrateur ?](inscription-gestion-de-compte.md#quel-est-le-role-de-ladministrateur)
@@ -131,6 +133,12 @@ _Le service social conseil départemental a déjà créé le compte de l'organis
 **Prérequis nécessaire à la demande de création d'antennes:** 
 
 Avoir une organisation prescripteur inscrite sur la plateforme \( = Organisation mère \)
+{% endhint %}
+
+### _Est-il possible pour un employeur de créer un compte prescripteur avec le même SIRET ?_
+
+{% hint style="info" %}
+Oui, c'est possible. Il faudra simplement créer un compte prescripteur depuis une adresse e-mail différente de celle utilisée pour le compte employeur.
 {% endhint %}
 
 ## 2️⃣ GESTION DE VOTRE STRUCTURE
