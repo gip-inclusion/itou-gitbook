@@ -124,20 +124,12 @@ _Exemple  : Un Conseil Départemental a 10 Maisons du département dans différe
 _Le service social conseil départemental a déjà créé le compte de l'organisation mère \( = Le Conseil départemental, siège\). En nous contactant nous pourrons créer les 10 antennes \( = Les maisons du département\)_
 
   
-**Prérequis nécessaires à la demande de création d'antennes:** 
+**Prérequis nécessaire à la demande de création d'antennes:** 
 
 Avoir une organisation prescripteur inscrite sur la plateforme \( = Organisation mère \)
-
-**Procédure :**
-
-Vous nous communiquez la liste des antennes à créer  : 
-
-* Siret de l'organisation mère
-* nom et adresse de chaque antenne
-* adresse mail de l'administrateur pour chaque antenne \(attention cet administrateur doit déjà être membre de l'organisation mère pour faciliter le rattachement\)
-* Nous procédons à la création de vos antennes et nous ajoutons l'administrateur de votre choix sur les antennes concernées 
-* Chaque administrateur se charge d'inviter les collaborateurs sur les antennes.
 {% endhint %}
+
+\*\*\*\*
 
 
 
