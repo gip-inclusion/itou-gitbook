@@ -231,6 +231,10 @@ A noter qu'il faudra utiliser une adresse mail différente si celle-ci est déj�
 {% hint style="info" %}
 Oui un prescripteur peut être présent sur plusieurs organisations de prescripteurs ou orienteurs. 
 
+Vous pouvez créer le compte de la première organisation en suivant le [processus d'inscription des prescripteurs](../mon-mode-demploi-prescripteur/inscription-prescripteur.md)
+
+Pour la deuxième organisation et les suivantes  :
+
 2 cas de figure : 
 
 * **L'autre organisation que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur la plateforme
