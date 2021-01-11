@@ -40,6 +40,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [J'ai fait une erreur de saisie dans le profil du candidat ](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-profil-du-candidat)
 
+En tant qu'employeur, je veux orienter un candidat vers ma SIAE, comment faire ?
+
 **3️⃣   \[ DIAGNOSTIC & ELIGIBILITE IAE \]**
 
 \_\_[Doit-on utiliser des fiches de positionnement \( ou fiches de liaison\) IAE ?](diagnostic-et-orientation-du-candidat.md#doit-on-utiliser-des-fiches-de-positionnement-ou-fiches-de-liaison-iae)
@@ -199,6 +201,12 @@ Il est composé de 8 caractères : 7 chiffres suivis d'une 1 lettre ou d'un chif
 
 {% hint style="info" %}
 Pour le moment il n'est pas possible de  modifier ces informations depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
+{% endhint %}
+
+### _En tant qu'employeur, je veux orienter un candidat vers ma SIAE, comment faire ?_
+
+{% hint style="info" %}
+Vous pouvez réaliser une auto prescription en cliquant sur "obtenir un PASS IAE". Cela ne signifie pas nécessairement qu'une embauche est prévue pour ce candidat. La candidature sera ajoutée à la page "candidatures à traiter"
 {% endhint %}
 
 ## **3️⃣   \[ DIAGNOSTIC & ELIGIBILITE IAE \]**
