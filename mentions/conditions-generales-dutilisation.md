@@ -43,6 +43,7 @@ L’Espace personnel du Candidat permet à celui-ci d’accéder aux Services of
 * Modification de son mot de passe et de son identifiant ;
 * Modification des informations relatives à son Profil;
 * Réalisation de démarche en ligne visant à postuler à des offres d’emploi.
+* Proposition de solutions d’accompagnement par sms ou mail
 
 Lorsque son Profil a été créé de manière indirecte, c’est-à-dire par un Prescripteur, le Candidat est informé par voie électronique, selon les informations fournies par le Prescripteur.
 
@@ -77,6 +78,14 @@ Le Candidat peut remplir toute information relative à son parcours professionne
 Le Candidat qui procède à une fausse déclaration pour lui-même s’expose, aux sanctions prévues à l’article 441-1 du Code pénal allant jusqu’à 3 ans de prison et 45 000 € d’amende.
 
 Sur signalement, l’opérateur peut révoquer une autorisation et supprimer tout Profil contrevenant aux présentes conditions générales d’utilisation.
+
+**Proposition de solutions d’accompagnement par sms ou e-mail**
+
+Le candidat pourra se voir proposer des solutions d'accompagnement via les partenaires locaux engagés dans l'accompagnement des personnes en recherche d'emploi.
+
+Ces propositions seront transmises par SMS ou Mail.
+
+Des questionnaires peuvent être adressés aux candidats. Les réponses aux questionnaires seront utilisées par La Plateforme de l'inclusion et ses partenaires locaux pour proposer des solutions d'accompagnement adaptées aux besoins des candidats.
 
 ### 4.3 Description des fonctionnalités pour le Prescripteur
 
