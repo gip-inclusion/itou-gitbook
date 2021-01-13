@@ -38,6 +38,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Je ne vois pas ma structure dans le moteur de recherche des employeurs](inscription-gestion-de-compte.md#je-ne-vois-pas-ma-structure-dans-le-moteur-de-recherche-des-employeurs)
 
+[Je ne vois pas mon organisation dans le moteur de recherche des prescripteurs](inscription-gestion-de-compte.md#je-ne-vois-pas-mon-organisation-dans-le-moteur-de-recherche-des-prescripteurs)
+
 [Je ne souhaite plus recruter sur un métier](inscription-gestion-de-compte.md#je-ne-souhaite-plus-recruter-sur-un-metier)
 
 [Aucun métier n’apparaît sous ma structure, comment rectifier ?](inscription-gestion-de-compte.md#aucun-metier-napparait-sous-ma-structure-comment-rectifier)
@@ -210,6 +212,16 @@ L’administrateur du compte peut [créer une nouvelle structure ](../mon-monde-
 La liste des structures référencées sur la Plateforme correspond aux structures conventionnées. Si votre conventionnement est récent, il est probable que vous n’apparaissiez pas encore. Nous mettons régulièrement à jour les nouveaux conventionnements. Si vous cela tarde, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
 
 Si votre SIAE est bien conventionnée mais qu'elle n'apparait pas, essayez d'élargir le rayon de recherche. Si elle n'apparait toujours pas vérifiez votre adresse depuis votre tableau de bord, dans la rubrique "Modifier les informations".
+
+Si aucune des solutions proposées n'a permis de résoudre le problème  [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
+{% endhint %}
+
+### _Je ne vois pas mon organisation dans le moteur de recherche des prescripteurs_
+
+{% hint style="info" %}
+Seuls les prescripteurs habilités sont référencés dans le moteur de recherche des prescripteurs 
+
+Si vous faites partie des prescripteurs habilité, essayez d'élargir le rayon de recherche. Si votre organisation n'apparait toujours pas vérifiez votre adresse depuis votre tableau de bord, dans la rubrique "Modifier les informations".
 
 Si aucune des solutions proposées n'a permis de résoudre le problème  [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
 {% endhint %}
