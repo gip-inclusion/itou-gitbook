@@ -62,6 +62,10 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Un prescripteur peut-il être membre de plusieurs organisations de prescripteurs/orienteurs?](inscription-gestion-de-compte.md#un-prescripteur-peut-il-etre-membre-de-plusieurs-organisations-de-prescripteurs-orienteurs)
 
+Un employeur peut-il être membre de plusieurs structures ?
+
+Un utilisateur peut-il être prescripteur et employeur avec le même compte ?
+
 [J'ai changé d'organisation comment faire pour rejoindre le compte de ma nouvelle organisation ?](inscription-gestion-de-compte.md#jai-change-dorganisation-comment-faire-pour-rejoindre-le-compte-de-ma-nouvelle-organisation)
 
 {% hint style="warning" %}
@@ -295,7 +299,7 @@ A noter qu'il faudra utiliser une adresse mail différente si celle-ci est déj�
 ### _Un prescripteur peut-il être membre de plusieurs organisations de prescripteurs/orienteurs?_
 
 {% hint style="info" %}
-Oui un prescripteur peut être présent sur plusieurs organisations de prescripteurs ou orienteurs. 
+Oui un prescripteur peut être présent sur plusieurs organisations \(uniquement de type "prescripteur"\)
 
 Vous pouvez créer le compte de la première organisation en suivant le [processus d'inscription des prescripteurs](../mon-mode-demploi-prescripteur/inscription-prescripteur.md)
 
@@ -307,6 +311,21 @@ Pour la deuxième organisation et les suivantes  :
 * **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur la plateforme** = il faut nous [contacter par mail ](mailto:assistance@inclusion.beta.gouv.fr)afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
 
 Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'autre en cliquant sur le bouton situé en haut à droite "changer de structure"**
+{% endhint %}
+
+### Un employeur peut-il être membre de plusieurs structures ?
+
+{% hint style="info" %}
+Oui un employeur peut être présent sur plusieurs structures \(uniquement de type "employeur"\)
+
+Vous pouvez créer le compte de la première organisation en suivant le [processus d'inscription des employeurs ](../mon-monde-demploi-employeur-solidaire/inscription-employeur.md)
+
+Pour la deuxième structure et les suivantes  :
+
+2 cas de figure : 
+
+* **L'autre structure que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur la plateforme
+* **L'autre structure que vous souhaitez rejoindre n'existe pas encore sur la plateforme** = il vous faudra cliquer sur ["Créer / rejoindre une autre structure"](../mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)
 {% endhint %}
 
 ### J'ai changé d'organisation comment faire pour rejoindre le compte de ma nouvelle organisation ?
