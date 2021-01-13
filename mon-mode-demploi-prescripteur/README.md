@@ -3,6 +3,7 @@
 **Découvrez des tutos pour vous aider à utiliser la Plateforme :**
 
 * \*\*\*\*[**M'inscrire sur la Plateforme**](inscription-prescripteur.md)\*\*\*\*
+* \*\*\*\*[**Administrateur de l'organisation**](administrateur-de-lorganisation.md)
 * \*\*\*\*[**Compléter et décrire mon organisation**](description-organisation.md)\*\*\*\*
 * \*\*\*\*[**Inviter mes collaborateurs à se rattacher au compte de l'organisation**](rattachement-collaborateur-au-compte.md)\*\*\*\*
 * \*\*\*\*[**Postuler pour un candidat - Prescrire**](postuler-pour-un-candidat.md)\*\*\*\*

@@ -1,4 +1,4 @@
-# 👩🏻‍💻🧑🏾‍💻Pourquoi une Plateforme de l'inclusion ?
+# ��🏻‍💻🧑🏾‍💻Pourquoi une Plateforme de l'inclusion ?
 
 Pour **simplifier l’accès à l’emploi** des personnes qui en sont le plus éloignées et **lever les freins qui limitent l’action de l’IAE** \(lourdeurs administratives, difficultés d’accès aux profils éligibles, délais des parcours, manque d’outils professionnalisés…\). 
 
