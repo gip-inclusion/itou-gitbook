@@ -62,9 +62,9 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Un prescripteur peut-il être membre de plusieurs organisations de prescripteurs/orienteurs?](inscription-gestion-de-compte.md#un-prescripteur-peut-il-etre-membre-de-plusieurs-organisations-de-prescripteurs-orienteurs)
 
-Un employeur peut-il être membre de plusieurs structures ?
+[Un employeur peut-il être membre de plusieurs structures ?](inscription-gestion-de-compte.md#un-employeur-peut-il-etre-membre-de-plusieurs-structures)
 
-Un utilisateur peut-il être prescripteur et employeur avec le même compte ?
+[Un utilisateur peut-il être prescripteur et employeur avec le même compte ?](inscription-gestion-de-compte.md#un-utilisateur-peut-il-etre-prescripteur-et-employeur-avec-le-meme-compte)
 
 [J'ai changé d'organisation comment faire pour rejoindre le compte de ma nouvelle organisation ?](inscription-gestion-de-compte.md#jai-change-dorganisation-comment-faire-pour-rejoindre-le-compte-de-ma-nouvelle-organisation)
 
@@ -313,7 +313,7 @@ Pour la deuxième organisation et les suivantes  :
 Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'autre en cliquant sur le bouton situé en haut à droite "changer de structure"**
 {% endhint %}
 
-### Un employeur peut-il être membre de plusieurs structures ?
+### _Un employeur peut-il être membre de plusieurs structures ?_
 
 {% hint style="info" %}
 Oui un employeur peut être présent sur plusieurs structures \(uniquement de type "employeur"\)
@@ -326,6 +326,12 @@ Pour la deuxième structure et les suivantes  :
 
 * **L'autre structure que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur la plateforme
 * **L'autre structure que vous souhaitez rejoindre n'existe pas encore sur la plateforme** = il vous faudra cliquer sur ["Créer / rejoindre une autre structure"](../mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)
+{% endhint %}
+
+### Un utilisateur peut-il être prescripteur et employeur avec le même compte ?
+
+{% hint style="info" %}
+Non, il faudra utiliser un autre compte \(associé à une autre adresse e-mail\)
 {% endhint %}
 
 ### J'ai changé d'organisation comment faire pour rejoindre le compte de ma nouvelle organisation ?
