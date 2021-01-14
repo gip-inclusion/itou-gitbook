@@ -95,7 +95,7 @@ Le candidat peut :
 {% hint style="info" %}
 Aucune demande d'habilitation n’est nécessaire. Tout orienteur peut se créer un compte sur la Plateforme et postuler pour un ou plusieurs candidats auprès des entreprises solidaires référencées. [Inscrivez-vous en quelques clics !](https://inclusion.beta.gouv.fr/signup/prescriber/choose_kind)
 
-[Voir mode d'emploi pour s'inscrire e faqn tant qu'orienteur](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-orienteur)
+[Voir mode d'emploi pour s'inscrire en tant qu'orienteur](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-orienteur)
 {% endhint %}
 
 ### _Comment devenir prescripteur habilité si je ne le suis pas ?_
