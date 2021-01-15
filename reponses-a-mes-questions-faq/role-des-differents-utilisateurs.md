@@ -22,6 +22,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Comment savoir si mon organisation est habilitée au niveau préfectorale ?](role-des-differents-utilisateurs.md#comment-savoir-si-mon-organisation-est-habilitee-au-niveau-prefectorale)
 
+[Un employeur peut-il avoir un compte prescripteur ?](role-des-differents-utilisateurs.md#un-employeur-peut-il-avoir-un-compte-prescripteur)
+
 {% hint style="warning" %}
 [Vous n’avez pas trouvé la réponse à votre question ?](role-des-differents-utilisateurs.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
 {% endhint %}
@@ -108,6 +110,14 @@ L'habilitation des prescripteurs se fait au niveau local, à travers les Unités
 
 {% hint style="info" %}
 Vous devez avoir un arrêté préfectoral qui mentionne votre habilitation. Nous n'avons pas la liste de toutes les organisations habilitées par les préfets,  il faut donc vérifier cette information au niveau local \(votre direction ou la DIRECCTE\)
+{% endhint %}
+
+### _Un employeur peut-il avoir un compte prescripteur ?_
+
+{% hint style="info" %}
+Les collaborateurs des entreprises qui sont en charge d'accompagner les candidater peuvent créer un compte "orienteur" pour proposer les candidats à d'autres employeurs solidaires.
+
+A noter qu'il faudra utiliser une adresse mail différente si celle-ci est déjà utilisée pour le compte employeur.
 {% endhint %}
 
 ### Vous n’avez pas trouvé la réponse à votre question ?
