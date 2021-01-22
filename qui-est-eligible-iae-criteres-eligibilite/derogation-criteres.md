@@ -23,6 +23,6 @@ Si besoin vous pouvez utiliser le [moteur de recherche des prescripteurs habilit
 **3- Récupérez la candidature dans vos candidatures à traiter et validez l'embauche**, vous n'avez aucune pièce justificative à conserver
 
 {% hint style="info" %}
-Les embauches pour lesquelles le prescripteur habilité a validé lui-même les critères d'éligibilité IAE ne sont pas soumises aux contrôles à postériori de la DIRECCTE.
+Les embauches pour lesquelles le prescripteur habilité a validé lui-même l'éligibilité IAE ne sont pas soumises aux contrôles à postériori de la DIRECCTE.
 {% endhint %}
 
