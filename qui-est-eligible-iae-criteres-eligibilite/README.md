@@ -24,7 +24,7 @@
 Les [**GEIQ, EA, EATT**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md#comment-se-reperer-entre-les-differents-employeurs-solidaires) n’ont **pas besoin de** [**Pass IAE**](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) pour recruter un candidat. Ils ne sont pas soumis aux critères d'éligibilité.
 
 {% hint style="warning" %}
-Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#criteres-administratifs-de-niveau-1) ou ne peuvent respecter le **délai de carence de 2 ans** entre deux parcours, peuvent être **orientées vers un** [**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est seul à pouvoir **prescrire un parcours IAE en dehors de ces obligations.**
+Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#criteres-administratifs-de-niveau-1) ou ne peuvent respecter le **délai de carence de 2 ans** entre deux parcours, peuvent être **orientées vers un** [**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est seul à pouvoir [**prescrire un parcours IAE en dehors de ces obligations**](derogation-criteres.md)**.**
 {% endhint %}
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.23.png)
