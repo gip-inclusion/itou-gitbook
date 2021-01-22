@@ -1,13 +1,9 @@
----
-description: >-
-  Le prescripteur habilité est le seul professionnel qui peut déroger aux
-  critères administratifs d'éligibilité IAE.
----
-
 # Dérogation des critères administratifs
 
 {% hint style="success" %}
-**Toutes les candidatures transmises par un prescripteur habilité sont reconnues éligibles à l'IAE et ce pour une durée de 6 mois, même en l'absence de critères administratifs.**
+Le **prescripteur habilité est le seul professionnel qui peut déroger aux critères administratifs** d'éligibilité IAE.
+
+Toutes les candidatures transmises par un prescripteur habilité sont reconnues éligibles à l'IAE et ce pour une durée de 6 mois, même en l'absence de critères administratifs.
 {% endhint %}
 
 ## 💡 Employeurs : Le candidat que vous souhaitez embaucher n'a pas les critères administratifs exigés pour l'IAE : comment faire ?
