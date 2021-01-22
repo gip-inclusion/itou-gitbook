@@ -62,6 +62,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 \_\_[_Comment modifier la date de début de contrat ?_](pass-iae.md#comment-modifier-la-date-de-debut-de-contrat)
 
+[Que devient le PASS IAE en cas de rupture de contrat ?](pass-iae.md#que-devient-le-pass-iae-en-cas-de-rupture-de-contrat)
+
 
 
 {% hint style="warning" %}
@@ -284,7 +286,13 @@ L'utilisateur ne peut pas modifier la date de début de contrat.
 * Vous n'avez aucune démarche à faire car la date de début de contrat n'impacte pas le PASS IAE qui est déjà en cours.
 {% endhint %}
 
+### Que devient le PASS IAE en cas de rupture de contrat ?
 
+{% hint style="info" %}
+La rupture de contrat n'est pas un [motif légitime de suspension de PASS IAE](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#suspension). 
+
+En cas de rupture de contrat, le PASS IAE du candidat reste valable le temps restant, il est donc du devoir de la SIAE d'informer le candidat sur son droit à un parcours en IAE car le candidat n'est parfois pas conscient d'être en parcours d'insertion et de ce à quoi cela lui donne accès. L'employeur peut également proposé au candidat de contacter un prescripteur pour qu'il puisse être accompagné. Un [moteur de recherche de prescripteurs](https://inclusion.beta.gouv.fr/search/prescribers) est disponible sur le site
+{% endhint %}
 
 \*\*\*\*
 
