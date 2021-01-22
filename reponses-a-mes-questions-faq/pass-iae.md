@@ -58,9 +58,9 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Je reçois le numéro d'agrément en combien de temps via la Plateforme \(Pass IAE\)?](pass-iae.md#je-recois-le-numero-dagrement-en-combien-de-temps-via-la-plateforme-pass-iae)
 
-\_\_[_Comment modifier la date de fin de contrat ?_](pass-iae.md#comment-modifier-la-date-de-fin-de-contrat)
+[Comment modifier la date de fin de contrat ?](pass-iae.md#comment-modifier-la-date-de-fin-de-contrat)
 
-\_\_[_Comment modifier la date de début de contrat ?_](pass-iae.md#comment-modifier-la-date-de-debut-de-contrat)
+[Comment modifier la date de début de contrat ?](pass-iae.md#comment-modifier-la-date-de-debut-de-contrat)
 
 [Que devient le PASS IAE en cas de rupture de contrat ?](pass-iae.md#que-devient-le-pass-iae-en-cas-de-rupture-de-contrat)
 
