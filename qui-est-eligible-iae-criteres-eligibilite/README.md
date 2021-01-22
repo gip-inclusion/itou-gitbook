@@ -3,31 +3,31 @@
 **Qui bénéficie du contrat d'Insertion par l'Activité Economique \(IAE\) :**
 
 * Les **personnes** en **difficultés sociales et/ou professionnelles** \(précarité, âge, santé\)
-* **Orientées par un** [**prescripteur habilité ou un orienteur** ](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)vers une[ **SIAE**](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) \(Structure de l'IAE\)
-* Ou **recrutées directement par une** [**SIAE**](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) ****\(validation de l'IAE\)
-* Après un [**diagnostic socio-professionnel**](qui-est-eligible-iae-criteres-eligibilite.md#diagnostic_de_reference)\*\*\*\*
-* Remplissant [**1 critère administratif de niveau 1**](qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1), ou [**3 critères administratifs de niveau 2**](qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-2)\*\*\*\*
+* **Orientées par un** [**prescripteur habilité ou un orienteur** ](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)vers une[ **SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) \(Structure de l'IAE\)
+* Ou **recrutées directement par une** [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) ****\(validation de l'IAE\)
+* Après un [**diagnostic socio-professionnel**](./#diagnostic_de_reference)\*\*\*\*
+* Remplissant [**1 critère administratif de niveau 1**](./#criteres-administratifs-de-niveau-1), ou [**3 critères administratifs de niveau 2**](./#criteres-administratifs-de-niveau-2)\*\*\*\*
 
-![](.gitbook/assets/capture-de-cran-2020-06-23-a-13.51.12.png)
+![](../.gitbook/assets/capture-de-cran-2020-06-23-a-13.51.12.png)
 
 **L'éligibilité à l’IAE** du candidat ****ne peut être **validée sur la Plateforme** que par : 
 
-* Les [**prescripteurs habilités**](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)\*\*\*\*
-* Les [**SIAE**](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)\*\*\*\*
+* Les [**prescripteurs habilités**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)\*\*\*\*
+* Les [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)\*\*\*\*
 
-**Une fois l'embauche confirmée sur la Plateforme par une SIAE, le** [**Pass IAE** ](pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md)**est délivré par mail à l'entreprise sous ≈ 2 jours.**
+**Une fois l'embauche confirmée sur la Plateforme par une SIAE, le** [**Pass IAE** ](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md)**est délivré par mail à l'entreprise sous ≈ 2 jours.**
 
-![](.gitbook/assets/copie-de-parcours-candidat-a-liae-_-qui-fait-quoi-_-1-.png)
+![](../.gitbook/assets/copie-de-parcours-candidat-a-liae-_-qui-fait-quoi-_-1-.png)
 
 
 
-Les [**GEIQ, EA, EATT**](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md#comment-se-reperer-entre-les-differents-employeurs-solidaires) n’ont **pas besoin de** [**Pass IAE**](pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) pour recruter un candidat. Ils ne sont pas soumis aux critères d'éligibilité.
+Les [**GEIQ, EA, EATT**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md#comment-se-reperer-entre-les-differents-employeurs-solidaires) n’ont **pas besoin de** [**Pass IAE**](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) pour recruter un candidat. Ils ne sont pas soumis aux critères d'éligibilité.
 
 {% hint style="warning" %}
-Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1) ou ne peuvent respecter le **délai de carence de 2 ans** entre deux parcours, peuvent être **orientées vers un** [**prescripteur habilité**](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est seul à pouvoir **prescrire un parcours IAE en dehors de ces obligations.**
+Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#criteres-administratifs-de-niveau-1) ou ne peuvent respecter le **délai de carence de 2 ans** entre deux parcours, peuvent être **orientées vers un** [**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est seul à pouvoir **prescrire un parcours IAE en dehors de ces obligations.**
 {% endhint %}
 
-![](.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.23.png)
+![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.23.png)
 
 ### Critères administratifs de niveau 1
 
@@ -62,11 +62,11 @@ La validation des critères d'éligibilité obéit désormais à une règle simp
 
 \*\*\*\*
 
-![](.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.55.png)
+![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.55.png)
 
 ### Diagnostic socio-professionnel de référence <a id="diagnostic_de_reference"></a>
 
-{% file src=".gitbook/assets/qui-est-eligible-a-liae-documentation-la-plateforme-de-linclusion.pdf" caption="Télécharger le diagnostic socio-professionnel de référence" %}
+{% file src="../.gitbook/assets/qui-est-eligible-a-liae-documentation-la-plateforme-de-linclusion.pdf" caption="Télécharger le diagnostic socio-professionnel de référence" %}
 
 | Vulnérable | ===============&gt; | ===============&gt; | ==========&gt; | Disponible |
 | :--- | :--- | :--- | :--- | :--- |

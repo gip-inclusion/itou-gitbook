@@ -21,7 +21,7 @@ C’est une **véritable place de marché de l’IAE** : offres d'emploi par vil
 
  **Une info claire, simple, efficace sur l’IAE  pour tous les acteurs**
 
-* Les [**candidats à l’emploi d'insertion**](../qui-est-eligible-iae-criteres-eligibilite.md)\*\*\*\*
+* Les [**candidats à l’emploi d'insertion**](../qui-est-eligible-iae-criteres-eligibilite/)\*\*\*\*
 * Les [**prescripteurs**](qui-sont-les-differents-prescripteurs/) \(orienteurs, prescripteurs Pôle emploi, CAP emploi, missions locales, services sociaux, PJJ,  associations…\) 
 * Les [**employeurs solidaires**](qui-sont-les-employeurs-solidaires.md) \(SIAE, GEIQ, EA, EATT\)
 * Toute **personne au contact des publics en difficulté**

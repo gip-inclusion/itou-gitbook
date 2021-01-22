@@ -1,14 +1,14 @@
 # Pass IAE : un agrément plus simple, c'est-à-dire?
 
 * **Suppression de l’agrément délivré par Pôle** **emploi** avant toute embauche IAE
-* En remplacement, **évaluation et validation de l'éligibilité à l’IAE via la Plateforme \(**[**critères d'éligibilité**](../qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1)**\)** selon 2 voies  : 
+* En remplacement, **évaluation et validation de l'éligibilité à l’IAE via la Plateforme \(**[**critères d'éligibilité**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1)**\)** selon 2 voies  : 
 
   * Par les [**prescripteurs habilités**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)\*\*\*\*
   * Directement par les [**SIAE** ](pass-iae-agrement-plus-simple-cest-a-dire.md#recrutement-direct-par-une-siae)\*\*\*\*
 
 ![](../.gitbook/assets/thumbs-up.svg) **Envoi de candidatures réalisables par** [**tous les prescripteurs**](qui-sont-les-differents-prescripteurs/) **sans exception** \(SPE, organismes habilités en national ou par le Préfet, orienteurs avec ou sans organisation\), et **en** **auto-prescription par les** [**SIAE**](qui-sont-les-employeurs-solidaires.md) \(candidatures spontanées\). Toutefois, si le **candidat est adressé par un orienteur**, son **éligibilité** **sera validée par la SIAE**.
 
-![](../.gitbook/assets/thumbs-up.svg) **Pass IAE délivré par la Plateforme sous ≈ 2 jours ouvrés** pour toute demande d'embauche, dès lors que **le candidat remplit** [**1 critère de niveau 1 ou 3 critères de niveau 2**](../qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1). **Éligibilité du candidat garantie 6 mois**. 
+![](../.gitbook/assets/thumbs-up.svg) **Pass IAE délivré par la Plateforme sous ≈ 2 jours ouvrés** pour toute demande d'embauche, dès lors que **le candidat remplit** [**1 critère de niveau 1 ou 3 critères de niveau 2**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1). **Éligibilité du candidat garantie 6 mois**. 
 
 \*\*\*\*![](../.gitbook/assets/thumbs-up.svg) **Numéro de Pass IAE qui remplace l'agrément Pôle emploi**. À la même valeur. Est valide, dès sa réception par mail, pour l'**Extranet IAE 2.0 de l'ASP**.
 
@@ -16,9 +16,9 @@
 
 
 
-![](../.gitbook/assets/arrow-right-circle-1-.svg) Un [**candidat**](../qui-est-eligible-iae-criteres-eligibilite.md) peut bénéficier de **plusieurs parcours IAE d'une durée de 24 mois chacun**, à condition de respecter un **délai de carence de 2 ans** entre les parcours.
+![](../.gitbook/assets/arrow-right-circle-1-.svg) Un [**candidat**](../qui-est-eligible-iae-criteres-eligibilite/) peut bénéficier de **plusieurs parcours IAE d'une durée de 24 mois chacun**, à condition de respecter un **délai de carence de 2 ans** entre les parcours.
 
-![](../.gitbook/assets/arrow-right-circle-1-.svg) Seul le ****[**prescripteur habilité**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md) peut prescrire un **parcours qui déroge à l'obligation de carence de 2 ans ou à celle des** [**critères d'éligibilité**](../qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1). Un orienteur qui accompagne un candidat dans cette situation peut l'adresser au prescripteur habilité.
+![](../.gitbook/assets/arrow-right-circle-1-.svg) Seul le ****[**prescripteur habilité**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md) peut prescrire un **parcours qui déroge à l'obligation de carence de 2 ans ou à celle des** [**critères d'éligibilité**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1). Un orienteur qui accompagne un candidat dans cette situation peut l'adresser au prescripteur habilité.
 
 
 

@@ -5,7 +5,7 @@ L'orienteur est un prescripteur non-habilité \(club sportif, éducateur de rue,
 Néanmoins dans le cadre d'une [**SIAE**](../qui-sont-les-employeurs-solidaires.md), **l’éligibilité de son candidat sera réalisée par la SIAE** au moment de l'embauche.
 
 {% hint style="warning" %}
-Si le **candidat ne remplit pas les** [**critères administratifs d'éligibilité**](../../qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1) ****ou est **hors délai de carence** \(2 ans entre deux parcours\), l'orienteur devra **l'adresser à un** [**prescripteur habilité**](prescripteur-habilite.md)**.**
+Si le **candidat ne remplit pas les** [**critères administratifs d'éligibilité**](../../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1) ****ou est **hors délai de carence** \(2 ans entre deux parcours\), l'orienteur devra **l'adresser à un** [**prescripteur habilité**](prescripteur-habilite.md)**.**
 {% endhint %}
 
 

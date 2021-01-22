@@ -15,9 +15,9 @@ C’est un **téléservice évolutif** porté par :
 
 ![](.gitbook/assets/edit%20%281%29.svg) La [liste des prescripteurs habilités](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-en-national) au niveau national
 
-![](.gitbook/assets/award-1-%20%281%29.svg) Les [critères d'éligibilité](qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1) à l'IAE
+![](.gitbook/assets/award-1-%20%281%29.svg) Les [critères d'éligibilité](qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1) à l'IAE
 
-![](.gitbook/assets/check-square.svg) Le [Diagnostic socio-professionnel](qui-est-eligible-iae-criteres-eligibilite.md#diagnostic_de_reference)
+![](.gitbook/assets/check-square.svg) Le [Diagnostic socio-professionnel](qui-est-eligible-iae-criteres-eligibilite/#diagnostic_de_reference)
 
 ![](.gitbook/assets/monitor.svg) Le calendrier des [webinaires de la Plateforme de l'inclusion avec les replays](rendez-vous-webinaires/)
 

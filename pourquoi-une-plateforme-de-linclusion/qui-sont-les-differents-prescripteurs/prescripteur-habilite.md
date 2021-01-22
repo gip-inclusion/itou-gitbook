@@ -2,10 +2,10 @@
 
 Le prescripteur habilité peut **adresser un candidat via la Plateforme** aux [**employeurs solidaires**](../qui-sont-les-employeurs-solidaires.md). **L'éligibilité de son candidat est validée pour 6 mois**. Il est seul à pouvoir prescrire un parcours IAE à un **candidat qui ne remplit pas les critères d'éligibilité** ou à **déroger au délai de carence de 2 ans** entre deux parcours.
 
-Les [**SIAE**](../qui-sont-les-employeurs-solidaires.md) n'ont **pas besoin de vérifier les** [**critères d'éligibilité**](../../qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1) **d'un candidat envoyé par un prescripteur habilité** avant embauche. 
+Les [**SIAE**](../qui-sont-les-employeurs-solidaires.md) n'ont **pas besoin de vérifier les** [**critères d'éligibilité**](../../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1) **d'un candidat envoyé par un prescripteur habilité** avant embauche. 
 
 {% hint style="warning" %}
-Sur la Plateforme, lorsque le **délai d'éligibilité de 6 mois d'un candidat est dépassé**, l'employeur solidaire peut **vérifier et valider lui-même les** [**critères d'éligibilité**](../../qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1)**.** Il n'a pas besoin de passer par le prescripteur habilité.
+Sur la Plateforme, lorsque le **délai d'éligibilité de 6 mois d'un candidat est dépassé**, l'employeur solidaire peut **vérifier et valider lui-même les** [**critères d'éligibilité**](../../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1)**.** Il n'a pas besoin de passer par le prescripteur habilité.
 {% endhint %}
 
 ![](../../.gitbook/assets/capture-de-cran-2020-06-23-a-11.59.48.png)

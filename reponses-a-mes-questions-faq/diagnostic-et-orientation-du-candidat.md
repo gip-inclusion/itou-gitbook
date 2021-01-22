@@ -160,7 +160,7 @@ Il est fortement déconseillé d'utiliser un autre e-mail \(celui d'un prescript
 ### _Si je suis orienteur, dois-je envoyer le candidat vers un prescripteur habilité ?_
 
 {% hint style="info" %}
-Ce n'est plus nécessaire ! Vous pouvez directement postuler pour le compte du candidat via la Plateforme. L'éligibilité du candidat sera alors validée par la SIAE. Néanmoins, si votre candidat ne remplit pas les [critères d'éligibilité](../qui-est-eligible-iae-criteres-eligibilite.md#criteres-administratifs-de-niveau-1) ou le délai de carence de 2 ans entre deux parcours, vous devrez alors l'orienter vers un [prescripteur habilité](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est en effet seul à pouvoir prescrire un parcours dans ces conditions au vu de la situation du candidat.
+Ce n'est plus nécessaire ! Vous pouvez directement postuler pour le compte du candidat via la Plateforme. L'éligibilité du candidat sera alors validée par la SIAE. Néanmoins, si votre candidat ne remplit pas les [critères d'éligibilité](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1) ou le délai de carence de 2 ans entre deux parcours, vous devrez alors l'orienter vers un [prescripteur habilité](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est en effet seul à pouvoir prescrire un parcours dans ces conditions au vu de la situation du candidat.
 {% endhint %}
 
 ### _Comment candidater pour une personne incarcérée, qui n'a pas d'accès internet ?_

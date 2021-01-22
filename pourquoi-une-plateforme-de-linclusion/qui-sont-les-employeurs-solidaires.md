@@ -1,6 +1,6 @@
 # Qui sont les employeurs solidaires?
 
-Un **employeur solidaire** est soumis aux mêmes règles que tout employeur, il **se distingue simplement par sa finalité** : l**’insertion professionnelle de** [**personnes en difficultés**](../qui-est-eligible-iae-criteres-eligibilite.md) afin de les accompagner vers **un retour à l'emploi durable**.
+Un **employeur solidaire** est soumis aux mêmes règles que tout employeur, il **se distingue simplement par sa finalité** : l**’insertion professionnelle de** [**personnes en difficultés**](../qui-est-eligible-iae-criteres-eligibilite/) afin de les accompagner vers **un retour à l'emploi durable**.
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-13.08.39.png)
 

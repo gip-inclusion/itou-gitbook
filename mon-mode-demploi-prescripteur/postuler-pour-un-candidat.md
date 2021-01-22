@@ -18,7 +18,7 @@ description: Ne manquez pas le tutoriel en fin de page pour vous accompagner
 {% endhint %}
 
 {% hint style="success" %}
-Les [**prescripteurs habilités**](https://doc.inclusion.beta.gouv.fr/presentation/prescripteurs-habilites) ****peuvent valider les [**critères d'éligibilités**](../qui-est-eligible-iae-criteres-eligibilite.md) du candidat. Si vous êtes [**orienteur**](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/orienteur), vous n'avez **pas besoin d'être habilité pour postuler** pour un candidat, mais son **éligibilité sera validée par la SIAE.**
+Les [**prescripteurs habilités**](https://doc.inclusion.beta.gouv.fr/presentation/prescripteurs-habilites) ****peuvent valider les [**critères d'éligibilités**](../qui-est-eligible-iae-criteres-eligibilite/) du candidat. Si vous êtes [**orienteur**](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/orienteur), vous n'avez **pas besoin d'être habilité pour postuler** pour un candidat, mais son **éligibilité sera validée par la SIAE.**
 {% endhint %}
 
 
