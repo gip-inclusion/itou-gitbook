@@ -10,7 +10,7 @@ description: >-
 
 Le prescripteur habilité peut donc postuler pour un candidat auprès d'une SIAE même si aucun critère n'est coché.
 
-## Employeurs : Le candidat que vous souhaitez embaucher n'a pas les critères administratifs exigés pour l'IAE : comment faire ?
+## 💡 Employeurs : Le candidat que vous souhaitez embaucher n'a pas les critères administratifs exigés pour l'IAE : comment faire ?
 
 Suite au diagnostic de la situation socio-professionnelle de votre candidat, vous estimez qu'un parcours IAE serait pertinent pour lui mais ce dernier n'a pas les critères administratifs exigés pour l'IAE.
 
