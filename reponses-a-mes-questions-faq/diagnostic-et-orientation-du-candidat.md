@@ -18,6 +18,8 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Peut-on rechercher des fiches de poste / offres ?](diagnostic-et-orientation-du-candidat.md#peut-on-rechercher-des-fiches-de-poste-offres)
 
+[La ville que j'ai renseignée n'est pas reconnue par le moteur de recherche](diagnostic-et-orientation-du-candidat.md#la-ville-que-jai-renseignee-nest-pas-reconnue-par-le-moteur-de-recherche)
+
  2️⃣ **\[ POSTULER POUR UN CANDIDAT \]**
 
 \_\_[Mon candidat n'a pas d'adresse mail, comment faire ?](diagnostic-et-orientation-du-candidat.md#mon-candidat-na-pas-dadresse-mail-comment-faire)
@@ -133,7 +135,15 @@ Non la recherche est possible uniquement par localisation en inscrivant la Ville
 Non la recherche est possible uniquement par localisation en inscrivant la Ville et le rayon de recherche souhaité.
 {% endhint %}
 
+### _La ville que j'ai renseignée n'est pas reconnue par le moteur de recherche_
 
+{% hint style="info" %}
+Il arrive parfois que la ville ne soit pas automatiquement reconnue par le moteur de recherche. Voici la procédure à tester dans ces cas :
+
+Exemple : la ville non reconnue est "Lille" , Ecrivez seulement "Li" puis attendre que l'autosuggestion vous propose "Lille". Cliquez sur Lille et poursuivre la manipulation.
+
+A noter que le navigateur Internet Explorer peut bloquer l'autosuggestion, il faut donc privilégier les navigateurs Chrome ou Firefox.
+{% endhint %}
 
 ##  2️⃣ **\[ POSTULER POUR UN CANDIDAT \]**
 
