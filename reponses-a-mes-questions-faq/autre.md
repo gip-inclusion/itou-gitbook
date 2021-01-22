@@ -16,7 +16,17 @@ Il n'y a pas de hotline, vous pouvez [contacter l'assistance technique par mail]
 Vous pouvez utiliser notre [espace de démonstration](https://demo.inclusion.beta.gouv.fr/)
 {% endhint %}
 
+### _Comment faire une suggestion d'amélioration du service ?_
 
+{% hint style="info" %}
+Pour nous faire part de vos suggestions d'amélioration concernant le service : 
+
+1/ Consultez la [rubrique dédiée aux suggestions sur le forum de l’inclusion](https://forum.inclusion.beta.gouv.fr/c/Plateforme-de-linclusion/idees-devolution/13%20) 
+
+2/ Si votre suggestion y figure, cliquez sur le cœur pour indiquer votre adhésion et/ou commentez 
+
+3/ Si elle n’y figure pas, créez un post pour partager votre idée et inviter d’autres acteurs à y adhérer.
+{% endhint %}
 
 {% hint style="warning" %}
 **Vous n’avez pas trouvé la réponse à votre question ?**
