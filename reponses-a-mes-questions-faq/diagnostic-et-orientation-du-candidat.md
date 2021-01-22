@@ -150,7 +150,11 @@ A noter que le navigateur Internet Explorer peut bloquer l'autosuggestion, il fa
 ### _Mon candidat n'a pas d'adresse mail, comment faire ?_
 
 {% hint style="info" %}
-Il faut l'aider à en créer une, car l'adresse e-mail est obligatoire pour postuler. Nous vous recommandons d'utiliser le site laposte.net. Il ne faut pas utiliser votre adresse mail professionnelle pour postuler pour le candidat.
+Notre système rend obligatoire l'utilisation d'un e-mail pour le candidat afin de lui attribuer une "identité numérique". Vous pouvez lui créer une adresse mail en quelques secondes sur le site [laposte.net](https://compte.laposte.net/inscription/index.do?srv_gestion=lapostefr)
+
+Le candidat peut tout à fait ne jamais consulter cette boîte mail, cela n'impactera pas la procédure de candidature. Il ne s'agit que de son identité numérique sur la plateforme. Le prescripteur sera notifié par mail lorsque l'employeur prendra une décision.
+
+Il est fortement déconseillé d'utiliser un autre e-mail \(celui d'un prescripteur par exemple\) pour créer le compte d'un candidat, car cela empêchera alors le réel détenteur de l'e-mail de pouvoir créer son compte sur la Plateforme le moment souhaité.
 {% endhint %}
 
 ### _Si je suis orienteur, dois-je envoyer le candidat vers un prescripteur habilité ?_
