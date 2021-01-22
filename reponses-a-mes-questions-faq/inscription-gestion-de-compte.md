@@ -50,7 +50,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Comment supprimer les invitations en attente ?](inscription-gestion-de-compte.md#comment-supprimer-les-invitations-en-attente)
 
-[Ma SIAE a fermé, que dois-je faire ?](inscription-gestion-de-compte.md#ma-siae-a-ferme-que-dois-je-faire)
+[Ma SIAE a fermé / mon SIRET a changé, que dois-je faire ?](inscription-gestion-de-compte.md#ma-siae-a-ferme-mon-siret-a-change-que-dois-je-faire)
 
 [Où trouver l'ID de ma structure ? A quoi sert l'ID de ma structure ?](inscription-gestion-de-compte.md#ou-trouver-lid-de-ma-structure-a-quoi-sert-lid-de-ma-structure)
 
@@ -266,10 +266,14 @@ Depuis votre tableau de bord, cliquez sur "Modifier les informations"
 Il n'est pas encore possible de supprimer les invitations en attente pour "nettoyer" son tableau d'invitations.
 {% endhint %}
 
-### _Ma SIAE a fermé, que dois-je faire ?_
+### _Ma SIAE a fermé / mon SIRET a changé, que dois-je faire ?_
 
 {% hint style="info" %}
-L'administrateur du compte doit [nous contacter par mail](mailto:assistance@inclusion.beta.gouv.fr) afin que nous puissions déréférencer la structure.
+Si votre SIAE a fermé, votre compte sera automatique désactivé d'ici quelques temps. 
+
+Si votre SIRET a changé, il sera également automatiquement modifié par notre système dès que l'information nous aura été transmise par l'ASP. 
+
+Si toutefois vous rencontrez un problème à un moment donné, [contactez-nous.](mailto:assistance@inclusion.beta.gouv.fr)
 {% endhint %}
 
 ### _Où trouver l'ID de ma structure ? A quoi sert l'ID de ma structure ?_
