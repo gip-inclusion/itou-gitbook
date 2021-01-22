@@ -204,7 +204,9 @@ Il est composé de 8 caractères : 7 chiffres suivis d'une 1 lettre ou d'un chif
 ### _J'ai fait une erreur de saisie dans le profil du candidat_ 
 
 {% hint style="info" %}
-Pour le moment il n'est pas possible de  modifier ces informations depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
+L'employeur a la possibilité de modifier les informations d'un candidat dès lors que ces informations ont été saisies par un prescripteur ou par l'employeur lui-même. Pour ce faire, l'employeur doit cliquer sur "Gérer la candidature" puis sur "Modifier les informations" 
+
+Pour le moment il n'est pas possible pour les prescripteurs de  modifier eux-mêmes ces informations depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
 {% endhint %}
 
 ### _En tant qu'employeur, je veux orienter un candidat vers ma SIAE, comment faire ?_
