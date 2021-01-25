@@ -52,7 +52,7 @@
 * [📗Mon mode d'emploi ''candidat''](mon-mode-demploi-candidat/README.md)
   * [M'inscrire sur la Plateforme en créant mon compte](mon-mode-demploi-candidat/inscription-candidat.md)
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
-* [�� Rendez-vous webinaires](rendez-vous-webinaires/README.md)
+* [🎬 Rendez-vous webinaires](rendez-vous-webinaires/README.md)
   * [Le Marché de l'inclusion](rendez-vous-webinaires/le-marche-de-linclusion.md)
   * [La Plateforme de l'inclusion](rendez-vous-webinaires/la-plateforme-de-linclusion.md)
 * [🛠️Mes outils d'info & de com](outils-information-communiation-de-la-plateforme/README.md)
