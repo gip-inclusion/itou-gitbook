@@ -19,6 +19,7 @@ Pour **accompagner le déploiement et faciliter la prise en main de la Plateform
 
 * [**Jeudi 04 Février à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-9)
 * \*\*\*\*[**Lundi 08 Février à 11h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-10?type=detailed)
+* \*\*\*\*[**Mardi 23 Février à 10h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-11?type=detailed)
 {% endhint %}
 
 ### _Open webinaires de Questions/réponses pour les employeurs solidaires \(SIAE, GEIQ, EA...\)_
