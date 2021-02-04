@@ -83,7 +83,7 @@
   * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
 * [🤝 Le Marché de l'inclusion](le-marche-de-linclusion.md)
 * [🙋‍♀️ Espace candidats](espace-candidats/README.md)
-  * [📓Conseils \(CV, LM, entretiens...\)](espace-candidats/conseils-cv-lm-entretiens....md)
+  * [📓Conseils \(CV, LM, entretiens\)](espace-candidats/conseils-cv-lm-entretiens.md)
 * [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
 * [💡Mon glossaire de l'inclusion](glossaire-inclusion.md)
 * [📌Plus d'info sur le HCIEE](https://hciee.inclusion.beta.gouv.fr/)

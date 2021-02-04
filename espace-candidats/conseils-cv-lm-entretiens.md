@@ -4,7 +4,7 @@ description: >-
   d’emploi :
 ---
 
-# 📓Conseils \(CV, LM, entretiens...\)
+# 📓Conseils \(CV, LM, entretiens\)
 
 ## [**CV DesignR pour créer facilement un CV en ligne**](https://www.emploi-store.fr/portail/services/outilDeCreationDeCvDesignPdfGratuit)
 
