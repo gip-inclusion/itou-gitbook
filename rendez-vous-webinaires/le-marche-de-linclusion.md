@@ -1,6 +1,6 @@
 # Le Marché de l'inclusion
 
-Pour accompagner les structures inclusives \(SIAE et STPA\) dans la mise en avant de leur offres, [le Marché de l'inclusion](../le-marche-de-linclusion.md) vous propose des Webinaires. L'objectif sera **de vous donner des conseils** dans la formulation de vos annonces et **procéder à la publication** en ligne.
+Pour accompagner les structures inclusives \(SIAE et STPA\) dans la mise en avant de leur offres, [le Marché de l'inclusion](../le-marche-de-linclusion/) vous propose des Webinaires. L'objectif sera **de vous donner des conseils** dans la formulation de vos annonces et **procéder à la publication** en ligne.
 
 {% hint style="success" %}
 La participation à ces sessions d'information vous permettra une assistance personnalisée dans l'inscription et la publication de vos offres !
