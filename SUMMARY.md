@@ -83,7 +83,6 @@
   * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
 * [🤝 Le Marché de l'inclusion](le-marche-de-linclusion/README.md)
   * [Les Entreprises Sociales Inclusives](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
-  * [Untitled](le-marche-de-linclusion/untitled-1.md)
   * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
     * [M'inscrire sur le Marché](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/minscrire-sur-le-marche.md)
     * [Publier mon offre de prestation](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
