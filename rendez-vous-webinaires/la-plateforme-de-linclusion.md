@@ -17,9 +17,9 @@ Pour **accompagner le déploiement et faciliter la prise en main de la Plateform
 
 **📜 Programme: une présentation détaillée de la Plateforme spéciale prescripteurs + des réponses à vos questions** 
 
-* [**Jeudi 04 Février à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-9)
-* \*\*\*\*[**Lundi 08 Février à 11h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-10?type=detailed)
 * \*\*\*\*[**Mardi 23 Février à 10h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-11?type=detailed)
+* [Jeudi 4 Mars à 14h00 : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-12?type=detailed)
+* [Lundi 22 Mars à 11h00 : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-13?type=detailed)
 {% endhint %}
 
 ### _Open webinaires de Questions/réponses pour les employeurs solidaires \(SIAE, GEIQ, EA...\)_
@@ -27,7 +27,6 @@ Pour **accompagner le déploiement et faciliter la prise en main de la Plateform
 {% hint style="success" %}
 **⌛ Durée : 1h15**
 
-* \*\*\*\*[**Mardi 9 février à 14h00** : Webinaire Questions/réponses pour les Employeurs Solidaires](https://app.livestorm.co/itou/webinaire-questionsreponses-pour-les-employeurs-solidaires-siae-geiq-ea)
 * \*\*\*\*[**Mardi 9 mars à 15h00** : Webinaire Questions/réponses pour les Employeurs Solidaires](https://app.livestorm.co/itou/webinaire-questionsreponses-pour-les-employeurs-solidaires-siae-geiq)
 * \*\*\*\*[**Mardi 6 avril à 14h00** : Webinaire Questions/réponses pour les Employeurs Solidaires](https://app.livestorm.co/itou/webinaire-questionsreponses-pour-les-employeurs-solidaires-siae-ea-geiq)
 {% endhint %}
