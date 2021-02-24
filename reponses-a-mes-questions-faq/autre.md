@@ -7,7 +7,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 ### _Existe-t-il une hotline \(numéro pour joindre l'assistance technique\) ?_
 
 {% hint style="info" %}
-Il n'y a pas de hotline, vous pouvez [contacter l'assistance technique par mail](mailto:%20assistance@inclusion.beta.gouv.fr)
+Il n'y a pas de hotline, vous pouvez [contacter l'assistance technique par mail](https://assistance.inclusion.beta.gouv.fr/)
 {% endhint %}
 
 ### _Je veux tester la plateforme de l'inclusion, comment faire ?_
@@ -37,6 +37,6 @@ Pour nous faire part de vos suggestions d'amélioration concernant le service :
 
 
 
-* 📝[**Contacter l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) **.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
+* 📝[**Contacter l’équipe** ](https://assistance.inclusion.beta.gouv.fr/)**.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
 {% endhint %}
 

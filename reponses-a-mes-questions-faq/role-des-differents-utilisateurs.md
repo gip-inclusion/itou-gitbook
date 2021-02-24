@@ -129,6 +129,6 @@ A noter qu'il faudra utiliser une adresse mail différente si celle-ci est déj�
 
 
 
-* 📝[**Contacter l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) **.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
+* 📝[**Contacter l’équipe** ](https://assistance.inclusion.beta.gouv.fr/)**.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
 {% endhint %}
 

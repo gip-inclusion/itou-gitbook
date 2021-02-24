@@ -220,7 +220,7 @@ Il est composé de 8 caractères : 7 chiffres suivis d'une 1 lettre ou d'un chif
 {% hint style="info" %}
 L'employeur a la possibilité de modifier les informations d'un candidat dès lors que ces informations ont été saisies par un prescripteur ou par l'employeur lui-même. Pour ce faire, l'employeur doit cliquer sur "Gérer la candidature" puis sur "Modifier les informations" 
 
-Pour le moment il n'est pas possible pour les prescripteurs de  modifier eux-mêmes ces informations depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
+Pour le moment il n'est pas possible pour les prescripteurs de  modifier eux-mêmes ces informations depuis la plateforme, [contactez-nous](https://assistance.inclusion.beta.gouv.fr/)
 {% endhint %}
 
 ### _En tant qu'employeur, je veux orienter un candidat vers ma SIAE, comment faire ?_
@@ -307,7 +307,7 @@ Les GEIQ, EA, AI, EATT n'ont pas de contraintes d'éligibilité.
 ### _J'ai fait une erreur de saisie dans le diagnostic d'éligibilité_
 
 {% hint style="info" %}
-Pour le moment il n'est pas possible de  modifier ces informations depuis la plateforme, [contactez-nous par mail](mailto:assistance@inclusion.beta.gouv.fr) en nous précisant les informations à modifier.
+Pour le moment il n'est pas possible de  modifier ces informations depuis la plateforme, [contactez-nous ](https://assistance.inclusion.beta.gouv.fr/)en nous précisant les informations à modifier.
 {% endhint %}
 
 ### _Je ne sais pas qualifier les critères administratifs de mon candidat_
@@ -331,7 +331,7 @@ Si vous êtes employeur en cas de doute, vous pouvez toujours demander à un pre
 
 
 
-* 📝[**Contacter l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) **.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
+* 📝[**Contacter l’équipe** ](https://assistance.inclusion.beta.gouv.fr/)**.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
 {% endhint %}
 
 

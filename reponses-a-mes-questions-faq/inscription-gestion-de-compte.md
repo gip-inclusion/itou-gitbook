@@ -135,7 +135,7 @@ Il faut renvoyer une nouvelle invitation.
 {% hint style="info" %}
 Les employeurs peuvent créer leur antennes depuis leur tableau de bord.
 
-**En revanche les prescripteurs doivent** [**nous contacter**](mailto:assistance@inclusion.beta.gouv.fr) pour que nous puissions créer les différentes antennes.
+**En revanche les prescripteurs doivent** [**nous contacter** ](https://assistance.inclusion.beta.gouv.fr/)pour que nous puissions créer les différentes antennes.
 
 _Exemple  : Un Conseil Départemental a 10 Maisons du département dans différentes villes, ces maisons du département ont le même numéro SIRET que le Conseil Départemental._
 
@@ -197,7 +197,7 @@ L'administrateur de l'organisation a la possibilité de retirer un membre depuis
 ### _Sur mon compte, le type d'organisation \(Cap emploi, Mission locale...\) n'est pas bon ou pas renseigné. Comment rectifier ?_
 
 {% hint style="info" %}
-Vous ne pouvez pas le modifier par vous-même pour l'instant, mais cela viendra ! [Contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) pour nous le signaler, merci.
+Vous ne pouvez pas le modifier par vous-même pour l'instant, mais cela viendra ![ Contactez-nous](https://assistance.inclusion.beta.gouv.fr/) pour nous le signaler, merci.
 {% endhint %}
 
 ### _Ma structure a différentes activités sur plusieurs sites, puis-je différencier mes fiches de poste selon les sites ?_
@@ -209,11 +209,11 @@ L’administrateur du compte peut [créer une nouvelle structure ](../mon-monde-
 ### _Je ne vois pas ma structure dans le moteur de recherche des employeurs_
 
 {% hint style="info" %}
-La liste des structures référencées sur la Plateforme correspond aux structures conventionnées. Si votre conventionnement est récent, il est probable que vous n’apparaissiez pas encore. Nous mettons régulièrement à jour les nouveaux conventionnements. Si vous cela tarde, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
+La liste des structures référencées sur la Plateforme correspond aux structures conventionnées. Si votre conventionnement est récent, il est probable que vous n’apparaissiez pas encore. Nous mettons régulièrement à jour les nouveaux conventionnements. Si vous cela tarde, [contactez-nous.](https://assistance.inclusion.beta.gouv.fr/)
 
 Si votre SIAE est bien conventionnée mais qu'elle n'apparait pas, essayez d'élargir le rayon de recherche. Si elle n'apparait toujours pas vérifiez votre adresse depuis votre tableau de bord, dans la rubrique "Modifier les informations".
 
-Si aucune des solutions proposées n'a permis de résoudre le problème  [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
+Si aucune des solutions proposées n'a permis de résoudre le problème  [contactez-nous.](https://assistance.inclusion.beta.gouv.fr/)
 {% endhint %}
 
 ### _Je ne vois pas mon organisation dans le moteur de recherche des prescripteurs_
@@ -223,7 +223,7 @@ Seuls les prescripteurs habilités sont référencés dans le moteur de recherch
 
 Si vous faites partie des prescripteurs habilité, essayez d'élargir le rayon de recherche. Si votre organisation n'apparait toujours pas vérifiez votre adresse depuis votre tableau de bord, dans la rubrique "Modifier les informations".
 
-Si aucune des solutions proposées n'a permis de résoudre le problème  [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
+Si aucune des solutions proposées n'a permis de résoudre le problème  [contactez-nous](https://assistance.inclusion.beta.gouv.fr/).
 {% endhint %}
 
 ### _Je ne souhaite plus recruter sur un métier_
@@ -273,7 +273,7 @@ Si votre SIAE a fermé, votre compte sera automatique désactivé d'ici quelques
 
 Si votre SIRET a changé, il sera également automatiquement modifié par notre système dès que l'information nous aura été transmise par l'ASP. 
 
-Si toutefois vous rencontrez un problème à un moment donné, [contactez-nous.](mailto:assistance@inclusion.beta.gouv.fr)
+Si toutefois vous rencontrez un problème à un moment donné, [contactez-nous](https://assistance.inclusion.beta.gouv.fr/).
 {% endhint %}
 
 ### _Où trouver l'ID de ma structure ? A quoi sert l'ID de ma structure ?_
@@ -324,7 +324,7 @@ Pour la deuxième organisation et les suivantes  :
 2 cas de figure : 
 
 * **L'autre organisation que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur la plateforme
-* **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur la plateforme** = il faut nous [contacter par mail ](mailto:assistance@inclusion.beta.gouv.fr)afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
+* **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur la plateforme** = il faut nous [contacter ](https://assistance.inclusion.beta.gouv.fr/)afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
 
 Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'autre en cliquant sur le bouton situé en haut à droite "changer de structure"**
 {% endhint %}
@@ -365,7 +365,7 @@ Demandez à vos nouveaux collègues de vous inviter sur le tableau de bord de vo
 
 
 
-* 📝[**Contacter l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) **.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
+* 📝[**Contacter l’équipe** ](https://assistance.inclusion.beta.gouv.fr/)**.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
 {% endhint %}
 
 

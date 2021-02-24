@@ -140,7 +140,7 @@ L'éligibilité IAE du candidat sera automatiquement récupérée.
 
 Une fois enregistrée la candidature sera affichée dans la page "candidatures à traiter", vous devez finaliser l'embauche en cliquant sur "gérer la candidature"
 
-Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
+Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et [contactez-nous ](https://assistance.inclusion.beta.gouv.fr/)afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
 {% endhint %}
 
 ### J'ai annulé par erreur l'embauche, le PASS IAE a été supprimé
@@ -152,7 +152,7 @@ L'éligibilité IAE du candidat sera automatiquement récupérée.
 
 Une fois enregistrée la candidature sera affichée dans la page "candidatures à traiter", vous devez finaliser l'embauche en cliquant sur "gérer la candidature"
 
-Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr) afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
+Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et[ contactez-nous ](https://assistance.inclusion.beta.gouv.fr/)afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
 {% endhint %}
 
 ### _Je n'ai toujours pas reçu de Pass IAE, comment faire ?_
@@ -160,7 +160,7 @@ Si la date d'embauche est déjà passée, renseignez la date du jour en date de 
 {% hint style="info" %}
 Le délai moyen entre la validation de l'embauche et l’obtention du Pass IAE est de maximum 2 jours. Si ce délai est largement dépassé, assurez-vous que le mail du Pass IAE ne se trouve pas dans vos spams.
 
-Si ce n’est pas le cas, faites une vérification de la candidature dans votre ‘’Tableau de bord’’. Si l’agrément a été délivré, la candidature affichera le numéro. Si le numéro d'agrément n’apparaît pas, [contactez-nous](mailto:assistance@inclusion.beta.gouv.fr).
+Si ce n’est pas le cas, faites une vérification de la candidature dans votre ‘’Tableau de bord’’. Si l’agrément a été délivré, la candidature affichera le numéro. Si le numéro d'agrément n’apparaît pas, [contactez-nous.](https://assistance.inclusion.beta.gouv.fr/)
 {% endhint %}
 
 ### _J'ai eu la confirmation d'attribution de mon PASS IAE mais je n'ai toujours pas l'attestation de PASS IAE_
@@ -208,7 +208,7 @@ Consultez notre [note dédiée aux extensions, prolongations, suspensions](https
 {% hint style="info" %}
 En cas de doublon, nous alignons les dates. \(c'est la date la plus ancienne qui est retenue\).
 
-Les agents Pôle emploi peuvent [nous contacter ](mailto:assistance@inclusion.beta.gouv.fr)pour que nous puissions mettre à jour nos bases de données respectives. 
+Les agents Pôle emploi peuvent[ nous contacter ](https://assistance.inclusion.beta.gouv.fr/)pour que nous puissions mettre à jour nos bases de données respectives. 
 
 L'employeur pourra utiliser le numéro de PASS **ou** le numéro d'agrément Pôle emploi pour sa déclaration dans l'extranet IAE 2.0 de l'ASP, les 2 numéros sont valables.
 
@@ -226,7 +226,7 @@ Nous permettons d’annuler un PASS IAE dans les 96 heures \(par exemple parce q
 
 Dans notre exemple, si vous annulez le PASS, les 3 jours travaillés ne pourront bénéficier de l’aide au poste. Pour toucher l’aide au poste pour ces 3 jours, il ne faut donc **PAS** annuler le PASS. Le candidat pourra travailler dans une autre SIAE avec le même PASS car il aura débuté un parcours.
 
-Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourrez plus l'annuler par vous-même. Vous devrez [nous contacter](mailto:assistance@inclusion.beta.gouv.fr) en prenant soin de mentionner les références du PASS et les raisons de cette demande tardive.
+Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourrez plus l'annuler par vous-même. Vous devrez [nous contacter ](https://assistance.inclusion.beta.gouv.fr/)en prenant soin de mentionner les références du PASS et les raisons de cette demande tardive.
 {% endhint %}
 
 ### _**J'avais signalé une interruption de PASS IAE à Pole Emploi, mais celle-ci n'a pas été prise en compte par la Plateforme**_
@@ -276,7 +276,7 @@ L'utilisateur ne peut pas modifier la date de début de contrat.
 * Vous pouvez demander à repousser la date de début du PASS IAE
 * Vous pouvez demander à avancer la date de début de PASS IAE \(au plus tôt le jour où vous avez validé la demande d'embauche\).
 
-✉ [Contactez-nous ](mailto:assistance@inclusion.beta.gouv.fr)en nous indiquant les éléments suivants : 
+✉ [Contactez-nous ](https://assistance.inclusion.beta.gouv.fr/)en nous indiquant les éléments suivants : 
 
 * La référence du PASS IAE à modifier
 * La nouvelle date de démarrage
@@ -305,6 +305,6 @@ En cas de rupture de contrat, le PASS IAE du candidat reste valable le temps res
 
 
 
-* 📝[**Contacter l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) **.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
+* 📝[**Contacter l’équipe .**](https://assistance.inclusion.beta.gouv.fr/) ****Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
 {% endhint %}
 
