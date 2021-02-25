@@ -47,7 +47,7 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr/) est à votr
 👉 Cliquez sur **S’inscrire** en haut à droite de la **page Forum**, puis laissez-vous guider !
 
 {% hint style="info" %}
-**Si vous rencontrez un problème technique, n’hésitez pas à** [**contacter l’équipe**](mailto:contact@inclusion.beta.gouv.fr%20) **!** 
+**Si vous rencontrez un problème technique, n’hésitez pas à**[ **contacter l’équipe**](https://assistance.inclusion.beta.gouv.fr/) **!** 
 {% endhint %}
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-30-a-13.34.38.png)

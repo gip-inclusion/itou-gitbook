@@ -8,7 +8,7 @@
 {% hint style="info" %}
 **Pour bien utiliser la Plateforme de l'inclusion, n'hésitez pas à vous faire accompagner par votre prescripteur ou orienteur !**
 
-**Une question ?**👉\*\*\*\*[**Contactez l’équipe de la Plateforme**](mailto:contact@inclusion.beta.gouv.fr)**, nous pouvons vous aider** ! 😊 
+**Une question ?**👉\*\*\*\*[**Contactez l’équipe de la Plateforme,** ](https://assistance.inclusion.beta.gouv.fr/)**nous pouvons vous aider** ! 😊 
 {% endhint %}
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-26-a-17.24.07.png)

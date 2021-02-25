@@ -2,7 +2,6 @@
 
 * [📚Documentation sur la Plateforme de l'inclusion](README.md)
 * [��🏻‍💻🧑🏾‍💻Pourquoi une Plateforme de l'inclusion ?](pourquoi-une-plateforme-de-linclusion/README.md)
-  * [Quel est le calendrier de déploiement de la Plateforme?](pourquoi-une-plateforme-de-linclusion/calendrier-de-deploiement-de-la-plateforme.md)
   * [Comment participer à la Plateforme de l'inclusion?](pourquoi-une-plateforme-de-linclusion/participer-a-la-plateforme-de-linclusion.md)
   * [Pourquoi devenir ambassadrice ou ambassadeur ?](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md)
   * [C'est quoi l'inclusion par l'emploi ?](pourquoi-une-plateforme-de-linclusion/cest-quoi-linclusion-par-lemploi.md)

@@ -15,6 +15,6 @@ Des **supports dédiés peuvent également être réalisés par** [**notre équi
 {% hint style="info" %}
 **Une demande d'outils ? Une suggestion ? N'hésitez pas à nous solliciter !**
 
-👉 [**L'équipe est là pour vous, contactez-nous**](mailto:contact@inclusion.beta.gouv.fr) ****😊 
+👉 [**L'équipe est là pour vous, contactez-nous**](https://assistance.inclusion.beta.gouv.fr/) ****😊 
 {% endhint %}
 

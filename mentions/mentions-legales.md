@@ -32,7 +32,7 @@ Pour en savoir plus sur la politique d’accessibilité numérique de l’État,
 
 ## Signaler un dysfonctionnement
 
-Si vous rencontrez un défaut d’accessibilité vous empêchant d’accéder à un contenu ou une fonctionnalité du site, merci de nous en faire part à l'adresse suivant : [assistance@inclusion.beta.gouv.fr](mailto:assistance@inclusion.beta.gouv.fr)
+Si vous rencontrez un défaut d’accessibilité vous empêchant d’accéder à un contenu ou une fonctionnalité du site, merci de nous contacter : [https://assistance.inclusion.beta.gouv.fr/](https://assistance.inclusion.beta.gouv.fr/)
 
 Si vous n’obtenez pas de réponse rapide de notre part, vous êtes en droit de faire parvenir vos doléances ou une demande de saisine au Défenseur des droits.
 

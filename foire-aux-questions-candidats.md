@@ -29,6 +29,6 @@ Vous pouvez réinitialiser votre mot de passe sur cette [page](https://inclusion
 {% endhint %}
 
 {% hint style="warning" %}
-**Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** cliquez pour [**contacter l’équipe**](mailto:assistance@inclusion.beta.gouv.fr) ****!  😊 
+**Vous n’avez pas trouvé la réponse à votre question ?** 👉 N'hésitez pas à nous interroger**,** cliquez pour [**contacter l’équipe** ](https://assistance.inclusion.beta.gouv.fr/)!  😊 
 {% endhint %}
 

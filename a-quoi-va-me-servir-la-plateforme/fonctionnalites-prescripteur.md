@@ -18,7 +18,7 @@ Elle **simplifie mes procédures**, et fluidifie les parcours. Sur la page d’a
 
 \*\*\*\*![](../.gitbook/assets/coffee.svg) **Échanger sur le Forum de discussion** avec la communauté de la Plateforme
 
-\*\*\*\*![](../.gitbook/assets/at-sign-1-.svg) **Contacter** [**l'équipe de la Plateforme**](mailto:contact@inclusion.beta.gouv.fr) pour une demande d'outils, un problème, une idée 
+\*\*\*\*![](../.gitbook/assets/at-sign-1-.svg) [**Contacter l'équipe de la Plateforme**](https://assistance.inclusion.beta.gouv.fr/) pour une demande d'outils, un problème, une idée 
 
 _\* Si je ne suis pas prescripteur habilité, l’éligibilité de mon candidat sera validée par la SIAE_
 

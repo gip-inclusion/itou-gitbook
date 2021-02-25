@@ -204,7 +204,7 @@ L'Employeur qui procède à une fausse déclaration pour autrui s’expose, aux 
 
 ### 4.5 Suspension ou Suppression de l’Espace personnel
 
-Tout Utilisateur membre régulièrement inscrit pourra solliciter sa désinscription en se rendant à la page dédiée sur son Espace personnel ou en contactant [assistance@inclusion.beta.gouv.fr](mailto:assistance@inclusion.beta.gouv.fr). Celle-ci sera effective dans un délai raisonnable.
+Tout Utilisateur membre régulièrement inscrit pourra solliciter sa désinscription en se rendant à la page dédiée sur son Espace personnel ou en [nous contactant](https://assistance.inclusion.beta.gouv.fr/). Celle-ci sera effective dans un délai raisonnable.
 
 L’éditeur se réserve la possibilité de supprimer ou suspendre pour une période donnée l’accès à la Plateforme pour un utilisateur, en cas de violation des présentes règles d’utilisation ou s’il estime que l’usage de la Plateforme porte préjudice à son image ou ne correspond pas aux exigences de sécurité.
 

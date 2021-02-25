@@ -2,7 +2,7 @@
 
 La [**Plateforme de l'inclusion**](https://inclusion.beta.gouv.fr/) ****place **les utilisateurs au cœur de sa transformation**. 
 
-En **phase d’expérimentation** sur 3 départements depuis fin 2019 \(Pas-de-Calais-62, Bas-Rhin-67, Seine-Saint-Denis-93\), la Plateforme évolue en **mode co-construction avec les acteurs de l’IAE** afin d'apporter des réponses **au plus proche du terrain**.
+La Plateforme évolue en **mode co-construction avec les acteurs de l’IAE** afin d'apporter des réponses **au plus proche du terrain**.
 
 Cette **innovation collaborative \(OpenLab\)**, basée sur l’expérience terrain, permet de :
 

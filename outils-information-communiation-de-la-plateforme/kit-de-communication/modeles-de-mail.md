@@ -17,6 +17,6 @@ description: Diffusez votre information à propos de la Plateforme
 {% hint style="info" %}
 **Une demande d'outils ? Une suggestion ? N'hésitez pas à nous solliciter !**
 
-👉 [**L'équipe est là pour vous, contactez-nous**](mailto:contact@inclusion.beta.gouv.fr) ****😊 
+👉[ **L'équipe est là pour vous, contactez-nous**](https://assistance.inclusion.beta.gouv.fr/) ****😊 
 {% endhint %}
 

@@ -16,7 +16,7 @@ Le **recrutement est plus direct, plus simple, plus rapide** pour moi. Sur la pa
 
 \*\*\*\*![](../.gitbook/assets/award-1-.svg) **Valider l’éligibilité d’une candidature** spontanée ou adressée par un prescripteur non-habilité\*
 
-\*\*\*\*![](../.gitbook/assets/smile.svg) **Confirmer une embauche et obtenir automatiquement un** [**Pass IAE**]()**\*** via la Plateforme
+\*\*\*\*![](../.gitbook/assets/smile.svg) **Confirmer une embauche et obtenir automatiquement un Pass IAE\*** via la Plateforme
 
 _\* Dans le cas d'une SIAE._ 
 
