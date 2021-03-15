@@ -24,9 +24,9 @@ Les AI et ACI ont un motif supplémentaire :
 * Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum dans la limite de 5 ans\)
 {% endhint %}
 
-{% hint style="info" %}
 Vérifiez les informations puis **"confirmer la déclaration"**
-{% endhint %}
+
+![](../.gitbook/assets/prolongation-3.jpg)
 
 ![](../.gitbook/assets/prolongation-3.jpg)
 
