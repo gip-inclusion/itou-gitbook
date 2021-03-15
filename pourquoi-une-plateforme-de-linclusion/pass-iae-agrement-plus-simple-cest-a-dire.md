@@ -143,10 +143,6 @@ Les AI et ACI ont un motif supplémentaire :
 L'employeur peut enregistrer cette autorisation de prolongation 3 mois avant la fin du PASS IAE [\[Voir mode d'emploi\].](../mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
 {% endhint %}
 
-{% hint style="success" %}
-**Procédure de demande de prolongation pour les PASS IAE \(applicable dès Novembre 2021\) :**  L’employeur pourra solliciter le prescripteur habilité de son choix pour demander une prolongation de PASS IAE.  
-{% endhint %}
-
 ### Dérogation au délai de carence
 
 {% hint style="warning" %}
