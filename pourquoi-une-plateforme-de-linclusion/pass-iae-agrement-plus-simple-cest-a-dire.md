@@ -136,6 +136,10 @@ Un prescripteur habilité peut autoriser la prolongation d'un PASS IAE dans cert
 * RQTH \(12 mois de prolongation maximum\) 
 * 50 ans et plus \(12 mois de prolongation maximum\)
 
+Les AI et ACI ont un motif supplémentaire : 
+
+* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum\)
+
 L'employeur peut enregistrer cette autorisation de prolongation 3 mois avant la fin du PASS IAE [\[Voir mode d'emploi\].](../mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
 {% endhint %}
 
