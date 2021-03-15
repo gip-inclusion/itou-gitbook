@@ -10,7 +10,7 @@ Les prolongations sont autorisées 3 mois avant la fin d'un PASS IAE pour les mo
 
 Les AI et ACI ont un motif supplémentaire : 
 
-* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum\)
+* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
 
 Pour enregistrer une prolongation, RDV sur la candidature concernée :
 
