@@ -22,7 +22,7 @@ Complétez le formulaire d'autorisation, puis cliquez sur **"Valider la déclara
 
 ![](../.gitbook/assets/prolongation2.png)
 
-Vérifiez les informations puis **"confirmer la déclaration"**
+Vérifiez les informations puis **"Confirmer la déclaration"**
 
 ![](../.gitbook/assets/prolongation-3.jpg)
 
