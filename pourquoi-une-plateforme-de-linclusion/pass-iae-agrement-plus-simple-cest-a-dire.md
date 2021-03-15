@@ -130,7 +130,13 @@ _\*Circulaire DGEFP/DGAS n°2003-24 du 3 octobre 2003 relative à l’aménageme
 ### Prolongation :
 
 {% hint style="info" %}
-Pour le moment, seuls les agréments Pôle emploi sont concernés par les cas de prolongation. Pour toute demande de prolongation d'agrément, l’employeur doit contacter  Pôle emploi.
+Un prescripteur habilité peut autoriser la prolongation d'un PASS IAE dans certains cas : 
+
+* Fin d'une formation \(6 mois de prolongation maximum\) 
+* RQTH \(12 mois de prolongation maximum\) 
+* 50 ans et plus \(12 mois de prolongation maximum\)
+
+L'employeur peut enregistrer cette autorisation de prolongation 3 mois avant la fin du PASS IAE [\[Voir mode d'emploi\].](../mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
 {% endhint %}
 
 {% hint style="success" %}

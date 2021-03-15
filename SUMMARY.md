@@ -47,6 +47,7 @@
   * [Embaucher un candidat](mon-monde-demploi-employeur-solidaire/embaucher-un-candidat.md)
   * [Créer une nouvelle structure](mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)
   * [Suspendre Un PASS IAE](mon-monde-demploi-employeur-solidaire/suspendre-un-pass-iae.md)
+  * [Prolonger un PASS IAE](mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
   * [Annuler l'embauche d'un candidat](mon-monde-demploi-employeur-solidaire/annuler-lembauche-dun-candidat.md)
 * [📗Mon mode d'emploi ''candidat''](mon-mode-demploi-candidat/README.md)
   * [M'inscrire sur la Plateforme en créant mon compte](mon-mode-demploi-candidat/inscription-candidat.md)
