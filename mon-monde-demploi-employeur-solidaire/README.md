@@ -13,6 +13,7 @@
 * \*\*\*\*[**Créer une nouvelle structure**](creer-une-nouvelle-structure.md)
 * \*\*\*\*[**Annuler l'embauche d'un candidat**](https://doc.inclusion.beta.gouv.fr/mon-monde-demploi-employeur-solidaire/annuler-lembauche-dun-candidat)\*\*\*\*
 * \*\*\*\*[**Suspendre un PASS IAE**](suspendre-un-pass-iae.md)
+* \*\*\*\*[**Prolonger un PASS IAE**](prolonger-un-pass-iae.md)\*\*\*\*
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-26-a-20.15.23.png)
 
