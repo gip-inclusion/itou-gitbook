@@ -28,8 +28,6 @@ Vérifiez les informations puis **"confirmer la déclaration"**
 
 ![](../.gitbook/assets/prolongation-3.jpg)
 
-![](../.gitbook/assets/prolongation-3.jpg)
-
 {% hint style="info" %}
 Le prescripteur habilité reçoit un mail d'information
 {% endhint %}
