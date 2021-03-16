@@ -8,7 +8,7 @@ description: Retrouvez toutes les informations des services de la Plateforme de 
 
 \*\*\*\*
 
-\*\*\*\*[**👉** La Plateforme de l'inclusion \(Pour faciliter les recrutements des Structures Inclusives\)](la-plateforme-de-linclusion.md)
+**👉** [Les emplois de l'inclusion \(Pour faciliter les recrutements des Structures Inclusives\)](la-plateforme-de-linclusion.md)
 
 
 
