@@ -9,11 +9,9 @@ La participation à ces sessions d'information vous permettra une assistance per
 ### 👉 Assistez au prochain Webinaire de présentation de l'outil.
 
 {% hint style="info" %}
-**Inscriptions :**
+**Pas de Webinaires prévus pour le moment.**
 
-\*\*\*\*[**Open Webinaire du mardi 26 janvier 2021 de 10h à 11h**](https://app.livestorm.co/itou/open-webinaire-6-le-marche-de-linclusion)
-
-[**Open Webinaire du mardi 9 février de 15h30 à 16h30**](https://app.livestorm.co/itou/open-webinaire-7-le-marche-de-linclusion)\*\*\*\*
+_**Prochaines dates à venir !**_
 {% endhint %}
 
 ### 👉 Pour un accompagnement personnalisé et des ateliers en petits groupes
