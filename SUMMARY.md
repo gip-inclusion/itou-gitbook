@@ -54,7 +54,7 @@
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
 * [🎬 Rendez-vous webinaires](rendez-vous-webinaires/README.md)
   * [Le Marché de l'inclusion](rendez-vous-webinaires/le-marche-de-linclusion.md)
-  * [La Plateforme de l'inclusion](rendez-vous-webinaires/la-plateforme-de-linclusion.md)
+  * [Les emplois de l'inclusion](rendez-vous-webinaires/la-plateforme-de-linclusion.md)
 * [🛠️Mes outils d'info & de com](outils-information-communiation-de-la-plateforme/README.md)
   * [Outils d'information](outils-information-communiation-de-la-plateforme/outils-dinformation/README.md)
     * [Flyer de présentation](outils-information-communiation-de-la-plateforme/outils-dinformation/flyer-de-presentation.md)
