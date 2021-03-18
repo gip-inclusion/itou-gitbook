@@ -64,7 +64,7 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
 | **SAP** | Secteur adapte et protégé \([en savoir plus](https://www.travail-handicap2025.fr/wp-content/uploads/ETH-2025-DOSSIER-secteur-adapte-et-protege.pdf)\) |
 | **SIAE** | Structure de l'insertion par l'activité économique \([employeurs solidaires](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)\) |
 | **SPE** | Service public de l'emploi \([en savoir plus](https://travail-emploi.gouv.fr/ministere/service-public-de-l-emploi/)\) |
-| **SPI** | Service public de liInsertion \([en savoir plus](https://solidarites-sante.gouv.fr/affaires-sociales/lutte-contre-l-exclusion/lutte-pauvrete-gouv-fr/toutes-les-actualites/article/lancement-du-service-public-de-l-insertion)\) |
+| **SPI** | Service public de l'insertion \([en savoir plus](https://solidarites-sante.gouv.fr/affaires-sociales/lutte-contre-l-exclusion/lutte-pauvrete-gouv-fr/toutes-les-actualites/article/lancement-du-service-public-de-l-insertion)\) |
 | **SPIP** | Service pénitentiaire d'insertion et de probation \([prescripteur](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)\) |
 | **TSH** | Travailleur en situation de handicap |
 | **TZCLD** | Territoire zéro chômeur de longue durée \([en savoir plus](https://www.tzcld.fr/)\) |
