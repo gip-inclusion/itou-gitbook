@@ -16,7 +16,7 @@ description: Retrouvez toutes les informations des services de la Plateforme de 
 
 
 
-## WEBINAIRE DU 17 MARS 2021 organisé par FRANCE RELANCE
+## WEBINAIRE DU 17 MARS 2021 organisé par le ministère délégué à l'insertion
 
 Thème :  Informations pratiques et opportunités à saisir pour les entreprises sociales inclusives
 
