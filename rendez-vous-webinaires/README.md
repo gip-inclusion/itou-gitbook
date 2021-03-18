@@ -16,5 +16,11 @@ description: Retrouvez toutes les informations des services de la Plateforme de 
 
 
 
+## WEBINAIRE DU 17 MARS 2021 organisé par FRANCE RELANCE
+
+Thème :  Informations pratiques et opportunités à saisir pour les entreprises sociales inclusives
+
+{% file src="../.gitbook/assets/relance-et-inclusion\_webinaire-17032021-1-.pdf" caption="Télécharger le support de présentation" %}
+
 
 
