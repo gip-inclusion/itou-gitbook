@@ -8,7 +8,7 @@ N'utilisez pas votre adresse mail professionnelle.
 
 Si le candidat n'a pas la possibilité de créer lui même l'adresse e-mail, Téléchargez et complétez ce formulaire de consentement : 
 
-{% file src="../.gitbook/assets/formulaire-consentement-creation-adresse-mail.pdf" caption="Formulaire de consentement du candidat pour la création d\'une adresse e-mail" %}
+{% file src="../.gitbook/assets/formulaire-de-consentement.pdf" caption="Formulaire de consentement pour la création d\'une adresse e-mail" %}
 
 
 
