@@ -10,5 +10,5 @@ Si le candidat n'a pas la possibilité de créer lui même l'adresse e-mail, té
 
 {% file src="../.gitbook/assets/formulaire-de-consentement.pdf" caption="Formulaire de consentement pour la création d\'une adresse e-mail" %}
 
-La personne qui reçoit le mandat du candidat pour créer son adresse e-mail doit conserver ce formulaire de consentement. 
+Ce formulaire est à conserver.
 
