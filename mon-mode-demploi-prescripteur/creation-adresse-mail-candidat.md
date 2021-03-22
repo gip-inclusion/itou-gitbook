@@ -6,7 +6,7 @@ Si votre candidat ne dispose pas d'adresse mail, nous vous proposons d'utiliser 
 
 N'utilisez pas votre adresse mail professionnelle.
 
-Si le candidat n'a pas la possibilité de créer lui même l'adresse e-mail, Téléchargez et complétez ce formulaire de consentement : 
+Si le candidat n'a pas la possibilité de créer lui même l'adresse e-mail, téléchargez et complétez ce formulaire de consentement : 
 
 {% file src="../.gitbook/assets/formulaire-de-consentement.pdf" caption="Formulaire de consentement pour la création d\'une adresse e-mail" %}
 
