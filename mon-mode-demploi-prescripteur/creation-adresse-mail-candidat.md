@@ -1,6 +1,6 @@
 # Créer une adresse e-mail pour un candidat
 
-Pour postuler sur le site les emplois de l'inclusion l'adresse e-mail du candidat est obligatoire.
+L'adresse e-mail du candidat est obligatoire pour postuler sur le site les emplois de l'inclusion .
 
 Si votre candidat ne dispose pas d'adresse e-mail, nous vous proposons d'utiliser le service [laposte.net ](https://compte.laposte.net/inscription/index.do?srv_gestion=lapostefr)pour lui en créer une en moins de 5 minutes.
 
