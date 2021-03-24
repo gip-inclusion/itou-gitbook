@@ -22,5 +22,7 @@ Thème :  Informations pratiques et opportunités à saisir pour les entreprises
 
 {% file src="../.gitbook/assets/relance-et-inclusion\_webinaire-17032021-1-.pdf" caption="Télécharger le support de présentation" %}
 
+{% embed url="https://www.youtube.com/watch?v=SIfkr\_1xnx4" %}
+
 
 
