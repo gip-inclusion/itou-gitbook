@@ -47,6 +47,7 @@
   * [Valider une candidature spontanée](mon-monde-demploi-employeur-solidaire/valider-une-candidature-spontanee.md)
   * [Gérer les candidatures et l'éligibilité](mon-monde-demploi-employeur-solidaire/gerer-les-candidatures-et-leligibilite.md)
   * [Embaucher un candidat](mon-monde-demploi-employeur-solidaire/embaucher-un-candidat.md)
+  * [Modifier les informations d'un candidat](mon-monde-demploi-employeur-solidaire/modifier-les-informations-dun-candidat.md)
   * [Créer une nouvelle structure](mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)
   * [Suspendre Un PASS IAE](mon-monde-demploi-employeur-solidaire/suspendre-un-pass-iae.md)
   * [Prolonger un PASS IAE](mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
