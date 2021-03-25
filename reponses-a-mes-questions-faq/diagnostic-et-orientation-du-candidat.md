@@ -218,11 +218,11 @@ Il est composé de 8 caractères : 7 chiffres suivis d'une 1 lettre ou d'un chif
 ### _J'ai fait une erreur de saisie dans le profil du candidat_ 
 
 {% hint style="info" %}
-La modification des informations d'un candidat n'est possible que si le candidat ne s'est jamais connecté sur son espace utilisateur.
+La modification des informations d'un candidat n'est possible que si le candidat n'a jamais activé son compte sur les emplois de l'inclusion. S'il a déjà activé son compte \(en se connectant une première fois\) il a la main pour modifier ses informations depuis son espace candidat à la rubrique "Mon espace", puis "Modifier mon profil"
 
-Pour les employeurs :  Sur la candidature concernée, cliquez sur "Gérer la candidature" puis sur "Modifier les informations" 
+[Mode d'emploi "Modifier les informations d'un candidat" pour les employeurs](../mon-monde-demploi-employeur-solidaire/modifier-les-informations-dun-candidat.md)
 
-Pour les prescripteurs : Sur la candidature concernée, cliquez sur "Plus d'informations" puis sur "Modifier les informations"
+[Mode d'emploi "Modifier les informations d'un candidat" pour les prescripteurs](../mon-mode-demploi-prescripteur/modifier-les-informations-dun-candidat.md)
 {% endhint %}
 
 ### _En tant qu'employeur, je veux orienter un candidat vers ma SIAE, comment faire ?_
