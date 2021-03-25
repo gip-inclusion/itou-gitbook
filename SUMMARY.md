@@ -37,6 +37,7 @@
   * [Inviter mes collaborateurs à se rattacher au compte de l'organisation](mon-mode-demploi-prescripteur/rattachement-collaborateur-au-compte.md)
   * [Postuler pour un candidat - Prescrire](mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
   * [Créer une adresse e-mail pour un candidat](mon-mode-demploi-prescripteur/creation-adresse-mail-candidat.md)
+  * [Modifier les informations d'un candidat](mon-mode-demploi-prescripteur/modifier-les-informations-dun-candidat.md)
 * [📙Mon mode d'emploi ''employeur solidaire''](mon-monde-demploi-employeur-solidaire/README.md)
   * [M'inscrire sur la Plateforme](mon-monde-demploi-employeur-solidaire/inscription-employeur.md)
   * [Administrateur de la structure](mon-monde-demploi-employeur-solidaire/administrateur-de-la-structure.md)
