@@ -14,3 +14,7 @@ Renseignez les dates, puis cliquez sur **"Enregistrer"**
 
 ![](../.gitbook/assets/image%20%2845%29.png)
 
+{% hint style="info" %}
+Si ce contrat a généré le PASS IAE, le changement de date impactera la date de démarrage du PASS IAE
+{% endhint %}
+
