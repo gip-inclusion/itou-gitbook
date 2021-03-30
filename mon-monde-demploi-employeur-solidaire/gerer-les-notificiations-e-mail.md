@@ -1,4 +1,4 @@
-# Gérer les notificiations e-mail
+# Gérer les notifications e-mail
 
 En tant qu'employeur vous pouvez gérer vos notifications 
 
