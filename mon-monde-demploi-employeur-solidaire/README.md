@@ -10,6 +10,7 @@
 * \*\*\*\*[**Valider une candidature spontanée**](valider-une-candidature-spontanee.md)\*\*\*\*
 * \*\*\*\*[**Gérer les candidatures et l'éligibilité**](gerer-les-candidatures-et-leligibilite.md)\*\*\*\*
 * \*\*\*\*[**Embaucher un candidat**](embaucher-un-candidat.md)\*\*\*\*
+* \*\*\*\*[**Modifier les dates de contrat**](modifier-les-dates-de-contrat.md)\*\*\*\*
 * \*\*\*\*[**Créer une nouvelle structure**](creer-une-nouvelle-structure.md)
 * \*\*\*\*[**Annuler l'embauche d'un candidat**](https://doc.inclusion.beta.gouv.fr/mon-monde-demploi-employeur-solidaire/annuler-lembauche-dun-candidat)\*\*\*\*
 * \*\*\*\*[**Suspendre un PASS IAE**](suspendre-un-pass-iae.md)
