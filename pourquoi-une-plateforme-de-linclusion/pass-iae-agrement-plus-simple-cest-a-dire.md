@@ -138,7 +138,7 @@ Un prescripteur habilité peut autoriser la prolongation d'un PASS IAE dans cert
 
 Les AI et ACI ont un motif supplémentaire : 
 
-* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)\)
+* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
 
 L'employeur peut enregistrer cette autorisation de prolongation 3 mois avant la fin du PASS IAE [\[Voir mode d'emploi\].](../mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
 {% endhint %}
