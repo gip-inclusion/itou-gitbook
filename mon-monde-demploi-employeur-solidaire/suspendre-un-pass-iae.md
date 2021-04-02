@@ -2,7 +2,7 @@
 
 Les suspensions de PASS IAE sont possibles depuis la fiche candidature disponible dans la rubrique "candidatures acceptées"
 
-Si vous souhaitez en savoir plus sur les motifs de suspension vous pouvez consulter la [note dédiée aux suspension](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#suspension)
+Si vous souhaitez en savoir plus sur les motifs de suspension vous pouvez consulter la [note dédiée aux suspensions](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#suspension)
 
 La suspension du PASS IAE est disponible dès le 5ème jour qui suit le démarrage du parcours IAE. 
 
