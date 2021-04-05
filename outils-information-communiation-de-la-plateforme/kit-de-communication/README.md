@@ -4,7 +4,7 @@ description: Vos outils de promotion de la Plateforme
 
 # Kit de communication
 
-**Le Kit de communication est un outil clé en main pour vous aider à promouvoir la Plateforme de l'inclusion auprès de tous vos partenaires :**
+**Le Kit de communication est un outil clé en main pour vous aider à promouvoir les emplois de l'inclusion auprès de tous vos partenaires :**
 
 * \*\*\*\*[**3 Modèles de mail**](modeles-de-mail.md)\*\*\*\*
 * \*\*\*\*[**3 Flyers mode d'emploi**](flyers-mode-demploi.md)\*\*\*\*

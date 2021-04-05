@@ -1,10 +1,10 @@
 ---
-description: Le support de présentation de la Plateforme de l'inclusion
+description: Le support de présentation des emplois de l'inclusion
 ---
 
 # Flyer de présentation
 
-![](../../.gitbook/assets/capture-de-cran-2020-06-30-a-12.12.19.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
-{% file src="../../.gitbook/assets/flyer-deploiement-5-.pdf" caption="Télécharger le Flyer de présentation" %}
+{% file src="../../.gitbook/assets/flyer-les-emplois-de-linclusion.pdf" %}
 

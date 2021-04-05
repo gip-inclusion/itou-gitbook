@@ -16,7 +16,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Qui peut utiliser la fonction "inviter des collaborateurs" ?](inscription-gestion-de-compte.md#qui-peut-utiliser-la-fonction-inviter-des-collaborateurs)
 
-[Est-il possible de d'envoyer une relance aux collaborateurs qui n'ont pas fait leur inscription sur la plateforme suite au mail d'invitation ?](inscription-gestion-de-compte.md#est-il-possible-de-denvoyer-une-relance-aux-collaborateurs-qui-nont-pas-fait-leur-inscription-sur-la-plateforme-suite-au-mail-dinvitation)
+[Est-il possible d'envoyer une relance aux collaborateurs qui n'ont pas fait leur inscription suite au mail d'invitation ?](inscription-gestion-de-compte.md#est-il-possible-denvoyer-une-relance-aux-collaborateurs-qui-nont-pas-fait-leur-inscription-suite-au-mail-dinvitation)
 
 [Mon organisation prescripteur a plusieurs antennes \(de même type\) mais un seul SIRET](inscription-gestion-de-compte.md#mon-organisation-prescripteur-a-plusieurs-antennes-de-meme-type-mais-un-seul-siret)
 
@@ -100,7 +100,7 @@ Nous recevons les données concernant les entreprises récemment \(re\)conventio
 
 Ainsi, nous vous invitons à renouveler assez souvent votre tentative d'inscription. Si toutefois, cela ne fonctionne toujours pas et que vous souhaitez accélérer la procédure, vous pouvez demander à votre DIRECCTE de nous écrire à l'adresse : assistance@inclusion.beta.gouv.fr en vous mettant en copie et en précisant :
 
-* le/les SIRET des structures dont le conventionnement est actif et qui ne sont pas encore référencées sur la plateforme
+* le/les SIRET des structures dont le conventionnement est actif et qui ne sont pas encore référencées sur les emplois de l'inclusion.
 * Le type de structure
 * le nom et l'adresse de ces structures
 * l'e-mail du correspondant technique ASP \(que vous avez normalement choisi dans votre extranet ASP\).
@@ -124,7 +124,7 @@ Vous pouvez inviter vos collègues depuis votre tableau de bord en cliquant sur 
 Tous les membres du tableau de bord
 {% endhint %}
 
-### _Est-il possible de d'envoyer une relance aux collaborateurs qui n'ont pas fait leur inscription sur la plateforme suite au mail d'invitation ?_
+### _Est-il possible d'envoyer une relance aux collaborateurs qui n'ont pas fait leur inscription suite au mail d'invitation ?_
 
 {% hint style="info" %}
 Il faut renvoyer une nouvelle invitation.
@@ -144,7 +144,7 @@ _Le service social conseil départemental a déjà créé le compte de l'organis
   
 **Prérequis nécessaire à la demande de création d'antennes:** 
 
-Avoir une organisation prescripteur inscrite sur la plateforme \( = Organisation mère \)
+Avoir une organisation prescripteur inscrite sur les emplois de l'inclusion \( = Organisation mère \)
 {% endhint %}
 
 ### _Est-il possible pour un employeur de créer un compte prescripteur avec le même SIRET ?_
@@ -209,7 +209,7 @@ L’administrateur du compte peut [créer une nouvelle structure ](../mon-monde-
 ### _Je ne vois pas ma structure dans le moteur de recherche des employeurs_
 
 {% hint style="info" %}
-La liste des structures référencées sur la Plateforme correspond aux structures conventionnées. Si votre conventionnement est récent, il est probable que vous n’apparaissiez pas encore. Nous mettons régulièrement à jour les nouveaux conventionnements. Si vous cela tarde, [contactez-nous.](https://assistance.inclusion.beta.gouv.fr/)
+La liste des structures référencées sur les emplois de l'inclusion correspond aux structures conventionnées. Si votre conventionnement est récent, il est probable que vous n’apparaissiez pas encore. Nous mettons régulièrement à jour les nouveaux conventionnements. Si vous cela tarde, [contactez-nous.](https://assistance.inclusion.beta.gouv.fr/)
 
 Si votre SIAE est bien conventionnée mais qu'elle n'apparait pas, essayez d'élargir le rayon de recherche. Si elle n'apparait toujours pas vérifiez votre adresse depuis votre tableau de bord, dans la rubrique "Modifier les informations".
 
@@ -323,8 +323,8 @@ Pour la deuxième organisation et les suivantes  :
 
 2 cas de figure : 
 
-* **L'autre organisation que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur la plateforme
-* **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur la plateforme** = il faut nous [contacter ](https://assistance.inclusion.beta.gouv.fr/)afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
+* **L'autre organisation que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur les emplois de l'inclusion
+* **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur les emplois de l'inclusion**= il faut nous [contacter ](https://assistance.inclusion.beta.gouv.fr/)afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
 
 Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'autre en cliquant sur le bouton situé en haut à droite "changer de structure"**
 {% endhint %}
@@ -340,8 +340,8 @@ Pour la deuxième structure et les suivantes  :
 
 2 cas de figure : 
 
-* **L'autre structure que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur la plateforme
-* **L'autre structure que vous souhaitez rejoindre n'existe pas encore sur la plateforme** = il vous faudra cliquer sur ["Créer / rejoindre une autre structure"](../mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)
+* **L'autre structure que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur les emplois de l'inclusion
+* **L'autre structure que vous souhaitez rejoindre n'existe pas encore sur les emplois de l'inclusion**= il vous faudra cliquer sur ["Créer / rejoindre une autre structure"](../mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)
 {% endhint %}
 
 ### Un utilisateur peut-il être prescripteur et employeur avec le même compte ?
@@ -361,7 +361,7 @@ Demandez à vos nouveaux collègues de vous inviter sur le tableau de bord de vo
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).
+* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement des emplois de l'inclusion\).
 
 
 

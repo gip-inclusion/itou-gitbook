@@ -30,11 +30,7 @@ Cette Foire aux questions est destinée aux professionnels \(Employeurs, prescri
 
 {% page-ref page="role-des-differents-utilisateurs.md" %}
 
-{% page-ref page="forum-de-linclusion.md" %}
-
 {% page-ref page="le-marche-de-linclusion.md" %}
-
-{% page-ref page="pilotage-de-linclusion.md" %}
 
 {% page-ref page="autre.md" %}
 

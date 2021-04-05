@@ -161,7 +161,7 @@ Non. les candidatures sont comme des e-mails. Une fois envoyée, on ne peut plus
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).
+* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement des emplois de l'inclusion\).
 
 
 

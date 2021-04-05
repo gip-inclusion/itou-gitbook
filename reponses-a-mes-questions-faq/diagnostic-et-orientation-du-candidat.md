@@ -8,7 +8,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 1️⃣  **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
 
-[Comment lancer une recherche sur la Plateforme de l'inclusion ?](diagnostic-et-orientation-du-candidat.md#comment-lancer-une-recherche-sur-la-plateforme-de-linclusion)
+[Comment lancer une recherche sur les emplois de l'inclusion ?](diagnostic-et-orientation-du-candidat.md#comment-lancer-une-recherche-sur-les-emplois-de-linclusion)
 
 [A quoi correspondent les sigles disponibles en filtre de recherche ?](diagnostic-et-orientation-du-candidat.md#a-quoi-correspondent-les-sigles-disponibles-en-filtre-de-recherche)
 
@@ -36,7 +36,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Est-il possible de postuler sur plusieurs structures en une seule manipulation ?](diagnostic-et-orientation-du-candidat.md#est-il-possible-de-postuler-sur-plusieurs-structures-en-une-seule-manipulation)
 
-[Peut-on prescrire sur la plateforme sans orienter sur une structure en particulier ?](diagnostic-et-orientation-du-candidat.md#peut-on-prescrire-sur-la-plateforme-sans-orienter-sur-une-structure-en-particulier)
+[Peut-on prescrire sur les emplois de l'inclusion sans orienter sur une structure en particulier ?](diagnostic-et-orientation-du-candidat.md#peut-on-prescrire-sur-les-emplois-de-linclusion-sans-orienter-sur-une-structure-en-particulier)
 
 [Quel numéro d'identifiant Pôle emploi doit-on saisir ? ](diagnostic-et-orientation-du-candidat.md#quel-numero-didentifiant-pole-emploi-doit-on-saisir)
 
@@ -62,7 +62,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?](diagnostic-et-orientation-du-candidat.md#qui-verifie-le-dossier-du-candidat-lorsque-je-valide-son-eligibilite)
 
-[La Plateforme vérifie-t-elle l'éligibilité d’un candidat ?](diagnostic-et-orientation-du-candidat.md#la-plateforme-verifie-t-elle-leligibilite-dun-candidat)
+[Le service vérifie-t-il l'éligibilité d’un candidat ?](diagnostic-et-orientation-du-candidat.md#le-service-verifie-t-il-leligibilite-dun-candidat)
 
 [J'ai fait une erreur de saisie dans le diagnostic d'éligibilité](diagnostic-et-orientation-du-candidat.md#jai-fait-une-erreur-de-saisie-dans-le-diagnostic-deligibilite)
 
@@ -76,7 +76,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 ## 1️⃣ **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
 
-### _Comment lancer une recherche sur la Plateforme de l'inclusion ?_
+### _Comment lancer une recherche sur les emplois de l'inclusion ?_
 
 {% hint style="info" %}
 Rendez-vous sur [https://inclusion.beta.gouv.fr/](https://inclusion.beta.gouv.fr/)
@@ -115,7 +115,7 @@ Les employeurs sont répartis en trois groupes affichés dans cet ordre :
 
 * Premier groupe : employeurs actuellement en mesure de recruter.
 * Second groupe : employeurs inscrits mais ayant temporairement bloqué la réception de nouvelles candidatures.
-* Troisième groupe : employeurs non inscrits sur la Plateforme.
+* Troisième groupe : employeurs non inscrits sur les emplois de l'inclusion
 
 Chacun de ces trois groupes est trié aléatoirement avec la vocation suivante : 
 
@@ -152,27 +152,27 @@ A noter que le navigateur Internet Explorer peut bloquer l'autosuggestion, il fa
 {% hint style="info" %}
 Notre système rend obligatoire l'utilisation d'un e-mail pour le candidat afin de lui attribuer une "identité numérique". Vous pouvez lui créer une adresse mail en quelques secondes sur le site [laposte.net](https://compte.laposte.net/inscription/index.do?srv_gestion=lapostefr)
 
-Le candidat peut tout à fait ne jamais consulter cette boîte mail, cela n'impactera pas la procédure de candidature. Il ne s'agit que de son identité numérique sur la plateforme. Le prescripteur sera notifié par mail lorsque l'employeur prendra une décision.
+Le candidat peut tout à fait ne jamais consulter cette boîte mail, cela n'impactera pas la procédure de candidature. Il ne s'agit que de son identité numérique sur les emplois de l'inclusion. Le prescripteur sera notifié par mail lorsque l'employeur prendra une décision.
 
-Il est fortement déconseillé d'utiliser un autre e-mail \(celui d'un prescripteur par exemple\) pour créer le compte d'un candidat, car cela empêchera alors le réel détenteur de l'e-mail de pouvoir créer son compte sur la Plateforme le moment souhaité.
+Il est fortement déconseillé d'utiliser un autre e-mail \(celui d'un prescripteur par exemple\) pour créer le compte d'un candidat, car cela empêchera alors le réel détenteur de l'e-mail de pouvoir créer son compte sur les emplois de l'inclusion, le moment souhaité.
 {% endhint %}
 
 ### _Si je suis orienteur, dois-je envoyer le candidat vers un prescripteur habilité ?_
 
 {% hint style="info" %}
-Ce n'est plus nécessaire ! Vous pouvez directement postuler pour le compte du candidat via la Plateforme. L'éligibilité du candidat sera alors validée par la SIAE. Néanmoins, si votre candidat ne remplit pas les [critères d'éligibilité](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1) ou le délai de carence de 2 ans entre deux parcours, vous devrez alors l'orienter vers un [prescripteur habilité](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est en effet seul à pouvoir prescrire un parcours dans ces conditions au vu de la situation du candidat.
+Ce n'est plus nécessaire ! Vous pouvez directement postuler pour le compte du candidat via les emplois de l'inclusion. L'éligibilité du candidat sera alors validée par la SIAE. Néanmoins, si votre candidat ne remplit pas les [critères d'éligibilité](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1) ou le délai de carence de 2 ans entre deux parcours, vous devrez alors l'orienter vers un [prescripteur habilité](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est en effet seul à pouvoir prescrire un parcours dans ces conditions au vu de la situation du candidat.
 {% endhint %}
 
 ### _Comment candidater pour une personne incarcérée, qui n'a pas d'accès internet ?_
 
 {% hint style="info" %}
-Le prescripteur peut candidater pour le candidat et il pourra suivre la candidature grâce aux notifications mail et au tableau de suivi disponible sur la plateforme. Le prescripteur peut utiliser le champ " message de candidature" pour informer l'employeur des éventuels délais nécessaires pour obtenir une autorisation de sortie s'il prévoit de recevoir le candidat en entretien.
+Le prescripteur peut candidater pour le candidat et il pourra suivre la candidature grâce aux notifications mail et au tableau de suivi disponible sur les emplois de l'inclusion. Le prescripteur peut utiliser le champ " message de candidature" pour informer l'employeur des éventuels délais nécessaires pour obtenir une autorisation de sortie s'il prévoit de recevoir le candidat en entretien.
 {% endhint %}
 
 ### _Puis-je orienter un candidat vers un employeur d'un autre département ?_
 
 {% hint style="info" %}
-Il est effectivement possible via la Plateforme d'orienter un candidat vers un employeur situé dans un autre département. 
+Il est effectivement possible via les emplois de l'inclusion, d'orienter un candidat vers un employeur situé dans un autre département. 
 
 Certains acteurs nous signalent que certains employeurs refusent d'embaucher des candidats en dehors de leur département,  nous les invitons à prendre contact avec leur DIRECCTE
 {% endhint %}
@@ -201,7 +201,7 @@ Non, tant que l'employeur bloque les candidatures on ne peut plus postuler aupr�
 Pour le moment ce n'est pas possible de le faire en une fois, on peut postuler auprès d'une structure à la fois. 
 {% endhint %}
 
-### _Peut-on prescrire sur la plateforme sans orienter sur une structure en particulier ?_
+### _Peut-on prescrire sur les emplois de l'inclusion sans orienter sur une structure en particulier ?_
 
 {% hint style="info" %}
 Non il faut obligatoirement postuler auprès d'une structure.
@@ -244,11 +244,11 @@ Pour le moment, vous devez vous créer un compte "orienteur" avec un e-mail diff
 ### _Doit-on utiliser des fiches de positionnement \( ou fiches de liaison\) IAE ?_
 
 {% hint style="info" %}
-Non :\) La fiche de positionnement IAE n'est plus nécessaire, tout se fait sur la Plateforme de l'inclusion. Il ne faut donc pas envoyer de fiches de positionnement aux employeurs mais orienter les candidats via la plateforme.
+Non :\) La fiche de positionnement IAE n'est plus nécessaire, tout se fait sur les emplois de l'inclusion. Il ne faut donc pas envoyer de fiches de positionnement aux employeurs mais orienter les candidats via les emplois de l'inclusion.
 
-Les prescripteurs habilités pourront valider le diagnostic d'éligibilité IAE directement sur la Plateforme. 
+Les prescripteurs habilités pourront valider le diagnostic d'éligibilité IAE directement sur les emplois de l'inclusion
 
-Si un employeur reçoit une fiche de positionnement il n'a aucun moyen de la renseigner sur la Plateforme, par conséquent s'il souhaite embaucher un candidat et obtenir un PASS IAE, il ne pourra le faire que dans le cadre d'une auto-prescription et donc on perd l'origine de la prescription. De plus l'employeur aura la responsabilité de valider lui même les critères d'éligibilité IAE.
+Si un employeur reçoit une fiche de positionnement il n'a aucun moyen de la renseigner sur le site, par conséquent s'il souhaite embaucher un candidat et obtenir un PASS IAE, il ne pourra le faire que dans le cadre d'une auto-prescription et donc on perd l'origine de la prescription. De plus l'employeur aura la responsabilité de valider lui même les critères d'éligibilité IAE.
 {% endhint %}
 
 ### _Le candidat ne remplit aucun critère exigé par l'IAE. Puis-je tout de même valider son éligibilité ?_
@@ -285,7 +285,7 @@ Si l'employeur souhaite embaucher un candidat qui a un diagnostic d'éligibilit�
 ### _Dois-je prouver l'éligibilité du candidat que je veux recruter ?_
 
 {% hint style="info" %}
-Aucun justificatif n'est demandé sur la Plateforme, cependant vos interlocuteurs de la Direccte pourront vous demander les justificatifs liés aux critères d’éligibilité de votre candidat _à_ posteriori \(uniquement si l'employeur est à l'origine de la validation de l'éligibilité IAE du candidat\). 
+Aucun justificatif n'est demandé sur les emplois de l'inclusion, cependant vos interlocuteurs de la Direccte pourront vous demander les justificatifs liés aux critères d’éligibilité de votre candidat _à_ posteriori \(uniquement si l'employeur est à l'origine de la validation de l'éligibilité IAE du candidat\). 
 {% endhint %}
 
 ### _**Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?**_
@@ -296,12 +296,12 @@ Aucun justificatif n'est demandé sur la Plateforme, cependant vos interlocuteur
 Si vous êtes un prescripteur habilité, il n' y aura aucune vérification à postériori. 
 {% endhint %}
 
-### _**La Plateforme vérifie-t-elle l'éligibilité d’un candidat ?**_
+### _**Le service vérifie-t-il l'éligibilité d’un candidat ?**_
 
 {% hint style="info" %}
-La Plateforme ne vérifie pas les critères administratifs et l’éligibilité d’un candidat.
+Le service des emplois de l'inclusion ne vérifie pas les critères administratifs et l’éligibilité d’un candidat.
 
-Si le candidat est adressé par un prescripteur habilité, il est réputé éligible. S’il arrive en candidat spontané ou est adressé par un prescripteur non-habilité, la SIAE doit réaliser un diagnostic socio-professionnel pour vérifier son éligibilité, puis indiquer sur la Plateforme le/les critères justifiant l’éligibilité. La SIAE doit également conserver les justificatifs correspondants aux critères dans le dossier de candidature.
+Si le candidat est adressé par un prescripteur habilité, il est réputé éligible à l'IAE. S’il arrive en candidat spontané ou est adressé par un prescripteur non-habilité, la SIAE doit réaliser un diagnostic socio-professionnel pour vérifier son éligibilité, puis indiquer sur le site le/les critères justifiant l’éligibilité IAE. La SIAE doit également conserver par ses propres moyens les justificatifs correspondants aux critères administratifs
 
 Les GEIQ, EA, AI, EATT n'ont pas de contraintes d'éligibilité.
 {% endhint %}
@@ -309,17 +309,17 @@ Les GEIQ, EA, AI, EATT n'ont pas de contraintes d'éligibilité.
 ### _J'ai fait une erreur de saisie dans le diagnostic d'éligibilité_
 
 {% hint style="info" %}
-Pour le moment il n'est pas possible de  modifier ces informations depuis la plateforme, [contactez-nous ](https://assistance.inclusion.beta.gouv.fr/)en nous précisant les informations à modifier.
+Pour le moment il n'est pas possible de  modifier ces informations depuis les emplois de l'inclusion, [contactez-nous ](https://assistance.inclusion.beta.gouv.fr/)en nous précisant les informations à modifier.
 {% endhint %}
 
 ### _Je ne sais pas qualifier les critères administratifs de mon candidat_
 
 {% hint style="info" %}
-Le service de la Plateforme de l'inclusion n'a pas de légitimité à vous conseiller à ce sujet. Pour plus d'informations concernant des cas spécifiques relatifs aux critères administratifs, rapprochez vous de votre DIRECCTE.
+Le service des emplois de l'inclusion n'a pas de légitimité à vous conseiller à ce sujet. Pour plus d'informations concernant des cas spécifiques relatifs aux critères administratifs, rapprochez vous de votre DIRECCTE.
 
 Si vous êtes prescripteur habilité vous pouvez déroger aux critères administratifs.
 
-Si vous êtes employeur en cas de doute, vous pouvez toujours demander à un prescripteur habilité de vous orienter la candidature via la plateforme, le candidat sera reconnu éligible à l'IAE même en l'absence de critères administratifs. Vous n'aurez pas à vérifier les critères administratifs. Pour contacter un prescripteur habilité vous pouvez utiliser le [moteur de recherche des prescripteurs habilités](https://inclusion.beta.gouv.fr/search/prescribers)
+Si vous êtes employeur en cas de doute, vous pouvez toujours demander à un prescripteur habilité de vous orienter la candidature via les emplois de l'inclusion, le candidat sera reconnu éligible à l'IAE même en l'absence de critères administratifs. Vous n'aurez pas à vérifier les critères administratifs. Pour contacter un prescripteur habilité vous pouvez utiliser le [moteur de recherche des prescripteurs habilités](https://inclusion.beta.gouv.fr/search/prescribers)
 {% endhint %}
 
 
@@ -329,7 +329,7 @@ Si vous êtes employeur en cas de doute, vous pouvez toujours demander à un pre
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).
+* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement des emplois de l'inclusion\).
 
 
 

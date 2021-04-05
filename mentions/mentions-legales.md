@@ -1,12 +1,12 @@
 ---
-description: Mentions légales de la Plateforme de l’Inclusion
+description: Mentions légales des emplois de l’Inclusion
 ---
 
 # Mentions légales
 
-## Editeur de la Plateforme
+## Editeur des emplois de l'inclusion
 
-La Plateforme de l’Inclusion est éditée par la Délégation générale à l’emploi et à la formation professionnelle, Pôle emploi et le Conseil de l’inclusion dans l’emploi.
+Le site des emplois de l'inclusion est édité par la Délégation générale à l’emploi et à la formation professionnelle, Pôle emploi et le Conseil de l’inclusion dans l’emploi.
 
 #### DGEFP
 
@@ -16,7 +16,7 @@ La Plateforme de l’Inclusion est éditée par la Délégation générale à l�
 
 Monsieur Bruno Lucas
 
-## Hébergement de la Plateforme
+## Hébergement des emplois de l'inclusion
 
 Ce site est hébergé en France par la société CleverCloud :
 
@@ -46,5 +46,5 @@ Pour le joindre, vous pouvez :
 
 Le site est protégé par un certificat électronique, matérialisé pour la grande majorité des navigateurs par un cadenas. Cette protection participe à la confidentialité des échanges.
 
-En aucun cas les services associés à la plateforme ne seront à l’origine d’envoi de courriels pour demander la saisie d’informations personnelles.
+En aucun cas les services associés aux emplois de l'inclusion ne seront à l’origine d’envoi de courriels pour demander la saisie d’informations personnelles.
 

@@ -12,7 +12,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Quelle est la différence entre un agrément et un Pass IAE ?](pass-iae.md#quelle-est-la-difference-entre-un-agrement-et-un-pass-iae)
 
-[Le numéro d'agrément délivré par la Plateforme est-il valide et de même valeur que l'agrément Pôle emploi ?](pass-iae.md#le-numero-dagrement-delivre-par-la-plateforme-est-il-valide-et-de-meme-valeur-que-lagrement-pole-emploi)
+[Le numéro d'agrément délivré par les emplois de l'inclusion est-il valide et de même valeur que l'agrément Pôle emploi ?](pass-iae.md#le-numero-dagrement-delivre-par-les-emplois-de-linclusion-est-il-valide-et-de-meme-valeur-que-lagrement-pole-emploi)
 
 2️⃣ **\[ OBTENIR UN PASS IAE \]**
 
@@ -50,13 +50,13 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Puis-je annuler un Pass IAE ?](pass-iae.md#puis-je-annuler-un-pass-iae)
 
-[J''avais signalé une interruption de PASS IAE à Pole Emploi, mais celle-ci n'a pas été prise en compte par la Plateforme](pass-iae.md#javais-signale-une-interruption-de-pass-iae-a-pole-emploi-mais-celle-ci-na-pas-ete-prise-en-compte-par-la-plateforme)
+[J''avais signalé une interruption de PASS IAE à Pole Emploi, mais celle-ci n'a pas été prise en compte par le site](pass-iae.md#javais-signale-une-interruption-de-pass-iae-a-pole-emploi-mais-celle-ci-na-pas-ete-prise-en-compte-par-le-site)
 
 [Comment obtenir une extension d'agrément ?](pass-iae.md#comment-obtenir-une-extension-dagrement)
 
 [Dois-je informer Pôle emploi qu'un Pass IAE m'a été délivré ?](pass-iae.md#dois-je-informer-pole-emploi-quun-pass-iae-ma-ete-delivre)
 
-[Je reçois le numéro d'agrément en combien de temps via la Plateforme \(Pass IAE\)?](pass-iae.md#je-recois-le-numero-dagrement-en-combien-de-temps-via-la-plateforme-pass-iae)
+[Je reçois le numéro d'agrément \(Pass IAE\) en combien de temps ?](pass-iae.md#je-recois-le-numero-dagrement-pass-iae-en-combien-de-temps)
 
 [Comment modifier la date de fin de contrat ?](pass-iae.md#comment-modifier-la-date-de-fin-de-contrat)
 
@@ -88,10 +88,10 @@ Le PASS IAE :
 ### _Quelle est la différence entre un agrément et un Pass IAE ?_
 
 {% hint style="info" %}
-Un agrément est délivré par Pôle emploi, un [Pass IAE](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) est délivré directement par la Plateforme \(sous 2 jours en moyenne\). Tous deux ont la même valeur et peuvent être utilisés par les SIAE lors de leur déclaration sur l'Extranet IAE 2.0 de l'ASP.
+Un agrément est délivré par Pôle emploi, un [Pass IAE](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) est délivré directement par les emplois de l'inclusion \(sous 2 jours en moyenne\). Tous deux ont la même valeur et peuvent être utilisés par les SIAE lors de leur déclaration sur l'Extranet IAE 2.0 de l'ASP.
 {% endhint %}
 
-### _Le numéro d'agrément délivré par la Plateforme est-il valide et de même valeur que l'agrément Pôle emploi ?_
+### _Le numéro d'agrément délivré par les emplois de l'inclusion est-il valide et de même valeur que l'agrément Pôle emploi ?_
 
 {% hint style="info" %}
 Oui, le Pass IAE a même valeur que l'agrément Pôle emploi. Il est valide dès réception. Vous pourrez l’indiquer sur l'Extranet IAE 2.0 de l'ASP.
@@ -120,7 +120,7 @@ _C'est l'employeur lorsqu'il valide l'embauche du candidat_
 ### Dois-je demander à Pôle emploi un numéro d'agrément pour un candidat ?
 
 {% hint style="info" %}
-Non, il n'est plus nécessaire de demander de numéro d'agrément à Pôle emploi. Le numéro de Pass IAE remplace l’agrément Pôle emploi, il a la même valeur. Il vous est délivré par mail via la Plateforme. Il apparaît aussi sur la fiche candidature de votre ‘’Tableau de bord’’.
+Non, il n'est plus nécessaire de demander de numéro d'agrément à Pôle emploi. Le numéro de Pass IAE remplace l’agrément Pôle emploi, il a la même valeur. Il vous est délivré par mail via les emplois de l'inclusion. Il apparaît aussi sur la fiche candidature de votre ‘’Tableau de bord’’.
 
 Le délai entre la candidature et l’obtention du Pass IAE est de 2 jours maximum.
 {% endhint %}
@@ -172,7 +172,7 @@ L'attestation de PASS IAE est disponible en téléchargement 5 jours après le d
 ### _L'employeur peut-il embaucher un candidat venant d'un autre département ?_
 
 {% hint style="info" %}
-Oui, il n’y a pas de limite avec la Plateforme pour recruter un candidat venant d'un autre département.
+Oui, il n’y a pas de limite avec les emplois de l'inclusion pour recruter un candidat venant d'un autre département.
 
 Certains acteurs nous signalent que certains employeurs refusent d'embaucher des candidats en dehors de leur département,  nous les invitons à prendre contact avec leur DIRECCTE
 {% endhint %}
@@ -180,7 +180,7 @@ Certains acteurs nous signalent que certains employeurs refusent d'embaucher des
 ### _Le PASS IAE qui m'a été envoyé ne dure pas 2 ans mais moins, pourquoi ?_
 
 {% hint style="info" %}
-Cela provient surement du fait que votre candidat avait déjà un parcours d'insertion en cours avant que vous ne l'embauchiez. Vous avez donc reçu son PASS IAE en cours de validité et la plateforme vous indique le temps de validité restant sur le parcours de ce candidat.
+Cela provient surement du fait que votre candidat avait déjà un parcours d'insertion en cours avant que vous ne l'embauchiez. Vous avez donc reçu son PASS IAE en cours de validité et le site vous indique le temps de validité restant sur le parcours de ce candidat.
 {% endhint %}
 
 ## 3️⃣ **\[ GERER UN PASS IAE EN COURS \]**
@@ -229,10 +229,10 @@ Dans notre exemple, si vous annulez le PASS, les 3 jours travaillés ne pourront
 Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourrez plus l'annuler par vous-même. Vous devrez [nous contacter ](https://assistance.inclusion.beta.gouv.fr/)en prenant soin de mentionner les références du PASS et les raisons de cette demande tardive.
 {% endhint %}
 
-### _**J'avais signalé une interruption de PASS IAE à Pole Emploi, mais celle-ci n'a pas été prise en compte par la Plateforme**_
+### _**J'avais signalé une interruption de PASS IAE à Pole Emploi, mais celle-ci n'a pas été prise en compte par le site**_
 
 {% hint style="info" %}
-La Plateforme de l'inclusion ne prend pas en compte les interruptions d'agréments mais seulement les suspensions.
+Les emplois de l'inclusion ne prend pas en compte les interruptions d'agréments mais seulement les suspensions.
 
 Pour en savoir plus sur les motifs légitimes de suspension, consultez notre espace de documentation : [https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire\#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae). 
 {% endhint %}
@@ -242,16 +242,16 @@ Pour en savoir plus sur les motifs légitimes de suspension, consultez notre esp
 {% hint style="info" %}
 L'extension n'existe plus car le PASS IAE est rattaché à une personne et non plus à un employeur \(comme c'était le cas pour l'agrément\)  Il reste donc le même tout au long du parcours professionnel même si la personne change de SIAE. 
 
-Le nouvel employeur peut récupérer le PASS IAE en enregistrant le candidat sur le plateforme \( En cliquant sur "obtenir un PASS IAE"\)
+Le nouvel employeur peut récupérer le PASS IAE en enregistrant le candidat sur les emplois de l'inclusion \( En cliquant sur "obtenir un PASS IAE"\)
 {% endhint %}
 
 ### _Dois-je informer Pôle emploi qu'un Pass IAE m'a été délivré ?_
 
 {% hint style="info" %}
-Il n'est pas nécessaire d'informer Pôle emploi. Un protocole automatique est en place entre la Plateforme et Pôle emploi \(fichier partagé des Pass IAE\). Les agences Pole emploi reçoivent la liste des PASS IAE pour que les conseillers puissent mettre à jour les dossiers des demandeurs d'emploi concernés.
+Il n'est pas nécessaire d'informer Pôle emploi. Un protocole automatique est en place entre les emplois de l'inclusion et Pôle emploi \(fichier partagé des Pass IAE\). Les agences Pole emploi reçoivent la liste des PASS IAE pour que les conseillers puissent mettre à jour les dossiers des demandeurs d'emploi concernés.
 {% endhint %}
 
-### _Je reçois le numéro d'agrément en combien de temps via la Plateforme \(Pass IAE\)?_
+### _Je reçois le numéro d'agrément \(Pass IAE\) en combien de temps ?_
 
 {% hint style="info" %}
 Lorsque le numéro identifiant Pôle emploi est renseigné ou si le candidat n'est pas inscrit chez Pole emploi, la délivrance du PASS IAE est instantanée.  
@@ -301,7 +301,7 @@ En cas de rupture de contrat, le PASS IAE du candidat reste valable le temps res
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).
+* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement des emplois de l'inclusion\).
 
 
 

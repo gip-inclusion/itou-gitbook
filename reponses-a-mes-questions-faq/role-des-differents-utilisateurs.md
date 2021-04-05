@@ -8,15 +8,15 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Quelle est la différence entre un prescripteur habilité et un orienteur ? ](role-des-differents-utilisateurs.md#quelle-est-la-difference-entre-un-prescripteur-habilite-et-un-orienteur)
 
-[Que peut faire un employeur sur la Plateforme de l'inclusion ?](role-des-differents-utilisateurs.md#que-peut-faire-un-employeur-sur-la-plateforme-de-linclusion)
+[Que peut faire un employeur sur les emplois de l'inclusion ?](role-des-differents-utilisateurs.md#que-peut-faire-un-employeur-sur-les-emplois-de-linclusion)
 
-[Que peut faire un prescripteur habilité sur la Plateforme de l'inclusion ?](role-des-differents-utilisateurs.md#que-peut-faire-un-prescripteur-habilite-sur-la-plateforme-de-linclusion)
+[Que peut faire un prescripteur habilité sur les emplois de l'inclusion ?](role-des-differents-utilisateurs.md#que-peut-faire-un-prescripteur-habilite-sur-les-emplois-de-linclusion)
 
-[Que peut faire un orienteur sur la Plateforme de l'inclusion ?](role-des-differents-utilisateurs.md#que-peut-faire-un-orienteur-sur-la-plateforme-de-linclusion)
+[Que peut faire un orienteur sur les emplois de l'inclusion ?](role-des-differents-utilisateurs.md#que-peut-faire-un-orienteur-sur-les-emplois-de-linclusion)
 
-[Que peut faire un candidat sur la Plateforme de l'inclusion ?](role-des-differents-utilisateurs.md#que-peut-faire-un-candidat-sur-la-plateforme-de-linclusion)
+[Que peut faire un candidat sur les emplois de l'inclusion ?](role-des-differents-utilisateurs.md#que-peut-faire-un-candidat-sur-les-emplois-de-linclusion)
 
-[Faut-il obligatoirement être habilité pour orienter un candidat vers un employeur via la Plateforme ?](role-des-differents-utilisateurs.md#faut-il-obligatoirement-etre-habilite-pour-orienter-un-candidat-vers-un-employeur-via-la-plateforme)
+[Faut-il obligatoirement être habilité pour orienter un candidat vers un employeur via les emplois de l'inclusion ?](role-des-differents-utilisateurs.md#faut-il-obligatoirement-etre-habilite-pour-orienter-un-candidat-vers-un-employeur-via-les-emplois-de-linclusion)
 
 [Comment devenir prescripteur habilité si je ne le suis pas ?](role-des-differents-utilisateurs.md#comment-devenir-prescripteur-habilite-si-je-ne-le-suis-pas)
 
@@ -36,7 +36,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 Le prescripteur habilité peut à la fois postuler pour un candidat et valider son éligibilité. L'orienteur peut également postuler pour un candidat, mais l’éligibilité sera validée par la SIAE. Seul un prescripteur habilité peut prescrire un parcours IAE hors critères d'éligibilité ou obligation de carence de 2 ans entre deux parcours. [Pour + d'info](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/).
 {% endhint %}
 
-### Que peut faire un employeur sur la Plateforme de l'inclusion ?
+### Que peut faire un employeur sur les emplois de l'inclusion ?
 
 {% hint style="info" %}
 Un employeur solidaire peut : 
@@ -54,7 +54,7 @@ Un employeur en SIAE peut également :
 * Suspendre un PASS IAE 
 {% endhint %}
 
-### _**Que peut faire un prescripteur habilité sur la Plateforme de l'inclusion ?**_
+### _**Que peut faire un prescripteur habilité sur les emplois de l'inclusion ?**_
 
 {% hint style="info" %}
 Le prescripteur habilité peut :
@@ -68,7 +68,7 @@ Le prescripteur habilité peut :
 * Autoriser une prolongation du PASS IAE
 {% endhint %}
 
-### _Que peut faire un orienteur sur la Plateforme de l'inclusion ?_
+### _Que peut faire un orienteur sur les emplois de l'inclusion ?_
 
 {% hint style="info" %}
 L'orienteur peut :
@@ -80,7 +80,7 @@ L'orienteur peut :
 L’éligibilité de son candidat sera réalisée par la SIAE au moment de l'embauche.
 {% endhint %}
 
-### _Que peut faire un candidat sur la Plateforme de l'inclusion ?_
+### _Que peut faire un candidat sur les emplois de l'inclusion ?_
 
 {% hint style="info" %}
 Le candidat peut :
@@ -89,10 +89,10 @@ Le candidat peut :
 * Consulter l'avancée de ses candidatures
 {% endhint %}
 
-### _**Faut-il obligatoirement être habilité pour orienter un candidat vers un employeur via la Plateforme ?**_
+### _**Faut-il obligatoirement être habilité pour orienter un candidat vers un employeur via les emplois de l'inclusion?**_
 
 {% hint style="info" %}
-Aucune demande d'habilitation n’est nécessaire. Tout orienteur peut se créer un compte sur la Plateforme et postuler pour un ou plusieurs candidats auprès des entreprises solidaires référencées. [Inscrivez-vous en quelques clics !](https://inclusion.beta.gouv.fr/signup/prescriber/choose_kind)
+Aucune demande d'habilitation n’est nécessaire. Tout orienteur peut se créer un compte sur les emplois de l'inclusion et postuler pour un ou plusieurs candidats auprès des entreprises solidaires référencées. [Inscrivez-vous en quelques clics !](https://inclusion.beta.gouv.fr/signup/prescriber/choose_kind)
 
 [Voir mode d'emploi pour s'inscrire en tant qu'orienteur](../mon-mode-demploi-prescripteur/inscription-prescripteur.md#inscription-pour-un-orienteur)
 {% endhint %}
@@ -122,7 +122,7 @@ A noter qu'il faudra utiliser une adresse mail différente si celle-ci est déj�
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement de la Plateforme\).
+* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement des emplois de l'inclusion\).
 
 
 

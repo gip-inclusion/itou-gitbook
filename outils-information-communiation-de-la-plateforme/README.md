@@ -2,7 +2,7 @@
 
 Tout est mis en place pour **vous informer en continu** sur les évolutions de la Plateforme de l’inclusion et les dispositifs du HCIEE, mais aussi pour **vous permettre de diffuser ces actualités** auprès de vos partenaires :
 
-* \*\*\*\*[**Les outils d'infos de la Plateforme**](outils-dinformation/)\*\*\*\*
+* \*\*\*\*[**Les outils d'infos** ](outils-dinformation/)**des emplois de l'inclusion**
 * \*\*\*\*[**Les rendez-vous Webinaires**](../rendez-vous-webinaires/)\*\*\*\*
 * [**Le kit de communication**](kit-de-communication/)\*\*\*\*
 
