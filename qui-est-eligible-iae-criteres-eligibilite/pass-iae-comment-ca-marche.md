@@ -34,7 +34,7 @@ Seul le ****[**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusio
 **Toutes les candidatures transmises par un prescripteur habilité via les emplois de l'inclusion sont reconnues éligibles à l'IAE pour 6 mois.**
 {% endhint %}
 
-### 🟣La validation de l'éligibilité IAE par les SIAE : 
+### 🟣 La validation de l'éligibilité IAE par les SIAE : 
 
 Si une SIAE souhaite embaucher un candidat dans le cadre d'un parcours IAE, ce candidat doit avoir une éligibilité IAE en cours de validité, si ce n'est pas le cas l'employeur doit réaliser lui-même la validation de l'éligibilité à l'IAE.
 
