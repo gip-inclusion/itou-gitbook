@@ -1,8 +1,9 @@
 # 📙Mon mode d'emploi ''employeur solidaire''
 
-**Découvrez des tutos pour vous aider à utiliser la Plateforme :**
+**Découvrez les informations et les tutos pour vous aider à utiliser les emplois de l'inclusion:**
 
-* \*\*\*\*[**M'inscrire sur la Plateforme**](inscription-employeur.md) ****
+* \*\*\*\*[**Mon rôle d'employeur**](fonctionnalites-employeur.md)
+* \*\*\*\*[**M'inscrire sur les emplois de l'inclusion**](inscription-employeur.md)\*\*\*\*
 * \*\*\*\*[**Administrateur de la structure**](administrateur-de-la-structure.md)
 * \*\*\*\*[**Décrire ma structure**](description-structure.md)\*\*\*\*
 * \*\*\*\*[**Configurer mes fiches de postes**](gerer-les-fiches-de-poste.md)\*\*\*\*

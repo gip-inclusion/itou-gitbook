@@ -6,8 +6,6 @@ L’inclusion par l'emploi est un **projet de société gouvernemental** qui per
 
 C’est **un** **enjeu majeur** porté par le [**Pacte de l’IAE**](https://travail-emploi.gouv.fr/IMG/pdf/pacte_d_ambition_iae_sept_2019_synthese.pdf) ****pour lutter contre le **chômage longue durée, l'exclusion** et la **pauvreté.**
 
-\*\*\*\*
-
 ### **Objectifs du Pacte IAE**
 
 Développer les **passerelles entre acteurs de l’IAE et entreprises** pour passer de **140 000** personnes en parcours d’insertion à **240 000** d’ici **2022.**
@@ -18,14 +16,12 @@ _\*employeurs solidaires : SIAE, EA, EATT, GIEQ_
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-22-a-13.59.01.png)
 
-\*\*\*\*
-
 ### **L’IAE, un puissant levier de retour à l’emploi**
 
 {% hint style="warning" %}
 En France, **2 millions de personnes sont éloignées de l'emploi.** Derrière ce chiffre ce cachent de multiples réalités :
 
-* **Chômeurs longue durée** \(40% des chômeurs sans emploi depuis 12 mois et +\)
+* **Chômeurs de longue durée** \(40% des chômeurs sans emploi depuis 12 mois et +\)
 * **Bénéficiaires de minima sociaux**
 * **Chômeurs en situation de handicap**
 * **Jeunes sans emploi et hors du système scolaire**

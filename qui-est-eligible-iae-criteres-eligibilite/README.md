@@ -1,21 +1,20 @@
 # 🏆Qui est éligible à l'IAE \(critères d'éligibilité & diagnostic\) ?
 
-**Qui bénéficie du contrat d'Insertion par l'Activité Economique \(IAE\) :**
+**Qui peut bénéficier d'un parcours d'Insertion par l'Activité Economique \(IAE\) :**
 
 * Les **personnes** en **difficultés sociales et/ou professionnelles** \(précarité, âge, santé\)
-* **Orientées par un** [**prescripteur habilité ou un orienteur** ](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)vers une[ **SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) \(Structure de l'IAE\)
-* Ou **recrutées directement par une** [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) ****\(validation de l'IAE\)
-* Après un [**diagnostic socio-professionnel**](./#diagnostic_de_reference)\*\*\*\*
-* Remplissant [**1 critère administratif de niveau 1**](./#criteres-administratifs-de-niveau-1), ou [**3 critères administratifs de niveau 2**](./#criteres-administratifs-de-niveau-2)\*\*\*\*
+* **Orientées par un** [**prescripteur habilité ou un orienteur** ](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)vers une[ **SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)
+* Ou **recrutées directement par une** [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) ****
+* Après [**validation de l'éligibilité IAE du candidat**](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#etape-2-la-validation-de-leligibilite-a-liae)\*\*\*\*
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-13.51.12.png)
 
-**L'éligibilité à l’IAE** du candidat ****ne peut être **validée sur la Plateforme** que par : 
+**L'éligibilité à l’IAE** du candidat ****peut être **validée sur les emplois de l'inclusion**  par : 
 
 * Les [**prescripteurs habilités**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)\*\*\*\*
 * Les [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)\*\*\*\*
 
-**Une fois l'embauche confirmée sur la Plateforme par une SIAE, le** [**Pass IAE** ](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md)**est délivré par mail à l'entreprise sous ≈ 2 jours.**
+**Une fois l'embauche confirmée sur les emplois de l'inclusion par une SIAE, le** [**Pass IAE** ](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md)**est délivré par mail à l'entreprise sous ≈ 2 jours et disponible dans les tableaux de bord de l'employeur et du candidat**
 
 ![](../.gitbook/assets/copie-de-parcours-candidat-a-liae-_-qui-fait-quoi-_-1-.png)
 
@@ -66,7 +65,7 @@ La validation des critères d'éligibilité obéit désormais à une règle simp
 
 ### Diagnostic socio-professionnel de référence <a id="diagnostic_de_reference"></a>
 
-{% file src="../.gitbook/assets/qui-est-eligible-a-liae-documentation-la-plateforme-de-linclusion.pdf" caption="Télécharger le diagnostic socio-professionnel de référence" %}
+{% file src="../.gitbook/assets/diagnostic-socio-professionnel-de-reference.pdf" caption="Télécharger le diagnostic socio-professionnel de référence" %}
 
 | Vulnérable | ===============&gt; | ===============&gt; | ==========&gt; | Disponible |
 | :--- | :--- | :--- | :--- | :--- |

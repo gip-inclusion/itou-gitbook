@@ -12,5 +12,5 @@
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-4. **Votre collaborateur reçoit instantanément un mail d'invitation** afin de rejoindre votre compte structure. Il pourra ainsi définir son propre mot de passe d'accès à la Plateforme de l'inclusion. 
+4. **Votre collaborateur reçoit instantanément un mail d'invitation** afin de rejoindre votre compte structure. Il pourra ainsi définir son propre mot de passe d'accès aux emplois de l'inclusion.
 

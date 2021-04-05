@@ -1,10 +1,10 @@
-# M'inscrire sur la Plateforme
+# M'inscrire sur les emplois de l'inclusion
 
 ### 1. **Créez votre compte structure**
 
-1. **Rendez-vous** sur le site de la ****[**Plateforme de l'inclusion**](https://inclusion.beta.gouv.fr/signup/prescriber/is_pole_emploi)\*\*\*\*
-2. Cliquez sur **Inscrivez-vous** en haut à droite
-3. Puis cliquez sur **Créer un compte** dans le 1er pavé  "Vous êtes employeur solidaire..."
+1. **Rendez-vous** sur le site des[ emplois de l'inclusion](https://emplois.inclusion.beta.gouv.fr/)
+2. Cliquez sur **"S'inscrire/Se connecter"**, puis sur **"employeur solidaire"**
+3. Puis cliquez sur "**Créer un compte employeur"** en bas de page
 4. Renseignez **votre numéro de SIREN**
 5. Choisissez la structure que vous désirez créer
 6. Cliquez sur **inscription** 
@@ -15,10 +15,6 @@
 
 Cette adresse mail est utilisée comme adresse d’authentification et permet ainsi de sécuriser les inscriptions.  
 Retrouvez cette adresse mail dans votre extranet ASP en suivant le chemin suivant : Insertion par l'activité économique &gt; Gérer ma SIAE &gt; Gestion des comptes utilisateurs
-{% endhint %}
-
-{% hint style="warning" %}
-Si votre SIRET n'est pas reconnu, merci d'utiliser [ce formulaire](https://itou.typeform.com/to/RYfNLR79)
 {% endhint %}
 
 ![Je suis employeur et je souhaite m&apos;inscrire](https://s5.gifyu.com/images/demo-employeur.gif)

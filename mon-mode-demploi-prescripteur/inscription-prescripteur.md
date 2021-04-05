@@ -1,10 +1,10 @@
 ---
 description: >-
-  Découvrez comment vous inscrire sur la plateforme de l'inclusion en tant que
+  Découvrez comment vous inscrire sur les emplois de l'inclusion en tant que
   prescripteur habilité ou orienteur (avec ou sans organisation)
 ---
 
-# M'inscrire sur la Plateforme
+# M'inscrire sur les emplois de l'inclusion
 
 Cliquez en haut à droite sur le bouton **"Se connecter" \[1\] ,** puis sélectionnez **"Prescripteur" \[2\] :**
 
@@ -125,7 +125,7 @@ Vous serez notifié\(e\) par mail dès que votre demande d'habilitation aura ét
 ## Inscription pour une organisation conventionnée par un Conseil Départemental **pour le suivi des Bénéficiaires du RSA**
 
 {% hint style="success" %}
-Si votre organisation travaille pour le compte du Conseil Départemental dans le cadre du suivi des BRSA, vous pouvez prétendre au statut de prescripteur habilité.
+[Si votre organisation travaille pour le compte du Conseil Départemental dans le cadre du suivi des BRSA, vous pouvez prétendre au statut de prescripteur habilité.](https://emplois.inclusion.beta.gouv.fr/signup/prescriber/is_pole_emploi)
 {% endhint %}
 
 A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** puis sur **"Continuer"**
@@ -172,7 +172,7 @@ A la question **"**_Pour qui travaillez-vous ?"_, **sélectionnez "Pour une orga
 ![](../.gitbook/assets/organonhab.png)
 
 {% hint style="info" %}
-**Vous pouvez également faire le choix d'utiliser la plateforme sans vous rattacher à une organisation. Dans ce cas cliquez sur "Seul \(sans organisation\)".** [**\[Voir la suite du processus d'inscription pour un orienteur sans organisation\]**](inscription-prescripteur.md#inscription-pour-un-orienteur-sans-organisation)\*\*\*\*
+**Vous pouvez également faire le choix d'utiliser les emplois de l'inclusion sans vous rattacher à une organisation. Dans ce cas cliquez sur "Seul \(sans organisation\)".** [**\[Voir la suite du processus d'inscription pour un orienteur sans organisation\]**](inscription-prescripteur.md#inscription-pour-un-orienteur-sans-organisation)\*\*\*\*
 {% endhint %}
 
 Renseignez le **numéro de SIRET** de votre organisation, puis cliquez sur "**Continuer"**

@@ -65,9 +65,6 @@ Le prescripteur habilité peut :
 * Valider l’éligibilité à l’IAE d’un candidat pour 6 mois \(valable sur toutes les structures\)
 * Déroger aux critères administratifs exigés pour l’IAE \( s’il estime qu’un parcours IAE est pertinent suite au diagnostic socio-professionnel
 * Déroger au délai de carence entre 2 PASS IAE/Agrément \(délai de carence = 2 ans\)
-
-Et prochainement, il pourra : 
-
 * Autoriser une prolongation du PASS IAE
 {% endhint %}
 

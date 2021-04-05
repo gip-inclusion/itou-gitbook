@@ -4,7 +4,7 @@ description: La vidéo en bas de page vous montre comment faire
 
 # Envoyer ma candidature à un employeur
 
-1. **Rendez-vous** sur la page d'accueil de la [**Plateforme de l'inclusion**](https://inclusion.beta.gouv.fr/)\*\*\*\*
+1. **Rendez-vous** sur la page d'accueil des [emplois de l'inclusion](https://emplois.inclusion.beta.gouv.fr/)
 2. Cliquez sur **Se connecter** quand vous avez un compte
 3. Dans la **barre de recherche tapez le nom de votre ville**, puis cliquer sur **Rechercher** : la **liste des employeurs** s'affiche !
    * Vous pouvez aussi **sélectionner la distance de recherche \(5,10, 15 km...\)**

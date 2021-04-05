@@ -6,7 +6,7 @@
 
 * **Embauche directe** de candidats et **mise à disposition auprès de leurs entreprises adhérentes**
 * Parcours en **alternance de 6 à 24 mois** \(apprentissage et professionnalisation\)
-* **Pas besoin de** [**Pass IAE**](pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) **pour recruter** via la Plateforme
+* **Pas besoin de** [**Pass IAE**](pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) **pour recruter** via les emplois de l'inclusion
 
 Les GEIQ ne sont pas des [**Structures de l’insertion par l’activité économique \(SIAE\)**](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) ****mais participent à l’écosystème des acteurs de l’Inclusion.
 

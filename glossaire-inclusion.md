@@ -4,7 +4,7 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
 
 # 💡Mon glossaire de l'inclusion
 
-| Acronymes | Définitions |
+| Sigles | Définitions |
 | :--- | :--- |
 | **AAH** | Allocation aux adultes handicapés \([en savoir plus](https://www.service-public.fr/particuliers/vosdroits/F12242)\) |
 | **ACI** | Atelier de chantier d'insertion \([employeurs solidaires](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)\) |

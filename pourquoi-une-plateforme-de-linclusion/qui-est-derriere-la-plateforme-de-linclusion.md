@@ -1,4 +1,4 @@
-# Qui est derrière la Plateforme de l'inclusion ?
+# Qui est à l'origine du projet ?
 
 
 
@@ -11,7 +11,13 @@
 * Les services [**Pôle emploi** ](https://www.pole-emploi.fr/accueil/)
 * Et accompagnée par la [**Direction Interministérielle au Numérique** ](https://www.numerique.gouv.fr/)\(DINUM\)
 
-**La réalisation et le déploiement** sont assurés par la ****[**startup d'État Itou**](https://beta.gouv.fr/startups/itou.html)**.** En savoir plus sur les [**start-ups d'état**](https://beta.gouv.fr/)**.**
+**La réalisation et le déploiement** sont assurés par la ****[**startup d'État Itou**](https://beta.gouv.fr/startups/itou.html)**.** 
+
+{% hint style="info" %}
+En savoir plus sur les [**startups d'état**](https://beta.gouv.fr/)**.**
+{% endhint %}
+
+
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-13.30.17.png)
 

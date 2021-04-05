@@ -4,7 +4,7 @@ description: >-
   l’emploi durable (les principales mesures).
 ---
 
-# Quelles sont les mesures phare du Pacte IAE ?
+# Les mesures phares du Pacte IAE
 
 ![](../../.gitbook/assets/1h.png)
 

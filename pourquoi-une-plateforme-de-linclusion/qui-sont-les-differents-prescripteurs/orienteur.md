@@ -1,8 +1,10 @@
 # Orienteur
 
-L'orienteur est un prescripteur non-habilité \(club sportif, éducateur de rue, association de chômeurs longue durée, bénévole associatif...\). Il peut **postuler pour un candidat auprès des** [**employeurs solidaires**](../qui-sont-les-employeurs-solidaires.md) **via la Plateforme,** il n'a aucun besoin d'être habilité pour cela. 
+L'orienteur est un prescripteur non-habilité \(club sportif, éducateur de rue, association de chômeurs longue durée, bénévole associatif…\).
 
-Néanmoins dans le cadre d'une [**SIAE**](../qui-sont-les-employeurs-solidaires.md), **l’éligibilité de son candidat sera réalisée par la SIAE** au moment de l'embauche.
+Il peut **proposer des candidatures aux employeurs solidaires.**
+
+**L’éligibilité IAE de son candidat sera vérifiée et validée par la SIAE** au moment de l'embauche.
 
 {% hint style="warning" %}
 Si le **candidat ne remplit pas les** [**critères administratifs d'éligibilité**](../../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1) ****ou est **hors délai de carence** \(2 ans entre deux parcours\), l'orienteur devra **l'adresser à un** [**prescripteur habilité**](prescripteur-habilite.md)**.**
@@ -14,9 +16,5 @@ Si le **candidat ne remplit pas les** [**critères administratifs d'éligibilit�
 
 
 
-{% hint style="info" %}
-\*\*\*\*[**Prescripteurs : des réponses à vos questions dans notre FAQ**]()\*\*\*\*
-{% endhint %}
-
-###     ****👉 ****[**Je suis orienteur ? Je m'inscris à la Plateforme**](https://inclusion.beta.gouv.fr/) ****
+###     ****👉\*\*\*\*[ **Je suis orienteur ? Je m'inscris**](https://emplois.inclusion.beta.gouv.fr/signup/prescriber/is_pole_emploi)\*\*\*\*
 

@@ -1,31 +1,76 @@
-# Pass IAE : un agrément plus simple, c'est-à-dire?
+# Pass IAE : un agrément plus simple
 
-* **Suppression de l’agrément délivré par Pôle** **emploi** avant toute embauche IAE
-* En remplacement, **évaluation et validation de l'éligibilité à l’IAE via la Plateforme \(**[**critères d'éligibilité**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1)**\)** selon 2 voies  : 
+## **Le PASS IAE :** 
 
+* valide l’entrée en parcours IAE du candidat
+* a une durée de validité de 2 ans [\(des prolongations sont possibles dans certains cas\)](pass-iae-agrement-plus-simple-cest-a-dire.md#prolongation)
+* permet au candidat d’être recruté par toutes les structures d’insertion
+* permet à une structure d’insertion de bénéficier d’une aide au poste pour l’embauche d’un candidat
+
+## **Qu'est ce qui change  ?**
+
+* **Suppression de la délivrance de l'agrément par Pôle** **emploi** avant toute embauche IAE
+* En remplacement, **évaluation et validation de l'éligibilité à l’IAE via** [**les emplois de l'inclusion** ](https://emplois.inclusion.beta.gouv.fr/)**\(**[**critères d'éligibilité**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1)**\)** selon 2 voies  : 
   * Par les [**prescripteurs habilités**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)\*\*\*\*
   * Directement par les [**SIAE** ](pass-iae-agrement-plus-simple-cest-a-dire.md#recrutement-direct-par-une-siae)\*\*\*\*
 
-![](../.gitbook/assets/thumbs-up.svg) **Envoi de candidatures réalisables par** [**tous les prescripteurs**](qui-sont-les-differents-prescripteurs/) **sans exception** \(SPE, organismes habilités en national ou par le Préfet, orienteurs avec ou sans organisation\), et **en** **auto-prescription par les** [**SIAE**](qui-sont-les-employeurs-solidaires.md) \(candidatures spontanées\). Toutefois, si le **candidat est adressé par un orienteur**, son **éligibilité** **sera validée par la SIAE**.
+## Comment ça marche ? 
 
-![](../.gitbook/assets/thumbs-up.svg) **Pass IAE délivré par la Plateforme sous ≈ 2 jours ouvrés** pour toute demande d'embauche, dès lors que **le candidat remplit** [**1 critère de niveau 1 ou 3 critères de niveau 2**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1). **Éligibilité du candidat garantie 6 mois**. 
+### **Etape 1 : La candidature**
 
-\*\*\*\*![](../.gitbook/assets/thumbs-up.svg) **Numéro de Pass IAE qui remplace l'agrément Pôle emploi**. À la même valeur. Est valide, dès sa réception par mail, pour l'**Extranet IAE 2.0 de l'ASP**.
+L'envoi de candidature est possible pour : 
 
-![](../.gitbook/assets/thumbs-up.svg) Nouveau système d'agrément **rattaché à une personne et non plus à un parcours**. Le **numéro de Pass IAE reste le même tout au long du parcours du candidat \(24 mois\)**, même si celui-ci change de SIAE. 
+* Un prescripteur habilité
+* Un orienteur
+* Un candidat
+* Un employeur dans le cadre de l'auto prescription
 
+### Etape 2 : La validation de l'éligibilité à l'IAE
 
+{% hint style="info" %}
+Les orienteurs et les candidats ne peuvent pas valider d'éligibilité à l'IAE, cette étape ne leur est donc pas proposée.
 
-![](../.gitbook/assets/arrow-right-circle-1-.svg) Un [**candidat**](../qui-est-eligible-iae-criteres-eligibilite/) peut bénéficier de **plusieurs parcours IAE d'une durée de 24 mois chacun**, à condition de respecter un **délai de carence de 2 ans** entre les parcours.
+#### Seuls les prescripteurs habilités et les SIAE peuvent valider l'éligibilité à l'IAE d'un candidat
+{% endhint %}
 
-![](../.gitbook/assets/arrow-right-circle-1-.svg) Seul le ****[**prescripteur habilité**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md) peut prescrire un **parcours qui déroge à l'obligation de carence de 2 ans ou à celle des** [**critères d'éligibilité**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1). Un orienteur qui accompagne un candidat dans cette situation peut l'adresser au prescripteur habilité.
+#### 🟢 La validation de l'éligibilité IAE par les prescripteurs habilités : 
 
+Le prescripteur habilité peut valider l'éligibilité à l'IAE d'un candidat sur la base d'un diagnostic socio-professionnel réalisé dans le cadre d'un entretien.
 
+{% hint style="success" %}
+Seul le ****[**prescripteur habilité**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md) peut prescrire un **parcours qui déroge à l'obligation de carence de 2 ans entre 2 parcours IAE et/ou à celle des** [**critères administratifs d'éligibilité IAE.**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1)\*\*\*\*
 
-{% hint style="warning" %}
-**Objectif du Pass IAE** : 
+**Toutes les candidatures transmises par un prescripteur habilité via les emplois de l'inclusion sont reconnues éligibles à l'IAE pour 6 mois.**
+{% endhint %}
 
-**Accélérer la délivrance de l'agrément** pour le candidat et **fluidifier son parcours**, tout **en allégeant les contraintes administratives** des professionnels pour leur permettre de **se consacrer pleinement à leur mission**.
+#### 🟣La validation de l'éligibilité IAE par les SIAE : 
+
+Si une SIAE souhaite embaucher un candidat dans le cadre d'un parcours IAE, ce candidat doit avoir une éligibilité IAE en cours de validité, si ce n'est pas le cas l'employeur doit réaliser lui-même la validation de l'éligibilité à l'IAE.
+
+Une SIAE peut valider l'éligibilité à l'IAE du candidat en respectant ces 2 étapes : 
+
+* La réalisation du diagnostic socio-professionnel de la situation du candidat
+* La vérification des critères administratifs d'éligibilité à l'IAE \(sur la base des pièces justificatives\)
+
+![](../.gitbook/assets/image%20%2851%29.png)
+
+{% hint style="info" %}
+**\* L’éligibilité à l’IAE d’un candidat est associée à son profil utilisateur** et reste donc active pendant :  
+
+* 6 mois s’il a déjà été orienté par un prescripteur habilité via les emplois de l'inclusion
+* 24 mois s’il est déjà en parcours IAE \(avec un PASS IAE en cours de validité\)
+{% endhint %}
+
+### Etape 3 : La demande d'obtention du PASS IAE 
+
+Pour obtenir un PASS IAE, l'employeur doit valider l'embauche du candidat éligible à l'IAE directement depuis son tableau de bord : 
+
+* Le [PASS IAE est délivré dans un délai maximum de 2 jours ouvrés.](pass-iae-agrement-plus-simple-cest-a-dire.md#verification-des-demandes-de-pass-iae)
+* Un numéro de PASS IAE est communiqué à l'employeur pour les démarches dans l'Extranet IAE 2.0 de l'ASP
+* Une attestation de PASS IAE est disponible au téléchargement 5 jours après le démarrage du contrat.
+
+{% hint style="info" %}
+La SIAE est soumise aux contrôles à postériori de la DIRECCTE pour toutes les embauches pour lesquelles elle a validé elle-même l'éligibilité à l'IAE du candidat.
 {% endhint %}
 
 
@@ -33,34 +78,6 @@
 ###                                     **Le Pass IAE versus l'agrément Pôle emploi**
 
 ![](../.gitbook/assets/capture-de-cran-2020-07-06-a-12.49.19.png)
-
-### \*\*\*\*
-
-### **Prescription par un prescripteur habilité**
-
-* Pôle emploi, mission locales, CAP emploi
-* Des acteurs tels que le Conseil départemental, le SPIP, la PJJ…
-* D’autres organismes validés par le Préfet \(CCAS, CAF, Centres d'hébergements, associations caritatives, CADA, services de l'ASE, Plie, EBE…**\)**
-* Après avoir effectué un diagnostic socio-professionnel individualisé
-
-![](../.gitbook/assets/capture-de-cran-2020-06-22-a-17.16.19.png) Pour ces prescripteurs habilités, **la prescription vaut contrôle d'éligibilité** à l'IAE
-
-![](../.gitbook/assets/capture-de-cran-2020-06-22-a-17.24.20.png)
-
-### R**ecrutement direct par une SIAE**
-
-* Candidat sous critères d’éligibilité \(allocataire RSA, ASS, AAH, TH, senior, sous autorité de justice, QPV, DETLD, en sortie de l'ASE, niveau d’étude 3 et infra, DELD de + 12 mois, etc.\)
-* Après avoir effectué un diagnostic socio-professionnel individualisé
-
-![](../.gitbook/assets/capture-de-cran-2020-06-22-a-17.16.19.png) Pour toute SIAE, le **contrôle d’éligibilité se fait a posteriori \(Direccte\)**
-
-![](../.gitbook/assets/capture-de-cran-2020-06-22-a-17.29.05.png)
-
-\*\*\*\*
-
-{% hint style="success" %}
-Cette **refonte de l’agrément** a été mise en œuvre sur **3 régions d’expérimentation** \(Ile-de-France, Haut-de-France, Grand Est\) avant de se **généraliser progressivement  d'ici fin 2020.**
-{% endhint %}
 
 {% hint style="info" %}
 👉\*\*\*\*[ **Retrouvez tout le détail de la refonte de l'agrément**](https://synesi.fr/wp-content/uploads/2019/09/20190910-Pacte_d_ambition_iae_sept_2019_Mesure-29.pdf)

@@ -7,7 +7,7 @@ Seul **l'administrateur** \(celui qui a créé le compte\) peut **ajouter une no
 {% hint style="info" %}
 Vous pouvez **rattacher plusieurs établissements à un même compte** à condition qu'ils **soient du même type** et qu'ils aient le **même numéro SIREN**, suivez le mode d'emploi plus bas.
 
-Nous utilisons le SIRET comme identifiant unique sur la plateforme. Si vos établissements ont le même SIRET, il faudra modifier les cinq derniers chiffres par 99999 pour vous permettre d'avoir un nouvel identifiant unique \(le SIREN doit rester le même\).
+Nous utilisons le SIRET comme identifiant unique sur les emplois de l'inclusion. Si vos établissements ont le même SIRET, il faudra modifier les cinq derniers chiffres par 99999 pour vous permettre d'avoir un nouvel identifiant unique \(le SIREN doit rester le même\).
 
 Exemple : Je m'inscris avec le SIRET 252525252 12345  
 Je peux créer mes antennes A et B de la manière suivante :
@@ -22,7 +22,7 @@ Je peux créer mes antennes A et B de la manière suivante :
 {% hint style="info" %}
 Si votre SIREN et/ou le type de structure est différent, vous devrez nous écrire à assistance@inclusion.beta.gouv.fr pour nous demander de vous rattacher à cette SIAE en nous précisant :
 
-* l'e-mail de votre compte personnel sur la plateforme
+* l'e-mail de votre compte personnel sur les emplois de l'inclusion
 * le type et le SIRET de la structure que vous voulez créer
 * le type et le SIRET de la structure dont vous êtes déjà membre
 {% endhint %}

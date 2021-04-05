@@ -4,7 +4,7 @@ description: Ne manquez pas le tutoriel en fin de page pour vous accompagner
 
 # Postuler pour un candidat - Prescrire
 
-1. **Recherchez les** [**employeurs solidaires**](https://doc.inclusion.beta.gouv.fr/presentation/employeurs-solidaires) **par ville** sur la page d'accueil de la [**Plateforme**](https://inclusion.beta.gouv.fr/)\*\*\*\*
+1. **Recherchez les** [**employeurs solidaires**](https://doc.inclusion.beta.gouv.fr/presentation/employeurs-solidaires) **par ville** sur la page d'accueil des [emplois de l'inclusion](https://emplois.inclusion.beta.gouv.fr/)
 2. **Cliquez sur une entreprise** au choix, puis sur **Postuler** en bas de la fiche entreprise
 3. Saisissez l'adresse **mail du candidat** \(laissez-vous guider s'il n'a pas de mail\)
    * **Il a un compte ?** Il suffit d'écrire à l'employeur et de cliquez sur **Envoyer la candidature**
