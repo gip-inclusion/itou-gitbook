@@ -1,4 +1,4 @@
-# 🥇Qui peut bénéficier du contrat GEIQ ?
+# 📜Qui peut bénéficier du contrat GEIQ ?
 
 ### Définition d'un GEIQ
 

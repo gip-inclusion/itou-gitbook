@@ -1,4 +1,4 @@
-# 🏆Qui est éligible à l'IAE \(critères d'éligibilité & diagnostic\) ?
+# 🎫Qui est éligible à l'IAE \(critères d'éligibilité & diagnostic\) ?
 
 **Qui peut bénéficier d'un parcours d'Insertion par l'Activité Economique \(IAE\) :**
 

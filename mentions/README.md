@@ -2,7 +2,7 @@
 description: Connaitre nos mentions légales et CGU
 ---
 
-# ✏️Mentions légales
+# 🚨 Mentions légales
 
 {% page-ref page="mentions-legales.md" %}
 
