@@ -6,6 +6,7 @@
 * En remplacement, **évaluation et validation de l'éligibilité à l’IAE via** [**les emplois de l'inclusion** ](https://emplois.inclusion.beta.gouv.fr/)**\(**[**critères d'éligibilité**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1)**\)** selon 2 voies  : 
   * Par les [**prescripteurs habilités**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)\*\*\*\*
   * Directement par les [**SIAE** ](pass-iae-agrement-plus-simple-cest-a-dire.md#recrutement-direct-par-une-siae)\*\*\*\*
+* **Délivrance d'un** [**PASS IAE**](../qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md) **déclenché par la SIAE** lors de la confirmation d'embauche en ligne
 
 {% page-ref page="../qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md" %}
 
