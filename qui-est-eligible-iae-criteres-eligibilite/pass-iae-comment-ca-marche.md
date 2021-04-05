@@ -1,13 +1,13 @@
 # PASS IAE : Comment ça marche ?
 
-**Le PASS IAE :** 
+## **Le PASS IAE :** 
 
 * valide l’entrée en parcours IAE du candidat
 * a une durée de validité de 2 ans [\(des prolongations sont possibles dans certains cas\)](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#prolongation)
 * permet au candidat d’être recruté par toutes les structures d’insertion
 * permet à une structure d’insertion de bénéficier d’une aide au poste pour l’embauche d’un candidat
 
-### **Etape 1 : Réaliser une candidature**
+## **Etape 1 : Réaliser une candidature**
 
 L'envoi de candidature est possible pour : 
 
@@ -16,7 +16,7 @@ L'envoi de candidature est possible pour :
 * Un candidat
 * Un employeur dans le cadre de l'auto prescription
 
-### Etape 2 : Valider l'éligibilité à l'IAE
+## Etape 2 : Valider l'éligibilité à l'IAE
 
 {% hint style="info" %}
 Les orienteurs et les candidats ne peuvent pas valider d'éligibilité à l'IAE, cette étape ne leur est donc pas proposée.
@@ -24,7 +24,7 @@ Les orienteurs et les candidats ne peuvent pas valider d'éligibilité à l'IAE,
 #### Seuls les prescripteurs habilités et les SIAE peuvent valider l'éligibilité à l'IAE d'un candidat
 {% endhint %}
 
-#### 🟢 La validation de l'éligibilité IAE par les prescripteurs habilités : 
+### 🟢 La validation de l'éligibilité IAE par les prescripteurs habilités : 
 
 Le prescripteur habilité peut valider l'éligibilité à l'IAE d'un candidat sur la base d'un diagnostic socio-professionnel réalisé dans le cadre d'un entretien.
 
@@ -34,7 +34,7 @@ Seul le ****[**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusio
 **Toutes les candidatures transmises par un prescripteur habilité via les emplois de l'inclusion sont reconnues éligibles à l'IAE pour 6 mois.**
 {% endhint %}
 
-#### 🟣La validation de l'éligibilité IAE par les SIAE : 
+### 🟣La validation de l'éligibilité IAE par les SIAE : 
 
 Si une SIAE souhaite embaucher un candidat dans le cadre d'un parcours IAE, ce candidat doit avoir une éligibilité IAE en cours de validité, si ce n'est pas le cas l'employeur doit réaliser lui-même la validation de l'éligibilité à l'IAE.
 
@@ -52,7 +52,7 @@ Une SIAE peut valider l'éligibilité à l'IAE du candidat en respectant ces 2 �
 * 24 mois s’il est déjà en parcours IAE \(avec un PASS IAE en cours de validité\)
 {% endhint %}
 
-### Etape 3 : Demander l'obtention du PASS IAE 
+## Etape 3 : Demander l'obtention du PASS IAE 
 
 Pour obtenir un PASS IAE, l'employeur doit valider l'embauche du candidat éligible à l'IAE directement depuis son tableau de bord : 
 
