@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📚Documentation sur les emplois de l'inclusion](README.md)
+* [📚 Documentation sur les emplois de l'inclusion](README.md)
 * [💼 Pourquoi "Les emplois de l'inclusion" ?](pourquoi-une-plateforme-de-linclusion/README.md)
   * [Une co-construction avec les acteurs de l'IAE](pourquoi-une-plateforme-de-linclusion/participer-a-la-plateforme-de-linclusion.md)
   * [Une communauté d'ambassadeurs](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md)
@@ -18,16 +18,16 @@
 
 ---
 
-* [🎫Parcours IAE \(Eligibilité & diagnostic\)](qui-est-eligible-iae-criteres-eligibilite/README.md)
+* [🎫 Parcours IAE \(Eligibilité & diagnostic\)](qui-est-eligible-iae-criteres-eligibilite/README.md)
   * [PASS IAE : Comment ça marche ?](qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md)
   * [Dérogation des critères administratifs](qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
-* [📜Contrat GEIQ](qui-peut-beneficier-du-contrat-geiq.md)
+* [📜 Contrat GEIQ](qui-peut-beneficier-du-contrat-geiq.md)
 
 ## Les modes d'emploi
 
 ---
 
-* [📘Mode d'emploi ''prescripteur/orienteur''](mon-mode-demploi-prescripteur/README.md)
+* [📘 Mode d'emploi ''prescripteur/orienteur''](mon-mode-demploi-prescripteur/README.md)
   * [Mon rôle de prescripteur](mon-mode-demploi-prescripteur/fonctionnalites-prescripteur.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-prescripteur/inscription-prescripteur.md)
   * [Administrateur de l'organisation](mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
@@ -36,7 +36,7 @@
   * [Postuler pour un candidat - Prescrire](mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
   * [Créer une adresse e-mail pour un candidat](mon-mode-demploi-prescripteur/creation-adresse-mail-candidat.md)
   * [Modifier les informations d'un candidat](mon-mode-demploi-prescripteur/modifier-les-informations-dun-candidat.md)
-* [📙Mode d'emploi ''employeur solidaire''](mon-monde-demploi-employeur-solidaire/README.md)
+* [📙 Mode d'emploi ''employeur solidaire''](mon-monde-demploi-employeur-solidaire/README.md)
   * [Mon rôle d'employeur](mon-monde-demploi-employeur-solidaire/fonctionnalites-employeur.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-monde-demploi-employeur-solidaire/inscription-employeur.md)
   * [Administrateur de la structure](mon-monde-demploi-employeur-solidaire/administrateur-de-la-structure.md)
@@ -53,7 +53,7 @@
   * [Prolonger un PASS IAE](mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
   * [Annuler l'embauche d'un candidat](mon-monde-demploi-employeur-solidaire/annuler-lembauche-dun-candidat.md)
   * [Gérer les notifications e-mail](mon-monde-demploi-employeur-solidaire/gerer-les-notificiations-e-mail.md)
-* [📗Mode d'emploi ''candidat''](mon-mode-demploi-candidat/README.md)
+* [📗 Mode d'emploi ''candidat''](mon-mode-demploi-candidat/README.md)
   * [Mon rôle de candidat](mon-mode-demploi-candidat/fonctionnalites-candidat.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-candidat/inscription-candidat.md)
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
@@ -71,7 +71,7 @@
   * [🛒 Le Marché de l'inclusion](reponses-a-mes-questions-faq/le-marche-de-linclusion.md)
   * [🎈 Autre](reponses-a-mes-questions-faq/autre.md)
 * [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
-* [💡Glossaire de l'inclusion](glossaire-inclusion.md)
+* [💡 Glossaire de l'inclusion](glossaire-inclusion.md)
 
 ## Communication
 
@@ -80,7 +80,7 @@
 * [🎬 Rendez-vous webinaires](rendez-vous-webinaires/README.md)
   * [Le Marché de l'inclusion](rendez-vous-webinaires/le-marche-de-linclusion.md)
   * [Les emplois de l'inclusion](rendez-vous-webinaires/la-plateforme-de-linclusion.md)
-* [🛠️Outils d'info & de com](outils-information-communiation-de-la-plateforme/README.md)
+* [🛠️ Outils d'info & de com](outils-information-communiation-de-la-plateforme/README.md)
   * [Outils d'information](outils-information-communiation-de-la-plateforme/outils-dinformation/README.md)
     * [Flyer de présentation](outils-information-communiation-de-la-plateforme/outils-dinformation/flyer-de-presentation.md)
     * [Infolettres mensuelles](outils-information-communiation-de-la-plateforme/outils-dinformation/infolettres.md)

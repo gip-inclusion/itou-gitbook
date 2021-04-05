@@ -1,4 +1,4 @@
-# 📜Contrat GEIQ
+# 📜 Contrat GEIQ
 
 ### Définition d'un GEIQ
 

@@ -1,4 +1,4 @@
-# 🛠️Outils d'info & de com
+# 🛠️ Outils d'info & de com
 
 Tout est mis en place pour **vous informer en continu** sur les évolutions de la Plateforme de l’inclusion et les dispositifs du HCIEE, mais aussi pour **vous permettre de diffuser ces actualités** auprès de vos partenaires :
 

@@ -1,4 +1,4 @@
-# 🎫Parcours IAE \(Eligibilité & diagnostic\)
+# 🎫 Parcours IAE \(Eligibilité & diagnostic\)
 
 **Qui peut bénéficier d'un parcours d'Insertion par l'Activité Economique \(IAE\) ? :**
 
