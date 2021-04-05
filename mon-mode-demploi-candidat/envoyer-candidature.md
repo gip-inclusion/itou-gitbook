@@ -17,7 +17,7 @@ description: La vidéo en bas de page vous montre comment faire
 6. Pensez à cliquer sur **Envoyer la candidature**. Bravo, votre **candidature est envoyée !** 👍 
 
 {% hint style="info" %}
-**Postulez chez tous les employeurs que vous souhaitez**. Vous serez **alerté par mail de l'avancée de vos candidatures** \(à l’étude, acceptées, pour plus tard, refusées\). 
+**Postulez chez tous les employeurs que vous souhaitez**. Vous serez **alerté\(e\) par mail de l'avancée de vos candidatures** \(à l’étude, acceptées, pour plus tard, refusées\). 
 
 Si vous souhaitez **savoir à tout moment où en sont vos candidatures**, vous pouvez aussi aller sur **Tableau de bord &gt; Vos candidatures**.
 {% endhint %}
