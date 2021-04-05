@@ -79,7 +79,7 @@
 * [🎬 Rendez-vous webinaires](rendez-vous-webinaires/README.md)
   * [Le Marché de l'inclusion](rendez-vous-webinaires/le-marche-de-linclusion.md)
   * [Les emplois de l'inclusion](rendez-vous-webinaires/la-plateforme-de-linclusion.md)
-* [🛠️Mes outils d'info & de com](outils-information-communiation-de-la-plateforme/README.md)
+* [🛠️Outils d'info & de com](outils-information-communiation-de-la-plateforme/README.md)
   * [Outils d'information](outils-information-communiation-de-la-plateforme/outils-dinformation/README.md)
     * [Flyer de présentation](outils-information-communiation-de-la-plateforme/outils-dinformation/flyer-de-presentation.md)
     * [Infolettres mensuelles](outils-information-communiation-de-la-plateforme/outils-dinformation/infolettres.md)
@@ -101,7 +101,7 @@
 ---
 
 * [🚀La BANDE À ITOU !](la-bande-a-itou.md)
-* [💬Mon Forum de l'inclusion](forum-de-linclusion/README.md)
+* [💬Forum de l'inclusion](forum-de-linclusion/README.md)
   * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
   * [Les espaces d'échanges par territoire](forum-de-linclusion/les-espaces-dechanges-par-territoire.md)
   * [La Ressourcerie](forum-de-linclusion/la-ressourcerie.md)
