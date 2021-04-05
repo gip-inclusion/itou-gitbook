@@ -66,8 +66,6 @@
     * [4 Flyers mode d'emploi](outils-information-communiation-de-la-plateforme/kit-de-communication/flyers-mode-demploi.md)
     * [3 Présentations de réunion](outils-information-communiation-de-la-plateforme/kit-de-communication/presentations-de-reunion.md)
     * [Logo des emplois de l'inclusion](outils-information-communiation-de-la-plateforme/kit-de-communication/logos-plateforme-inclusion.md)
-* [🙋‍♀️ Espace candidats](espace-candidats/README.md)
-  * [📓Conseils \(CV, LM, entretiens\)](espace-candidats/conseils-cv-lm-entretiens.md)
 * [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
 * [💡Mon glossaire de l'inclusion](glossaire-inclusion.md)
 * [✏️Mentions légales](mentions/README.md)
