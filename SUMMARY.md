@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📚Documentation sur la Plateforme de l'inclusion](README.md)
+* [📚Documentation sur les emplois de l'inclusion](README.md)
 * [��🏻‍💻🧑🏾‍💻Pourquoi une Plateforme de l'inclusion ?](pourquoi-une-plateforme-de-linclusion/README.md)
   * [Comment participer à la Plateforme de l'inclusion?](pourquoi-une-plateforme-de-linclusion/participer-a-la-plateforme-de-linclusion.md)
   * [Pourquoi devenir ambassadrice ou ambassadeur ?](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md)

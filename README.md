@@ -1,8 +1,12 @@
-# 📚Documentation sur la Plateforme de l'inclusion
+---
+description: >-
+  Découvrez toute l’information pour mieux comprendre le service numérique les
+  emplois de l'inclusion et orienter vos recherches.
+---
 
-Découvrez **toute l’information** pour **mieux** [**comprendre le service**](pourquoi-une-plateforme-de-linclusion/) numérique de la [**Plateforme de l'inclusion**](https://inclusion.beta.gouv.fr/) et **orienter vos recherches**.
+# 📚Documentation sur les emplois de l'inclusion
 
-La **Plateforme de l’inclusion** a été conçue dans le cadre du [**Pacte IAE**](https://travail-emploi.gouv.fr/IMG/pdf/pacte_d_ambition_iae_sept_2019_synthese.pdf), un dispositif d’État pour l’**Inclusion par l’Activité Économique** **des personnes les plus éloignées de l’emploi** en raison de difficultés sociales, professionnelles, ou de santé.
+Le site les emplois de l'inclusion a été conçu dans le cadre du [**Pacte IAE**](https://travail-emploi.gouv.fr/IMG/pdf/pacte_d_ambition_iae_sept_2019_synthese.pdf), un dispositif d’État pour l’**Inclusion par l’Activité Économique** **des personnes les plus éloignées de l’emploi** en raison de difficultés sociales, professionnelles, ou de santé.
 
 C’est un **téléservice évolutif** porté par :
 
