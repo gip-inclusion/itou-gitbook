@@ -23,9 +23,9 @@ C’est un **téléservice évolutif** porté par :
 
 ![](.gitbook/assets/check-square.svg) Le [Diagnostic socio-professionnel](qui-est-eligible-iae-criteres-eligibilite/#diagnostic_de_reference)
 
-![](.gitbook/assets/monitor.svg) Le calendrier des [webinaires de la Plateforme de l'inclusion avec les replays](rendez-vous-webinaires/)
+![](.gitbook/assets/monitor.svg) Le calendrier des [webinaires](rendez-vous-webinaires/)
 
-![](.gitbook/assets/book-open.svg) Le [Kit de communication](outils-information-communiation-de-la-plateforme/kit-de-communication/) de la Plateforme 🚀 
+![](.gitbook/assets/book-open.svg) Le [Kit de communication](outils-information-communiation-de-la-plateforme/kit-de-communication/) 
 
 
 
