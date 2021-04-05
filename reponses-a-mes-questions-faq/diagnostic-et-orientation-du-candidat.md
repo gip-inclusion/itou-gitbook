@@ -79,7 +79,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 ### _Comment lancer une recherche sur les emplois de l'inclusion ?_
 
 {% hint style="info" %}
-Rendez-vous sur [https://inclusion.beta.gouv.fr/](https://inclusion.beta.gouv.fr/)
+Rendez-vous sur [https://emplois.inclusion.beta.gouv.fr](https://emplois.inclusion.beta.gouv.fr/)
 
 Renseignez la ville dans laquelle vous souhaitez lancer une recherche, sélectionnez la ville dans le menu déroulant \(sans cette sélection le moteur de recherche ne fonctionnera pas même si la ville est bien orthographiée\)
 
