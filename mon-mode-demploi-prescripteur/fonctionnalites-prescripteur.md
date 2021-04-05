@@ -24,13 +24,5 @@
 
 
 
-
-
-\*\*\*\*
-
-{% hint style="info" %}
-[**Prescripteurs : des réponses à vos questions dans notre FAQ**]()\*\*\*\*
-{% endhint %}
-
-###     ****👉 ****[**Je suis prescripteur ? Je m'inscris à la Plateforme**](https://inclusion.beta.gouv.fr/)\*\*\*\*
+###     ****👉 ****[**Je suis prescripteur ? Je m'inscris**](https://emplois.inclusion.beta.gouv.fr/)\*\*\*\*
 
