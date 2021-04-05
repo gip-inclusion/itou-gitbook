@@ -1,4 +1,4 @@
-# 📙Mon mode d'emploi ''employeur solidaire''
+# 📙Mode d'emploi ''employeur solidaire''
 
 **Découvrez les informations et les tutos pour vous aider à utiliser les emplois de l'inclusion:**
 

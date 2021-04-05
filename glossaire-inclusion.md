@@ -2,7 +2,7 @@
 description: Glossaire des métiers de l'insertion et de l'inclusion
 ---
 
-# 💡Mon glossaire de l'inclusion
+# 💡Glossaire de l'inclusion
 
 | Sigles | Définitions |
 | :--- | :--- |

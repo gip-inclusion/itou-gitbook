@@ -26,7 +26,7 @@
 
 ---
 
-* [📘Mon mode d'emploi ''prescripteur/orienteur''](mon-mode-demploi-prescripteur/README.md)
+* [📘Mode d'emploi ''prescripteur/orienteur''](mon-mode-demploi-prescripteur/README.md)
   * [Mon rôle de prescripteur](mon-mode-demploi-prescripteur/fonctionnalites-prescripteur.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-prescripteur/inscription-prescripteur.md)
   * [Administrateur de l'organisation](mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
@@ -35,7 +35,7 @@
   * [Postuler pour un candidat - Prescrire](mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
   * [Créer une adresse e-mail pour un candidat](mon-mode-demploi-prescripteur/creation-adresse-mail-candidat.md)
   * [Modifier les informations d'un candidat](mon-mode-demploi-prescripteur/modifier-les-informations-dun-candidat.md)
-* [📙Mon mode d'emploi ''employeur solidaire''](mon-monde-demploi-employeur-solidaire/README.md)
+* [📙Mode d'emploi ''employeur solidaire''](mon-monde-demploi-employeur-solidaire/README.md)
   * [Mon rôle d'employeur](mon-monde-demploi-employeur-solidaire/fonctionnalites-employeur.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-monde-demploi-employeur-solidaire/inscription-employeur.md)
   * [Administrateur de la structure](mon-monde-demploi-employeur-solidaire/administrateur-de-la-structure.md)
@@ -52,7 +52,7 @@
   * [Prolonger un PASS IAE](mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
   * [Annuler l'embauche d'un candidat](mon-monde-demploi-employeur-solidaire/annuler-lembauche-dun-candidat.md)
   * [Gérer les notifications e-mail](mon-monde-demploi-employeur-solidaire/gerer-les-notificiations-e-mail.md)
-* [📗Mon mode d'emploi ''candidat''](mon-mode-demploi-candidat/README.md)
+* [📗Mode d'emploi ''candidat''](mon-mode-demploi-candidat/README.md)
   * [Mon rôle de candidat](mon-mode-demploi-candidat/fonctionnalites-candidat.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-candidat/inscription-candidat.md)
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
@@ -70,7 +70,7 @@
   * [🛒 Le Marché de l'inclusion](reponses-a-mes-questions-faq/le-marche-de-linclusion.md)
   * [🎈 Autre](reponses-a-mes-questions-faq/autre.md)
 * [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
-* [💡Mon glossaire de l'inclusion](glossaire-inclusion.md)
+* [💡Glossaire de l'inclusion](glossaire-inclusion.md)
 
 ## Communication
 
