@@ -13,9 +13,19 @@
     * [Orienteur](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/orienteur.md)
   * [Les employeurs solidaires](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)
   * [Qui est à l'origine du projet ?](pourquoi-une-plateforme-de-linclusion/qui-est-derriere-la-plateforme-de-linclusion.md)
-* [🎫Qui est éligible à l'IAE \(critères d'éligibilité & diagnostic\) ?](qui-est-eligible-iae-criteres-eligibilite/README.md)
+
+## Les dispositifs
+
+---
+
+* [🎫Parcours IAE \(Eligibilité & diagnostic\)](qui-est-eligible-iae-criteres-eligibilite/README.md)
   * [Dérogation des critères administratifs](qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
-* [📜Qui peut bénéficier du contrat GEIQ ?](qui-peut-beneficier-du-contrat-geiq.md)
+* [📜Contrat GEIQ](qui-peut-beneficier-du-contrat-geiq.md)
+
+## Les modes d'emploi
+
+---
+
 * [📘Mon mode d'emploi ''prescripteur/orienteur''](mon-mode-demploi-prescripteur/README.md)
   * [Mon rôle de prescripteur](mon-mode-demploi-prescripteur/fonctionnalites-prescripteur.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-prescripteur/inscription-prescripteur.md)
@@ -46,6 +56,11 @@
   * [Mon rôle de candidat](mon-mode-demploi-candidat/fonctionnalites-candidat.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-candidat/inscription-candidat.md)
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
+
+## Les F.A.Q
+
+---
+
 * [🔎 Foire aux questions PRO](reponses-a-mes-questions-faq/README.md)
   * [📝 Inscription & Gestion de compte](reponses-a-mes-questions-faq/inscription-gestion-de-compte.md)
   * [✅ Orientation candidat & Eligibilité IAE](reponses-a-mes-questions-faq/diagnostic-et-orientation-du-candidat.md)
@@ -54,6 +69,12 @@
   * [👥 Rôle des différents utilisateurs \(employeurs, prescripteurs habilités, orienteurs, candidats\)](reponses-a-mes-questions-faq/role-des-differents-utilisateurs.md)
   * [🛒 Le Marché de l'inclusion](reponses-a-mes-questions-faq/le-marche-de-linclusion.md)
   * [🎈 Autre](reponses-a-mes-questions-faq/autre.md)
+* [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
+
+## Communication
+
+---
+
 * [🎬 Rendez-vous webinaires](rendez-vous-webinaires/README.md)
   * [Le Marché de l'inclusion](rendez-vous-webinaires/le-marche-de-linclusion.md)
   * [Les emplois de l'inclusion](rendez-vous-webinaires/la-plateforme-de-linclusion.md)
@@ -66,7 +87,6 @@
     * [4 Flyers mode d'emploi](outils-information-communiation-de-la-plateforme/kit-de-communication/flyers-mode-demploi.md)
     * [3 Présentations de réunion](outils-information-communiation-de-la-plateforme/kit-de-communication/presentations-de-reunion.md)
     * [Logo des emplois de l'inclusion](outils-information-communiation-de-la-plateforme/kit-de-communication/logos-plateforme-inclusion.md)
-* [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
 * [💡Mon glossaire de l'inclusion](glossaire-inclusion.md)
 * [🚨 Mentions légales](mentions/README.md)
   * [Mentions légales](mentions/mentions-legales.md)
