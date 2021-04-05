@@ -1,7 +1,7 @@
 ---
 description: >-
-  Découvrez toute l’information pour mieux comprendre le service numérique les
-  emplois de l'inclusion et orienter vos recherches.
+  Découvrez toute l’information pour mieux comprendre le service numérique "les
+  emplois de l'inclusion" et orienter vos recherches.
 ---
 
 # 📚 Documentation sur les emplois de l'inclusion
@@ -10,7 +10,7 @@ Le site les emplois de l'inclusion a été conçu dans le cadre du [**Pacte IAE*
 
 C’est un **téléservice évolutif** porté par :
 
-* Le [Haut-commissariat à l'inclusion dans l'emploi et à l'engagement des entreprises \(HCIEE\)](https://travail-emploi.gouv.fr/ministere/organisation/article/haut-commissaire-a-l-inclusion-dans-l-emploi-et-a-l-engagement-des-entreprises)
+* Le [Haut-commissariat à l'emploi et à l'engagement des entreprises \(HCEEE\)](https://travail-emploi.gouv.fr/ministere/organisation/article/haut-commissaire-a-l-inclusion-dans-l-emploi-et-a-l-engagement-des-entreprises)
 * La [Délégation générale à l’emploi et à la formation professionnelle \(DGEFP\)](https://travail-emploi.gouv.fr/ministere/organisation/organisation-des-directions-et-services/article/organisation-de-la-delegation-generale-a-l-emploi-et-a-la-formation)
 * Les services [Pôle emploi](https://www.pole-emploi.fr/accueil/)
 * Et accompagné par la [Direction Interministérielle au Numérique \(DINUM](https://www.numerique.gouv.fr/)\)
