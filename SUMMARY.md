@@ -57,7 +57,7 @@
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-candidat/inscription-candidat.md)
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
 
-## Les F.A.Q
+## F.A.Q & Glossaire <a id="les-f.a.q"></a>
 
 ---
 
@@ -70,6 +70,7 @@
   * [🛒 Le Marché de l'inclusion](reponses-a-mes-questions-faq/le-marche-de-linclusion.md)
   * [🎈 Autre](reponses-a-mes-questions-faq/autre.md)
 * [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
+* [💡Mon glossaire de l'inclusion](glossaire-inclusion.md)
 
 ## Communication
 
@@ -87,11 +88,19 @@
     * [4 Flyers mode d'emploi](outils-information-communiation-de-la-plateforme/kit-de-communication/flyers-mode-demploi.md)
     * [3 Présentations de réunion](outils-information-communiation-de-la-plateforme/kit-de-communication/presentations-de-reunion.md)
     * [Logo des emplois de l'inclusion](outils-information-communiation-de-la-plateforme/kit-de-communication/logos-plateforme-inclusion.md)
-* [💡Mon glossaire de l'inclusion](glossaire-inclusion.md)
-* [🚨 Mentions légales](mentions/README.md)
-  * [Mentions légales](mentions/mentions-legales.md)
-  * [Conditions Générales d'Utilisation](mentions/conditions-generales-dutilisation.md)
-  * [Protection des données](mentions/protection-des-donnees.md)
+
+## Informations légales <a id="mentions-legales"></a>
+
+* [🚨 Mentions légales](mentions-legales/mentions/README.md)
+  * [Mentions légales](mentions-legales/mentions/mentions-legales.md)
+  * [Conditions Générales d'Utilisation](mentions-legales/mentions/conditions-generales-dutilisation.md)
+  * [Protection des données](mentions-legales/mentions/protection-des-donnees.md)
+
+## Autres services
+
+---
+
+* [🚀La BANDE À ITOU !](la-bande-a-itou.md)
 * [💬Mon Forum de l'inclusion](forum-de-linclusion/README.md)
   * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
   * [Les espaces d'échanges par territoire](forum-de-linclusion/les-espaces-dechanges-par-territoire.md)
@@ -107,7 +116,6 @@
   * [Marquer vote sujet comme "résolu"](forum-de-linclusion/marquer-vote-sujet-comme-resolu.md)
   * [Commentez un sujet](forum-de-linclusion/commentez-un-sujet.md)
   * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
-* [🚀La BANDE À ITOU !](la-bande-a-itou.md)
 * [🤝 Le Marché de l'inclusion](le-marche-de-linclusion/README.md)
   * [Les Entreprises Sociales Inclusives](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
   * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
