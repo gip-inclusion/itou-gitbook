@@ -1,6 +1,6 @@
 # 🎫Parcours IAE \(Eligibilité & diagnostic\)
 
-**Qui peut bénéficier d'un parcours d'Insertion par l'Activité Economique \(IAE\) :**
+**Qui peut bénéficier d'un parcours d'Insertion par l'Activité Economique \(IAE\) ? :**
 
 * Les **personnes** en **difficultés sociales et/ou professionnelles** \(précarité, âge, santé\)
 * **Orientées par un** [**prescripteur habilité ou un orienteur** ](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)vers une[ **SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)
