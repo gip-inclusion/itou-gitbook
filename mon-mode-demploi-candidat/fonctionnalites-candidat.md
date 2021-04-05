@@ -2,7 +2,7 @@
 
 Le site des emplois de l'inclusion est **mon outil.** Il m’aide dans **ma recherche d’emploi en insertion**. Trouver un employeur et le contacter devient **plus facile et rapide pour moi**. 
 
-Sur la page d’accueil, je peux même la [**tester avant de m’inscrire**](https://inclusion.beta.gouv.fr/) pour vérifier qu’il y a des **postes proposés** **autour de chez moi**.
+Sur la page d’accueil, je peux même la[ **tester avant de m’inscrire** ](https://emplois.inclusion.beta.gouv.fr/)pour vérifier qu’il y a des **postes proposés** **autour de chez moi**.
 
 ### En tant que candidat je peux : 
 
@@ -17,6 +17,4 @@ Sur la page d’accueil, je peux même la [**tester avant de m’inscrire**](htt
 
 
 ### [👉 **Je suis candidat ? Je m'inscris**](https://emplois.inclusion.beta.gouv.fr/signup/job_seeker)\*\*\*\*
-
-### \*\*\*\*
 
