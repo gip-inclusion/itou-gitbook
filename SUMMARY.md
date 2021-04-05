@@ -90,12 +90,14 @@
     * [3 Présentations de réunion](outils-information-communiation-de-la-plateforme/kit-de-communication/presentations-de-reunion.md)
     * [Logo des emplois de l'inclusion](outils-information-communiation-de-la-plateforme/kit-de-communication/logos-plateforme-inclusion.md)
 
-## Informations légales <a id="mentions-legales"></a>
+## Informations légales
 
-* [🚨 Mentions légales](mentions-legales/mentions/README.md)
-  * [Mentions légales](mentions-legales/mentions/mentions-legales.md)
-  * [Conditions Générales d'Utilisation](mentions-legales/mentions/conditions-generales-dutilisation.md)
-  * [Protection des données](mentions-legales/mentions/protection-des-donnees.md)
+---
+
+* [🚨 Mentions légales](mentions/README.md)
+  * [Mentions légales](mentions/mentions-legales.md)
+  * [Conditions Générales d'Utilisation](mentions/conditions-generales-dutilisation.md)
+  * [Protection des données](mentions/protection-des-donnees.md)
 
 ## Autres services
 

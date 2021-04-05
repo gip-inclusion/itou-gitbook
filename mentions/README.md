@@ -16,3 +16,5 @@ description: Connaitre nos mentions légales et CGU
 **La Plateforme de l'inclusion est développée en open-source \(AGPL-3.0\). Vous trouverez le code à l'adresse suivante :**[ **github.com/betagouv/itou**](https://github.com/betagouv/itou/)\*\*\*\*
 {% endhint %}
 
+
+
