@@ -122,6 +122,7 @@
 * [🤝 Le Marché de l'inclusion](le-marche-de-linclusion/README.md)
   * [Les Entreprises Sociales Inclusives](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
   * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
+    * [F.A.Q Le marché de l'inclusion](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/f.a.q-le-marche-de-linclusion.md)
     * [M'inscrire sur le Marché](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/minscrire-sur-le-marche.md)
     * [Publier mon offre de prestation](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
 
