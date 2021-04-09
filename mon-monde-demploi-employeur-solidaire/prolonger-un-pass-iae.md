@@ -2,6 +2,10 @@
 
 Si vous souhaitez prolonger un PASS IAE, **vous devez obtenir l'autorisation d'un prescripteur habilité inscrit sur les emplois de l'inclusion.**
 
+{% hint style="danger" %}
+_**Pour les agréments gérés par Pôle emploi, il faut continuer de s'adresser à votre agence locale Pôle emploi**_
+{% endhint %}
+
 Les prolongations sont autorisées 3 mois avant la fin d'un PASS IAE pour les motifs suivants : 
 
 * Fin d'une formation \(6 mois de prolongation maximum\) 
