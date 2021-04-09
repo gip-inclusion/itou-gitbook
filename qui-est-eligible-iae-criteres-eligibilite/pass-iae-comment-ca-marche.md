@@ -41,7 +41,7 @@ Si une SIAE souhaite embaucher un candidat dans le cadre d'un parcours IAE, ce c
 Une SIAE peut valider l'éligibilité à l'IAE du candidat en respectant ces 2 étapes : 
 
 * La réalisation du diagnostic socio-professionnel de la situation du candidat
-* La vérification des critères administratifs d'éligibilité à l'IAE \(sur la base des pièces justificatives\)
+* La vérification des [**critères administratifs d'éligibilité IAE**](./#criteres-administratifs-de-niveau-1) \(sur la base des pièces justificatives\)
 
 ![](../.gitbook/assets/image%20%2851%29.png)
 
