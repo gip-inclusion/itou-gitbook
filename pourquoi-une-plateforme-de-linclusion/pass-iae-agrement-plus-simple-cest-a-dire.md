@@ -56,7 +56,7 @@ Le **PASS IAE délivré pour une durée de 2 ans est valable dans toutes les SIA
 ### Suspension : 
 
 {% hint style="warning" %}
-L'employeur peut suspendre un PASS IAE depuis son tableau de bord[ \[ Voir mode d'emploi - Suspendre un PASS IAE \] ](../mon-monde-demploi-employeur-solidaire/suspendre-un-pass-iae.md)
+L'employeur peut suspendre un PASS IAE depuis son tableau de bord[ \[ Voir mode d'emploi - Suspendre un PASS IAE \] ](../mon-monde-demploi-employeur-solidaire/suspendre-un-pass-iae.md). La suspension est possible lorsque le salarié fait partie de l'effectif de l'entreprise.
 
 **Les motifs de suspension légitimes\* sont :**
 
