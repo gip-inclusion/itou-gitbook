@@ -6,7 +6,7 @@
 
 ---
 
-* [📰 Les emplois de l'inclusion](les-emplois-de-linclusion-2.md)
+* [💼 Les emplois de l'inclusion](les-emplois-de-linclusion-2.md)
 * [📈  Le pilotage de l'inclusion](https://pilotage.inclusion.beta.gouv.fr/)
 * [💬 Le forum de l'inclusion](forum-de-linclusion/README.md)
   * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
@@ -34,7 +34,7 @@
 
 ---
 
-* [💼 Pourquoi "Les emplois de l'inclusion" ?](pourquoi-une-plateforme-de-linclusion/README.md)
+* [🔗 Pourquoi "Les emplois de l'inclusion" ?](pourquoi-une-plateforme-de-linclusion/README.md)
   * [Une co-construction avec les acteurs de l'IAE](pourquoi-une-plateforme-de-linclusion/participer-a-la-plateforme-de-linclusion.md)
   * [Une communauté d'ambassadeurs](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md)
   * [C'est quoi l'inclusion par l'emploi ?](pourquoi-une-plateforme-de-linclusion/cest-quoi-linclusion-par-lemploi.md)

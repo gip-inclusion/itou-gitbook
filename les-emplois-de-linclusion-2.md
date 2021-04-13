@@ -1,4 +1,4 @@
-# 📰 Les emplois de l'inclusion
+# 💼 Les emplois de l'inclusion
 
 Le site les emplois de l'inclusion a été conçu dans le cadre du [**Pacte IAE**](https://travail-emploi.gouv.fr/IMG/pdf/pacte_d_ambition_iae_sept_2019_synthese.pdf), un dispositif d’État pour l’**Inclusion par l’Activité Économique** **des personnes les plus éloignées de l’emploi** en raison de difficultés sociales, professionnelles, ou de santé.
 
