@@ -17,7 +17,7 @@ Elles les accompagnent dans leur projet professionnel et peuvent être une passe
 2️⃣ [Le recrutement direct ](contrat-en-entreprise-adaptee.md#2-criteres-deligibilite-ea-eatt-dans-le-cadre-dun-recrutement-direct)
 
 {% hint style="info" %}
-_Les orienteurs et autres prescripteurs habilités IAE peuvent orienter des candidats aux EA sur les Emplois de l’inclusion mais ces recrutements seront considérés comme des “recrutements directs”._ 
+_Les orienteurs et autres prescripteurs habilités IAE peuvent orienter des candidats aux EA sur les emplois de l’inclusion mais ces recrutements seront considérés comme des “recrutements directs”._ 
 {% endhint %}
 
 ## Qui peut intégrer une entreprise adaptée  ? 
