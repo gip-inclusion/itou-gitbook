@@ -8,7 +8,7 @@
 
 * [📰 Les emplois de l'inclusion](les-emplois-de-linclusion-2.md)
 * [📈  Le pilotage de l'inclusion](https://pilotage.inclusion.beta.gouv.fr/)
-* [💬 Le Forum de l'inclusion](forum-de-linclusion/README.md)
+* [💬 Le forum de l'inclusion](forum-de-linclusion/README.md)
   * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
   * [Les espaces d'échanges par territoire](forum-de-linclusion/les-espaces-dechanges-par-territoire.md)
   * [La Ressourcerie](forum-de-linclusion/la-ressourcerie.md)
@@ -23,7 +23,7 @@
   * [Marquer vote sujet comme "résolu"](forum-de-linclusion/marquer-vote-sujet-comme-resolu.md)
   * [Commentez un sujet](forum-de-linclusion/commentez-un-sujet.md)
   * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
-* [🤝 Le Marché de l'inclusion](le-marche-de-linclusion/README.md)
+* [🤝 Le marché de l'inclusion](le-marche-de-linclusion/README.md)
   * [Les Entreprises Sociales Inclusives](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
   * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
     * [F.A.Q Le marché de l'inclusion](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/f.a.q-le-marche-de-linclusion.md)

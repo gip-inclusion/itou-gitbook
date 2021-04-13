@@ -5,7 +5,7 @@ description: >-
   ligne sous forme d'une place de marché.
 ---
 
-# 🤝 Le Marché de l'inclusion
+# 🤝 Le marché de l'inclusion
 
 ### En quoi consiste le Marché de l'inclusion **?**
 
