@@ -6,9 +6,9 @@
 
 ![](.gitbook/assets/les_entreprises_adaptees_rvb_horizontal.png)
 
-L**es entreprises adaptées \(EA\)** et **entreprises adaptées de travail temporaire \(EATT\) permettent à des personnes en situation de handicap d’accéder à l’emploi dans des conditions adaptées à leurs capacités.** 
+Les entreprises adaptées \(EA\) et entreprises adaptées de travail temporaire \(EATT\) permettent à des personnes en situation de handicap d’accéder à l’emploi dans des conditions adaptées à leurs capacités. 
 
-**Elles les accompagnent dans leur projet professionnel** et peuvent être une **passerelle vers d’autres employeurs privés et publics.**
+Elles les accompagnent dans leur projet professionnel et peuvent être une passerelle vers d’autres employeurs privés et publics.
 
 ## 2 modes de recrutement pour les EA/EATT: 
 
