@@ -1,6 +1,6 @@
 # ♿ Contrat en Entreprise Adaptée
 
-## Qu'est ce qu'une Entreprise Adaptée ?
+## Qu'est-ce qu'une Entreprise Adaptée ?
 
 {% embed url="https://youtu.be/AKUHDXphgVw" %}
 
