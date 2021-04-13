@@ -8,7 +8,7 @@
 
 * [📰 Les emplois de l'inclusion](les-emplois-de-linclusion-2.md)
 * [📈  Le pilotage de l'inclusion](https://pilotage.inclusion.beta.gouv.fr/)
-* [💬 Forum de l'inclusion](forum-de-linclusion/README.md)
+* [💬 Le Forum de l'inclusion](forum-de-linclusion/README.md)
   * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
   * [Les espaces d'échanges par territoire](forum-de-linclusion/les-espaces-dechanges-par-territoire.md)
   * [La Ressourcerie](forum-de-linclusion/la-ressourcerie.md)

@@ -4,7 +4,7 @@ description: >-
   l’inclusion.
 ---
 
-# 💬 Forum de l'inclusion
+# 💬 Le Forum de l'inclusion
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
