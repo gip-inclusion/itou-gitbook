@@ -17,16 +17,16 @@ Pour **accompagner le déploiement et faciliter la prise en main du site les emp
 
 **📜 Programme: une présentation détaillée du site les emplois de l'inclusion spéciale prescripteurs + des réponses à vos questions** 
 
-* \*\*\*\*[**Lundi 22 Mars à 11h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-13?type=detailed)
 * \*\*\*\*[**Jeudi 15 Avril à 10h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/open-webinaire-de-demonstration-pour-les-prescripteurs-14?type=detailed)
 {% endhint %}
 
-### _Open webinaires de Questions/réponses pour les employeurs solidaires \(SIAE, GEIQ, EA...\)_
+### _Open webinaires de Questions/Réponses pour les employeurs solidaires \(SIAE, GEIQ, EA...\)_
 
 {% hint style="success" %}
-**⌛ Durée : 1h15**
+**⌛ Durée : 1h30**
 
-* \*\*\*\*[**Mardi 6 avril à 14h00** : Webinaire Questions/réponses pour les Employeurs Solidaires](https://app.livestorm.co/itou/webinaire-questionsreponses-pour-les-employeurs-solidaires-siae-ea-geiq)
+* \*\*\*\*[**Mardi 4 mai à 14h00** : Webinaire Questions/Réponses pour les Employeurs Solidaires](https://app.livestorm.co/itou/webinaire-questionsreponses-employeurs-solidaires-siae-2021)
+* [**Mardi 8 juin à 14h00** : Webinaire Questions/Réponses pour les Employeurs Solidaires](https://app.livestorm.co/itou/webinaire-questionsreponses-employeurs-solidaires-2021?type=detailed)
 {% endhint %}
 
 {% hint style="danger" %}
