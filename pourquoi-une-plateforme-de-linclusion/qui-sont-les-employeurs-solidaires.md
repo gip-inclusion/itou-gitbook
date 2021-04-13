@@ -15,7 +15,9 @@ Les **employeurs solidaires**, appelés aussi **‘’entreprises sociales inclu
 
 
 
-* **Les Entreprises Adaptées \(**[**EA**](qui-sont-les-employeurs-solidaires.md#se-reperer-entre-les-differents-employeurs-solidaires)**\)** dont la spécificité est d'employer **au moins 80 % de travailleurs en situation de handicap.** 
+* **Les Entreprises Adaptées \(**[**EA**](qui-sont-les-employeurs-solidaires.md#se-reperer-entre-les-differents-employeurs-solidaires)**\)** permettent à des personnes reconnues travailleurs handicapés \(RQTH\) éligibles d’exercer une activité professionnelle salariée dans des conditions adaptées à leurs besoins et dans le respect de leurs projets professionnels.
+
+  Au moins **55% de son effectif total doit être composé de personnes ayant la Reconnaissance Qualité de Travailleurs Handicapés \(RQTH\) éligibles**.
 
 \*\*\*\*
 
