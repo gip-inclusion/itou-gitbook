@@ -1,6 +1,39 @@
 # Table of contents
 
-* [📚 Documentation sur les emplois de l'inclusion](README.md)
+* [📚 Documentation sur la Plateforme de l'inclusion](README.md)
+
+## Les services proposés <a id="les-4-services-proposes-par-la-plateforme-de-linclusion"></a>
+
+---
+
+* [📰 Les emplois de l'inclusion](les-emplois-de-linclusion-2.md)
+* [📈  Le pilotage de l'inclusion](https://pilotage.inclusion.beta.gouv.fr/)
+* [💬 Forum de l'inclusion](forum-de-linclusion/README.md)
+  * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
+  * [Les espaces d'échanges par territoire](forum-de-linclusion/les-espaces-dechanges-par-territoire.md)
+  * [La Ressourcerie](forum-de-linclusion/la-ressourcerie.md)
+  * [Les espaces d'échanges par communauté d'acteurs](forum-de-linclusion/les-espaces-dechanges-par-communaute-dacteurs/README.md)
+    * [Comment utiliser un espace d'échanges par communauté d'acteurs](forum-de-linclusion/les-espaces-dechanges-par-communaute-dacteurs/comment-utiliser-un-espace-dechanges-par-communaute-dacteurs.md)
+    * [Créer votre espace d'échange par communauté d'acteurs](forum-de-linclusion/les-espaces-dechanges-par-communaute-dacteurs/creer-votre-espace-dechange-par-communaute-dacteurs.md)
+  * [Formation](forum-de-linclusion/formation.md)
+  * [Créer votre compte](forum-de-linclusion/creer-votre-compte.md)
+  * [Configurez votre profil](forum-de-linclusion/configurez-votre-profil.md)
+  * [Gérez vos notifications mail](forum-de-linclusion/gerez-vos-notifications-mail.md)
+  * [Postez un sujet](forum-de-linclusion/postez-un-sujet.md)
+  * [Marquer vote sujet comme "résolu"](forum-de-linclusion/marquer-vote-sujet-comme-resolu.md)
+  * [Commentez un sujet](forum-de-linclusion/commentez-un-sujet.md)
+  * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
+* [🤝 Le Marché de l'inclusion](le-marche-de-linclusion/README.md)
+  * [Les Entreprises Sociales Inclusives](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
+  * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
+    * [F.A.Q Le marché de l'inclusion](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/f.a.q-le-marche-de-linclusion.md)
+    * [M'inscrire sur le Marché](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/minscrire-sur-le-marche.md)
+    * [Publier mon offre de prestation](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
+
+## Les emplois de l'inclusion
+
+---
+
 * [💼 Pourquoi "Les emplois de l'inclusion" ?](pourquoi-une-plateforme-de-linclusion/README.md)
   * [Une co-construction avec les acteurs de l'IAE](pourquoi-une-plateforme-de-linclusion/participer-a-la-plateforme-de-linclusion.md)
   * [Une communauté d'ambassadeurs](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md)
@@ -13,20 +46,6 @@
     * [Orienteur](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/orienteur.md)
   * [Les employeurs solidaires](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)
   * [Qui est à l'origine du projet ?](pourquoi-une-plateforme-de-linclusion/qui-est-derriere-la-plateforme-de-linclusion.md)
-
-## Les dispositifs
-
----
-
-* [🎫 Parcours IAE \(Eligibilité & diagnostic\)](qui-est-eligible-iae-criteres-eligibilite/README.md)
-  * [PASS IAE : Comment ça marche ?](qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md)
-  * [Dérogation des critères administratifs](qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
-* [📜 Contrat GEIQ](qui-peut-beneficier-du-contrat-geiq.md)
-
-## Les modes d'emploi
-
----
-
 * [📘 Mode d'emploi ''prescripteur/orienteur''](mon-mode-demploi-prescripteur/README.md)
   * [Mon rôle de prescripteur](mon-mode-demploi-prescripteur/fonctionnalites-prescripteur.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-prescripteur/inscription-prescripteur.md)
@@ -57,6 +76,23 @@
   * [Mon rôle de candidat](mon-mode-demploi-candidat/fonctionnalites-candidat.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-candidat/inscription-candidat.md)
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
+
+## Les dispositifs sur les emplois de l'inclusion <a id="les-dispositifs"></a>
+
+---
+
+* [🎫 Contrat IAE \(Eligibilité & diagnostic\)](qui-est-eligible-iae-criteres-eligibilite/README.md)
+  * [PASS IAE : Comment ça marche ?](qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md)
+  * [Dérogation des critères administratifs](qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
+* [📜 Contrat GEIQ](qui-peut-beneficier-du-contrat-geiq.md)
+* [♿ Contrat en Entreprise Adaptée](contrat-en-entreprise-adaptee.md)
+
+## La communauté de l'inclusion
+
+---
+
+* [🚀La Bande à ITOU !](la-bande-a-itou.md)
+* [🌍 Les régionales de l'inclusion](https://regionale.inclusion.beta.gouv.fr/)
 
 ## F.A.Q & Glossaire <a id="les-f.a.q"></a>
 
@@ -98,31 +134,4 @@
   * [Mentions légales](mentions/mentions-legales.md)
   * [Conditions Générales d'Utilisation](mentions/conditions-generales-dutilisation.md)
   * [Protection des données](mentions/protection-des-donnees.md)
-
-## Autres services
-
----
-
-* [🚀La BANDE À ITOU !](la-bande-a-itou.md)
-* [💬Forum de l'inclusion](forum-de-linclusion/README.md)
-  * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
-  * [Les espaces d'échanges par territoire](forum-de-linclusion/les-espaces-dechanges-par-territoire.md)
-  * [La Ressourcerie](forum-de-linclusion/la-ressourcerie.md)
-  * [Les espaces d'échanges par communauté d'acteurs](forum-de-linclusion/les-espaces-dechanges-par-communaute-dacteurs/README.md)
-    * [Comment utiliser un espace d'échanges par communauté d'acteurs](forum-de-linclusion/les-espaces-dechanges-par-communaute-dacteurs/comment-utiliser-un-espace-dechanges-par-communaute-dacteurs.md)
-    * [Créer votre espace d'échange par communauté d'acteurs](forum-de-linclusion/les-espaces-dechanges-par-communaute-dacteurs/creer-votre-espace-dechange-par-communaute-dacteurs.md)
-  * [Formation](forum-de-linclusion/formation.md)
-  * [Créer votre compte](forum-de-linclusion/creer-votre-compte.md)
-  * [Configurez votre profil](forum-de-linclusion/configurez-votre-profil.md)
-  * [Gérez vos notifications mail](forum-de-linclusion/gerez-vos-notifications-mail.md)
-  * [Postez un sujet](forum-de-linclusion/postez-un-sujet.md)
-  * [Marquer vote sujet comme "résolu"](forum-de-linclusion/marquer-vote-sujet-comme-resolu.md)
-  * [Commentez un sujet](forum-de-linclusion/commentez-un-sujet.md)
-  * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
-* [🤝 Le Marché de l'inclusion](le-marche-de-linclusion/README.md)
-  * [Les Entreprises Sociales Inclusives](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
-  * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
-    * [F.A.Q Le marché de l'inclusion](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/f.a.q-le-marche-de-linclusion.md)
-    * [M'inscrire sur le Marché](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/minscrire-sur-le-marche.md)
-    * [Publier mon offre de prestation](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
 

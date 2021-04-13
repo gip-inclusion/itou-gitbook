@@ -4,7 +4,7 @@ description: >-
   l’inclusion
 ---
 
-# 🚀La BANDE À ITOU !
+# 🚀La Bande à ITOU !
 
 Intégrer la **communauté des** [**ambassadeurs et ambassadrices**](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md), c'est profiter de certains **privilèges** :
 
