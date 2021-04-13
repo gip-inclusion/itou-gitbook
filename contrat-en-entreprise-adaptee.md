@@ -6,37 +6,37 @@
 
 ![](.gitbook/assets/les_entreprises_adaptees_rvb_horizontal.png)
 
-Les entreprises adaptées \(EA\) et entreprises adaptées de travail temporaire \(EATT\) permettent à leurs salariés d'exercer une activité professionnelle dans un environnement adapté à leurs possibilités, afin qu'ils obtiennent ou conservent un emploi. 
+Les **entreprises adaptées \(EA\) et entreprises adaptées de travail temporaire \(EATT\) permettent à leurs salariés d'exercer une activité professionnelle dans un environnement adapté à leurs possibilités, afin qu'ils obtiennent ou conservent un emploi.** 
 
-Les Entreprises Adaptées mettent en œuvre pour leurs salariés un accompagnement spécifique destiné à favoriser la réalisation de leur projet professionnel, la valorisation de leurs compétences et leur mobilité au sein de l'entreprise elle-même ou vers d'autres entreprises.
+Les **EA/EATT mettent en œuvre pour leurs salariés un accompagnement spécifique destiné à favoriser la réalisation de leur projet professionnel, la valorisation de leurs compétences et leur mobilité** au sein de l'entreprise elle-même ou vers d'autres entreprises.
 
 ## 2 modes de recrutement pour les EA/EATT: 
 
-**1️⃣** Le recrutement par le biais du SPE \(Service Public de l’Emploi\)
+**1️⃣**[ Le recrutement par le biais du SPE \(Service Public de l’Emploi\)](contrat-en-entreprise-adaptee.md#1-criteres-deligibilite-ea-eatt-dans-le-cadre-dun-recrutement-via-le-spe)
 
-2️⃣ Le recrutement direct 
+2️⃣ [Le recrutement direct ](contrat-en-entreprise-adaptee.md#2-criteres-deligibilite-ea-eatt-dans-le-cadre-dun-recrutement-direct)
 
 {% hint style="info" %}
 _Les orienteurs et autres prescripteurs habilités IAE peuvent orienter des candidats aux EA sur les Emplois de l’inclusion mais ces recrutements seront considérés comme des “recrutements directs”._ 
 {% endhint %}
 
-### Qui peut intégrer une entreprise adaptée  ?  
+## Qui peut intégrer une entreprise adaptée  ? 
 
 Pour intégrer une EA/EATT, le candidat doit avoir : 
 
-* une RQTH 
-* et répondre à un des critères en fonction du mode de recrutement 
+* **une RQTH** 
+* et **répondre à un des critères** en fonction du mode de recrutement 
 
 ### **1️⃣ Critères d'éligibilité EA/EATT dans le cadre d'un recrutement via le SPE** \*
 
 \*Service Public de l'Emploi = Cap emploi, Mission Locale, Pôle emploi
 
-* **Sans emploi depuis au moins 24 mois discontinus, dans les 48 derniers mois**
-* Niveau infra V ou V Peu ou pas qualifié+ Sans diplôme,
-* **Bénéficiaires de minimas sociaux** \(prioritairement bénéficiaires de l'allocation adulte handicapé \(AAH\),
-* **Sortants d’un établissement ou service d’aide par le travail \(ESAT\)**,
-* **Sortants d'ULIS PRO ou d'apprentissage adapté,**
-* **Autres situations résultant de l'expertise technique du SPE** \(notamment changement d'EA, sortant d'un établissement de santé, …\).
+* Sans emploi depuis au moins 24 mois discontinus, dans les 48 derniers mois
+* Niveau 3 ou infra, Peu ou pas qualifié, ou Sans diplôme,
+* Bénéficiaires de minimas sociaux \(prioritairement bénéficiaires de l'allocation adulte handicapé \(AAH\),
+* Sortants d’un établissement ou service d’aide par le travail \(ESAT\),
+* Sortants d'ULIS PRO ou d'apprentissage adapté,
+* Autres situations résultant de l'expertise technique du SPE \(notamment changement d'EA, sortant d'un établissement de santé, …\).
 * Autres situations résultants de l’expertise technique du SPE
 * Licenciés pour inaptitude avec un projet pro hors EA 
 
@@ -69,19 +69,7 @@ Source : [instruction DGEFP du 21/02/2019](https://www.legifrance.gouv.fr/circul
 * Bénéficiaire d’une pension d’invalidité catégorie 1 ou 2
 
 {% hint style="success" %}
-👉 Plus d’informations sur les missions des EA/EATT [sur le site de l’UNEA.](https://www.unea.fr/quest-ce-quune-entreprise-adaptee)
+👉 Plus d’informations sur les missions des EA/EATT [sur le site de l’UNEA.](https://www.unea.fr/quest-ce-quune-entreprise-adaptee)  
+__
 {% endhint %}
-
-
-
-EXPERIMENTATIONS CDD TREMPLIN ET EATT   
-
-
-* Titulaire d’une RQTH
-* Demandeur d’emploi \(= sans emploi, pas forcément inscrit à Pôle Emploi\)
-
-
-
-_\* Pour les postes non aidés, la RQTH n'est pas obligatoire_  
-
 
