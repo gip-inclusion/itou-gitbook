@@ -69,7 +69,6 @@ Source : [instruction DGEFP du 21/02/2019](https://www.legifrance.gouv.fr/circul
 * Bénéficiaire d’une pension d’invalidité catégorie 1 ou 2
 
 {% hint style="success" %}
-👉 Plus d’informations sur les missions des EA/EATT [sur le site de l’UNEA.](https://www.unea.fr/quest-ce-quune-entreprise-adaptee)  
-__
+👉 Plus d’informations sur les missions des EA/EATT [sur le site de l’UNEA.](https://www.unea.fr/quest-ce-quune-entreprise-adaptee)
 {% endhint %}
 
