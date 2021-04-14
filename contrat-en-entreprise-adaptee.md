@@ -1,72 +1,45 @@
-# ♿ Contrat en Entreprise Adaptée
+# ♿ Contrat en entreprise adaptée
 
-## Qu'est-ce qu'une Entreprise Adaptée ?
+## Qu'est-ce qu'une entreprise adaptée \(EA\)?
+
+Les entreprises adaptées \(EA\) sont des entreprises ordinaires de droit commun, à l’agilité extraordinaire… En France, il y a près de 800 entreprises qui développent dans beaucoup de métiers et de postes possibles : Numérique, Câblage, industrie automobile, textile, ….
+
+Elles recrutent au quotidien en CDI, CDD, CDD Tremplin ou contrat de mission intérimaire
 
 Les entreprises adaptées \(EA\) et entreprises adaptées de travail temporaire \(EATT\) permettent à des personnes en situation de handicap d’accéder à l’emploi dans des conditions adaptées à leurs capacités. 
 
-Elles les accompagnent dans leur projet professionnel et peuvent être une passerelle vers d’autres employeurs privés et publics.
+Elles mettent en œuvre pour ces salariés un accompagnement spécifique destiné à favoriser la réalisation de leur projet professionnel, la valorisation de leurs compétences et leur mobilité au sein de l'entreprise elle-même ou vers d'autres entreprises
+
+## Qui est éligible ?
+
+{% file src=".gitbook/assets/criteres-de-recrutement-ea-eatt \(1\).pdf" caption="Consulter les critères de recrutement" %}
+
+## Les entreprises adaptées \(EA\) : 
 
 {% embed url="https://youtu.be/AKUHDXphgVw" %}
 
-![](.gitbook/assets/les_entreprises_adaptees_rvb_horizontal.png)
+### 
 
-## 2 modes de recrutement pour les EA/EATT: 
+![](https://lh3.googleusercontent.com/-wGGLO4vqXDo16IbwpigtfXLI-KgauJgt-L9pasRopGWwaZ2Zd8BdmUxbF40QbTG_LKrmeGqHW6hhjGK_gcsrnT3hpzw3S4sKbrnvxv7CJhrdmtA3uqM9DcrRuf1x_Nlbnx_0ck)
 
-**1️⃣**[ Le recrutement par le biais du SPE \(Service Public de l’Emploi\)](contrat-en-entreprise-adaptee.md#1-criteres-deligibilite-ea-eatt-dans-le-cadre-dun-recrutement-via-le-spe)
+### 
 
-2️⃣ [Le recrutement direct ](contrat-en-entreprise-adaptee.md#2-criteres-deligibilite-ea-eatt-dans-le-cadre-dun-recrutement-direct)
+### FOCUS SUR LE CDD TREMPLIN en EA :
 
-{% hint style="info" %}
-_Les orienteurs et autres prescripteurs habilités IAE peuvent orienter des candidats aux EA sur les emplois de l’inclusion mais ces recrutements seront considérés comme des “recrutements directs”._ 
-{% endhint %}
+{% embed url="https://youtu.be/ze8Ij6zeYiw" %}
 
-## Qui peut intégrer une entreprise adaptée  ? 
 
-Pour intégrer une EA/EATT, le candidat doit avoir : 
 
-* **une RQTH** 
-* et **répondre à un des critères** en fonction du mode de recrutement 
+![](https://lh6.googleusercontent.com/xNjaf7JozmusHpSAXoDm_MKB7LyPKjkMx7YgUPB0dfa75jEDO8fKUOK8G3csPJytIbWWWdQ2KXtaz4yi_DW0krazr5x3XYIUx0bIPeV67sBVPs7-lom2BjAPTFrilLwNE2Ii5Eo)
 
-### **1️⃣ Critères d'éligibilité EA/EATT dans le cadre d'un recrutement via le SPE** \*
+## [ ](https://youtu.be/ze8Ij6zeYiw
+)Les entreprises adaptées de Travail Temporaire \(EATT\)
 
-\*Service Public de l'Emploi = Cap emploi, Mission Locale, Pôle emploi
+{% embed url="https://youtu.be/DCYwwAFHcaw" %}
 
-* Sans emploi depuis au moins 24 mois discontinus, dans les 48 derniers mois
-* Niveau 3 ou infra, Peu ou pas qualifié, ou Sans diplôme,
-* Bénéficiaires de minimas sociaux \(prioritairement bénéficiaires de l'allocation adulte handicapé \(AAH\),
-* Sortants d’un établissement ou service d’aide par le travail \(ESAT\),
-* Sortants d'ULIS PRO ou d'apprentissage adapté,
-* Autres situations résultant de l'expertise technique du SPE \(notamment changement d'EA, sortant d'un établissement de santé, …\).
-* Autres situations résultants de l’expertise technique du SPE
-* Licenciés pour inaptitude avec un projet pro hors EA 
 
-{% hint style="info" %}
-#### Focus sur les bénéficiaires de minima sociaux : 
 
-* allocation supplémentaire d'invalidité \(ASI\)
-* allocation de solidarité spécifique \(ASS\)
-* Allocation demandeurs d’asile \(ADA\)
-* allocation temporaire d'attente \(ATA\)
-* allocation veuvage \(AV\)
-* Revenu de solidarité outre-mer \(RSO\)
-* Revenu de Solidarité active \(RSA\)
-* allocation adulte handicapé \(AAH\)
-
-Source : [instruction DGEFP du 21/02/2019](https://www.legifrance.gouv.fr/circulaire/id/44443)
-{% endhint %}
-
-### 2️⃣ **Critères d'éligibilité EA/EATT dans le cadre d'un recrutement direct**
-
-* Bénéficiaires de l'allocation adulte handicapé \(AAH\)
-* Sans emploi depuis au moins 24 mois continus ou discontinus, dans les 48 derniers mois
-* Sortants d’un établissement ou service d’aide par le travail \(ESAT\)
-* Sortants d'un centre de rééducation professionnelle \(CRP\)
-* Sortants d'ULIS PRO
-* Sortants d'apprentissage adapté
-* Sortants d'institution ou service spécialisé \(IME, IEM, IMPRO, d’un service d’accompagnement médico- social pour adultes handicapés \(SAMSAH\) et Service d'accompagnement à la vie sociale \(SAVS\) avec un projet professionnel à consolider
-* Ayant bénéficié d’un contrat d'apprentissage réalisé dans une Entreprise Adaptée
-* Plus de 55 ans
-* Bénéficiaire d’une pension d’invalidité catégorie 1 ou 2
+![](https://lh3.googleusercontent.com/IqRl8GLAngqepGIcraGgHvhQo-PiuRdIwafmsOGpkkWoRfYO-gzWvMjW34zILM4V9D7i2AFWhlnqtOLhXfeDBYDSB1eZiLfokrcvkBhhGDtP82jsMO1sB4boWOY-6mf2hqX4IWQ)
 
 {% hint style="success" %}
 👉 Plus d’informations sur les missions des EA/EATT [sur le site de l’UNEA.](https://www.unea.fr/quest-ce-quune-entreprise-adaptee)

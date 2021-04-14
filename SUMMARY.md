@@ -85,8 +85,7 @@
   * [PASS IAE : Comment ça marche ?](qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md)
   * [Dérogation des critères administratifs](qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
 * [📜 Contrat GEIQ](qui-peut-beneficier-du-contrat-geiq.md)
-* [♿ Contrat en entreprise adaptée](contrat-en-entreprise-adaptee/README.md)
-  * [Le CDD Tremplin en entreprise adaptée](contrat-en-entreprise-adaptee/le-cdd-tremplin-en-entreprise-adaptee.md)
+* [♿ Contrat en entreprise adaptée](contrat-en-entreprise-adaptee.md)
 
 ## La communauté de l'inclusion
 
