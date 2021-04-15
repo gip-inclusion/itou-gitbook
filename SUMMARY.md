@@ -8,6 +8,18 @@
 
 * [💼 Les emplois de l'inclusion](les-emplois-de-linclusion-2.md)
 * [📈  Le pilotage de l'inclusion](https://pilotage.inclusion.beta.gouv.fr/)
+* [🤝 Le marché de l'inclusion](le-marche-de-linclusion/README.md)
+  * [Untitled](le-marche-de-linclusion/untitled.md)
+  * [Les Entreprises Sociales Inclusives](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
+  * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
+    * [F.A.Q Le marché de l'inclusion](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/f.a.q-le-marche-de-linclusion.md)
+    * [M'inscrire sur le Marché](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/minscrire-sur-le-marche.md)
+    * [Publier mon offre de prestation](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
+
+## La communauté de l'inclusion
+
+---
+
 * [💬 Le forum de l'inclusion](forum-de-linclusion/README.md)
   * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
   * [Les espaces d'échanges par territoire](forum-de-linclusion/les-espaces-dechanges-par-territoire.md)
@@ -23,12 +35,8 @@
   * [Marquer vote sujet comme "résolu"](forum-de-linclusion/marquer-vote-sujet-comme-resolu.md)
   * [Commentez un sujet](forum-de-linclusion/commentez-un-sujet.md)
   * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
-* [🤝 Le marché de l'inclusion](le-marche-de-linclusion/README.md)
-  * [Les Entreprises Sociales Inclusives](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
-  * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
-    * [F.A.Q Le marché de l'inclusion](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/f.a.q-le-marche-de-linclusion.md)
-    * [M'inscrire sur le Marché](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/minscrire-sur-le-marche.md)
-    * [Publier mon offre de prestation](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
+* [🚀La Bande à ITOU !](la-bande-a-itou.md)
+* [🌍 Les régionales de l'inclusion](https://regionale.inclusion.beta.gouv.fr/)
 
 ## Les emplois de l'inclusion
 
@@ -86,13 +94,6 @@
   * [Dérogation des critères administratifs](qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
 * [📜 Contrat GEIQ](qui-peut-beneficier-du-contrat-geiq.md)
 * [♿ Contrat en entreprise adaptée](contrat-en-entreprise-adaptee.md)
-
-## La communauté de l'inclusion
-
----
-
-* [🚀La Bande à ITOU !](la-bande-a-itou.md)
-* [🌍 Les régionales de l'inclusion](https://regionale.inclusion.beta.gouv.fr/)
 
 ## F.A.Q & Glossaire <a id="les-f.a.q"></a>
 
