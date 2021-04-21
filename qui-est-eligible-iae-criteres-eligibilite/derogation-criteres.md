@@ -1,4 +1,4 @@
-# Dérogation des critères administratifs
+# Dérogation aux critères administratifs
 
 {% hint style="success" %}
 Le **prescripteur habilité est le seul professionnel qui peut déroger aux critères administratifs** d'éligibilité IAE.

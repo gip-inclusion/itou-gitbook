@@ -91,7 +91,7 @@
 
 * [🎫 Contrat IAE \(Eligibilité & diagnostic\)](qui-est-eligible-iae-criteres-eligibilite/README.md)
   * [PASS IAE : Comment ça marche ?](qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md)
-  * [Dérogation des critères administratifs](qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
+  * [Dérogation aux critères administratifs](qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
   * [Dérogation au délai de carence](qui-est-eligible-iae-criteres-eligibilite/derogation-au-delai-de-carence.md)
 * [📜 Contrat GEIQ](qui-peut-beneficier-du-contrat-geiq.md)
 * [♿ Contrat en entreprise adaptée](contrat-en-entreprise-adaptee.md)
