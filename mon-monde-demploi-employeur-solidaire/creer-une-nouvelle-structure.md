@@ -20,7 +20,7 @@ Je peux créer mes antennes A et B de la manière suivante :
 {% endhint %}
 
 {% hint style="info" %}
-Si votre SIREN et/ou le type de structure est différent, vous devrez nous écrire à assistance@inclusion.beta.gouv.fr pour nous demander de vous rattacher à cette SIAE en nous précisant :
+Si votre SIREN et/ou le type de structure est différent, vous devrez [nous contacter ](https://assistance.inclusion.beta.gouv.fr/)pour nous demander de vous rattacher à cette SIAE en nous précisant :
 
 * l'e-mail de votre compte personnel sur les emplois de l'inclusion
 * le type et le SIRET de la structure que vous voulez créer
