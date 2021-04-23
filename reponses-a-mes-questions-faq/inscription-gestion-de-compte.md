@@ -98,7 +98,7 @@ Si votre organisation n'est pas habilitée, vous pouvez créer votre compte orie
 
 Nous recevons les données concernant les entreprises récemment \(re\)conventionnées assez régulièrement, mais pas en temps réel.
 
-Ainsi, nous vous invitons à renouveler assez souvent votre tentative d'inscription. Si toutefois, cela ne fonctionne toujours pas et que vous souhaitez accélérer la procédure, vous pouvez demander à votre DIRECCTE de nous écrire à l'adresse : assistance@inclusion.beta.gouv.fr en vous mettant en copie et en précisant :
+Ainsi, nous vous invitons à renouveler assez souvent votre tentative d'inscription. Si toutefois, cela ne fonctionne toujours pas et que vous souhaitez accélérer la procédure, vous pouvez demander à votre DIRECCTE de nous écrire en utilisant notre [portail assistance](https://assistance.inclusion.beta.gouv.fr/) rubrique " autre demande"  en précisant :
 
 * le/les SIRET des structures dont le conventionnement est actif et qui ne sont pas encore référencées sur les emplois de l'inclusion.
 * Le type de structure
