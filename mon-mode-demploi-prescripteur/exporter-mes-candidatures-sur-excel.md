@@ -8,11 +8,13 @@ Pour chaque mois un fichier d'export est disponible, cliquez sur **"télécharge
 
 ![](../.gitbook/assets/export2.png)
 
+{% hint style="warning" %}
 Une fois le téléchargement terminé, n'ouvrez pas le fichier directement.
+{% endhint %}
 
-**Ouvrez une nouvelle page Excel**
+### **👉Ouvrez une nouvelle page Excel**
 
-Cliquez sur **"Données",** puis sur **"A partit d'un fichier texte/CSV"**
+Cliquez sur **"Données",** puis sur **"A partir d'un fichier texte/CSV"**
 
 ![](../.gitbook/assets/image%20%2870%29.png)
 
