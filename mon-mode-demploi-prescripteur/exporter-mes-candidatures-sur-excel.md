@@ -26,8 +26,6 @@ Dans la partie **"Origine du fichier",** sélectionnez " **65001 : Unicode \(UTF
 
 ![](../.gitbook/assets/image%20%2871%29.png)
 
-
-
 {% hint style="danger" %}
 Pensez à bien enregistrer le tableau car les modifications apportées n'impacteront pas le fichier téléchargé.
 {% endhint %}
