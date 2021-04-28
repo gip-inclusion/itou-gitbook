@@ -8,37 +8,27 @@ Pour chaque mois un fichier d'export est disponible, cliquez sur **"télécharge
 
 ![](../.gitbook/assets/export2.png)
 
-Une fois le téléchargement terminé, ouvrez le fichier sur Excel
-
-Sélectionnez **"la colonne A"** en cliquant sur A , puis cliquez sur **"Données"**
-
-![](../.gitbook/assets/image%20%2863%29.png)
-
-Cliquez sur **"Convertir"**
-
-![](../.gitbook/assets/image%20%2858%29.png)
-
-Choisissez "**Délimité",** puis cliquez sur **"Suivant"**
-
-![](../.gitbook/assets/image%20%2860%29.png)
-
-Sélectionnez uniquement **"Virgule"** , puis cliquez sur **"Suivant"**
-
-![](../.gitbook/assets/image%20%2866%29.png)
-
-Cliquez sur **"Terminer"**
-
-![](../.gitbook/assets/image%20%2865%29.png)
-
-{% hint style="danger" %}
-Pour conserver la mise en forme, cliquez sur **"Enregistrer sous"**, sélectionnez le "**classeur Excel XLS**", puis cliquez sur **"Enregistrer"**
+{% hint style="warning" %}
+Une fois le téléchargement terminé, n'ouvrez pas le fichier directement.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2861%29.png)
+### **👉 Ouvrez une nouvelle page Excel**
 
+Cliquez sur **"Données",** puis sur **"A partir d'un fichier texte/CSV"**
 
+![](../.gitbook/assets/image%20%2870%29.png)
 
+Sélectionnez le fichier téléchargé puis cliquez sur **"Importer"** 
 
+![](../.gitbook/assets/image%20%2872%29.png)
+
+Dans la partie **"Origine du fichier",** sélectionnez " **65001 : Unicode \(UTF-8\)**” \(la référence se trouve en bas de la liste déroulante\). Puis cliquez sur **"Charger"**
+
+![](../.gitbook/assets/image%20%2871%29.png)
+
+{% hint style="danger" %}
+Pensez à bien enregistrer le tableau car les modifications apportées n'impacteront pas le fichier téléchargé.
+{% endhint %}
 
 
 
