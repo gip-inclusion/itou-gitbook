@@ -26,9 +26,9 @@ Une fenêtre de paramétrage s'affiche :
 
 1- Dans  la partie **"Origine du fichier"  :** sélectionnez " **65001 : Unicode \(UTF-8\)**” \(la référence se trouve en bas de la liste déroulante\). 
 
-2- Dans la partie **"Détection du type de données" :** sélectionnez "**Ne pas détecter les types de données"**
+2-  Dans la partie **"Détection du type de données" :** sélectionnez "**Ne pas détecter les types de données"**
 
-3- Puis cliquez sur **"Charger"**
+3-  Puis cliquez sur **"Charger"**
 
 ![](../.gitbook/assets/image%20%2873%29.png)
 

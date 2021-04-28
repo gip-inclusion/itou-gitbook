@@ -22,9 +22,15 @@ Sélectionnez le fichier téléchargé puis cliquez sur **"Importer"**
 
 ![](../.gitbook/assets/image%20%2872%29.png)
 
-Dans la partie **"Origine du fichier",** sélectionnez " **65001 : Unicode \(UTF-8\)**” \(la référence se trouve en bas de la liste déroulante\). Puis cliquez sur **"Charger"**
+Une fenêtre de paramétrage s'affiche : 
 
-![](../.gitbook/assets/image%20%2871%29.png)
+1- Dans  la partie **"Origine du fichier"  :** sélectionnez " **65001 : Unicode \(UTF-8\)**” \(la référence se trouve en bas de la liste déroulante\). 
+
+2-  Dans la partie **"Détection du type de données" :** sélectionnez "**Ne pas détecter les types de données"**
+
+3-  Puis cliquez sur **"Charger"**
+
+![](../.gitbook/assets/image%20%2873%29.png)
 
 {% hint style="danger" %}
 Pensez à bien enregistrer le tableau car les modifications apportées n'impacteront pas le fichier téléchargé.
