@@ -1,6 +1,6 @@
 # Exporter mes candidatures sur Excel
 
-Depuis votre tableau de bord, cliquez sur **"Export des candidature"**
+Depuis votre tableau de bord, cliquez sur **"Export des candidatures"**
 
 ![](../.gitbook/assets/export1.png)
 
