@@ -63,6 +63,7 @@
   * [Postuler pour un candidat - Prescrire](mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
   * [Créer une adresse e-mail pour un candidat](mon-mode-demploi-prescripteur/creation-adresse-mail-candidat.md)
   * [Modifier les informations d'un candidat](mon-mode-demploi-prescripteur/modifier-les-informations-dun-candidat.md)
+  * [Exporter mes candidatures sur Excel](mon-mode-demploi-prescripteur/exporter-mes-candidatures-sur-excel.md)
 * [📙 Mode d'emploi ''employeur solidaire''](mon-monde-demploi-employeur-solidaire/README.md)
   * [Mon rôle d'employeur](mon-monde-demploi-employeur-solidaire/fonctionnalites-employeur.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-monde-demploi-employeur-solidaire/inscription-employeur.md)
