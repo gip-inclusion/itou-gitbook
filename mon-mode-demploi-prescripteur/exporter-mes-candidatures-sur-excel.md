@@ -9,7 +9,7 @@ Pour chaque mois un fichier d'export est disponible, cliquez sur **"télécharge
 ![](../.gitbook/assets/export2.png)
 
 {% hint style="warning" %}
-Une fois le téléchargement terminé, n'ouvrez pas le fichier directement.
+Une fois le téléchargement terminé, n'ouvrez pas directement le fichier.
 {% endhint %}
 
 ### **👉 Ouvrez une nouvelle page Excel**
