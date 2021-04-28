@@ -22,7 +22,7 @@ Choisissez "**Délimité",** puis cliquez sur **"Suivant"**
 
 ![](../.gitbook/assets/image%20%2860%29.png)
 
-Sélectionnez **"Virgule"**, puis cliquez sur **"Suivant"**
+Sélectionnez uniquement **"Virgule"** , puis cliquez sur **"Suivant"**
 
 ![](../.gitbook/assets/image%20%2866%29.png)
 
