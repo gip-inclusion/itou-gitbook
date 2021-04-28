@@ -30,11 +30,9 @@ Cliquez sur **"Terminer"**
 
 ![](../.gitbook/assets/image%20%2865%29.png)
 
-Les données sont séparées dans chaque colonne  
-
-![](../.gitbook/assets/image%20%2864%29.png)
-
+{% hint style="danger" %}
 Pour conserver la mise en forme, cliquez sur **"Enregistrer sous"**, sélectionnez le "**classeur Excel XLS**", puis cliquez sur **"Enregistrer"**
+{% endhint %}
 
 ![](../.gitbook/assets/image%20%2861%29.png)
 
