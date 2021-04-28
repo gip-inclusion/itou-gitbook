@@ -12,7 +12,7 @@
 * \*\*\*\*[**Postuler pour un candidat - Prescrire**](postuler-pour-un-candidat.md)\*\*\*\*
 * \*\*\*\*[**Créer une adresse e-mail pour un candidat.**](creation-adresse-mail-candidat.md)
 * \*\*\*\*[**Modifier les informations d'un candidat**](modifier-les-informations-dun-candidat.md)\*\*\*\*
-* **Exporter mes candidatures sur Excel**
+* \*\*\*\*[**Exporter mes candidatures sur Excel**](exporter-mes-candidatures-sur-excel.md)\*\*\*\*
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-24-a-18.58.52.png)
 
