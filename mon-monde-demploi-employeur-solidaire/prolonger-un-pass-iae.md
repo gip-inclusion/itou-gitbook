@@ -6,7 +6,17 @@ Si vous souhaitez prolonger un PASS IAE, **vous devez obtenir l'autorisation d'u
 _**Pour les agréments gérés par Pôle emploi, il faut continuer de s'adresser à votre agence locale Pôle emploi**_
 {% endhint %}
 
-Les prolongations sont autorisées 3 mois avant la fin d'un PASS IAE pour les motifs suivants : 
+
+
+{% hint style="danger" %}
+La prolongation est **autorisée dès le 3ème mois qui précède la fin d'un PASS IAE et jusqu'au dernier jour de validité du PASS IAE.** 
+
+Si le PASS IAE est expiré il ne sera plus possible de demander une prolongation.
+{% endhint %}
+
+
+
+La prolongation est possible pour les motifs suivants : 
 
 * Fin d'une formation \(6 mois de prolongation maximum\) 
 * RQTH \(12 mois de prolongation maximum\) 
