@@ -90,7 +90,7 @@ Les AI et ACI ont un motif supplémentaire :
 
 * Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
 
-Les prolongations sont autorisées dès le 3ème mois qui précède la fin d'un PASS IAE et jusqu'au dernier jour de validité du PASS IAE. [\[Voir mode d'emploi\].](../mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
+L'enregistrement d'une prolongation est possible dès le 3ème mois qui précède la fin d'un PASS IAE et jusqu'au dernier jour de validité du PASS IAE. [\[Voir mode d'emploi\].](../mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
 
 _**Pour les agréments gérés par Pôle emploi, il faut continuer de s'adresser à votre agence locale Pôle emploi**_
 {% endhint %}
