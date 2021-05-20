@@ -27,10 +27,10 @@ Les [**prescripteurs habilités**](https://doc.inclusion.beta.gouv.fr/presentati
 
 ## Ajouter un CV à la candidature
 
-Pour être ajouté, le CV doit être au format PDF
+Pour être ajouté, le CV doit être en format PDF
 
-SI vous souhaitez convertir votre document au format PDF, voici des tutoriels pour vous aider :
+SI vous souhaitez convertir votre document en format PDF, voici des tutoriels pour vous aider :
 
-* [Convertir au format PDF sur Microsoft Word ](https://support.microsoft.com/fr-fr/office/convertir-ou-enregistrer-au-format-pdf-7d88593b-d509-4225-a05a-076723a40beb?ui=fr-FR&rs=fr-FR&ad=FR)
-* [Convertir au format PDF sur Open office ](https://www.01net.com/astuces/creez-un-document-pdf-avec-openoffice-554400.html)
+* [Microsoft Word ](https://support.microsoft.com/fr-fr/office/convertir-ou-enregistrer-au-format-pdf-7d88593b-d509-4225-a05a-076723a40beb?ui=fr-FR&rs=fr-FR&ad=FR)
+* [Open office ](https://www.01net.com/astuces/creez-un-document-pdf-avec-openoffice-554400.html)
 
