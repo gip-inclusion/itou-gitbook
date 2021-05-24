@@ -2,6 +2,10 @@
 
 L'employeur peut modifier les dates de contrat dans le futur \(La date du jour est acceptée en date de début de contrat\)
 
+{% hint style="warning" %}
+La modification des dates de contrat est possible tant que la date de démarrage préalablement enregistrée n'est pas dépassée.
+{% endhint %}
+
 Dans le détail d'une candidature \(après avoir cliqué sur **"gérer la candidature"**\)
 
 Vous trouverez une section "Détails du contrat de travail" : 
