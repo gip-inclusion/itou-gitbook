@@ -17,10 +17,6 @@ Cette adresse mail est utilisée comme adresse d’authentification et permet ai
 Retrouvez cette adresse mail dans votre extranet ASP en suivant le chemin suivant : Insertion par l'activité économique &gt; Gérer ma SIAE &gt; Gestion des comptes utilisateurs
 {% endhint %}
 
-![Je suis employeur et je souhaite m&apos;inscrire](https://s5.gifyu.com/images/demo-employeur.gif)
-
-### 
-
 ### 2. Complétez votre profil utilisateur
 
 1. **Vérifiez votre boite mail** et **cliquez sur le lien** envoyé pour créer votre profil
