@@ -18,7 +18,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [J'ai trop de candidatures à gérer, comment l'indiquer aux candidats ?](suivi-des-candidatures.md#jai-trop-de-candidatures-a-gerer-comment-lindiquer-aux-candidats)
 
-[J'ai refusé / annulé une candidature par erreur, comment la récupérer ?](suivi-des-candidatures.md#jai-refuse-annule-une-candidature-par-erreur-comment-la-recuperer)
+[J'ai refusé une candidature, comment la récupérer ](suivi-des-candidatures.md#jai-refuse-annule-une-candidature-par-erreur-comment-la-recuperer)?
 
 2️⃣ **\[ SUIVI DES CANDIDATURES PAR LE PRESCRIPTEUR \]**
 
@@ -149,7 +149,11 @@ Oui, cliquez sur "Rechercher dans vos candidatures" puis inscrivez le nom de la 
 ### Un prescripteur peut-il modifier une candidature déjà envoyée ?
 
 {% hint style="info" %}
-Non. les candidatures sont comme des e-mails. Une fois envoyée, on ne peut plus les modifier.  Vous pouvez contacter l'employeur si besoin et/ou renouveler la candidature \(attention un délai de 24h est exigé pour postuler à nouveau auprès du même employeur pour un même candidat\)
+Une fois la candidature envoyée il sera possible de modifier les coordonnées du candidat \(uniquement pour un prescripteur habilité\)
+
+En revanche on ne peut pas modifier le message de candidature, le CV et les critères administratifs.
+
+Si cela est nécessaire, vous pouvez contacter l'employeur et/ou renouveler la candidature \(attention un délai de 24h est exigé pour postuler à nouveau auprès du même employeur pour un même candidat\).
 {% endhint %}
 
 
