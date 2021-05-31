@@ -82,12 +82,10 @@ Oui, toutes les autres candidatures du candidat sont mises à jour avec la menti
 Vous pouvez bloquer temporairement la réception de nouvelles candidatures à partir de votre tableau de bord en cochant la case ''Bloquer les candidatures'' . Votre fiche employeur indiquera : "Cet employeur ne traite plus de nouvelles candidatures pour l'instant.'' Votre Tableau de bord reste actif pour obtenir un Pass IAE si besoin. Pour réactiver le poste, il suffit de décocher la case
 {% endhint %}
 
-### _J'ai refusé / annulé une candidature par erreur, comment la récupérer ?_
+### _J'ai refusé une candidature comment la récupérer ?_
 
 {% hint style="info" %}
-On ne peut pas revenir sur une candidature annulée ou refusée. L'employeur doit refaire une nouvelle candidature, depuis son tableau de bord, en cliquant sur "obtenir un PASS IAE \(candidature spontanée\)". Si un diagnostic d'éligibilité IAE avait été validé par un prescripteur habilité celui-ci sera récupéré automatiquement s'il est encore valable \(pour rappel un diagnostic d'éligibilité IAE est valable 6 mois\).
-
-La nouvelle candidature sera créée dans la page "candidatures à traiter".
+Vous pouvez réactiver une candidature refusée pour valider une embauche. Cliquez sur "gérer la candidature" puis sur le bouton "Je l'embauche"
 {% endhint %}
 
 ## 2️⃣**\[ SUIVI DES CANDIDATURES PAR LE PRESCRIPTEUR\]**
