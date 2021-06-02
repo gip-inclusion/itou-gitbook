@@ -59,7 +59,7 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#c
 Source : [arrêté du 7 avril 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041845730/2020-11-04/)
 
 {% hint style="success" %}
-Un candidat orienté par un prescripteur habilité sur le site des emplois de l'inclusion n'est pas soumis à ces critères administratifs. En clair, si un prescripteur habilité accompagne un candidat qui n'a aucun critère ou pas le nombre suffisant de critères et qu'il estime qu'un parcours IAE est pertinent pour ce candidat il pourra [déroger aux critères administratifs](derogation-criteres.md)
+Un candidat orienté par un [prescripteur habilité](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national) sur le site des emplois de l'inclusion n'est pas soumis à ces critères administratifs. En clair, si un prescripteur habilité accompagne un candidat qui n'a aucun critère ou pas le nombre suffisant de critères et qu'il estime qu'un parcours IAE est pertinent pour ce candidat il pourra [déroger aux critères administratifs](derogation-criteres.md)
 {% endhint %}
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.55.png)
