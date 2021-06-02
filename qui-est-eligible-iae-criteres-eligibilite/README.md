@@ -32,8 +32,8 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#c
 
 ### Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il doit avoir :
 
-* Au moins **1 critère de niveau 1**
-* Ou le cumul de **3 critères de niveau 2** \(Exception pour les ETTI : 2 critères administratifs de niveau 2\)
+* Au moins **1 critère administratif de niveau 1**
+* Ou le cumul de **3 critères administratifs de niveau 2** \(Exception pour les ETTI : 2 critères administratifs de niveau 2\)
 
 ### Critères administratifs de niveau 1
 
