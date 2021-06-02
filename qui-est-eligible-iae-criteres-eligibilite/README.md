@@ -30,17 +30,19 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#c
 
 ## Les critères administratifs : 
 
-### Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il doit avoir :
+{% hint style="success" %}
+Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il doit avoir :
 
 * Au moins **1 critère administratif de niveau 1**
 * Ou le cumul de **3 critères administratifs de niveau 2** \(Exception pour les ETTI : 2 critères administratifs de niveau 2\)
+{% endhint %}
 
 ### Critères administratifs de niveau 1
 
 * **Bénéficiaire RSA \(socle\) :** sur attestation RSA
 * **Allocataire ASS :** sur attestation ASS
 * **Allocataire AAH :** sur attestation AAH
-* **DETLD \(Demandeur d'emploi de très longue durée , + 24 mois d'inscription en continu chez Pôle emploi\)** : sur attestation d'inscription Pôle emploi
+* **DETLD \(Demandeur d'Emploi de Très Longue Durée , + 24 mois d'inscription en continu chez Pôle emploi\)** : sur attestation d'inscription Pôle emploi
 
 ### Critères administratifs de niveau 2
 
@@ -48,7 +50,7 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#c
 * **Senior \(+ 50 ans\) :** sur pièce d'identité
 * **Jeunes \(- 26 ans\) :** sur pièce d'identité
 * **Sortant de l'ASE** : sur attestation ASE
-* **DELD \(Demandeur d'emploi de Longue Durée , 12-24 mois d'inscription en continu chez Pôle emploi\)** : sur attestation d'inscription Pôle emploi
+* **DELD \(Demandeur d'Emploi de Longue Durée , 12-24 mois d'inscription en continu chez Pôle emploi\)** : sur attestation d'inscription Pôle emploi
 * **Travailleur en situation de handicap :** sur attestation reconnaissance qualité TSH
 * **Parent isolé :** sur attestation CAF 
 * **Personne sans hébergement / hébergée / ayant un parcours de rue :** attestation sur l'honneur
