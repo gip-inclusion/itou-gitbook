@@ -28,12 +28,19 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#c
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.23.png)
 
+## Les critères administratifs : 
+
+### Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il doit avoir :
+
+* Au moins **1 critère de niveau 1**
+* Ou le cumul de **3 critères de niveau 2** \(Exception pour les ETTI : 2 critères administratifs de niveau 2\)
+
 ### Critères administratifs de niveau 1
 
 * **Bénéficiaire RSA \(socle\) :** sur attestation RSA
 * **Allocataire ASS :** sur attestation ASS
 * **Allocataire AAH :** sur attestation AAH
-* **DETLD \(+ 24 mois de chômage\)** : sur attestation Pôle emploi
+* **DETLD \(Demandeur d'emploi de très longue durée , + 24 mois d'inscription en continu chez Pôle emploi\)** : sur attestation d'inscription Pôle emploi
 
 ### Critères administratifs de niveau 2
 
@@ -41,7 +48,7 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#c
 * **Senior \(+ 50 ans\) :** sur pièce d'identité
 * **Jeunes \(- 26 ans\) :** sur pièce d'identité
 * **Sortant de l'ASE** : sur attestation ASE
-* **DELD \(12-24 mois de chômage\)** : sur attestation Pôle emploi
+* **DELD \(Demandeur d'emploi de Longue Durée , 12-24 mois d'inscription en continu chez Pôle emploi\)** : sur attestation d'inscription Pôle emploi
 * **Travailleur en situation de handicap :** sur attestation reconnaissance qualité TSH
 * **Parent isolé :** sur attestation CAF 
 * **Personne sans hébergement / hébergée / ayant un parcours de rue :** attestation sur l'honneur
@@ -51,15 +58,9 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#c
 
 Source : [arrêté du 7 avril 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041845730/2020-11-04/)
 
-{% hint style="warning" %}
-**ETTI : RÈGLE DE VALIDATION SPÉCIALE POUR LES ETTI**
-
-La validation des critères d'éligibilité obéit désormais à une règle simplifiée pour toutes les structures ETTI :
-
-**. 1 critère administratif de niveau 1** ou **2 critères administratifs de niveau 2**
+{% hint style="success" %}
+Un candidat orienté par un prescripteur habilité sur le site des emplois de l'inclusion n'est pas soumis à ces critères administratifs. En clair, si un prescripteur habilité accompagne un candidat qui n'a aucun critère ou pas le nombre suffisant de critères et qu'il estime qu'un parcours IAE est pertinent pour ce candidat il pourra [déroger aux critères administratifs](derogation-criteres.md)
 {% endhint %}
-
-\*\*\*\*
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.55.png)
 
