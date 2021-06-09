@@ -17,7 +17,6 @@ Pour **accompagner le déploiement et faciliter la prise en main du site les emp
 
 **📜 Programme: une présentation détaillée du site les emplois de l'inclusion spéciale prescripteurs + des réponses à vos questions** 
 
-* [**Jeudi 3 Juin à 14h00** : Démonstration pour les prescripteurs](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-16?type=detailed)
 * \*\*\*\*[**Jeudi 24 Juin à 11h00** : Démonstration pour les prescripteurs ](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-17?type=detailed)
 {% endhint %}
 
