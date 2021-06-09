@@ -20,7 +20,7 @@ Ensuite sur **"Suspendre"**
 
 ![](../.gitbook/assets/susp3.jpg)
 
-Renseignez la date de début et de fin 
+Renseignez la date de début et de fin \(la suspension peut être rétroactive et il vous sera également possible de modifier les dates en cas de besoin\)
 
 ![](../.gitbook/assets/susp4.png)
 
