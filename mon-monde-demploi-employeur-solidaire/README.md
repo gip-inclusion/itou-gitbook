@@ -18,6 +18,7 @@
 * \*\*\*\*[**Prolonger un PASS IAE**](prolonger-un-pass-iae.md)\*\*\*\*
 * \*\*\*\*[**Gérer les notifications**](gerer-les-notificiations-e-mail.md)\*\*\*\*
 * \*\*\*\*[**Exporter mes candidatures sur Excel**](exporter-mes-candidatures-sur-excel.md)\*\*\*\*
+* \*\*\*\*[**Visualiser / Gérer mes annexes financières \(SIAE\)**](visualiser-gerer-mes-annexes-financieres.md)\*\*\*\*
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-26-a-20.15.23.png)
 
