@@ -81,6 +81,7 @@
   * [Prolonger un PASS IAE](mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
   * [Annuler l'embauche d'un candidat](mon-monde-demploi-employeur-solidaire/annuler-lembauche-dun-candidat.md)
   * [Gérer les notifications e-mail](mon-monde-demploi-employeur-solidaire/gerer-les-notificiations-e-mail.md)
+  * [Visualiser / Gérer mes annexes financières](mon-monde-demploi-employeur-solidaire/visualiser-gerer-mes-annexes-financieres.md)
   * [Exporter mes candidatures sur Excel](mon-monde-demploi-employeur-solidaire/exporter-mes-candidatures-sur-excel.md)
 * [📗 Mode d'emploi ''candidat''](mon-mode-demploi-candidat/README.md)
   * [Mon rôle de candidat](mon-mode-demploi-candidat/fonctionnalites-candidat.md)
