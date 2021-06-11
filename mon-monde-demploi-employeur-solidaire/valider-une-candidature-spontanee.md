@@ -1,4 +1,4 @@
-# Valider une candidature spontanée
+# Valider une candidature spontanée / Obtenir un pass iae
 
 {% hint style="success" %}
 Si vous êtes une [**SIAE**](https://doc.inclusion.beta.gouv.fr/presentation/employeurs-solidaires), **vous pouvez désormais recruter** une personne en **candidature spontanée** ou **adressée par un** [**orienteur**](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/orienteur)**.** 

@@ -43,14 +43,16 @@ Dans ce dernier cas, l’employeur peut se rapprocher d’un prescripteur habili
 **Pour trouver les** [**prescripteurs habilités**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national) **proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
 {% endhint %}
 
-## **Extension, Suspension, Prolongation, Dérogation : Quels changements avec le PASS IAE ?**
+## **Extension, Suspension, Prolongation, Dérogation, Interruption : Quels changements avec le PASS IAE ?**
 
 ### Extension : 
 
 {% hint style="danger" %}
 **L’extension d’agrément n’existe plus.**
 
-Le **PASS IAE délivré pour une durée de 2 ans est valable dans toutes les SIAE** quelque soit le type de structure.  
+Le **PASS IAE délivré pour une durée de 2 ans est valable dans toutes les SIAE** quelque soit le type de structure.
+
+Les structures suivantes peuvent récupérer le PASS IAE ou agrément  en cliquant sur[ "obtenir un PASS IAE"](../mon-monde-demploi-employeur-solidaire/valider-une-candidature-spontanee.md), il est impératif de renseigner l'identifiant Pôle emploi pour que la détection de l'agrément se fasse automatiquement.  
 {% endhint %}
 
 ### Suspension : 
@@ -114,4 +116,18 @@ Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoye
 {% hint style="success" %}
 **Pour trouver les** [**prescripteurs habilités** ](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national)**proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
 {% endhint %}
+
+### Interruption
+
+{% hint style="info" %}
+L'interruption d'agrément n'existe pas sur le site des emplois de l'inclusion
+
+L’interruption d’agrément qui existait chez Pole emploi ne permettait pas de conserver la durée de l’agrément c’était simplement le moyen pour Pole emploi de reprendre le suivi du bénéficiaire mais la durée était bien consommée. Seule la [suspension](pass-iae-agrement-plus-simple-cest-a-dire.md#suspension) permet de conserver la durée du PASS IAE.
+
+S’il n’est ni suspendu ni annulé, le PASS IAE reste actif.
+
+A noter qu’une annulation du PASS IAE entraine la suppression de l’aide au poste pour les jours éventuellement travaillés.
+{% endhint %}
+
+
 
