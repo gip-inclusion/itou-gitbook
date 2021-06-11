@@ -120,7 +120,7 @@ Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoye
 ### Interruption
 
 {% hint style="info" %}
-L'interruption d'agrément n'existe pas sur le site des emplois de l'inclusion
+L'interruption d'agrément n'existe pas avec le PASS IAE
 
 L’interruption d’agrément qui existait chez Pole emploi ne permettait pas de conserver la durée de l’agrément c’était simplement le moyen pour Pole emploi de reprendre le suivi du bénéficiaire mais la durée était bien consommée. Seule la [suspension](pass-iae-agrement-plus-simple-cest-a-dire.md#suspension) permet de conserver la durée du PASS IAE.
 
