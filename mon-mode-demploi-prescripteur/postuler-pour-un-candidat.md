@@ -104,9 +104,9 @@ SI vous souhaitez convertir votre document au format PDF, voici des tutoriels po
 
 
 
-Cliquez sur **"Envoyer la candidature"** pour transmettre votre candidature à l'employeur
+Cliquez sur **"Envoyer la candidature"** pour transmettre la candidature à l'employeur
 
-{% hint style="info" %}
+{% hint style="success" %}
 Une notification e-mail est transmise à l'employeur et au candidat. L'employeur pourra retrouver la candidature directement dans son tableau de bord avec toutes les informations que vous avez renseignées. 
 
 Si le candidat n'a pas accès à sa boite mail ce n'est pas problématique puisque vous serez alertée des suites données à la candidature \(par notification mail et directement dans votre page de suivi des candidatures\)
