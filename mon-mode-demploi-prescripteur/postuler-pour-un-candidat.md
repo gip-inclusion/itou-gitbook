@@ -93,7 +93,7 @@ Plus votre message sera précis et plus l'employeur sera en mesure de détermine
 
 Le CV est facultatif lorsque vous postulez \(sauf si l'employeur l'a mentionné dans la fiche de poste\)
 
-Vous pouvez cliquez sur **"Choisissez un fichier"** pour récupérer le CV depuis votre ordinateur, vous pouvez également le glisser directement dans la fenêtre dédiée.
+Vous pouvez cliquer sur **"Choisissez un fichier"** pour récupérer le CV depuis votre ordinateur, vous pouvez également le glisser directement dans la fenêtre dédiée.
 
 Pour être ajouté, le CV doit être au format PDF
 
