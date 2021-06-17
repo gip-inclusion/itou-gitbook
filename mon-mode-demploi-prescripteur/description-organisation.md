@@ -4,6 +4,8 @@ Tous les prescripteurs habilités sont visibles dans le [moteur de recherche des
 
 {% hint style="info" %}
 **Renseignez toutes les informations que vous jugez utiles de communiquer à l'extérieur** \(aux professionnels et aux candidats\). 
+
+_Si vous êtes un orienteur votre organisation ne sera pas visible dans le moteur de recherche des prescripteurs._
 {% endhint %}
 
 #### [L'administrateur ](administrateur-de-lorganisation.md)du tableau de bord peut modifier les informations de son organisation :
