@@ -28,7 +28,7 @@ Vous pouvez consulter les informations détaillées en cliquant sur le nom, cons
 
 ![](../.gitbook/assets/image%20%2883%29.png)
 
-Lorsque vous décidez de postuler, plusieurs étapes sont à suivre : 
+Après avoir cliqué sur "Postuler" depuis une fiche de poste ou depuis la fiche publique de la structure, suivez les étapes ci-dessous :
 
 ## Etape 1 : Renseignez l'e-mail personnel du candidat
 
