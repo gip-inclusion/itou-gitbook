@@ -16,7 +16,7 @@ La ville doit obligatoirement être sélectionnée dans le menu déroulant sinon
 
 ![](../.gitbook/assets/image%20%2890%29.png)
 
-Les employeurs solidaires qui se situent à 25 km de la ville recherchée, s'affichent : 
+Les employeurs solidaires qui se situent à 25 km autour de la ville recherchée, s'affichent : 
 
 **Sur la gauche, vous trouverez des filtres** \( Distance en Km, Départements, Arrondissement pour Paris-Lyon- Marseille, et par type de structure\), il vous suffit de sélectionner le ou les filtres de votre choix pour affiner ou élargir votre recherche
 
