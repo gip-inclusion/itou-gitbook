@@ -27,7 +27,7 @@ Si vous souhaitez prolonger un agrément, **vous devez obtenir l'accord d'un con
 ▪ Si après l'entretien le conseiller Pôle emploi estime que la prolongation est pertinente au regard de la situation socio-professionnelle du salarié, il validera en ligne la demande de prolongation. Dans le cas contraire, le conseiller Pôle emploi pourra rejeter la demande et indiquer les raisons du refus.
 
 {% hint style="success" %}
-En cas de validation de la prolongation, la date de fin d’effet du PASS IAE est prolongée pour une durée déterminée par le conseiller Pôle emploi en lien avec la structures et le salarié.
+En cas de validation de la prolongation, la date de fin d’effet de l'agrément est prolongée pour une durée déterminée par le conseiller Pôle emploi en lien avec la structures et le salarié.
 {% endhint %}
 
 ## Mode d'emploi pour enregistrer une demande de prolongation en ligne : 
