@@ -30,6 +30,14 @@ Vous pouvez consulter les informations détaillées en cliquant sur le nom, cons
 
 Après avoir cliqué sur "Postuler" depuis une fiche de poste ou depuis la fiche publique de la structure, suivez les étapes ci-dessous :
 
+[Etape 1 : Renseignez l'e-mail personnel du candidat](postuler-pour-un-candidat.md#etape-1-renseignez-le-mail-personnel-du-candidat)
+
+[Etape 2 :  Renseignez le formulaire d'identification du candidat](postuler-pour-un-candidat.md#etape-2-renseignez-le-formulaire-didentification-du-candidat)
+
+[Etape 3 : Validez l'éligibilité à l'IAE du candidat](postuler-pour-un-candidat.md#etape-3-validez-leligibilite-a-liae-du-candidat)
+
+[Etape 4 : Rédigez un message de candidature ](postuler-pour-un-candidat.md#etape-4-redigez-un-message-de-candidature)
+
 ## Etape 1 : Renseignez l'e-mail personnel du candidat
 
 **Renseignez l'adresse e-mail personnelle du candidat et cliquez sur "Continuer".** Si le candidat ne possède pas d'adresse e-mail cliquez sur "le candidat n'a pas d'e-mail" et laissez vous guider.
@@ -67,6 +75,8 @@ Cette étape n'est visible que pour les prescripteurs habilités lorsqu'ils post
 
 {% hint style="success" %}
 Si le candidat n'a aucun critère il sera tout de même possible de valider l'éligibilité à l'IAE car le statut de prescripteur habilité permet de [déroger aux critères administratifs.](../qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
+
+Cette éligibilité à l'IAE restera valable pendant 6 mois. Tant que l'éligibilité à l'IAE est valide il ne sera plus nécessaire de valider cette étape.
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2887%29.png)
