@@ -3,7 +3,7 @@
 Si vous souhaitez prolonger un PASS IAE, **vous devez obtenir l'autorisation d'un prescripteur habilité inscrit sur les emplois de l'inclusion.**
 
 {% hint style="danger" %}
-_**Pour les agréments gérés par Pôle emploi, il faut continuer de s'adresser à votre agence locale Pôle emploi**_
+_**Pour les agréments gérés par Pôle emploi : un nouveau module sera prochainement mis en ligne \( nous publierons la procédure associée dès qu'il sera activé\)**_
 {% endhint %}
 
 {% hint style="danger" %}
