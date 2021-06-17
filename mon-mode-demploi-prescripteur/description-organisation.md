@@ -8,13 +8,13 @@ Tous les prescripteurs habilités sont visibles dans le [moteur de recherche des
 _Si vous êtes un orienteur votre organisation ne sera pas visible dans le moteur de recherche des prescripteurs._
 {% endhint %}
 
-#### [L'administrateur ](administrateur-de-lorganisation.md)du tableau de bord peut modifier les informations de son organisation :
+#### [L'administrateur ](administrateur-de-lorganisation.md)du tableau de bord peut modifier les informations de son organisation, les autres membres de l'organisation n'ont pas accès à cette fonctionnalité.
 
 ## Procédure : 
 
 Depuis le tableau de bord, cliquez sur **"Modifier les informations"**
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2891%29.png)
 
 Une nouvelle page s'ouvre  :
 
@@ -26,7 +26,7 @@ L'adresse a un impact sur la géolocalisation de votre organisation et son affic
 
 Vous pouvez renseigner **vos coordonnées de contact \(Téléphone, E-mail, site web\)**. Les coordonnées de contact sont visibles uniquement aux utilisateurs connectés \(candidats et professionnels\)
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 Renseignez la description de votre organisation
 
@@ -36,5 +36,5 @@ Vos **informations sont complétées** ? Cliquez sur **Enregistrer**👍
 
 Pour visualiser votre fiche publique, cliquez sur **"Voir la fiche"**
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 

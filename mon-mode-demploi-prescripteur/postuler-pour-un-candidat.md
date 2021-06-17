@@ -1,31 +1,99 @@
----
-description: Ne manquez pas le tutoriel en fin de page pour vous accompagner
----
-
 # Postuler pour un candidat - Prescrire
 
-1. **Recherchez les** [**employeurs solidaires**](https://doc.inclusion.beta.gouv.fr/presentation/employeurs-solidaires) **par ville** sur la page d'accueil des [emplois de l'inclusion](https://emplois.inclusion.beta.gouv.fr/)
-2. **Cliquez sur une entreprise** au choix, puis sur **Postuler** en bas de la fiche entreprise
-3. Saisissez l'adresse **mail du candidat** \(laissez-vous guider s'il n'a pas de mail\)
-   * **Il a un compte ?** Il suffit d'écrire à l'employeur et de cliquez sur **Envoyer la candidature**
-   * **Il n'a pas de compte ?** Saisissez ses informations, puis cliquez sur **Continuer :**
-     * **Cochez ses critères d'éligibilité** puis cliquez **Valider \(**[**prescripteurs habilités**](https://doc.inclusion.beta.gouv.fr/presentation/prescripteurs-habilites)**\)**
-     * **Rédigez un message** à l'employeur et cliquez sur **Envoyer la candidature** 
-4. **La candidature est terminée !**😊
+Pour proposer une candidature à un employeur solidaire, RDV sur votre tableau de bord prescripteur/orienteur : 
+
+Dans le bloc candidatures, cliquez sur **"Postuler pour un candidat"**
+
+![](../.gitbook/assets/image%20%2888%29.png)
+
+La page du moteur de recherche des employeurs s'affiche : 
+
+**Ecrivez le nom de la ville**, **sélectionnez-là dans le menu déroulant** \(1\), puis cliquez sur "**Rechercher" \(**2\)
+
+{% hint style="danger" %}
+La ville doit obligatoirement être sélectionnée dans le menu déroulant sinon elle ne sera pas reconnue. Si le menu déroulant ne s'affiche pas, il faut mettre à jour votre navigateur. 
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2890%29.png)
+
+Les employeurs solidaires qui se situent à 25 km de la ville recherchée, s'affichent : 
+
+**Sur la gauche, vous trouverez des filtres** \( Distance en Km, Départements, Arrondissement pour Paris-Lyon- Marseille, et par type de structure\), il vous suffit de sélectionner le ou les filtres de votre choix pour affiner ou élargir votre recherche
+
+![](../.gitbook/assets/image%20%2894%29.png)
+
+Vous trouverez une fiche pour chaque employeur : 
+
+Vous pouvez consulter les informations détaillées en cliquant sur le nom, consulter les métiers proposés afin de postuler sur un métier précis ou faire une candidature spontanée en cliquant sur le bouton "Postuler"
+
+![](../.gitbook/assets/image%20%2883%29.png)
+
+Lorsque vous décidez de postuler, plusieurs étapes sont à suivre : 
+
+## Etape 1 : Renseignez l'e-mail personnel du candidat
+
+**Renseignez l'adresse e-mail personnelle du candidat et cliquez sur "Continuer".** Si le candidat ne possède pas d'adresse e-mail cliquez sur "le candidat n'a pas d'e-mail" et laissez vous guider.
+
+{% hint style="danger" %}
+Attention il ne faut surtout pas utiliser votre adresse e-mail ou celle d'un collègue
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2897%29.png)
 
 {% hint style="info" %}
-**Suivez l'avancement des candidatures** à tout instant depuis votre **Tableau de bord**👉Cliquez sur **Suivre les candidatures** 
+2 options : 
+
+* Le système reconnait l'adresse e-mail du candidat car un compte existe déjà \(dans ce cas l'étape 2 n'est pas affichée\)
+* Le système ne reconnait pas l'adresse e-mail et il faut donc renseigner les coordonnées du candidat \(étape 2\)
 {% endhint %}
+
+## Etape 2 :  Renseignez le formulaire d'identification du candidat
+
+**Renseignez toutes les informations demandées** puis cliquez sur **"Continuer"**
+
+![](../.gitbook/assets/image%20%2884%29.png)
+
+{% hint style="info" %}
+Si votre candidat est inscrit chez Pôle emploi, pensez à renseigner son identifiant afin de permettre la détection automatique d'un éventuel agrément Pôle emploi.
+{% endhint %}
+
+## Etape 3 : Validez l'éligibilité à l'IAE du candidat 
+
+{% hint style="danger" %}
+Cette étape n'est visible que pour les prescripteurs habilités lorsqu'ils postulent auprès d'une SIAE.
+{% endhint %}
+
+**Sélectionnez le ou les  critère\(s\) relatif\(s\) à la situation administrative du candidat** puis cliquez sur **"Valider"** 
 
 {% hint style="success" %}
-Les [**prescripteurs habilités**](https://doc.inclusion.beta.gouv.fr/presentation/prescripteurs-habilites) ****peuvent valider les [**critères d'éligibilités**](../qui-est-eligible-iae-criteres-eligibilite/) du candidat. Si vous êtes [**orienteur**](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/orienteur), vous n'avez **pas besoin d'être habilité pour postuler** pour un candidat, mais son **éligibilité sera validée par la SIAE.**
+Si le candidat n'a aucun critère il sera tout de même possible de valider l'éligibilité à l'IAE car le statut de prescripteur habilité permet de [déroger aux critères administratifs.](../qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
 {% endhint %}
 
+![](../.gitbook/assets/image%20%2887%29.png)
 
+## Etape 4 : Rédigez un message de candidature 
 
-![Postulez , cr&#xE9;ez un compte et validez les crit&#xE8;res d&apos;&#xE9;ligibilit&#xE9;](https://s6.gifyu.com/images/Enregistrement-de-lecran-2020-05-01-a-15.39.57-1.gif)
+### Métiers recherchés : 
+
+{% hint style="info" %}
+Tous les métiers qui sont proposés par l'employeur sont affichés, si vous aviez postulé depuis une fiche métier , le poste sera par défaut coché.
+
+**Vous pouvez cocher un ou plusieurs métiers pour positionner votre candidat sur ces différents postes** ou ne rien cocher si vous souhaitez faire une candidature spontanée
+{% endhint %}
+
+### Message de candidature : 
+
+Prenez le temps de rédiger toutes les informations que vous jugez utiles de communiquer à l'employeur \(motivations du candidat, motifs d'orientation, éléments du diagnostic socio-professionnel,\) pour lui permettre de bien comprendre la situation du candidat
+
+Plus votre message sera précis et plus l'employeur sera en mesure de déterminer rapidement au besoin d'accompagnement de ce candidat.
+
+![](../.gitbook/assets/image%20%2881%29.png)
 
 ## Ajouter un CV à la candidature
+
+Le CV est facultatif lorsque vous postulez \(sauf si l'employeur l'a mentionné dans la fiche de poste\)
+
+Vous pouvez cliquez sur **"Choisissez un fichier"** pour récupérer le CV depuis votre ordinateur, vous pouvez également le glisser directement dans la fenêtre dédiée.
 
 Pour être ajouté, le CV doit être au format PDF
 
