@@ -20,13 +20,13 @@ Les employeurs solidaires qui se situent à 25 km autour de la ville recherchée
 
 **Sur la gauche, vous trouverez des filtres** \( Distance en Km, Départements, Arrondissement pour Paris-Lyon- Marseille, et par type de structure\), il vous suffit de sélectionner le ou les filtres de votre choix pour affiner ou élargir votre recherche
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 Vous trouverez une fiche pour chaque employeur : 
 
 Vous pouvez consulter les informations détaillées en cliquant sur le nom, consulter les métiers proposés afin de postuler sur un métier précis ou faire une candidature spontanée en cliquant sur le bouton "Postuler"
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2891%29.png)
 
 Après avoir cliqué sur "Postuler" depuis une fiche de poste ou depuis la fiche publique de la structure, suivez les étapes ci-dessous :
 
@@ -46,7 +46,7 @@ Après avoir cliqué sur "Postuler" depuis une fiche de poste ou depuis la fiche
 Attention il ne faut surtout pas utiliser votre adresse e-mail ou celle d'un collègue
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](../.gitbook/assets/image%20%28105%29.png)
 
 {% hint style="info" %}
 2 options : 
@@ -97,7 +97,7 @@ Prenez le temps de rédiger toutes les informations que vous jugez utiles de com
 
 Plus votre message sera précis et plus l'employeur sera en mesure de déterminer rapidement s'il peut répondre au besoin d'accompagnement de ce candidat.
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 ## Ajouter un CV à la candidature
 

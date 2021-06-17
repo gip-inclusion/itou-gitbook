@@ -14,7 +14,7 @@ _Si vous êtes un orienteur votre organisation ne sera pas visible dans le moteu
 
 Depuis le tableau de bord, cliquez sur **"Modifier les informations"**
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
 Une nouvelle page s'ouvre  :
 
@@ -36,5 +36,5 @@ Vos **informations sont complétées** ? Cliquez sur **Enregistrer**👍
 
 Pour visualiser votre fiche publique, cliquez sur **"Voir la fiche"**
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 

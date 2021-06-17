@@ -78,7 +78,7 @@
   * [Modifier les informations d'un candidat](mon-monde-demploi-employeur-solidaire/modifier-les-informations-dun-candidat.md)
   * [Créer une nouvelle structure](mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)
   * [Suspendre Un PASS IAE](mon-monde-demploi-employeur-solidaire/suspendre-un-pass-iae.md)
-  * [Prolonger un PASS IAE](mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
+  * [Prolonger un agrément](mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
   * [Annuler l'embauche d'un candidat](mon-monde-demploi-employeur-solidaire/annuler-lembauche-dun-candidat.md)
   * [Gérer les notifications e-mail](mon-monde-demploi-employeur-solidaire/gerer-les-notificiations-e-mail.md)
   * [Visualiser / Gérer mes annexes financières](mon-monde-demploi-employeur-solidaire/visualiser-gerer-mes-annexes-financieres.md)

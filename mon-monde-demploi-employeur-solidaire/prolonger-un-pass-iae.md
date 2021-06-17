@@ -1,28 +1,72 @@
-# Prolonger un PASS IAE
+# Prolonger un agrément
 
-Si vous souhaitez prolonger un PASS IAE, **vous devez obtenir l'autorisation d'un prescripteur habilité inscrit sur les emplois de l'inclusion.**
+Pour le moment, seuls les agréments qui ont été initialement délivrés par Pôle emploi sont concernés par les demandes de prolongation
+
+Les prolongations peuvent être envisagées pour : 
+
+* des personnes âgées de 50 ans et plus 
+* des bénéficiaires d'une RQTH
+* des personnes rencontrant des difficultés particulièrement importantes en ACI et en AI
 
 {% hint style="danger" %}
-_**Pour les agréments gérés par Pôle emploi : un nouveau module sera prochainement mis en ligne \( nous publierons la procédure associée dès qu'il sera activé\)**_
+L'enregistrement de la prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 
+
+Si l'agrément  est expiré il ne sera plus possible de demander une prolongation.
 {% endhint %}
 
-{% hint style="danger" %}
-L'enregistrement de la prolongation est **possible dès le 3ème mois qui précède la fin d'un PASS IAE et jusqu'au dernier jour de validité du PASS IAE.** 
+Si vous souhaitez prolonger un agrément, **vous devez obtenir l'accord d'un conseiller Pôle emploi inscrit sur les emplois de l'inclusion.** 
 
-Si le PASS IAE est expiré il ne sera plus possible de demander une prolongation.
+## Procédure pour demander l'autorisation de prolongation d'agrément à Pôle emploi : 
+
+▪L'employeur transmet à Pôle emploi un bilan de parcours du salarié et les actions envisagées pour la suite du parcours 
+
+▪ En parallèle, l'employeur enregistre la demande de prolongation depuis son tableau de bord [\[ Voir mode d'emploi \]](prolonger-un-pass-iae.md#mode-demploi-pour-enregistrer-une-demande-de-prolongation-en-ligne)
+
+▪ Le conseiller Pôle emploi réalise un entretien avec le salarié en insertion \(bilan du parcours IAE et diagnostic de la situation socio-professionnelle \)
+
+▪ Si après l'entretien le conseiller Pôle emploi estime que la prolongation est pertinente au regard de la situation socio-professionnelle du salarié, il validera en ligne la demande de prolongation. Dans le cas contraire, le conseiller Pôle emploi pourra rejeter la demande et indiquer les raisons du refus.
+
+{% hint style="success" %}
+En cas de validation de la prolongation, la date de fin d’effet du PASS IAE est prolongée pour une durée déterminée par le conseiller Pôle emploi en lien avec la structures et le salarié.
 {% endhint %}
 
-La prolongation est autorisée pour les motifs suivants : 
+## Mode d'emploi pour enregistrer une demande de prolongation en ligne : 
 
-* Fin d'une formation \(6 mois de prolongation maximum\) 
-* RQTH \(12 mois de prolongation maximum\) 
-* 50 ans et plus \(12 mois de prolongation maximum\) 
+2 cas de figure : 
 
-Les AI et ACI ont un motif supplémentaire : 
+[1- L'agrément du salarié est déjà disponible dans votre tableau de bord \(dans la rubrique candidatures acceptées\)](prolonger-un-pass-iae.md#cas-1-lagrement-du-salarie-est-deja-disponible-dans-votre-tableau-de-bord-dans-la-rubrique-candidatures-acceptees)
 
-* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
+[2- L'agrément du candidat/salarié n'est pas disponible dans votre tableau de bord](prolonger-un-pass-iae.md#cas-2-lagrement-du-candidat-salarie-nest-pas-disponible-dans-votre-tableau-de-bord)
 
-Pour enregistrer une prolongation, RDV sur la candidature concernée :
+### Cas 1 : L'agrément du salarié est déjà disponible dans votre tableau de bord \(dans la rubrique candidatures acceptées\)
+
+Pour prolonger l'agrément, RDV sur la candidature concernée \(elle est disponible dans la rubrique "candidatures acceptées"
+
+Cliquez sur "Prolonger" et compléter le[ formulaire de demande de prolongation](prolonger-un-pass-iae.md#formulaire-de-demande-prolongation)
+
+![](../.gitbook/assets/image%20%28101%29.png)
+
+### Cas 2 : L'agrément du candidat/salarié n'est pas disponible dans votre tableau de bord
+
+Depuis votre tableau de bord, dans le bloc "Mes candidatures", cliquez sur **"Prolonger/Suspendre un agrément"**
+
+![](../.gitbook/assets/image%20%2883%29.png)
+
+Renseignez le numéro de l'agrément et cliquez sur **"Rechercher"**
+
+![](../.gitbook/assets/image%20%2885%29.png)
+
+Si un agrément Cliquez sur **"Oui, je souhaite prolonger ou suspendre l'agrément"**
+
+![](../.gitbook/assets/image%20%2897%29.png)
+
+**Renseignez l'adresse e-mail personnel du bénéficiaire**, puis cliquez sur **"Continuer"**
+
+![](../.gitbook/assets/image%20%28100%29.png)
+
+ Une nouvelle candidature est créée afin de gérer l'agrément
+
+### Formulaire de demande  prolongation : 
 
 Cliquez sur **"Prolonger"**
 
@@ -32,15 +76,11 @@ Complétez le formulaire d'autorisation, puis cliquez sur **"Valider la déclara
 
 ![](../.gitbook/assets/prolongation2.png)
 
-Vérifiez les informations puis **"Confirmer la déclaration"**
+Vérifiez les informations puis cliquez sur  **"Confirmer la déclaration"**
 
-![](../.gitbook/assets/prolongation-3.jpg)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 {% hint style="info" %}
-Le prescripteur habilité reçoit un mail d'information
+Le conseiller Pôle emploi est notifié par mail et pourra accepter et refuser la demande
 {% endhint %}
-
-La durée du PASS IAE est prolongée. Vous retrouvez le détail dans la page de candidature.
-
-![](../.gitbook/assets/prolongation-4.jpg.png)
 
