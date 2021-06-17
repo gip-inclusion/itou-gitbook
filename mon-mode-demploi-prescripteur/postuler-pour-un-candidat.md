@@ -102,3 +102,13 @@ SI vous souhaitez convertir votre document au format PDF, voici des tutoriels po
 * [Convertir au format PDF sur Microsoft Word ](https://support.microsoft.com/fr-fr/office/convertir-ou-enregistrer-au-format-pdf-7d88593b-d509-4225-a05a-076723a40beb?ui=fr-FR&rs=fr-FR&ad=FR)
 * [Convertir au format PDF sur Open office ](https://www.01net.com/astuces/creez-un-document-pdf-avec-openoffice-554400.html)
 
+
+
+Cliquez sur **"Envoyer la candidature"** pour transmettre votre candidature à l'employeur
+
+{% hint style="info" %}
+Une notification e-mail est transmise à l'employeur et au candidat. L'employeur pourra retrouver la candidature directement dans son tableau de bord avec toutes les informations que vous avez renseignées. 
+
+Si le candidat n'a pas accès à sa boite mail ce n'est pas problématique puisque vous serez alertée des suites données à la candidature \(par notification mail et directement dans votre page de suivi des candidatures\)
+{% endhint %}
+
