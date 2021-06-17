@@ -85,7 +85,7 @@ Tous les métiers qui sont proposés par l'employeur sont affichés, si vous avi
 
 Prenez le temps de rédiger toutes les informations que vous jugez utiles de communiquer à l'employeur \(motivations du candidat, motifs d'orientation, éléments du diagnostic socio-professionnel,\) pour lui permettre de bien comprendre la situation du candidat
 
-Plus votre message sera précis et plus l'employeur sera en mesure de déterminer rapidement au besoin d'accompagnement de ce candidat.
+Plus votre message sera précis et plus l'employeur sera en mesure de déterminer rapidement s'il peut répondre au besoin d'accompagnement de ce candidat.
 
 ![](../.gitbook/assets/image%20%2881%29.png)
 
