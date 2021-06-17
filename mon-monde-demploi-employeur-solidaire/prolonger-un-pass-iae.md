@@ -56,7 +56,7 @@ Renseignez le numéro de l'agrément et cliquez sur **"Rechercher"**
 
 ![](../.gitbook/assets/image%20%2885%29.png)
 
-L'agrément est affiché, Cliquez sur **"Oui, je souhaite prolonger ou suspendre l'agrément"**
+L'agrément est affiché, cliquez sur **"Oui, je souhaite prolonger ou suspendre l'agrément"**
 
 ![](../.gitbook/assets/image%20%2897%29.png)
 
