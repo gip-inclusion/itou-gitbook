@@ -68,7 +68,7 @@ L'agrément est affiché, cliquez sur **"Oui, je souhaite prolonger ou suspendre
 
 ### Formulaire de demande  prolongation : 
 
-Cliquez sur **"Prolonger"**
+Depuis la page de détails de la candidature, cliquez sur **"Prolonger"**
 
 ![](../.gitbook/assets/prolongation1.jpg)
 
@@ -81,6 +81,6 @@ Vérifiez les informations puis cliquez sur  **"Confirmer la déclaration"**
 ![](../.gitbook/assets/image%20%28103%29.png)
 
 {% hint style="info" %}
-Le conseiller Pôle emploi est notifié par mail et pourra accepter et refuser la demande
+Le conseiller Pôle emploi est notifié par mail et pourra accepter ou refuser la demande
 {% endhint %}
 
