@@ -25,7 +25,7 @@ Pour **accompagner le déploiement et faciliter la prise en main du site les emp
 {% hint style="success" %}
 **⌛ Durée : 1h30**
 
-* [**Mardi 8 juin à 14h00** : Webinaire Questions/Réponses pour les Employeurs Solidaires](https://app.livestorm.co/itou/webinaire-questionsreponses-employeurs-solidaires-2021?type=detailed)
+Pas d'événement disponible pour le moment
 {% endhint %}
 
 {% hint style="danger" %}
