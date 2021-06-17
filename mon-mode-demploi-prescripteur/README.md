@@ -1,7 +1,5 @@
 # 📘 Mode d'emploi ''prescripteur/orienteur''
 
-\*\*\*\*
-
 **Découvrez les infos et les tutos pour vous aider à utiliser les emplois de l'inclusion**
 
 * \*\*\*\*[**Mon rôle de prescripteur** ](fonctionnalites-prescripteur.md)\*\*\*\*
