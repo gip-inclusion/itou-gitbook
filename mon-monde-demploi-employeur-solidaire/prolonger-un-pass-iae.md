@@ -6,6 +6,7 @@ Les prolongations peuvent être envisagées pour :
 
 * des personnes âgées de 50 ans et plus 
 * des bénéficiaires d'une RQTH
+* des personnes en fin de formation 
 * des personnes rencontrant des difficultés particulièrement importantes en ACI et en AI
 
 {% hint style="danger" %}
