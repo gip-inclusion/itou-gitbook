@@ -2,12 +2,15 @@
 
 Pour le moment, seuls les agréments qui ont été initialement délivrés par Pôle emploi sont concernés par les demandes de prolongation
 
-Les prolongations peuvent être envisagées pour : 
+La prolongation est autorisée pour les motifs suivants : 
 
-* des personnes âgées de 50 ans et plus 
-* des bénéficiaires d'une RQTH
-* des personnes en fin de formation 
-* des personnes rencontrant des difficultés particulièrement importantes en ACI et en AI
+* Fin d'une formation \(6 mois de prolongation maximum\) 
+* RQTH \(12 mois de prolongation maximum\) 
+* 50 ans et plus \(12 mois de prolongation maximum\) 
+
+Les AI et ACI ont un motif supplémentaire : 
+
+* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
 
 {% hint style="danger" %}
 L'enregistrement de la prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 

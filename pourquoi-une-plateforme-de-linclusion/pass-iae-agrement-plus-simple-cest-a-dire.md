@@ -84,12 +84,18 @@ _\*Circulaire DGEFP/DGAS n°2003-24 du 3 octobre 2003 relative à l’aménageme
 {% hint style="info" %}
 Pour le moment, seuls les agréments qui ont été initialement délivrés par Pôle emploi sont concernés par les demandes de prolongation
 
-Les prolongations peuvent être envisagées pour : 
+La prolongation est autorisée pour les motifs suivants : 
 
-* des personnes âgées de 50 ans et plus 
-* des bénéficiaires d'une RQTH
-* des personnes rencontrant des difficultés particulièrement importantes en ACI et en AI
+* Fin d'une formation \(6 mois de prolongation maximum\) 
+* RQTH \(12 mois de prolongation maximum\) 
+* 50 ans et plus \(12 mois de prolongation maximum\) 
 
+Les AI et ACI ont un motif supplémentaire : 
+
+* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
+{% endhint %}
+
+{% hint style="info" %}
 L'enregistrement d'une prolongation est possible dès le 3ème mois qui précède la fin d'un PASS IAE et jusqu'au dernier jour de validité du PASS IAE. [\[Voir mode d'emploi\].](../mon-monde-demploi-employeur-solidaire/prolonger-un-pass-iae.md)
 {% endhint %}
 
