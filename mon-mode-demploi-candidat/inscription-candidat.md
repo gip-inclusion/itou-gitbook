@@ -12,7 +12,7 @@ Ensuite cliquez sur le bouton **"Créer un compte candidat"** qui se trouve en b
 
 ![](../.gitbook/assets/image%20%28108%29.png)
 
-Si vous avez coché une case \(en dehors de la case "autre"\), un formulaire d'inscription s'affiche :
+Si vous avez coché une case \(en dehors de la case "[autre](inscription-candidat.md#case-autre)"\), un formulaire d'inscription s'affiche :
 
 Si vous avez un compte sur Pole-emploi.fr vous pouvez utilisez vos identifiants de connexion en cliquant sur **"Se connecter avec Pôle emploi"**
 
@@ -24,7 +24,11 @@ Un e-mail de validation vous sera transmis afin de confirmer votre compte. Vous 
 
 ![](../.gitbook/assets/image%20%28106%29.png)
 
+### Case "Autre" : 
 
+Si vous coché uniquement la case "autre", l'inscription n'est pas autorisée car elle est réservée uniquement aux candidats éligibles aux dispositifs proposés sur le site des emplois de l'inclusion.
+
+Si vous avez des difficultés pour trouver un emploi, vous pouvez vous rapprocher d'un [prescripteur habilité](https://demo.emplois.inclusion.beta.gouv.fr/search/prescribers) pour être accompagné\(e\) dans vos démarches. Un prescripteur habilité pourra transmettre votre candidature s'il estime que votre situation socio-professionnelle le nécessite.
 
 
 
