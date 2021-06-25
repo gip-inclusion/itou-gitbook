@@ -22,7 +22,7 @@ Pour **accompagner le déploiement et faciliter la prise en main du site les emp
 * \*\*\*\*[**Mardi 31 Août à 14h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-20?type=detailed)\*\*\*\*
 * \*\*\*\*[**Mercredi 8 Septembre à 10h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-21?type=detailed)
 * \*\*\*\*[**Mardi 28 Septembre à 15h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-22?type=detailed)\*\*\*\*
-* \*\*\*\*[**Jeudi 7 Octobre à 10h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-23?type=detailed)\*\*\*\*
+* \*\*\*\*[**Jeudi 7 Octobre \) 10h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-23?type=detailed)\*\*\*\*
 {% endhint %}
 
 ### _Open webinaires de Questions/Réponses pour les employeurs solidaires \(SIAE, GEIQ, EA...\)_
