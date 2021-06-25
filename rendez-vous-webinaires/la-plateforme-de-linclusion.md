@@ -10,7 +10,7 @@ Pour **accompagner le déploiement et faciliter la prise en main du site les emp
 
 ## 📺 Inscrivez-vous à nos webinaires de formation technique
 
-### _Open webinaires de formation pour les prescripteurs_ 
+### _Open webinaires de formation pour les prescripteurs \(prescripteurs habilités + orienteurs\)_
 
 {% hint style="success" %}
 **⌛ Durée : 1h30**
@@ -18,6 +18,7 @@ Pour **accompagner le déploiement et faciliter la prise en main du site les emp
 **📜 Programme: une présentation détaillée du site les emplois de l'inclusion spéciale prescripteurs + des réponses à vos questions** 
 
 * \*\*\*\*[**Lundi 12 Juillet à 10h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-18?type=detailed)
+* \*\*\*\*[**Mardi 10 Août à 11h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-19?type=detailed)\*\*\*\*
 {% endhint %}
 
 ### _Open webinaires de Questions/Réponses pour les employeurs solidaires \(SIAE, GEIQ, EA...\)_
