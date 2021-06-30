@@ -22,9 +22,9 @@ Si vous souhaitez prolonger un agrément, **vous devez obtenir l'accord d'un con
 
 ## Procédure pour demander l'autorisation de prolongation d'agrément à Pôle emploi : 
 
-▪ L'employeur transmet à Pôle emploi un bilan de parcours du salarié et les actions envisagées pour la suite du parcours 
+▪ L'employeur transmet par mail ou courrier à Pôle emploi un bilan de parcours du salarié et les actions envisagées pour la suite du parcours 
 
-▪ En parallèle, l'employeur enregistre la demande de prolongation depuis son tableau de bord [\[ Voir mode d'emploi \]](prolonger-un-pass-iae.md#mode-demploi-pour-enregistrer-une-demande-de-prolongation-en-ligne)
+▪ En parallèle, l'employeur enregistre la demande de prolongation depuis son tableau de bord sur les emplois de l'inclusion [\[ Voir mode d'emploi \]](prolonger-un-pass-iae.md#mode-demploi-pour-enregistrer-une-demande-de-prolongation-en-ligne)
 
 ▪ Le conseiller Pôle emploi réalise un entretien avec le salarié en insertion \(bilan du parcours IAE et diagnostic de la situation socio-professionnelle \)
 
