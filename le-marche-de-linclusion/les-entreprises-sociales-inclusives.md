@@ -2,7 +2,7 @@
 description: Découvrez les ESI
 ---
 
-# Les Entreprises Sociales Inclusives
+# Les Entreprises Sociales Inclusives, c'est quoi ?
 
 ### C'est quoi une **Entreprise Sociale Inclusive ?**
 
