@@ -16,6 +16,7 @@
     * [F.A.Q Le marché de l'inclusion](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/f.a.q-le-marche-de-linclusion.md)
     * [M'inscrire sur le Marché](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/minscrire-sur-le-marche.md)
     * [Publier mes offres de prestations](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
+    * [Réaliser une belle fiche prestataire](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/realiser-une-belle-fiche-prestataire.md)
 
 ## La communauté de l'inclusion
 
