@@ -4,5 +4,7 @@
 
 * \*\*\*\*[**M'inscrire sur le Marché**](minscrire-sur-le-marche.md)\*\*\*\*
 * \*\*\*\*[**Publier mes offres de prestations**](publier-mon-offre-de-prestation/)
-* Ajouter mes références clients
+* \*\*\*\*[**Ajouter mes références clients**](publier-mon-offre-de-prestation/ajouter-mes-references-clients.md)\*\*\*\*
+
+
 
