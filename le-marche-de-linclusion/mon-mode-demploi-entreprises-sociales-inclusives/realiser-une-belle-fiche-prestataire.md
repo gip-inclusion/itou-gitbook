@@ -1,12 +1,12 @@
 ---
 description: >-
-  La fiche prestataire est en quelque sorte votre vitre au sein du Marché de
+  La fiche prestataire est en quelque sorte votre vitrine au sein du Marché de
   l'inclusion. Il est donc essentiel de prendre le temps de la construire.
 ---
 
 # Réaliser une belle fiche prestataire
 
-Voici une fiche prestataire parfaite :
+Voici une fiche prestataire complète :
 
 ![](../../.gitbook/assets/image%20%28119%29.png)
 
