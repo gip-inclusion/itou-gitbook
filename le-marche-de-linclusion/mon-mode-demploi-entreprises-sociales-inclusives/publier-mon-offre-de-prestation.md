@@ -1,26 +1,17 @@
 ---
 description: >-
-  Découvrez pourquoi et comment mettre en avant vos offres de prestations sur le
-  Marché
+  Découvrez comment mettre en avant vos offres de prestations sur le Marché de
+  l'inclusion
 ---
 
-# Publier mon offre de prestation
+# Publier mes offres de prestations
 
-**Avant de commencer, munissez-vous de photos représentatives de vos prestations.**
+Rendez-vous sur Mon espace &gt; Mes Structures &gt; Offres de prestations. Ensuite, cliquez sur "Ajouter" : 
 
 Quelques conseils pour une offre **claire** et **efficace** :
 
 * Choisissez un titre simple qui indique clairement la prestation proposée
-* Créez une annonce par type de prestation
-* Illustrez votre annonce à l'aide de photos cohérente avec l'activité
+* Décrivez en 200 caractères votre offre de prestation
 
 Connectez-vous sur [le Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/).
-
-Cliquez en haut à droite sur le bouton "**Publiez votre offre de prestation**"
-
-![](../../.gitbook/assets/capture-de-cran-2021-02-16-a-15.15.31.png)
-
-Suivez le processus pas à pas en vous laissant guider par les messages affichés : 
-
-![](../../.gitbook/assets/capture-de-cran-2021-02-16-a-15.27.17.png)
 
