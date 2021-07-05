@@ -1,17 +1,11 @@
 # Le Marché de l'inclusion
 
-Pour accompagner les structures inclusives \(SIAE et STPA\) dans la mise en avant de leur offres, [le Marché de l'inclusion](../le-marche-de-linclusion/) vous propose des Webinaires. L'objectif sera **de vous donner des conseils** dans la formulation de vos annonces et **procéder à la publication** en ligne.
-
-{% hint style="success" %}
-La participation à ces sessions d'information vous permettra une assistance personnalisée dans l'inscription et la publication de vos offres !
-{% endhint %}
+Pour accompagner les entreprises sociales inclusives \(SIAE, GEIQ et EA\) dans la mise en avant de leurs offres, [le Marché de l'inclusion](../le-marche-de-linclusion/) vous propose des Webinaires. L'objectif sera **de vous aider à valoriser votre offre commerciale afin de pérenniser vos activités et vos recrutements d'insertion.**
 
 ### 👉 Assistez au prochain Webinaire de présentation de l'outil.
 
 {% hint style="info" %}
-**Pas de Webinaires prévus pour le moment.**
-
-_**Prochaines dates à venir !**_
+\*\*\*\*[**Jeudi 16 septembre à 14h00 - Webinaire de Questions/Réponses**](https://app.livestorm.co/itou/webinaire-le-marche-de-linclusion-questionsreponses?utm_source=Livestorm+company+page)\*\*\*\*
 {% endhint %}
 
 ### 👉 Pour un accompagnement personnalisé et des ateliers en petits groupes
@@ -25,16 +19,6 @@ _**Prochaines dates à venir !**_
 - Une brève description de votre structure
 
 - Une description d'une ou plusieurs prestations proposées
-
-- Des photos qui correspondent à ces mêmes prestations
-
-{% hint style="danger" %}
-**Sans ces éléments, vous risquez de faire perdre du temps au reste du groupe.** 
-
-**🤓** Vous avez tout préparé ? Alors c'est parti !
-
-👩‍💻🧑‍💻 **Inscrivez-vous :** [**Atelier Publication d'une offre sur le Marché de l'inclusion**](https://calendly.com/sophie-beta-gouv/atelier-publication-d-une-offre-sur-le-marche)\*\*\*\*
-{% endhint %}
 
 ## Retrouvez les Webinaires en Replay !
 
