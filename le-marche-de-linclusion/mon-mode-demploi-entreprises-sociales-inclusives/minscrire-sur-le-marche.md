@@ -28,5 +28,5 @@ Finalisez votre inscription en choisissant votre mot de passe puis valider !
 
 **Félicitations, vous êtes inscrit sur le Marché !**
 
-###   ****👉 ****[**Vous pouvez créer votre première offre de prestation dès à présent !**](publier-mon-offre-de-prestation/)\*\*\*\*
+###   ****👉 ****[**Vous pouvez créer votre première offre de prestation dès à présent !**](publier-mon-offre-de-prestation.md)\*\*\*\*
 

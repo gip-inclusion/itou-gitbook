@@ -12,10 +12,11 @@
   * [Untitled](le-marche-de-linclusion/untitled.md)
   * [Les Entreprises Sociales Inclusives](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
   * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
+    * [Renseigner le réseau auquel vous adhérez](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/renseigner-le-reseau-auquel-vous-adherez.md)
+    * [Ajouter mes références clients](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/ajouter-mes-references-clients.md)
     * [F.A.Q Le marché de l'inclusion](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/f.a.q-le-marche-de-linclusion.md)
     * [M'inscrire sur le Marché](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/minscrire-sur-le-marche.md)
-    * [Publier mes offres de prestations](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation/README.md)
-      * [Ajouter mes références clients](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation/ajouter-mes-references-clients.md)
+    * [Publier mes offres de prestations](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
 
 ## La communauté de l'inclusion
 
