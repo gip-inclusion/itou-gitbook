@@ -13,7 +13,7 @@ Les AI et ACI ont un motif supplémentaire :
 * Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
 
 {% hint style="danger" %}
-L'enregistrement de la prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 
+L'enregistrement de l'autorisation de prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 
 
 Si l'agrément  est expiré il ne sera plus possible de demander une prolongation.
 {% endhint %}
