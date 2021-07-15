@@ -90,7 +90,7 @@ La prolongation est autorisée pour les motifs suivants :
 * RQTH \(12 mois de prolongation maximum\) 
 * 50 ans et plus \(12 mois de prolongation maximum\) 
 
-Les AI et ACI ont un motif supplémentaire : 
+Les ACI ont un motif supplémentaire : 
 
 * Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
 {% endhint %}
