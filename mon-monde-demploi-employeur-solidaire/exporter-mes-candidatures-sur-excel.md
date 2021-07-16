@@ -34,5 +34,7 @@ Une fenêtre de paramétrage s'affiche :
 Pensez à bien enregistrer le tableau car les modifications apportées n'impacteront pas le fichier téléchargé.
 {% endhint %}
 
+### Voici un autre tutoriel proposé par C. REVELIN - Pôle emploi La Réunion : 
 
+{% file src="../.gitbook/assets/mode-demploi-pour-exporter-les-candidatures.pdf" caption="Tuto Export des candidatures " %}
 
