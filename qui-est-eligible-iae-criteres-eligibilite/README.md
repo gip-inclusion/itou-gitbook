@@ -48,7 +48,7 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
 
 * **Niveau d'étude 3 \(CAP, BEP\) ou infra** : sur justificatif diplôme ou attestation sur l'honneur
 * **Senior \(+ 50 ans\) :** sur pièce d'identité
-* **Jeunes \(- 26 ans\) :** sur pièce d'identité
+* **Jeune \(- 26 ans\) :** sur pièce d'identité
 * **Sortant de l'ASE** : sur attestation ASE
 * **DELD \(Demandeur d'Emploi de Longue Durée , 12-24 mois d'inscription en continu chez Pôle emploi\)** : sur attestation d'inscription Pôle emploi
 * **Travailleur en situation de handicap :** sur attestation reconnaissance qualité TSH
