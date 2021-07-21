@@ -7,6 +7,7 @@ La prolongation est autorisée pour les motifs suivants :
 * Fin d'une formation \(6 mois de prolongation maximum\) 
 * RQTH \(12 mois de prolongation maximum\) 
 * 50 ans et plus \(12 mois de prolongation maximum\) 
+* Contexte sanitaire \(12 mois de prolongation maximum\) 
 
 Les ACI ont un motif supplémentaire : 
 
@@ -78,7 +79,7 @@ Depuis la page de détails de la candidature, cliquez sur **"Prolonger"**
 
 Complétez le formulaire d'autorisation, puis cliquez sur **"Valider la déclaration"**
 
-![](../.gitbook/assets/prolongation2.png)
+![](../.gitbook/assets/image%20%28121%29.png)
 
 Vérifiez les informations puis cliquez sur  **"Confirmer la déclaration"**
 
