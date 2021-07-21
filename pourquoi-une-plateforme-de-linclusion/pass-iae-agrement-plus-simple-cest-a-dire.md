@@ -89,6 +89,7 @@ La prolongation est autorisée pour les motifs suivants :
 * Fin d'une formation \(6 mois de prolongation maximum\) 
 * RQTH \(12 mois de prolongation maximum\) 
 * 50 ans et plus \(12 mois de prolongation maximum\) 
+* Contexte sanitaire \(12 mois de prolongation maximum\) 
 
 Les ACI ont un motif supplémentaire : 
 
