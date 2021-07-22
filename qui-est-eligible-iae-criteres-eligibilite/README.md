@@ -5,7 +5,7 @@
 * Les **personnes** en **difficultés sociales et/ou professionnelles** \(précarité, âge, santé\)
 * **Orientées par un** [**prescripteur habilité ou un orienteur** ](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)vers une[ **SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)
 * Ou **recrutées directement par une** [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) ****
-* Après [**validation de l'éligibilité IAE du candidat**](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#etape-2-la-validation-de-leligibilite-a-liae)\*\*\*\*
+* Après la réalisation d'un diagnostic social et professionnel [**validant l'éligibilité IAE du candidat**](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#etape-2-la-validation-de-leligibilite-a-liae)\*\*\*\*
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-13.51.12.png)
 
