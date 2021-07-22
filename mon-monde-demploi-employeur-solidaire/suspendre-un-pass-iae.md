@@ -22,6 +22,8 @@ Ensuite sur **"Suspendre"**
 
 Renseignez la date de début et de fin \(la suspension peut être rétroactive et il vous sera également possible de modifier les dates en cas de besoin\)
 
+_Attention s'il s'agit d'un agrément Pôle emploi récupéré via le module "prolonger/suspendre un agrément"  la rétroactivité n'est pas possible, en cas de besoin vous pouvez_ [_nous contacter_](https://assistance.inclusion.beta.gouv.fr/accueil/support)_._
+
 ![](../.gitbook/assets/susp4.png)
 
 Sélectionnez le **motif** et cliquez sur **"Valider la suspension"**
