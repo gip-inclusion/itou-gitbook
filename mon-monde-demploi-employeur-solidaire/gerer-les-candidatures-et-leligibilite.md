@@ -1,3 +1,9 @@
+---
+description: >-
+  Préalablement il convient d'avoir réalisé un diagnostic social et
+  professionnel individuel
+---
+
 # Gérer les candidatures et l'éligibilité
 
 1. Dans **Tableau de bord,** cliquez sur **Candidatures à traiter**
