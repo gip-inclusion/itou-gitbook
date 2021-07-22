@@ -14,7 +14,7 @@
 
 ## Si je suis prescripteur habilité je peux également : 
 
-✅ **Valider l'éligibilité IAE** de mon candidat 
+✅ **Valider l'éligibilité IAE** de mon candidat en réalisant un diagnostic social et professionnel individuel
 
 💥  **Déroger aux critères administratifs** exigés pour l'IAE
 
