@@ -38,7 +38,7 @@ La mention "PASS IAE suspendu" est affichée sur la fiche candidature
 
 ![](../.gitbook/assets/susp7.jpg)
 
-Si besoin vous pouvez **"Modifier"** ou **"Annuler"** la suspension
+Si besoin vous pouvez **"Modifier"** ou **"Annuler"** la suspension \(possible uniquement si elle est encore en cours de validité, sinon [contactez-nous ](https://assistance.inclusion.beta.gouv.fr/accueil/support)\)
 
 ![](../.gitbook/assets/susp8.jpg)
 
