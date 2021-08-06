@@ -62,7 +62,7 @@ L'employeur peut suspendre un PASS IAE depuis son tableau de bord[ \[ Voir mode 
 
 **Les motifs de suspension légitimes\* sont :**
 
-* **Arrêt pour longue maladie**
+* **Arrêt pour longue maladie \*\***
 * **Congé de maternité**
 * **Incarcération**
 * **Période d’essai auprès d’un employeur ne relevant pas de l’insertion par l’activité économique**
@@ -77,6 +77,8 @@ Pour les ETTI, les périodes d’intermission ne sont pas décomptées comme pé
 
 
 _\*Circulaire DGEFP/DGAS n°2003-24 du 3 octobre 2003 relative à l’aménagement de la procédure d’agrément par l’ANPE et au suivi des personnes embauchées dans une structure d’insertion par l’activité économique._ 
+
+_\*\* Attention il ne faut pas confondre l'arrêt maladie classique avec l'arrêt pour longue maladie qui est un statut particulier \( 6 mois minimum\)_
 {% endhint %}
 
 ### Prolongation :
