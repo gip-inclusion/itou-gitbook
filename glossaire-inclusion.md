@@ -55,7 +55,7 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
 | **PJJ** | Protection judiciaire de la jeunesse \([en savoir plus](http://www.justice.gouv.fr/art_pix/plaquette_presentation_pjj.pdf)\) |
 | **SPIP** | Service pénitentiaire d'insertion et de probation \([en savoir plus](http://www.justice.gouv.fr/art_pix/rp_5-2_role_spip.pdf)\) |
 
-## Critères
+## Les critères
 
 | Sigles | Définitions |
 | :--- | :--- |
@@ -76,7 +76,16 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
 | **TSH** | Travailleur en situation de handicap |
 | **ZRR** | Habitant d'une Zone de revitalisation rurale \([en savoir plus](https://www.cohesion-territoires.gouv.fr/zones-de-revitalisation-rurale)\) |
 
-## Institutions
+## Les contrats
+
+| Sigles | Définitions |
+| :--- | :--- |
+| **CDD** | Contrat à durée déterminée \([en savoir plus](https://travail-emploi.gouv.fr/droit-du-travail/les-contrats-de-travail/article/le-contrat-a-duree-determinee-cdd)\) |
+| **CDDI** | Contrat à durée déterminée d'insertion \([en savoir plus](https://www.service-public.fr/particuliers/vosdroits/F14100)\) |
+| **CDI** | Contrat à durée indéterminée \([en savoir plus](https://travail-emploi.gouv.fr/droit-du-travail/les-contrats-de-travail/article/le-contrat-de-travail-a-duree-indeterminee-cdi)\) |
+| **ETP** | Equivalent temps plein : unité de mesure proportionnelle au nombre d'heures travaillées par un salarié sur un an |
+
+## Les institutions
 
 | Sigles | Définitions |
 | :--- | :--- |
@@ -92,7 +101,7 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
 | **SPE** | Service public de l'emploi \([en savoir plus](https://travail-emploi.gouv.fr/ministere/service-public-de-l-emploi/)\) |
 | **SPI** | Service public de l'insertion \([en savoir plus](https://solidarites-sante.gouv.fr/affaires-sociales/lutte-contre-l-exclusion/lutte-pauvrete-gouv-fr/toutes-les-actualites/article/lancement-du-service-public-de-l-insertion)\) |
 
-## Réseaux
+## Les réseaux
 
 | Sigles | Définitions |
 | :--- | :--- |
