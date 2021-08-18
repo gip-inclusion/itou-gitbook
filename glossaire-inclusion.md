@@ -78,12 +78,44 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
 
 ## Les contrats
 
-| Sigles | Définitions |
-| :--- | :--- |
-| **CDD** | Contrat à durée déterminée \([en savoir plus](https://travail-emploi.gouv.fr/droit-du-travail/les-contrats-de-travail/article/le-contrat-a-duree-determinee-cdd)\) |
-| **CDDI** | Contrat à durée déterminée d'insertion \([en savoir plus](https://www.service-public.fr/particuliers/vosdroits/F14100)\) |
-| **CDI** | Contrat à durée indéterminée \([en savoir plus](https://travail-emploi.gouv.fr/droit-du-travail/les-contrats-de-travail/article/le-contrat-de-travail-a-duree-indeterminee-cdi)\) |
-| **ETP** | Equivalent temps plein : unité de mesure proportionnelle au nombre d'heures travaillées par un salarié sur un an |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Sigles</th>
+      <th style="text-align:left">D&#xE9;finitions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>CDD</b>
+      </td>
+      <td style="text-align:left">Contrat &#xE0; dur&#xE9;e d&#xE9;termin&#xE9;e (<a href="https://travail-emploi.gouv.fr/droit-du-travail/les-contrats-de-travail/article/le-contrat-a-duree-determinee-cdd">en savoir plus</a>)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>CDDI</b>
+      </td>
+      <td style="text-align:left">Contrat &#xE0; dur&#xE9;e d&#xE9;termin&#xE9;e d&apos;insertion (<a href="https://www.service-public.fr/particuliers/vosdroits/F14100">en savoir plus</a>)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>CDI</b>
+      </td>
+      <td style="text-align:left">Contrat &#xE0; dur&#xE9;e ind&#xE9;termin&#xE9;e (<a href="https://travail-emploi.gouv.fr/droit-du-travail/les-contrats-de-travail/article/le-contrat-de-travail-a-duree-indeterminee-cdi">en savoir plus</a>)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>ETP</b>
+      </td>
+      <td style="text-align:left">
+        <p>Equivalent temps plein : unit&#xE9; de mesure proportionnelle au nombre
+          d&apos;heures travaill&#xE9;es par un salari&#xE9; sur un an.</p>
+        <p>Pour les EI, 1 ETP = 1505 heures travaill&#xE9;es</p>
+        <p>Pour les AI, 1 ETP = 1607 heures travaill&#xE9;es</p>
+        <p>Pour les ETTI, 1 ETP = 1600 heures travaill&#xE9;es</p>
+        <p>Pour les ACI, 1 ETP = 1820 heures travaill&#xE9;es</p>
+        <p>Pour les EITI, 1 ETP = 1505 heures travaill&#xE9;es</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Les institutions
 
