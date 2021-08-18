@@ -4,17 +4,17 @@
 _Pensez à naviguer dans le sommaire sur la droite de l'écran pour aller plus vite_
 {% endhint %}
 
-#### Indicateur 1
+## Indicateur 1
 
 * 📗 Définition : 
 * 💾 Source des données : 
 * 👩🏫 Formule : 
-* 📈 Présent dans : 
+* 📊 Présent dans : 
 
-#### Indicateur 2
+## Indicateur 2
 
 * 📗 Définition : 
 * 💾 Source des données : 
 * 👩🏫 Formule : 
-* 📈 Présent dans : 
+* 📊 Présent dans : 
 
