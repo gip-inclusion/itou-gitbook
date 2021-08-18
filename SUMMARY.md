@@ -7,7 +7,9 @@
 ---
 
 * [💼 Les emplois de l'inclusion](les-emplois-de-linclusion-2.md)
-* [📈  Le pilotage de l'inclusion](https://pilotage.inclusion.beta.gouv.fr/)
+* [📈  Le pilotage de l'inclusion](le-pilotage-de-linclusion/README.md)
+  * [Les tableaux de bord disponibles](le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles.md)
+  * [Dictionnaire des indicateurs](le-pilotage-de-linclusion/dictionnaire-des-indicateurs.md)
 * [🤝 Le marché de l'inclusion](le-marche-de-linclusion/README.md)
   * [Les Entreprises Sociales Inclusives, c'est quoi ?](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
   * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
