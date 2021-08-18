@@ -1,3 +1,7 @@
+---
+description: (en construction)
+---
+
 # Dictionnaire des indicateurs
 
 {% hint style="info" %}
