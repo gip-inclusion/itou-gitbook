@@ -110,7 +110,7 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
         <p>Pour les EI, 1 ETP = 1505 heures travaill&#xE9;es</p>
         <p>Pour les AI, 1 ETP = 1607 heures travaill&#xE9;es</p>
         <p>Pour les ETTI, 1 ETP = 1600 heures travaill&#xE9;es</p>
-        <p>Pour les ACI, 1 ETP = 1820 heures travaill&#xE9;es</p>
+        <p>Pour les ACI, 1 ETP = 1820 heures pay&#xE9;es</p>
         <p>Pour les EITI, 1 ETP = 1505 heures travaill&#xE9;es</p>
       </td>
     </tr>
