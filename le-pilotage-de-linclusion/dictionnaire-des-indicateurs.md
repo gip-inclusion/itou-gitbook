@@ -8,6 +8,20 @@ description: Liste de tous les indicateurs présentés dans l'ensemble des table
 _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vous avez un doute sur un terme_
 {% endhint %}
 
+## Nombre d'employeurs inscrits
+
+* 📗 **Définition** : Nombre de structures 'employeurs' ayant activé leur compte sur les emplois de l'inclusion
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre total d'employeurs dont la date d'inscription est non vide
+* 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
+
+## Nombre de prescripteurs inscrits
+
+* 📗 **Définition** : Nombre de structures 'prescripteurs habilités' ou 'orienteurs' ayant enregistré leur structure sur les emplois de l'inclusion
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre total de prescripteurs habilités + nombre total d'orienteurs dont la date d'inscription est non vide
+* 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
+
 ## Nombre de candidatures
 
 * 📗 **Définition** : Nombre de candidatures reçues par les employeurs sur les emplois de l'inclusion
