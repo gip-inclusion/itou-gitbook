@@ -6,10 +6,12 @@ description: (en construction)
 
 Liste des tableaux de bord disponibles
 
-## Tableau 1
+## Métiers de l'inclusion
 
-* 📰 Titre : 
-* 📌 Code : 
-* 🌎 Type : 
-* 🔗 Lien : 
+* 📰 **Titre** : Les métiers les plus recherchés et les plus proposés
+* 📌 **Code** : TB90
+* 🌎 **Type** : Public
+* 🔗 **Lien** : [https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/metiers/](https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/metiers/)
+
+
 
