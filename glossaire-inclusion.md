@@ -76,7 +76,7 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
 | **TSH** | Travailleur en situation de handicap |
 | **ZRR** | Habitant d'une Zone de revitalisation rurale \([en savoir plus](https://www.cohesion-territoires.gouv.fr/zones-de-revitalisation-rurale)\) |
 
-## Les contrats
+## Les termes qui reviennent souvent dans nos produits
 
 <table>
   <thead>
@@ -86,6 +86,19 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><b>Candidat</b>
+      </td>
+      <td style="text-align:left">Personne qui postule, directement ou avec l&apos;aide d&apos;un orienteur
+        ou d&apos;un prescripteur, &#xE0; un poste aupr&#xE8;s d&apos;un employeur</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Candidature</b>
+      </td>
+      <td style="text-align:left">Acte de candidature &#xE0; un poste propos&#xE9; par un employeur, par
+        un candidat, directement ou avec l&apos;aide d&apos;un orienteur ou d&apos;un
+        prescripteur</td>
+    </tr>
     <tr>
       <td style="text-align:left"><b>CDD</b>
       </td>
@@ -100,6 +113,35 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
       <td style="text-align:left"><b>CDI</b>
       </td>
       <td style="text-align:left">Contrat &#xE0; dur&#xE9;e ind&#xE9;termin&#xE9;e (<a href="https://travail-emploi.gouv.fr/droit-du-travail/les-contrats-de-travail/article/le-contrat-de-travail-a-duree-indeterminee-cdi">en savoir plus</a>)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Embauche</b>
+      </td>
+      <td style="text-align:left">Candidature accept&#xE9;e par un employeur sur les emplois de l&apos;inclusion</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Employeur</b>
+      </td>
+      <td style="text-align:left">Structure de type SIAE, EA/EATT ou GEIQ qui est inscrite sur les emplois
+        de l&apos;inclusion</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Orienteur</b>
+      </td>
+      <td style="text-align:left">Organisme qui postule pour le compte d&apos;un candidat &#xE0; un poste
+        aupr&#xE8;s d&apos;un employeur sur les emplois de l&apos;inclusion, mais
+        qui n&apos;est pas habilit&#xE9; &#xE0; valider l&apos;&#xE9;ligibilit&#xE9;
+        d&apos;un candidat &#xE0; l&apos;insertion par l&apos;activit&#xE9; &#xE9;conomique</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Prescripteur habilit&#xE9;</b>
+      </td>
+      <td style="text-align:left">Organisme qui postule pour le compte d&apos;un candidat &#xE0; un poste
+        aupr&#xE8;s d&apos;un employeur sur les emplois de l&apos;inclusion, et
+        qui est habilit&#xE9; &#xE0; valider l&apos;&#xE9;ligibilit&#xE9; d&apos;un
+        candidat &#xE0; l&apos;insertion par l&apos;activit&#xE9; &#xE9;conomique.
+        Plus de d&#xE9;tails <a href="pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md">ici</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>ETP</b>

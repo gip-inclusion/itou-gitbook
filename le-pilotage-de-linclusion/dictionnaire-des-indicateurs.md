@@ -8,6 +8,13 @@ description: (en construction)
 _Pensez à naviguer dans le sommaire sur la droite de l'écran pour aller plus vite_
 {% endhint %}
 
+## Indicateur 2
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : 
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : 
+
 ## Métiers les plus proposés par les employeurs
 
 * 📗 **Définition** : métiers les plus proposés par les employeurs sur les emplois de l'inclusion, basés sur le code rome indiqué par l'employeur dans la fiche de poste
