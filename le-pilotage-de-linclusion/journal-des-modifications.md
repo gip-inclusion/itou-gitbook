@@ -7,7 +7,8 @@ description: Journal des modifications du pilotage de l'inclusion
 ## 19/08/2021
 
 * Ajout de la section [tableaux de bord](les-tableaux-de-bord-disponibles.md) dans la documentation
-* 
+* Correction d'un bug sur les filtres dans le TB52
+
 ## 18/08/2021
 
 * refonte du [glossaire](../glossaire-inclusion.md) des acronymes de l'inclusion dans l'espace documentation
