@@ -10,6 +10,7 @@
 * [📈  Le pilotage de l'inclusion](le-pilotage-de-linclusion/README.md)
   * [Les tableaux de bord](le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles.md)
   * [Dictionnaire des indicateurs](le-pilotage-de-linclusion/dictionnaire-des-indicateurs.md)
+  * [Journal des modifications](le-pilotage-de-linclusion/journal-des-modifications.md)
 * [🤝 Le marché de l'inclusion](le-marche-de-linclusion/README.md)
   * [Les Entreprises Sociales Inclusives, c'est quoi ?](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
   * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
