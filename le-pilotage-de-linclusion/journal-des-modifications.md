@@ -1,3 +1,7 @@
+---
+description: Journal des modifications du pilotage de l'inclusion
+---
+
 # Journal des modifications
 
 ## 19/08/2021
