@@ -5,7 +5,7 @@ description: (en construction)
 # Dictionnaire des indicateurs
 
 {% hint style="info" %}
-_Pensez à naviguer dans le sommaire sur la droite de l'écran pour aller plus vite_
+_N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vous avez un doute sur un terme_
 {% endhint %}
 
 ## Indicateur 2
