@@ -1,5 +1,5 @@
 ---
-description: (en construction)
+description: Liste de tous les indicateurs présentés dans l'ensemble des tableaux de bord
 ---
 
 # Dictionnaire des indicateurs
@@ -55,7 +55,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 📗 **Définition** : La part des candidatures acceptées initiées par l'employeur parmi toutes les embauches faites par les SIAE
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Somme des candidatures acceptées initiées par les employeurs de type SIAE divisée par le nombre total des embauches \(initiés par l'employeur, par un prescripteur ou par le candidat lui-même\) dans les structures de type SIAE
-* 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion)
+* 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 
 ## Part des employeurs qui ont reçu au moins une candidature
 
