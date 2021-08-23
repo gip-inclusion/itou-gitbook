@@ -4,6 +4,11 @@ description: Journal des modifications du pilotage de l'inclusion
 
 # Journal des modifications
 
+## 20/08/2021
+
+* Finalisation du script qui permet de récupérer le nom du département à partir du numéro de convention
+* Automatisation du script qui permet  de retravailler les colonnes de la table ASP "fluxIAE\_AnnexeFinanciere": récupérer le type de structure de la colonne af.af\_mesure\_dispositif\_code \(ex : ACI\_DC\) + retraiter les variables dates qui sont au format string dans la table source
+
 ## 19/08/2021
 
 * Ajout de la section [tableaux de bord](les-tableaux-de-bord-disponibles.md) dans la documentation
