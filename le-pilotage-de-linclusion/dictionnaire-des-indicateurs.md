@@ -87,23 +87,23 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 ## Nombre de personnes recrutées en autoprescription sur la base de critères de niveau 1
 
-* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription sur la base de critères de niveau 1
+* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription sur la base de critères de niveau 1 \([rappel sur les règles](../qui-est-eligible-iae-criteres-eligibilite/)\)
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Pour chaque personne embauchée en autoprescription, décompte du nombre de cas où au moins 1 critère de niveau 1 a été coché par la SIAE
 * 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 
-## 3
+## Nombre de personnes recrutées en autoprescription sur la base de critères de niveau 2
 
-* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription
+* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription sur la base de critères de niveau 2 \([rappel sur les règles](../qui-est-eligible-iae-criteres-eligibilite/)\)
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Nombre de candidats embauchés et dont l'éligibilité a été validée par une SIAE
+* 🧮 **Formule** : Pour chaque personne embauchée en autoprescription, décompte du nombre de cas où aucun critère de niveau 1 n'a été coché par la SIAE, ce qui veut dire obligatoirement que ce sont les critères de niveau 2 qui sont pris en compte
 * 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 
-## 4
+## Nombre de critères de niveau 2
 
-* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription
+* 📗 **Définition** : Nombre critères de niveau 2 sélectionnés par la SIAE dans le cadre de l'autoprescription pour valider l'éligibilité d'une personne \([rappel sur les règles](../qui-est-eligible-iae-criteres-eligibilite/)\)
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Nombre de candidats embauchés et dont l'éligibilité a été validée par une SIAE
+* 🧮 **Formule** : Pour chaque personne embauchée en autoprescription dont le nombre de critères de niveau 1 cochés est égale à 0, décompte du nombre de critères niveau 2 cochés par la SIAE \(de 2 à 11 car il y a 11 critères de niveau 2\)
 * 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 
 ## Part des employeurs qui ont reçu au moins une candidature
