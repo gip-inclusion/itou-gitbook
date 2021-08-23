@@ -46,5 +46,13 @@ description: Liste de tous les tableaux de bord disponibles
 * 🌎 **Type** : Public
 * 🔗 **Lien** : [https://emplois.inclusion.beta.gouv.fr/stats/advanced/](https://emplois.inclusion.beta.gouv.fr/stats/advanced/)
 
+## Suivi des opérations de soutien aux métiers en tension
+
+* 📰 **Titre** : Quels sont les résultats des opérations AI-EHPAD, AI-PH, AI RESTO, ETTI RESTO ?
+* 📌 **Code** : TB60
+* 🌎 **Type** : Privé
+* 🔗 **Lien** : 
+* \*\*\*\*🗒 **Commentaire** : Opérations de soutiens aux métiers en tension [EHPAD et résidences pour personnes handicapées](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/crise-covid-19-le-gouvernement-prolonge-l-aide-a-la-mise-a-disposition-de) et [Restauration](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/le-gouvernement-renforce-son-soutien-financier-pour-favoriser-le-recrutement-de)
+
 
 

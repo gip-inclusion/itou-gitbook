@@ -242,3 +242,73 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : nombre de candidatures à des fiches de poste rattachées à un code rome donné, divisé par nombre de fiches de poste correspondant
 * 📊 **Présent dans** : [TB90](les-tableaux-de-bord-disponibles.md#metiers-de-linclusion)
 
+## Opérations spéciales avec les AI et les ETTI
+
+Opérations de soutiens aux métiers en tension
+
+* [EHPAD et résidences pour personnes handicapées](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/crise-covid-19-le-gouvernement-prolonge-l-aide-a-la-mise-a-disposition-de)
+* [Restauration](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/le-gouvernement-renforce-son-soutien-financier-pour-favoriser-le-recrutement-de)
+
+### Chiffres déclarés : missions
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
+
+### Chiffres déclarés : heures
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
+
+### Chiffres déclarés : répartition des heures par semaine
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
+
+### Chiffres déclarés : SIAE
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
+
+### Chiffres établis sur les suivis mensuels validés : missions
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
+
+### Chiffres établis sur les suivis mensuels validés : heures
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
+
+### Chiffres établis sur les suivis mensuels validés : SIAE
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
+
+### Chiffres établis sur les suivis mensuels validés : personnes
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
+
+### Chiffres établis sur les suivis mensuels validés : répartition des heures par mois
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
+
