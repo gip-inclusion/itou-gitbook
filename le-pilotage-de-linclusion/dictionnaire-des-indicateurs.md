@@ -105,18 +105,18 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Nombre total des candidatures dont le statut est 'acceptée'
 * 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 
-### Pourcentage de candidats embauches
+### Pourcentage de candidats embauchés parmi ceux orientés par des prescripteurs
 
-* 📗 **Définition** : x
+* 📗 **Définition** : Pourcentage de candidats embauchés parmi ceux orientés par des prescripteurs
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : x
+* 🧮 **Formule** : Nombre de candidats orientés par un prescripteur et dont au moins une candidature a été acceptée divisé par le nombre total de candidats orientés par des prescripteurs, ramené en base 100
 * 📊 **Présent dans** : [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
 
 ### Profil des personnes orientées
 
-* 📗 **Définition** : x
+* 📗 **Définition** : Pour chacun des critères administratifs principaux, part des personnes relevant de ce critère parmi les personnes orientées
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : x
+* 🧮 **Formule** : Pour chacun des critères, nombre de personnes orientées par un prescripteur et pour lesquels ce critère est coché, divisé par le nombre total de personnes embauchées, rapporté en base 100
 * 📊 **Présent dans** : [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
 
 ### Profil des personnes embauchées
