@@ -7,6 +7,7 @@ description: Journal des modifications du pilotage de l'inclusion
 ## 23/08/2021
 
 * Correction d'un bug sur le tableau "Détail des critères de niveau 2" du TB32
+* Automsatisation du script qui permet aux DDETS  d'avoir un suivi en temps réel du retard que les structures prennent dans la saisie des données mensuelles dans l'extranet ASP
 
 ## 20/08/2021
 
