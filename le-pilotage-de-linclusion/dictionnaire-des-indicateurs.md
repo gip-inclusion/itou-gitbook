@@ -246,7 +246,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 ### Chiffres déclarés : missions
 
-* 📗 **Définition** : 
+* 📗 **Définition** : nombre de missions déclarées par les SIAE sur les opéra
 * 💾 **Source des données** : Agence de services et de paiement
 * 🧮 **Formule** : 
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
