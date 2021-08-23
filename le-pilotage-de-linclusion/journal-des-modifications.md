@@ -4,6 +4,10 @@ description: Journal des modifications du pilotage de l'inclusion
 
 # Journal des modifications
 
+## 23/08/2021
+
+* Correction d'un bug sur le tableau "Détail des critères de niveau 2" du TB32
+
 ## 20/08/2021
 
 * Finalisation du script qui permet de récupérer le nom du département à partir du numéro de convention
