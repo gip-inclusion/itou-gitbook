@@ -144,6 +144,12 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><b>Prescripteur</b>
+      </td>
+      <td style="text-align:left">Terme g&#xE9;n&#xE9;rique pour parler des Prescripteurs habilit&#xE9;s
+        et des orienteurs</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><b>ETP</b>
       </td>
       <td style="text-align:left">
