@@ -8,6 +8,7 @@ description: Journal des modifications du pilotage de l'inclusion
 
 * Ajout de la section [tableaux de bord](les-tableaux-de-bord-disponibles.md) dans la documentation
 * Correction d'un bug sur les filtres dans le TB52
+* Automatisation du script qui permet  de rajouter le nom du département et la région de la structure à la table ASP "fluxIAE\_Structure"
 
 ## 18/08/2021
 
