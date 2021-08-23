@@ -13,7 +13,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 📗 **Définition** : Nombre de structures 'employeurs' ayant activé leur compte sur les emplois de l'inclusion
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Nombre total d'employeurs dont la date d'inscription est non vide
-* 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
+* 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs), [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 
 ## Nombre de prescripteurs inscrits
 
