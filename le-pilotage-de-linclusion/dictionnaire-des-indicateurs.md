@@ -244,11 +244,6 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 ## Opérations spéciales avec les AI et les ETTI
 
-Opérations de soutiens aux métiers en tension
-
-* [EHPAD et résidences pour personnes handicapées](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/crise-covid-19-le-gouvernement-prolonge-l-aide-a-la-mise-a-disposition-de)
-* [Restauration](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/le-gouvernement-renforce-son-soutien-financier-pour-favoriser-le-recrutement-de)
-
 ### Chiffres déclarés : missions
 
 * 📗 **Définition** : 
