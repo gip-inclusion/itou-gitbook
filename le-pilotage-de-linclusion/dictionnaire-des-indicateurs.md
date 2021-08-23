@@ -45,7 +45,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 📗 **Définition** : Nombre de structures 'prescripteurs habilités' ou 'orienteurs' ayant enregistré leur structure sur les emplois de l'inclusion
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Nombre total de prescripteurs habilités et d'orienteurs dont la date d'inscription est non vide
-* 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
+* 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion), [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
 
 ### Pourcentage de prescripteurs habilités
 
@@ -82,7 +82,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 📗 **Définition** : Nombre de candidatures reçues par les employeurs sur les emplois de l'inclusion
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Nombre total des candidatures
-* 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
+* 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion), [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
 
 ### Origine des candidatures
 
@@ -112,6 +112,13 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Nombre total des candidatures dont le statut est 'acceptée'
 * 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 
+### Nombre de personnes embauchées
+
+* 📗**Définition** : Nombre de personnes embauchées via les emplois de l'inlcusion
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre de candidats dont au moins une candidature a été acceptée
+* 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
+
 ### Pourcentage de candidats embauchés parmi ceux orientés par des prescripteurs
 
 * 📗 **Définition** : Pourcentage de candidats embauchés parmi ceux orientés par des prescripteurs
@@ -131,7 +138,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 📗 **Définition** : Pour chacun des critères administratifs principaux, part des personnes relevant de ce critère parmi les personnes embauchées
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Pour chacun des critères, nombre de personnes embauchées et pour lesquels ce critère est coché, divisé par le nombre total de personnes embauchées, rapporté en base 100
-* 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
+* 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs), [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
 
 ### Nombre d'embauches dans les 7 derniers jours
 
