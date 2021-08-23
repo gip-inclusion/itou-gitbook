@@ -71,6 +71,41 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Somme des candidatures acceptées initiées par les employeurs de type SIAE divisée par le nombre total des embauches \(initiés par l'employeur, par un prescripteur ou par le candidat lui-même\) dans les structures de type SIAE
 * 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 
+## Nombre de personnes concernées par l'autoprescription
+
+* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre de candidats embauchés et dont l'éligibilité a été validée par une SIAE
+* 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
+
+## Nombre de critères de niveau 1
+
+* 📗 **Définition** : Nombre critères de niveau 1 sélectionnés par la SIAE dans le cadre de l'autoprescription pour valider l'éligibilité d'une personne \([rappel sur les règles](../qui-est-eligible-iae-criteres-eligibilite/)\)
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Pour chaque personne embauchée en autoprescription, décompte du nombre de critères niveau 1 cochés par la SIAE \(de 0 à 4 car il y a 4 critères de niveau 1\)
+* 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
+
+## 2
+
+* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre de candidats embauchés et dont l'éligibilité a été validée par une SIAE
+* 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
+
+## 3
+
+* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre de candidats embauchés et dont l'éligibilité a été validée par une SIAE
+* 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
+
+## 4
+
+* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre de candidats embauchés et dont l'éligibilité a été validée par une SIAE
+* 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
+
 ## Part des employeurs qui ont reçu au moins une candidature
 
 * 📗 **Définition** : Pourcentage des employeurs qui ont reçu au moins une candidature
