@@ -8,6 +8,7 @@ description: Journal des modifications du pilotage de l'inclusion
 
 * Correction d'un bug sur le tableau "Détail des critères de niveau 2" du TB32
 * Automatisation du script qui permet aux DDETS  d'avoir un suivi en temps réel du retard que les structures prennent dans la saisie des données mensuelles dans l'extranet ASP
+* Affichage du numéro de convention en plus de la dénomination de la structure au niveau de la question  'suivi des saisies mensuelles des structures dans l'ASP' du TB88 
 
 ## 20/08/2021
 
