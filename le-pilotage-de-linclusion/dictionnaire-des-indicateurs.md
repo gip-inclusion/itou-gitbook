@@ -85,11 +85,11 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Pour chaque personne embauchée en autoprescription, décompte du nombre de critères niveau 1 cochés par la SIAE \(de 0 à 4 car il y a 4 critères de niveau 1\)
 * 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 
-## 2
+## Nombre de personnes recrutées en autoprescription sur la base de critères de niveau 1
 
-* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription
+* 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription sur la base de critères de niveau 1
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Nombre de candidats embauchés et dont l'éligibilité a été validée par une SIAE
+* 🧮 **Formule** : Pour chaque personne embauchée en autoprescription, décompte du nombre de cas où au moins 1 critère de niveau 1 a été coché par la SIAE
 * 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 
 ## 3
