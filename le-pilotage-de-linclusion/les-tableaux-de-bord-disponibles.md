@@ -11,6 +11,13 @@ description: Liste de tous les tableaux de bord disponibles
 * 🌎 **Type** : Public
 * 🔗 **Lien** : [https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/employeurs/](https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/employeurs/)
 
+## Prescripteurs
+
+* 📰 **Titre** : Quelle est la typologie des prescripteurs sur mon territoire ?
+* 📌 **Code** : TB52
+* 🌎 **Type** : Public
+* 🔗 **Lien** : [https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/prescripteurs/](https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/prescripteurs/)
+
 ## Critères
 
 * 📰 **Titre** : Quels critères remplissent les personnes recrutées en autoprescription ?

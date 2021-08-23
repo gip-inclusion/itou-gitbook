@@ -15,6 +15,34 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Nombre total d'employeurs dont la date d'inscription est non vide
 * 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs), [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 
+## Nombre d'employeurs inscrits \(yc antennes\)
+
+* 📗 **Définition** : Nombre de structures 'employeurs' ayant activé leur compte sur les emplois de l'inclusion, en comptant les antennes que ces employeurs ont créé sur les emplois de l'inclusion. Un employeur a la possibilité de créer des antennes pour indiquer le lieu d'embauche
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre total d'employeurs dont la date d'inscription est non vide + nombre d'antennes que ces employeurs ont créé
+* 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
+
+## Pourcentage d'employeurs avec au moins un poste ouvert
+
+* 📗 **Définition** : Pourcentage d'employeurs qui ont activé au moins une offre de poste sur les emplois de l'inclusion à l'instant t
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre d'employeurs avec au moins une offre de poste active divisé par le nombre total d'employeurs, rapporté en base 100
+* 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
+
+## Pourcentage d'employeurs ayant embauché dans les 30 derniers jours
+
+* 📗 **Définition** : Pourcentage d'employeurs qui ont embauché au moins une personne via les emplois de l'inclusion dans les 30 derniers jours
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre d'employeurs ayant accepté au moins une candidature dans les 30 derniers jours divisé par le nombre total d'employeurs, rapporté en base 100
+* 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
+
+## x
+
+* 📗 **Définition** : x
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : x
+* 📊 **Présent dans** : [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
+
 ## Nombre de prescripteurs inscrits
 
 * 📗 **Définition** : Nombre de structures 'prescripteurs habilités' ou 'orienteurs' ayant enregistré leur structure sur les emplois de l'inclusion
@@ -29,6 +57,13 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Nombre total des candidatures
 * 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 
+## Origine des candidatures
+
+* 📗 **Définition** : Organisation ou personne à l'origine des candidatures
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Répartition des candidatures selon l'organisation ou la personne qui en est à l'origine \(candidat, orienteur, prescripteur habilité, employeur\)
+* 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
+
 ## Nombre de candidatures dans les 7 derniers jours
 
 * 📗 **Définition** : Nombre de candidatures reçues par les employeurs sur les emplois de l'inclusion dans les 7 derniers jours qui précèdent la mise à jour de données du tableau de bord
@@ -42,6 +77,13 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Nombre total des candidatures dont le statut est 'acceptée'
 * 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
+
+## Profil des personnes embauchées
+
+* 📗 **Définition** : Pour chacun des critères administratifs principaux, part des personnes relevant de ce critère parmi les personnes embauchées
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Pour chacun des critères, nombre de personnes embauchées et pour lesquels ce critère est coché, divisé par le nombre total de personnes embauchées, rapporté en base 100
+* 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
 
 ## Nombre d'embauches dans les 7 derniers jours
 
@@ -112,6 +154,13 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Nombre d'employeurs qui ont reçu au moins une candidature, divisé par le nombre d'employeurs inscrits, ramené en base 100.
 * 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion)
+
+## Nombre de postes proposés
+
+* 📗 **Définition** : Nombre de postes proposés par les employeurs sur les emplois de l'inclusion à un instant t
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre de fiches de postes actives
+* 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
 
 ## Métiers les plus proposés par les employeurs
 
