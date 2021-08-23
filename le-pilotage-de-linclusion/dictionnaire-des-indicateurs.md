@@ -98,6 +98,13 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Nombre total des candidatures dont la date de candidature est comprise entre aujourd'hui et aujourd'hui - 7 jours
 * 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion)
 
+### Nombre de candidats
+
+* 📗 **Définition** : Nombre de candidats ayant postulé directement, via un prescripteur ou via un employeur sur les emplois de l'inclusion
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Nombre total de candidats avec au moins une candidature
+* 📊 **Présent dans** : [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
+
 ### Nombre d'embauches
 
 * 📗 **Définition** : Nombre de candidatures acceptées par les employeurs sur les emplois de l'inclusion
