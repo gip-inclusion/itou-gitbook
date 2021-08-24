@@ -28,7 +28,7 @@ description: Journal des modifications du pilotage de l'inclusion
 ## 18/08/2021
 
 * refonte du [glossaire](../glossaire-inclusion.md) des acronymes de l'inclusion dans l'espace documentation
-* Intégration dans le script qui met à jour le tableau de bord TB60 l'opération restauration
+* intégration de l'opération restauration dans le script qui met à jour le tableau de bord TB60
 * ajout de l'opération AI RESTO et ETTI RESTO dans le tableau de bord TB60
 * ajout du tableau "Profil des candidats recrutés" dans le TB52
 * ajout du [dictionnaire des indicateurs](dictionnaire-des-indicateurs.md) dans l'espace documentation
