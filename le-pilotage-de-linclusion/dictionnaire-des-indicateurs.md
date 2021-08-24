@@ -246,64 +246,64 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 ### Chiffres déclarés : missions
 
-* 📗 **Définition** : nombre de missions déclarées par les SIAE sur les opéra
-* 💾 **Source des données** : Agence de services et de paiement
-* 🧮 **Formule** : 
+* 📗 **Définition** : nombre de missions déclarées par les SIAE sur les opérations spéciales dans l'extranet IAE de l'ASP
+* 💾 **Source des données** : ASP
+* 🧮 **Formule** : décompte du nombre de missions pour lesquelles le code opération \(ex : AIEHPAD, AIPH, AI RESTO, ETTI RESTO\) est saisi dans le champ description
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
 
 ### Chiffres déclarés : heures
 
-* 📗 **Définition** : 
+* 📗 **Définition** : nombre d'heures de travail déclarées par les SIAE sur les opérations spéciales dans l'extranet IAE de l'ASP
 * 💾 **Source des données** : Agence de services et de paiement
-* 🧮 **Formule** : 
+* 🧮 **Formule** : total du nombre d'heures travaillées déclarées dans des missions pour lesquelles le code opération \(ex : AIEHPAD, AIPH, AI RESTO, ETTI RESTO\) est saisi dans le champ description
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
 
 ### Chiffres déclarés : répartition des heures par semaine
 
-* 📗 **Définition** : 
+* 📗 **Définition** : nombre d'heures de travail déclarées par les SIAE sur les opérations spéciales dans l'extranet IAE de l'ASP, heures présentées par semaine pendant laquelle la déclaration a été faite
 * 💾 **Source des données** : Agence de services et de paiement
-* 🧮 **Formule** : 
+* 🧮 **Formule** : total du nombre d'heures travaillées déclarées dans des missions pour lesquelles le code opération \(ex : AIEHPAD, AIPH, AI RESTO, ETTI RESTO\) est saisi dans le champ description, heures regroupées par semaine sur la base de la date de saisie
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
 
 ### Chiffres déclarés : SIAE
 
-* 📗 **Définition** : 
+* 📗 **Définition** : nombre de SIAE qui ont déclaré au moins une mission sur les opérations spéciales dans l'extranet IAE de l'ASP
 * 💾 **Source des données** : Agence de services et de paiement
-* 🧮 **Formule** : 
+* 🧮 **Formule** : décompte du nombre de SIAE qui ont déclaré des missions pour lesquelles le code opération \(ex : AIEHPAD, AIPH, AI RESTO, ETTI RESTO\) est saisi dans le champ description
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
 
 ### Chiffres établis sur les suivis mensuels validés : missions
 
-* 📗 **Définition** : 
+* 📗 **Définition** : nombre de missions déclarées par les SIAE sur les opérations spéciales dans l'extranet IAE de l'ASP et pour lesquelles le suivi mensuel a été validé par l'ASP
 * 💾 **Source des données** : Agence de services et de paiement
-* 🧮 **Formule** : 
+* 🧮 **Formule** : décompte du nombre de missions pour lesquelles le code opération \(ex : AIEHPAD, AIPH, AI RESTO, ETTI RESTO\) est saisi dans le champ description et pour lesquelles le champ "Etat saisie" est "valide"
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
 
 ### Chiffres établis sur les suivis mensuels validés : heures
 
-* 📗 **Définition** : 
+* 📗 **Définition** : nombre d'heures de travail déclarées par les SIAE sur les opérations spéciales dans l'extranet IAE de l'ASP et pour lesquelles le suivi mensuel a été validé par l'ASP
 * 💾 **Source des données** : Agence de services et de paiement
-* 🧮 **Formule** : 
+* 🧮 **Formule** : total du nombre d'heures travaillées déclarées dans des missions pour lesquelles le code opération \(ex : AIEHPAD, AIPH, AI RESTO, ETTI RESTO\) est saisi dans le champ description et pour lesquelles le champ "Etat saisie" est "valide"
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
 
 ### Chiffres établis sur les suivis mensuels validés : SIAE
 
-* 📗 **Définition** : 
+* 📗 **Définition** : nombre de SIAE qui ont déclaré au moins une mission sur les opérations spéciales dans l'extranet IAE de l'ASP et pour lesquelles le suivi mensuel a été validé par l'ASP
 * 💾 **Source des données** : Agence de services et de paiement
-* 🧮 **Formule** : 
+* 🧮 **Formule** : décompte du nombre de SIAE qui ont déclaré des missions pour lesquelles le code opération \(ex : AIEHPAD, AIPH, AI RESTO, ETTI RESTO\) est saisi dans le champ description et pour lesquelles le champ "Etat saisie" est "valide"
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
 
 ### Chiffres établis sur les suivis mensuels validés : personnes
 
-* 📗 **Définition** : 
+* 📗 **Définition** : nombre de salariés en insertion déclarés par les SIAE sur les opérations spéciales dans l'extranet IAE de l'ASP et pour lesquelles le suivi mensuel a été validé par l'ASP
 * 💾 **Source des données** : Agence de services et de paiement
-* 🧮 **Formule** : 
+* 🧮 **Formule** : décompte du nombre de personnes déclarées dans des missions pour lesquelles le code opération \(ex : AIEHPAD, AIPH, AI RESTO, ETTI RESTO\) est saisi dans le champ description et pour lesquelles le champ "Etat saisie" est "valide"
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
 
 ### Chiffres établis sur les suivis mensuels validés : répartition des heures par mois
 
-* 📗 **Définition** : 
+* 📗 **Définition** : nombre d'heures de travail déclarées par les SIAE sur les opérations spéciales dans l'extranet IAE de l'ASP et pour lesquelles le suivi mensuel a été validé par l'ASP, heures présentées par mois pendant lequel les heures ont été travaillées
 * 💾 **Source des données** : Agence de services et de paiement
-* 🧮 **Formule** : 
+* 🧮 **Formule** : total du nombre d'heures travaillées déclarées dans des missions pour lesquelles le code opération \(ex : AIEHPAD, AIPH, AI RESTO, ETTI RESTO\) est saisi dans le champ description et pour lesquelles le champ "Etat saisie" est "valide", heures regroupées par mois pendant lequel les heures ont été travaillées
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
 
