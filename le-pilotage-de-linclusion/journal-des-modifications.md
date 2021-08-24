@@ -7,6 +7,7 @@ description: Journal des modifications du pilotage de l'inclusion
 ## 24/08/2021
 
 * Ajout du bas de page dans le TB88 avec le lien vers le glossaire et la date de mise à jour des données
+* Automatisation du script qui permet d'avoir un suivi par structure du nombre d'heures travaillées par les salariés en insertion et le nombre d'ETP consommés
 
 ## 23/08/2021
 
