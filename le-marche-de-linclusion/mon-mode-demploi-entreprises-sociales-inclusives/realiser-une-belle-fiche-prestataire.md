@@ -24,3 +24,5 @@ Voici les informations essentielles à faire afficher sur votre fiche prestatair
 * [Renseigner le réseau auquel vous êtes adhérent](renseigner-le-reseau-auquel-vous-adherez.md)
 {% endhint %}
 
+Connectez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/)
+

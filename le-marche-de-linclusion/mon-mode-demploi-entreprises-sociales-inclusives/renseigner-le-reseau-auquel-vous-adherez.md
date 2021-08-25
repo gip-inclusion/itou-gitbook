@@ -15,3 +15,5 @@ Ensuite, cliquez sur le ou les réseaux auxquels vous êtes adhérent. Puis cliq
 
 ![](../../.gitbook/assets/image%20%28120%29.png)
 
+Connectez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/)
+
