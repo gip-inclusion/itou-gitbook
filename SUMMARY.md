@@ -21,6 +21,7 @@
     * [Publier mes offres de prestations](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
     * [Réaliser une belle fiche prestataire](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/realiser-une-belle-fiche-prestataire.md)
     * [Ajouter votre périmètre d'intervention](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/ajouter-votre-perimetre-dintervention.md)
+    * [Décrire son offre commerciale et sa structure](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/decrire-son-offre-commerciale-et-sa-structure.md)
 
 ## La communauté de l'inclusion
 
