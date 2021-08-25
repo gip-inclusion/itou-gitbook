@@ -18,7 +18,7 @@ Voici les informations essentielles à faire afficher sur votre fiche prestatair
 * [Ajouter vos références clients](ajouter-mes-references-clients.md)
 * [Ajouter vos offres de prestation ou de mise à disposition](publier-mon-offre-de-prestation.md)
 * Ajouter ou mettre à jour les coordonnées du contact commercial de votre structure
-* Ajouter votre périmètre d'intervention
+* [Ajouter votre périmètre d'intervention](ajouter-votre-perimetre-dintervention.md)
 * Décrire son offre commerciale et sa structure
 * Ajouter vos certifications et labels
 * [Renseigner le réseau auquel vous êtes adhérent](renseigner-le-reseau-auquel-vous-adherez.md)
