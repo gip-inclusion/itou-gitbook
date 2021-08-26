@@ -10,7 +10,7 @@ description: >-
 
 Connectez-vous sur [le Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/).
 
-Cliquez en haut à droite sur le bouton "**Connexion**"
+Cliquez en haut à droite sur le bouton "**Inscription**"
 
 ![](../../.gitbook/assets/capture-de-cran-2021-02-15-a-17.01.18.png)
 
