@@ -7,13 +7,23 @@ description: >-
 
 # Renseigner le réseau auquel vous adhérez
 
-Rendez-vous sur _Mon Espace_ &gt; _Mes Structures_ &gt; _Réseau_. 
+* Rendez-vous sur _Mon Espace_ &gt; _Mes Structures_ &gt; Modifier &gt; _Réseaux_. 
+* Ensuite, cliquez sur le ou les réseaux auxquels vous êtes adhérent. Puis cliquez sur "Enregistrer"
 
-Ensuite, cliquez sur le ou les réseaux auxquels vous êtes adhérent. Puis cliquez sur "Enregistrer"
-
- 
+Connectez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/)
 
 ![](../../.gitbook/assets/image%20%28120%29.png)
 
-Connectez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/)
+{% hint style="info" %}
+Les acheteurs ont parfois besoin d'être accompagné vers l'achat inclusif. Votre réseau peut donc aider l'acheteur a bien définir les contours de son besoin. 
+
+Ce que peut apporter votre réseau à un acheteur :
+
+* l'aider à identifier un ou plusieurs publics cibles
+* l'aider à mettre en place une politique d’achat inclusif et responsable
+* l'accompagner dans le sourcing des prestataires inclusifs
+* l'assister dans la rédaction de clauses sociales
+* sensibiliser et former ses collaborateurs aux achats inclusifs et responsables
+* initier des dynamiques de co-traitance pour certains marchés
+{% endhint %}
 
