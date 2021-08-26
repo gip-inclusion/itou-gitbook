@@ -23,3 +23,7 @@ Les références clients permettent de relater une expérience client réussie. 
 En conséquence, de bonnes références client sont persuasives et peuvent permettre d’augmenter vos chances d'être contacté par un acheteur.
 {% endhint %}
 
+{% hint style="info" %}
+#### **👉** [Assistez au prochain Webinaire de présentation et de Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
+{% endhint %}
+

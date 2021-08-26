@@ -28,5 +28,7 @@ Finalisez votre inscription en choisissant votre mot de passe puis valider !
 
 **Félicitations, vous êtes inscrit sur le Marché !**
 
-###   ****👉 ****[**Vous pouvez créer votre première offre de prestation dès à présent !**](publier-mon-offre-de-prestation.md)\*\*\*\*
+{% hint style="info" %}
+#### **👉** [Assistez au prochain Webinaire de présentation et de Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
+{% endhint %}
 

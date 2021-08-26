@@ -26,3 +26,7 @@ Voici les informations essentielles à faire afficher sur votre fiche prestatair
 
 Connectez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/)
 
+{% hint style="info" %}
+#### **👉** [Assistez au prochain Webinaire de présentation et de Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
+{% endhint %}
+

@@ -29,3 +29,7 @@ Pour maximiser vos chances d'être contacté par un acheteur, suivez ces quelque
 * Inspirez vous de ce que font les autres structures d'insertion de votre région ou de votre secteur d'activité
 {% endhint %}
 
+{% hint style="info" %}
+#### **👉** [Assistez au prochain Webinaire de présentation et de Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
+{% endhint %}
+

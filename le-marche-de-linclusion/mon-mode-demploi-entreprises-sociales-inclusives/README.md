@@ -10,5 +10,7 @@
 * \*\*\*\*[**Renseigner le réseau auquel vous adhérez**](renseigner-le-reseau-auquel-vous-adherez.md)\*\*\*\*
 * \*\*\*\*[**Décrire son offre commerciale et sa structure**](decrire-son-offre-commerciale-et-sa-structure.md)\*\*\*\*
 
-
+{% hint style="info" %}
+#### **👉** [Assistez au prochain Webinaire de présentation et des Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
+{% endhint %}
 

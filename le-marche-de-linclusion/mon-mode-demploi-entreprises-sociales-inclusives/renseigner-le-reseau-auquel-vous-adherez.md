@@ -27,3 +27,7 @@ Ce que peut apporter votre réseau à un acheteur :
 * initier des dynamiques de co-traitance pour certains marchés
 {% endhint %}
 
+{% hint style="info" %}
+#### **👉** [Assistez au prochain Webinaire de présentation et de Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
+{% endhint %}
+
