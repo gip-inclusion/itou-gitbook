@@ -330,6 +330,13 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : somme des heures travaillées par les salariés des SIAE dans la période considérée
 * 📊 **Présent dans** : TB88, TB100
 
+### Moyenne des ETP consommés depuis le début de l'année
+
+* 📗 **Définition** : moyenne des équivalents temps plein consommés depuis le début de l'année en cours
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : si le dernier mois saisi par la structure dans l'ASP est le mois de février 2021, la moyenne du nombre d'ETP consommés depuis le début de l'année est la somme du nombre d'ETP consommés en janvier 2021 auquel on rajoute le nombre d'ETP consommés en février 2021, le tout divisé par 2 tel que 2 est le nombre de mois écoulés depuis le début de l'année en cours
+* 📊 **Présent dans** : TB88
+
 ### Nombre de sorties
 
 * 📗 **Définition** : nombre de salariés en insertion déclarés dans l'extranet ASP comme ayant quitté la structure vers une des différentes catégories de sorties \(emploi durable, emploi de transition, sorties positives, autres sorties\) 
