@@ -4,6 +4,29 @@ description: Journal des modifications du pilotage de l'inclusion
 
 # Journal des modifications
 
+## Du 16/08/2021 au 26/08/202
+
+* Automatisation du script qui permet d'avoir un suivi des structures qui sur-conrsomment/sous-consomment les ETP
+* Automatisation du script qui permet d'avoir un suivi par structure du nombre d'heures travaillées par les salariés en insertion et le nombre d'ETP consommés
+* Automatisation du script qui permet aux DDETS  d'avoir un suivi en temps réel du retard que les structures prennent dans la saisie des données mensuelles dans l'extranet ASP
+* Automatisation du script qui permet  de retravailler les colonnes de la table ASP "fluxIAE\_AnnexeFinanciere": récupérer le type de structure de la colonne af.af\_mesure\_dispositif\_code \(ex : ACI\_DC\) + retraiter les variables dates qui sont au format string dans la table source
+* Automatisation du script qui permet  de rajouter le nom du département et la région de la structure à la table ASP "fluxIAE\_Structure"
+* Ajout du bas de page dans le TB88 avec le lien vers le glossaire et la date de mise à jour des données
+* Correction d'un bug sur le tableau "Détail des critères de niveau 2" du TB32
+* Affichage du numéro de convention en plus de la dénomination de la structure au niveau de la question  'suivi des saisies mensuelles des structures dans l'ASP' du TB88
+* Finalisation du script qui permet de récupérer le nom du département à partir du numéro de convention
+* Ajout de la section [tableaux de bord](les-tableaux-de-bord-disponibles.md) dans la documentation
+* Correction d'un bug sur les filtres dans le TB52
+* refonte du [glossaire](../glossaire-inclusion.md) des acronymes de l'inclusion dans l'espace documentation
+* intégration de l'opération restauration dans le script qui met à jour le tableau de bord TB60
+* ajout de l'opération AI RESTO et ETTI RESTO dans le tableau de bord TB60
+* ajout du tableau "Profil des candidats recrutés" dans le TB52
+* ajout du [dictionnaire des indicateurs](dictionnaire-des-indicateurs.md) dans l'espace documentation
+
+## 26/08/2021
+
+* Automatisation du script qui permet d'avoir un suivi des structures qui sur-conrsomment/sous-consomment les ETP
+
 ## 24/08/2021
 
 * Ajout du bas de page dans le TB88 avec le lien vers le glossaire et la date de mise à jour des données
