@@ -316,7 +316,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : total du nombre des salariés distincts embauchés dans les SIAE
 * 📊 **Présent dans** : TB88, TB100
 
-### Nombre de salarié en insertion
+### Nombre de salariés en insertion
 
 * 📗 **Définition** : nombre de salariés distincts déclarés comme ayant travaillé en IAE par l'ensemble des SIAE dans l'extranet ASP
 * 💾 **Source des données** : Agence de services et de paiement
