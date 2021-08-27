@@ -351,3 +351,12 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : nombre de salarié avec une catégorie de sortie renseignée dans l'ASP
 * 📊 **Présent dans** : TB88, TB100
 
+## Accompagnement des salariés en insertion
+
+### Nombre de conseillers en insertion professionnelle
+
+* 📗 **Définition** : nombre de salariés permanents déclarés par les SIAE dans l'extranet IAE de l'ASP s'occupant de l'accompagnement socio-professionnel des salariés en insertion
+* 💾 **Source des données** : ASP
+* 🧮 **Formule** : total du nombre des conseillers en insertion professionnelle
+* 📊 **Présent dans** : TB100
+
