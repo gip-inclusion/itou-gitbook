@@ -341,7 +341,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 * 📗 **Définition** : le mois de la dernière déclaration mensuelle faite par la SIAE sur l'extranet ASP
 * 💾 **Source des données** : Agence de services et de paiement
-* 🧮 **Formule** : 
+* 🧮 **Formule** : le mois le plus récent avec une saisie sur l'extranet ASP
 * 📊 **Présent dans** : TB88
 
 ### Nombre de sorties
