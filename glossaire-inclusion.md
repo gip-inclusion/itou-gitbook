@@ -162,6 +162,48 @@ description: Glossaire des métiers de l'insertion et de l'inclusion
         <p>Pour les EITI, 1 ETP = 1505 heures travaill&#xE9;es</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><b>Sortie durable</b>
+      </td>
+      <td style="text-align:left">
+        <p>Salari&#xE9; en insertion qui a quitt&#xE9; la structure vers soit :</p>
+        <ul>
+          <li>une cr&#xE9;ation ou reprise d&apos;entreprise &#xE0; son compte</li>
+          <li>une embauche en CDD (sans aide publique &#xE0; l&apos;emploi) d&apos;une
+            dur&#xE9;e de 6 mois et plus</li>
+          <li>une embauche en CDI aid&#xE9; par un autre employeur</li>
+          <li>une embauche en CDI dans la structure ou filiale</li>
+          <li>embauche en CDI non aid&#xE9; par un autre employeur *Int&#xE9;gration
+            dans la fonction publique</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sortie de transition</b>
+      </td>
+      <td style="text-align:left">
+        <p>Salari&#xE9; en insertion qui a quitt&#xE9; la structure vers soit :</p>
+        <ul>
+          <li>une embauche en CDD(sans aide publique &#xE0; l&apos;emploi) de moins
+            de 6 mois par un autre employeur</li>
+          <li>une embauche en contrat aid&#xE9; pour une dur&#xE9;e d&#xE9;termin&#xE9;e
+            par un autre employeur (hors IAE)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sortie positive</b>
+      </td>
+      <td style="text-align:left">
+        <p>Salari&#xE9; en insertion qui a quitt&#xE9; la structure vers soit :</p>
+        <ul>
+          <li>une embauche pour une dur&#xE9;e d&#xE9;termin&#xE9;e dans une structure
+            IAE</li>
+          <li>une entr&#xE9;e en formation qualifiante ou poursuite de formation qualifiante</li>
+          <li>la prise des droits &#xE0; la retraite</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
