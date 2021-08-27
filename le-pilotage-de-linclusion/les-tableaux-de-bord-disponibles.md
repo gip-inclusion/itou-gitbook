@@ -54,5 +54,17 @@ description: Liste de tous les tableaux de bord disponibles
 * 🔗 **Lien** : 
 * \*\*\*\*🗒 **Commentaire** : Opérations de soutiens aux métiers en tension [EHPAD et résidences pour personnes handicapées](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/crise-covid-19-le-gouvernement-prolonge-l-aide-a-la-mise-a-disposition-de) et [Restauration](https://travail-emploi.gouv.fr/actualites/presse/communiques-de-presse/article/le-gouvernement-renforce-son-soutien-financier-pour-favoriser-le-recrutement-de)
 
+## Suivi des recrutements, heures travaillées et sorties
 
+* 📰 **Titre** : Pilotage de l'inclusion : focus sur le département du Seine-Saint-Denis
+* 📌 **Code** : TB100
+* 🌎 **Type** : Privé visible par le conseil départemantal du Seine-Saint-Denis
+* 🔗 **Lien** : 
+
+## Suivi des recrutements, heures travaillées et sorties
+
+* 📰 **Titre** : Pilotage de l'inclusion : focus sur le département du Seine-Saint-Denis
+* 📌 **Code** : TB88
+* 🌎 **Type** : Privé visible par la DRIEETS du Seine-Saint-Denis
+* 🔗 **Lien** : 
 
