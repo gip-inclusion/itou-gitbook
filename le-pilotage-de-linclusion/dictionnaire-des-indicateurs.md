@@ -337,6 +337,13 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : si le dernier mois saisi par la structure dans l'ASP est le mois de février 2021, la moyenne du nombre d'ETP consommés depuis le début de l'année est la somme du nombre d'ETP consommés en janvier 2021 auquel on rajoute le nombre d'ETP consommés en février 2021, le tout divisé par 2 tel que 2 est le nombre de mois écoulés depuis le début de l'année en cours
 * 📊 **Présent dans** : TB88
 
+### Dernier mois saisi dans l'ASP
+
+* 📗 **Définition** : le mois de la dernière déclaration mensuelle faite par la SIAE sur l'extranet ASP
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : TB88
+
 ### Nombre de sorties
 
 * 📗 **Définition** : nombre de salariés en insertion déclarés dans l'extranet ASP comme ayant quitté la structure vers une des différentes catégories de sorties \(emploi durable, emploi de transition, sorties positives, autres sorties\) 
