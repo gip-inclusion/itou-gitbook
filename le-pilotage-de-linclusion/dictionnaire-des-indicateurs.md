@@ -307,3 +307,33 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : total du nombre d'heures travaillées déclarées dans des missions pour lesquelles le code opération \(ex : AIEHPAD, AIPH, AI RESTO, ETTI RESTO\) est saisi dans le champ description et pour lesquelles le champ "Etat saisie" est "valide", heures regroupées par mois pendant lequel les heures ont été travaillées
 * 📊 **Présent dans** : [TB60](les-tableaux-de-bord-disponibles.md#suivi-des-operations-de-soutien-aux-metiers-en-tension)
 
+## Recrutements, salariés en insertion et sorties
+
+### Recrutements
+
+* 📗 **Définition** : nombre distinct de salariés embauchés en insertion déclarés par les SIAE dans l'extranet IAE de l'ASP
+* 💾 **Source des données** : ASP
+* 🧮 **Formule** : total du nombre des salariés distincts embauchés dans les SIAE
+* 📊 **Présent dans** : TB88, TB100
+
+### Nombre de salarié en insertion
+
+* 📗 **Définition** : nombre de salariés distincts déclarés comme ayant travaillé en IAE par l'ensemble des SIAE dans l'extranet ASP
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : total du nombre de salariés déclarés par les SIAE comme ayant travaillé au moins une heure dans la période considérée
+* 📊 **Présent dans** : TB88, TB100
+
+### Nombre d'heures travaillées
+
+* 📗 **Définition** : nombre d'heures travaillées par les salariés en insertion déclarées par l'ensemble des SIAE mensuellement sur l'extranet ASP 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : somme des heures travaillées par les salariés des SIAE dans la période considérée
+* 📊 **Présent dans** : TB88, TB100
+
+### Nombre de sorties
+
+* 📗 **Définition** : nombre de salariés en insertion déclarés dans l'extranet ASP comme ayant quitté la structure vers une des différentes catégories de sorties \(emploi durable, emploi de transition, sorties positives, autres sorties\) 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : nombre de salarié avec une catégorie de sortie renseignée dans l'ASP
+* 📊 **Présent dans** : TB88, TB100
+
