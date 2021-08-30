@@ -6,6 +6,8 @@ description: Journal des modifications du pilotage de l'inclusion
 
 ## Du 30/08/2021 au 10/09/2021
 
+* Correction d'un bug sur le filtre département du [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
+
 ## Du 16/08/2021 au 26/08/2021
 
 * Automatisation du script qui permet d'avoir un suivi des structures qui sur-conrsomment/sous-consomment les ETP
