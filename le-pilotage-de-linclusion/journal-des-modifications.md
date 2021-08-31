@@ -7,10 +7,13 @@ description: Journal des modifications du pilotage de l'inclusion
 ## Du 30/08/2021 au 10/09/2021
 
 * Correction d'un bug sur le filtre département du [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
+* Mise à jour des meta tags \(image et description du site pilotage\)
+* Mise en place de la page Accessibilité
+* Amélioration du bas de page du site pilotage : lien 'stats', lien 'journal des modifications', lien 'accessibilité'
 
 ## Du 16/08/2021 au 26/08/2021
 
-* Automatisation du script qui permet d'avoir un suivi des structures qui sur-conrsomment/sous-consomment les ETP
+* Automatisation du script qui permet d'avoir un suivi des structures qui sur-consomment/sous-consomment les ETP
 * Automatisation du script qui permet d'avoir un suivi par structure du nombre d'heures travaillées par les salariés en insertion et le nombre d'ETP consommés
 * Automatisation du script qui permet aux DDETS  d'avoir un suivi en temps réel du retard que les structures prennent dans la saisie des données mensuelles dans l'extranet ASP
 * Automatisation du script qui permet  de retravailler les colonnes de la table ASP "fluxIAE\_AnnexeFinanciere": récupérer le type de structure de la colonne af.af\_mesure\_dispositif\_code \(ex : ACI\_DC\) + retraiter les variables dates qui sont au format string dans la table source
