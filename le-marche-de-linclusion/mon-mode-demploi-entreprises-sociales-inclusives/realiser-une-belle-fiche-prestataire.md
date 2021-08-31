@@ -13,7 +13,7 @@ Voici une fiche prestataire complète :
 {% hint style="info" %}
 Voici les informations essentielles à faire afficher sur votre fiche prestataire :
 
-* Afficher le logo de votre structure
+* [Afficher le logo de votre structure](ajouter-le-logo-de-ma-structure.md)
 * Ajouter ou mettre à jour vos secteurs d'activité
 * [Ajouter vos références clients](ajouter-mes-references-clients.md)
 * [Ajouter vos offres de prestation ou de mise à disposition](publier-mon-offre-de-prestation.md)
