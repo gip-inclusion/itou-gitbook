@@ -11,6 +11,6 @@
 * \*\*\*\*[**Décrire son offre commerciale et sa structure**](decrire-son-offre-commerciale-et-sa-structure.md)\*\*\*\*
 
 {% hint style="info" %}
-#### **👉** [Assistez au prochain Webinaire de présentation et des Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
+#### **👉** [Assistez au prochain Webinaire de présentation et de Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
 {% endhint %}
 
