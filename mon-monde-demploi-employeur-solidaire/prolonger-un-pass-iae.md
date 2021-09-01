@@ -1,38 +1,15 @@
 # Prolonger un agrément
 
-Pour le moment, seuls les agréments qui ont été initialement délivrés par Pôle emploi sont concernés par les demandes de prolongation
+## 📢 CETTE PAGE EST EN COURS DE MISE A JOUR 
 
-La prolongation est autorisée pour les motifs suivants : 
-
-* Fin d'une formation \(6 mois de prolongation maximum\) 
-* RQTH \(12 mois de prolongation maximum\) 
-* 50 ans et plus \(12 mois de prolongation maximum\) 
-* Contexte sanitaire \(12 mois de prolongation maximum\) 
-
-Les ACI ont un motif supplémentaire : 
-
-* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
+{% hint style="danger" %}
+Suite au nouveau [Décret n° 2021-1128 du 30 août 2021 relatif à l'insertion par l'activité économique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043990367) nos équipes vont très prochainement implémenter les fonctionnalités relatives aux nouvelles règles.
+{% endhint %}
 
 {% hint style="danger" %}
 L'enregistrement de l'autorisation de prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 
 
 Si l'agrément  est expiré il ne sera plus possible de demander une prolongation.
-{% endhint %}
-
-Si vous souhaitez prolonger un agrément, **vous devez obtenir l'accord d'un conseiller Pôle emploi inscrit sur les emplois de l'inclusion.** 
-
-## Procédure pour demander l'autorisation de prolongation d'agrément à Pôle emploi : 
-
-▪ L'employeur transmet par mail ou courrier à Pôle emploi un bilan de parcours du salarié et les actions envisagées pour la suite du parcours 
-
-▪ Après accord de Pôle emploi, l'employeur enregistre la demande de prolongation depuis son tableau de bord sur les emplois de l'inclusion [\[ Voir mode d'emploi \]](prolonger-un-pass-iae.md#mode-demploi-pour-enregistrer-une-demande-de-prolongation-en-ligne)
-
-▪ Le conseiller Pôle emploi réalise un entretien avec le salarié en insertion \(bilan du parcours IAE et diagnostic de la situation socio-professionnelle \)
-
-▪ Si après l'entretien le conseiller Pôle emploi estime que la prolongation est pertinente au regard de la situation socio-professionnelle du salarié, il validera en ligne la demande de prolongation. Dans le cas contraire, le conseiller Pôle emploi pourra rejeter la demande et indiquer les raisons du refus.
-
-{% hint style="success" %}
-En cas de validation de la prolongation, la date de fin d’effet de l'agrément est prolongée pour une durée déterminée par le conseiller Pôle emploi en lien avec la structure et le salarié.
 {% endhint %}
 
 ## Mode d'emploi pour enregistrer une demande de prolongation en ligne : 
