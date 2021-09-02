@@ -92,7 +92,7 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
         <p>+ 24 mois d&#x2019;inscription en continu chez P&#xF4;le emploi</p>
       </td>
       <td style="text-align:left">
-        <p><b>Attestation d&#x2019;inscription P&#xF4;le emploi</b>
+        <p><b>Avis de situation P&#xF4;le emploi  ou r&#xE9;capitulatif des p&#xE9;riodes d&apos;inscription (en cas de radiation)</b>
         </p>
         <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
       </td>
@@ -123,14 +123,14 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
     <tr>
       <td style="text-align:left"><b>Senior ( + 50 ans )</b>
       </td>
-      <td style="text-align:left"><b>Pi&#xE8;ce d&apos;identit&#xE9;</b>
-      </td>
+      <td style="text-align:left"><b>Copie pi&#xE8;ce d&apos;identit&#xE9;</b> (carte d&apos;identit&#xE9;,
+        passeport, permis de conduire)</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Jeune ( + 26 ans )</b>
       </td>
-      <td style="text-align:left"><b>Pi&#xE8;ce d&apos;identit&#xE9;</b>
-      </td>
+      <td style="text-align:left"><b>Copie pi&#xE8;ce d&apos;identit&#xE9;</b> (carte d&apos;identit&#xE9;,
+        passeport, permis de conduire)</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -139,7 +139,7 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
         <p>Aide sociale &#xE0; l&apos;enfance</p>
       </td>
       <td style="text-align:left">
-        <p><b>Attestation ASE</b>
+        <p><b>Attestation sur l&apos;honneur</b>
         </p>
         <p>Datant de moins de 12 mois avant la date de d&#xE9;livrance du PASS IAE</p>
       </td>
@@ -151,7 +151,7 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
         <p>12 &#xE0; 24 mois d&#x2019;inscription en continu chez P&#xF4;le emploi)</p>
       </td>
       <td style="text-align:left">
-        <p><b>Attestation d&#x2019;inscription P&#xF4;le emploi</b>
+        <p><b>Avis de situation P&#xF4;le emploi  ou r&#xE9;capitulatif des p&#xE9;riodes d&apos;inscription (en cas de radiation)</b>
         </p>
         <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
       </td>
@@ -160,7 +160,7 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left"><b>Travailleur handicap&#xE9;</b>
       </td>
       <td style="text-align:left">
-        <p><b>Attestation reconnaissance qualit&#xE9; travailleur handicap&#xE9;</b>
+        <p><b>Notification de d&#xE9;cision de la maison d&#xE9;partementale des personnes handicap&#xE9;es (MDPH) ou attestation de demande de renouvellement</b>
         </p>
         <p>Attestation valide au moment du recrutement</p>
       </td>
@@ -169,7 +169,7 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left"><b>Parent isol&#xE9;</b>
       </td>
       <td style="text-align:left">
-        <p><b>Attestation CAF</b>
+        <p><b>Attestation Allocation de soutien familial (ASF)</b>
         </p>
         <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
       </td>
@@ -178,9 +178,7 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left"><b>Personne sans h&#xE9;bergement ou h&#xE9;berg&#xE9;e ou ayant un parcours de rue</b>
       </td>
       <td style="text-align:left">
-        <p><b>Certificat de domiciliation </b>
-        </p>
-        <p><b>A d&#xE9;faut : d&#xE9;claration sur l&apos;honneur d&apos;un travailleur social ou d&apos;une association</b>
+        <p><b>Certificat de domiciliation. A d&#xE9;faut : d&#xE9;claration sur l&apos;honneur d&apos;un travailleur social ou d&apos;une association</b>
         </p>
         <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
       </td>
@@ -188,13 +186,9 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
     <tr>
       <td style="text-align:left"><b>R&#xE9;fugi&#xE9; statutaire, prot&#xE9;g&#xE9; subsidiaire ou demandeurs d&#x2019;asile</b>
       </td>
-      <td style="text-align:left">
-        <p><b>Titre de s&#xE9;jour valide ou demande de renouvellement du titre de s&#xE9;jour </b>
-        </p>
-        <p><b>Pour les demandeurs d&#x2019;asile : autorisation temporaire de travail</b>
-          <br
-          />Titre valide au moment de la d&#xE9;livrance du PASS IAE</p>
-      </td>
+      <td style="text-align:left"><b>Titre de s&#xE9;jour valide ou demande de renouvellement du titre de s&#xE9;jour . Pour les demandeurs d&#x2019;asile : autorisation temporaire de travail</b>
+        <br
+        />Titre valide au moment de la d&#xE9;livrance du PASS IAE</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -204,8 +198,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
         </p>
       </td>
       <td style="text-align:left">
-        <p><b>Justificatif de domicile</b>
-        </p>
+        <p><b>Justificatif de domicile </b>(facture eau, &#xE9;lectricit&#xE9;, internet,
+          t&#xE9;l&#xE9;phone)</p>
         <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
       </td>
     </tr>
@@ -217,8 +211,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
         </p>
       </td>
       <td style="text-align:left">
-        <p><b>Justificatif de domicile</b>
-        </p>
+        <p><b>Justificatif de domicile  </b>(facture eau, &#xE9;lectricit&#xE9;,
+          internet, t&#xE9;l&#xE9;phone)</p>
         <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
       </td>
     </tr>
