@@ -256,7 +256,7 @@ Si l'éligibilité IAE a été validée par un prescripteur habilité ou que le 
 Un candidat orienté par un [prescripteur habilité](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national) sur le site des emplois de l'inclusion n'est pas soumis à ces critères administratifs. En clair, si un prescripteur habilité accompagne un candidat qui n'a aucun critère ou pas le nombre suffisant de critères et qu'il estime qu'un parcours IAE est pertinent pour ce candidat il pourra [déroger aux critères administratifs](derogation-criteres.md)
 {% endhint %}
 
-Source : [Décret n° 2021-1128 du 30 août 2021 relatif à l'insertion par l'activité économique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043990367)
+Sources : [Arrêté du 1er septembre 2021 fixant la liste des critères d'éligibilité des personnes à un parcours d'insertion par l'activité économique et des prescripteurs mentionnés à l'article L. 5132-3 du code du travail ](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044011209) et  [Décret n° 2021-1128 du 30 août 2021 relatif à l'insertion par l'activité économique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043990367)
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.55.png)
 
