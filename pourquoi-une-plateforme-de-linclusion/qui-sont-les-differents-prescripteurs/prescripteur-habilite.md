@@ -19,7 +19,7 @@ Sur les emplois de l'inclusion, lorsque le **délai d'éligibilité de 6 mois d'
 ## \*\*\*\*👉 **Liste des prescripteurs habilités au national\***
 
 * Acteurs du service public de l’emploi \([**Pôle emploi**](https://www.pole-emploi.fr/accueil/)**,** [**CAP emploi**](https://travail-emploi.gouv.fr/ministere/service-public-de-l-emploi/article/cap-emploi)**,** [**mission locale**](https://www.mission-locale.fr/)**\)**
-* Services sociaux du Conseil départemental
+* Services sociaux du Conseil départemental ou les organisations désignées par le conseil départemental dans le cadre d'une délégation de gestion **;**
 * Services pénitentiaires d'insertion et de probation \(**SPIP**\)
 * Protection judiciaire de la jeunesse \(**PJJ**\)
 * Centres communaux d'action sociale \(**CCAS**\) 
@@ -32,20 +32,25 @@ Sur les emplois de l'inclusion, lorsque le **délai d'éligibilité de 6 mois d'
 * Points et bureaux information jeunesse \(**PIJ/BIJ**\)
 * Caisses d’allocation familiale \(**CAF**\)
 * Centres d'accueil de demandeurs d'asile \(**CADA**\)
-* Aide sociale à l’enfance \(**ASE**\)
+* Aide sociale à l’enfance \(**ASE**\) ou les organisations désignées par le conseil départemental dans le cadre d'une délégation de gestion
 * Centres d’adaptation à la vie active \(**CAVA**\)
 * Centres provisoires d’hébergement \(**CPH**\)
 * Centres d’hébergement d’urgence \(**CHU**\)
 * Structures agréées Organisme d’accueil communautaire et d’activité solidaire \(**OACAS\)**
+* Caisses de la Mutualité sociale agricole **\(MSA\)**
+* Etablissements pour l'insertion dans l'emploi **\(EPIDE\)**
+* Ecoles de la deuxième chance **\(E2C\)**
+* Hébergements d'urgence pour demandeurs d'asile **\(HUDA\) ;**
+* Centres de soins, d'accompagnement et de prévention en addictologie **\(CSAPA\)**
+* Centres d'accueil et d'accompagnement à la réduction de risques pour usagers de drogues **\(CAARUD\) ;**
+* Organismes habilités par le préfet de département pour une durée de cinq ans au plus, renouvelable, après avis du conseil départemental de l'insertion par l'activité économique **\(CDIAE\)**
+* Pensions de famille /résidences d'accueil
+* Opérateurs d’intermédiation locative
+* Résidences sociales / Foyer de Jeunes Travailleurs **\(FJT\)**
 
-\*Source **:**[ ****Arrêté du 7 avril 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041845730/)
+\*Source **:** [Arrêté du 1er septembre 2021 fixant la liste des critères d'éligibilité des personnes à un parcours d'insertion par l'activité économique et des prescripteurs mentionnés à l'article L. 5132-3 du code du travail](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044011209)
 
-{% hint style="success" %}
-**A cette liste s'ajoute :** 
 
-* **Les organisations qui disposent d'un arrêté préfectoral** qui porte mention de leur habilitation à valider l'éligibilité IAE des candidats.
-* Les **organisations qui travaillent pour le compte d'un Conseil Départemental dans le cadre du suivi des BRSA.**
-{% endhint %}
 
 ###     ****👉 ****[**Je suis prescripteur habilité ? Je m'inscris**](https://emplois.inclusion.beta.gouv.fr/signup/prescriber/is_pole_emploi)\*\*\*\*
 
