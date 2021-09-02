@@ -104,6 +104,7 @@
   * [PASS IAE : Comment ça marche ?](qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md)
   * [Dérogation aux critères administratifs](qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
   * [Dérogation au délai de carence](qui-est-eligible-iae-criteres-eligibilite/derogation-au-delai-de-carence.md)
+* [⏱ Dispositif Premières Heures en chantier](dispositif-premieres-heures-en-chantier.md)
 * [📜 Contrat GEIQ](qui-peut-beneficier-du-contrat-geiq.md)
 * [♿ Contrat en entreprise adaptée](contrat-en-entreprise-adaptee.md)
 
