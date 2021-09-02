@@ -34,35 +34,235 @@ Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#c
 Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il doit avoir :
 
 * Au moins **1 critère administratif de niveau 1**
-* Ou le cumul de **3 critères administratifs de niveau 2** \(Exception pour les ETTI : 2 critères administratifs de niveau 2\)
+* Ou le cumul de **3 critères administratifs de niveau 2** \(Exception pour les ETTI et les AI : 2 critères administratifs de niveau 2\)
 {% endhint %}
 
-### Critères administratifs de niveau 1
+## Critères administratifs de niveau 1
 
-* **Bénéficiaire RSA \(socle\) :** sur attestation RSA
-* **Allocataire ASS :** sur attestation ASS
-* **Allocataire AAH :** sur attestation AAH
-* **DETLD \(Demandeur d'Emploi de Très Longue Durée , + 24 mois d'inscription en continu chez Pôle emploi\)** : sur attestation d'inscription Pôle emploi
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x2705; Crit&#xE8;res de Niveau 1</th>
+      <th style="text-align:left">&#x1F4C3; Pi&#xE8;ces justificatives et dur&#xE9;es de validit&#xE9;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><b>B&#xE9;n&#xE9;ficiaire du RSA (socle)</b>
+        </p>
+        <p>Revenue de solidarit&#xE9; active</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Attestation RSA </b>
+        </p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Allocataire ASS</b>
+        </p>
+        <p>Allocation de solidarit&#xE9; sp&#xE9;cifique</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Attestation ASS</b>
+        </p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Allocataire AAH</b>
+        </p>
+        <p>Allocation aux adultes handicap&#xE9;s</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Attestation AAH</b>
+        </p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>DETLD (Demandeur d&#x2019;emploi</b>
+        </p>
+        <p><b>de tr&#xE8;s longue dur&#xE9;e)</b>
+        </p>
+        <p>+ 24 mois d&#x2019;inscription en continu chez P&#xF4;le emploi</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Attestation d&#x2019;inscription P&#xF4;le emploi</b>
+        </p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Critères administratifs de niveau 2
+## Critères administratifs de niveau 2
 
-* **Niveau d'étude 3 \(CAP, BEP\) ou infra** : sur justificatif diplôme ou attestation sur l'honneur
-* **Senior \(+ 50 ans\) :** sur pièce d'identité
-* **Jeune \(- 26 ans\) :** sur pièce d'identité
-* **Sortant de l'ASE** : sur attestation ASE
-* **DELD \(Demandeur d'Emploi de Longue Durée , 12-24 mois d'inscription en continu chez Pôle emploi\)** : sur attestation d'inscription Pôle emploi
-* **Travailleur en situation de handicap :** sur attestation reconnaissance qualité TSH
-* **Parent isolé :** sur attestation CAF 
-* **Personne sans hébergement / hébergée / ayant un parcours de rue :** attestation sur l'honneur
-* **Personne récemment arrivée en France :** contrat d'intégration républicaine de - 24 mois
-* **Résident** en [ZRR ](https://www.data.gouv.fr/fr/datasets/zones-de-revitalisation-rurale-zrr/): sur justificatif de domicile
-* **Résident** [QPV](https://sig.ville.gouv.fr/) : sur justificatif de domicile
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x2705; Crit&#xE8;res de Niveau 2</th>
+      <th style="text-align:left">&#x1F4C3; Pi&#xE8;ces justificatives et dur&#xE9;es de validit&#xE9;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Niveau d&apos;&#xE9;tude 3 (CAP, BEP) ou infra</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Dipl&#xF4;me et/ou attestation sur l&#x2019;honneur</b>
+        </p>
+        <p>Attestation sur l&#x2019;honneur datant de moins de 3 mois avant la date
+          de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Senior ( + 50 ans )</b>
+      </td>
+      <td style="text-align:left"><b>Pi&#xE8;ce d&apos;identit&#xE9;</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jeune ( + 26 ans )</b>
+      </td>
+      <td style="text-align:left"><b>Pi&#xE8;ce d&apos;identit&#xE9;</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Sortant de l&apos;ASE</b>
+        </p>
+        <p>Aide sociale &#xE0; l&apos;enfance</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Attestation ASE</b>
+        </p>
+        <p>Datant de moins de 12 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>DELD (Demandeur d&apos;emploi de longue dur&#xE9;e)</b>
+        </p>
+        <p>12 &#xE0; 24 mois d&#x2019;inscription en continu chez P&#xF4;le emploi)</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Attestation d&#x2019;inscription P&#xF4;le emploi</b>
+        </p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Travailleur handicap&#xE9;</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Attestation reconnaissance qualit&#xE9; travailleur handicap&#xE9;</b>
+        </p>
+        <p>Attestation valide au moment du recrutement</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Parent isol&#xE9;</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Attestation CAF</b>
+        </p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Personne sans h&#xE9;bergement ou h&#xE9;berg&#xE9;e ou ayant un parcours de rue</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Certificat de domiciliation </b>
+        </p>
+        <p><b>A d&#xE9;faut : d&#xE9;claration sur l&apos;honneur d&apos;un travailleur social ou d&apos;une association</b>
+        </p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>R&#xE9;fugi&#xE9; statutaire, prot&#xE9;g&#xE9; subsidiaire ou demandeurs d&#x2019;asile</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Titre de s&#xE9;jour valide ou demande de renouvellement du titre de s&#xE9;jour </b>
+        </p>
+        <p><b>Pour les demandeurs d&#x2019;asile : autorisation temporaire de travail</b>
+          <br
+          />Titre valide au moment de la d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>R&#xE9;sident en ZRR</b>
+        </p>
+        <p><a href="https://www.data.gouv.fr/fr/datasets/zones-de-revitalisation-rurale-zrr/">Zone de revitalisation rurale</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Justificatif de domicile</b>
+        </p>
+        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>R&#xE9;sident QPV</b>
+        </p>
+        <p><a href="https://sig.ville.gouv.fr/">Quartier prioritaire de la politique de la ville</a>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><b>Justificatif de domicile</b>
+        </p>
+        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sortant de d&#xE9;tention ou personne plac&#xE9;e sous main de justice</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Billet de sortie ou attestation du juge d&#x2019;application des peines</b>
+        </p>
+        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ma&#xEE;trise de la langue fran&#xE7;aise</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Evaluation FLE inf&#xE9;rieure au niveau A1</b>
+        </p>
+        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Mobilit&#xE9;</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Diagnostic mobilit&#xE9; d&#xE9;livr&#xE9; par un prescripteur habilit&#xE9;</b>
+        </p>
+        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Source : [arrêté du 7 avril 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000041845730/2020-11-04/)
+{% hint style="info" %}
+Si l'éligibilité IAE  a été validée par la SIAE,  l'employeur doit conserver les **pièces justificatives pour une durée de 24 mois à compter de la date de déclaration de l'éligibilité de la personne.**
+
+Si l'éligibilité IAE a été validée par un prescripteur habilité ou que le futur salarié a déjà un PASS IAE en cours de validité : l'employeur n'a pas besoin de conserver de pièces justificatives relatives aux critères d'éligibilité, car l'embauche ne sera pas soumise au contrôle à postériori de la DDETS.
+{% endhint %}
 
 {% hint style="success" %}
 Un candidat orienté par un [prescripteur habilité](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national) sur le site des emplois de l'inclusion n'est pas soumis à ces critères administratifs. En clair, si un prescripteur habilité accompagne un candidat qui n'a aucun critère ou pas le nombre suffisant de critères et qu'il estime qu'un parcours IAE est pertinent pour ce candidat il pourra [déroger aux critères administratifs](derogation-criteres.md)
 {% endhint %}
+
+Source : [Décret n° 2021-1128 du 30 août 2021 relatif à l'insertion par l'activité économique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043990367)
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.55.png)
 
