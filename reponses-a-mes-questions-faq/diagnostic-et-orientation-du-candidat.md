@@ -258,7 +258,7 @@ Si un employeur reçoit une fiche de positionnement il n'a aucun moyen de la ren
 {% hint style="info" %}
 Si vous êtes  prescripteur habilité, vous pouvez passer outre les critères administratifs. 
 
-Si vous êtes orienteur ou employeur solidaire, adressez le candidat vers un prescripteur habilité \( Utilisez le [moteur de recherche prescripteur](https://inclusion.beta.gouv.fr/search/prescribers) pour trouver facilement un prescripteur habilité \). Si le prescripteur habilité accepte de valider l'éligibilité IAE, il lui suffit de [postuler pour le candidat ](../mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
+Si vous êtes orienteur ou employeur solidaire, adressez le candidat vers un prescripteur habilité \( Utilisez le [moteur de recherche prescripteur](https://emplois.inclusion.beta.gouv.fr/search/prescribers) pour trouver facilement un prescripteur habilité \). Si le prescripteur habilité accepte de valider l'éligibilité IAE, il lui suffit de [postuler pour le candidat ](../mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
 {% endhint %}
 
 ### _Doit-on fournir / conserver les pièces justificatives ?_
