@@ -97,7 +97,9 @@ EI = Entreprise d'Insertion
 
 AI = Association intermédiaire 
 
-ACI = Atelier de chantier d'insertion 
+ACI = Atelier et chantier d'insertion 
+
+ACIPHC : Atelier et chantier d'insertion Premières Heures en Chantier
 
 ETTI = Entreprise de travail temporaire d'insertion
 
