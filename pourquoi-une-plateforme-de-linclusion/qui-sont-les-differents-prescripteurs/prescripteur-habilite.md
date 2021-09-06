@@ -16,7 +16,7 @@ Sur les emplois de l'inclusion, lorsque le **délai d'éligibilité de 6 mois d'
 
 ![](../../.gitbook/assets/capture-de-cran-2020-06-23-a-11.59.48.png)
 
-## \*\*\*\*👉 **Liste des prescripteurs habilités au national\***
+## \*\*\*\*👉 **Liste des prescripteurs habilités au national**
 
 * Acteurs du service public de l’emploi \([**Pôle emploi**](https://www.pole-emploi.fr/accueil/)**,** [**CAP emploi**](https://travail-emploi.gouv.fr/ministere/service-public-de-l-emploi/article/cap-emploi)**,** [**mission locale**](https://www.mission-locale.fr/)**\)**
 * Services sociaux du Conseil départemental ou les organisations désignées par le conseil départemental dans le cadre d'une délégation de gestion **;**
@@ -47,9 +47,13 @@ Sur les emplois de l'inclusion, lorsque le **délai d'éligibilité de 6 mois d'
 * Pensions de famille /résidences d'accueil
 * Opérateurs d’intermédiation locative
 * Résidences sociales / Foyer de Jeunes Travailleurs **\(FJT\)**
-* Organismes mentionnés au [8° du I de l'article L. 312-1 du code de l'action sociale et des familles](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074069&idArticle=LEGIARTI000006797382&dateTexte=&categorieLien=cid)
+* Organismes mentionnés au 8° du I de l'article L. 312-1 du code de l'action sociale et des familles **\***
 
-\*Source **:** [Arrêté du 1er septembre 2021 fixant la liste des critères d'éligibilité des personnes à un parcours d'insertion par l'activité économique et des prescripteurs mentionnés à l'article L. 5132-3 du code du travail](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044011209)
+{% hint style="info" %}
+**\*** _Les établissements ou services comportant ou non un hébergement, assurant l'accueil, notamment dans les situations d'urgence, le soutien ou l'accompagnement social, l'adaptation à la vie active ou l'insertion sociale et professionnelle des personnes ou des familles en difficulté ou en situation de détresse  \(source :_ [_Art L312-1 du Code de l'actions sociale et des familles \)_](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038833680/)\_\_
+{% endhint %}
+
+**Source:** [Arrêté du 1er septembre 2021 fixant la liste des critères d'éligibilité des personnes à un parcours d'insertion par l'activité économique et des prescripteurs mentionnés à l'article L. 5132-3 du code du travail](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044011209)
 
 
 
