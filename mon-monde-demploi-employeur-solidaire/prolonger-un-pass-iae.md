@@ -56,7 +56,7 @@ Depuis la page de détails de la candidature, cliquez sur **"Prolonger"**
 
 Complétez le formulaire d'autorisation, puis cliquez sur **"Valider la déclaration"**
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![Sur cet &#xE9;cran le motif &quot;difficult&#xE9;s particuli&#xE8;res...&quot; n&apos;apparait pas car la structure n&apos;est pas concern&#xE9;e](../.gitbook/assets/image%20%28121%29.png)
 
 Vérifiez les informations puis cliquez sur  **"Confirmer la déclaration"**
 
