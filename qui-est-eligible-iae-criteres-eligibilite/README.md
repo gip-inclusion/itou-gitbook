@@ -56,7 +56,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Attestation RSA </b>
         </p>
-        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -68,7 +69,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Attestation ASS</b>
         </p>
-        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -80,7 +82,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Attestation AAH</b>
         </p>
-        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -94,7 +97,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Avis de situation P&#xF4;le emploi  ou r&#xE9;capitulatif des p&#xE9;riodes d&apos;inscription (en cas de radiation)</b>
         </p>
-        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
   </tbody>
@@ -117,7 +121,7 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
         <p><b>Dipl&#xF4;me et/ou attestation sur l&#x2019;honneur</b>
         </p>
         <p>Attestation sur l&#x2019;honneur datant de moins de 3 mois avant la date
-          de d&#xE9;livrance du PASS IAE</p>
+          de d&#xE9;livrance du PASS IAE ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -141,7 +145,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Attestation sur l&apos;honneur</b>
         </p>
-        <p>Datant de moins de 12 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 12 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -153,7 +158,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Avis de situation P&#xF4;le emploi  ou r&#xE9;capitulatif des p&#xE9;riodes d&apos;inscription (en cas de radiation)</b>
         </p>
-        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -171,7 +177,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Attestation Allocation de soutien familial (ASF)</b>
         </p>
-        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -180,7 +187,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Certificat de domiciliation. A d&#xE9;faut : d&#xE9;claration sur l&apos;honneur d&apos;un travailleur social ou d&apos;une association</b>
         </p>
-        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 3 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -188,7 +196,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       </td>
       <td style="text-align:left"><b>Titre de s&#xE9;jour valide ou demande de renouvellement du titre de s&#xE9;jour . Pour les demandeurs d&#x2019;asile : autorisation temporaire de travail</b>
         <br
-        />Titre valide au moment de la d&#xE9;livrance du PASS IAE</td>
+        />Titre valide au moment de la d&#xE9;livrance du PASS IAE ( = R&#xE9;c&#xE9;piss&#xE9;
+        d&apos;enregistrement)</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -200,7 +209,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Justificatif de domicile </b>(facture eau, &#xE9;lectricit&#xE9;, internet,
           t&#xE9;l&#xE9;phone)</p>
-        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -213,7 +223,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Justificatif de domicile  </b>(facture eau, &#xE9;lectricit&#xE9;,
           internet, t&#xE9;l&#xE9;phone)</p>
-        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -222,7 +233,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Billet de sortie ou attestation du juge d&#x2019;application des peines</b>
         </p>
-        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -231,7 +243,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Evaluation FLE inf&#xE9;rieure au niveau A1</b>
         </p>
-        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
     <tr>
@@ -240,7 +253,8 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
       <td style="text-align:left">
         <p><b>Diagnostic mobilit&#xE9; d&#xE9;livr&#xE9; par un prescripteur habilit&#xE9;</b>
         </p>
-        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE</p>
+        <p>Datant de moins de 6 mois avant la date de d&#xE9;livrance du PASS IAE
+          ( = R&#xE9;c&#xE9;piss&#xE9; d&apos;enregistrement)</p>
       </td>
     </tr>
   </tbody>
