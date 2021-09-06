@@ -47,6 +47,7 @@ Sur les emplois de l'inclusion, lorsque le **délai d'éligibilité de 6 mois d'
 * Pensions de famille /résidences d'accueil
 * Opérateurs d’intermédiation locative
 * Résidences sociales / Foyer de Jeunes Travailleurs **\(FJT\)**
+* Organismes mentionnés au [8° du I de l'article L. 312-1 du code de l'action sociale et des familles](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074069&idArticle=LEGIARTI000006797382&dateTexte=&categorieLien=cid)
 
 \*Source **:** [Arrêté du 1er septembre 2021 fixant la liste des critères d'éligibilité des personnes à un parcours d'insertion par l'activité économique et des prescripteurs mentionnés à l'article L. 5132-3 du code du travail](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044011209)
 
