@@ -321,7 +321,7 @@ Le service des emplois de l'inclusion n'a pas de légitimité à vous conseiller
 
 Si vous êtes prescripteur habilité vous pouvez déroger aux critères administratifs.
 
-Si vous êtes employeur en cas de doute, vous pouvez toujours demander à un prescripteur habilité de vous orienter la candidature via les emplois de l'inclusion, le candidat sera reconnu éligible à l'IAE même en l'absence de critères administratifs. Vous n'aurez pas à vérifier les critères administratifs. Pour contacter un prescripteur habilité vous pouvez utiliser le [moteur de recherche des prescripteurs habilités](https://inclusion.beta.gouv.fr/search/prescribers)
+Si vous êtes employeur en cas de doute, vous pouvez toujours demander à un prescripteur habilité de vous orienter la candidature via les emplois de l'inclusion, le candidat sera reconnu éligible à l'IAE même en l'absence de critères administratifs. Vous n'aurez pas à vérifier les critères administratifs. Pour contacter un prescripteur habilité vous pouvez utiliser le [moteur de recherche des prescripteurs habilités](https://emplois.inclusion.beta.gouv.fr/search/prescribers)
 {% endhint %}
 
 
