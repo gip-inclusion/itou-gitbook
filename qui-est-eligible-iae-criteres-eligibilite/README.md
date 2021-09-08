@@ -131,7 +131,7 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
         passeport, permis de conduire)</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Jeune ( + 26 ans )</b>
+      <td style="text-align:left"><b>Jeune ( - 26 ans )</b>
       </td>
       <td style="text-align:left"><b>Copie pi&#xE8;ce d&apos;identit&#xE9;</b> (carte d&apos;identit&#xE9;,
         passeport, permis de conduire)</td>
