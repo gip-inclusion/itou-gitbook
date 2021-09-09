@@ -11,7 +11,7 @@ description: Journal des modifications du pilotage de l'inclusion
 * Mise en place de la page Accessibilité
 * Amélioration du bas de page du site pilotage : lien 'stats', lien 'journal des modifications', lien 'accessibilité'
 
-## Du 16/08/2021 au 26/08/2021
+## Du 16/08/2021 au 27/08/2021
 
 * Automatisation du script qui permet d'avoir un suivi des structures qui sur-consomment/sous-consomment les ETP
 * Automatisation du script qui permet d'avoir un suivi par structure du nombre d'heures travaillées par les salariés en insertion et le nombre d'ETP consommés
