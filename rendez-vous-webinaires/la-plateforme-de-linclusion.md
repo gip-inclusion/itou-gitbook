@@ -27,7 +27,12 @@ Pour **accompagner le déploiement et faciliter la prise en main du site les emp
 {% hint style="success" %}
 **⌛ Durée : 1h30**
 
-[**Jeudi 23 septembre à 10h00 - Webinaire de Questions/Réponses pour les employeurs**](https://app.livestorm.co/itou/les-emplois-webinaire-de-questionsreponses-pour-les-employeurs?utm_source=Livestorm+company+page)\*\*\*\*
+* [**Jeudi 23 septembre 2021 à 10h00 - Webinaire de Questions/Réponses pour les employeurs**](https://app.livestorm.co/itou/les-emplois-webinaire-de-questionsreponses-pour-les-employeurs?utm_source=Livestorm+company+page)\*\*\*\*
+* \*\*\*\*[**Mardi 19 octobre 2021 à 14h00 - Webinaire de Questions/Réponses pour les employeurs**](https://app.livestorm.co/itou/les-emplois-webinaire-de-questionsreponses-pour-les-employeurs3?type=detailed)\*\*\*\*
+* \*\*\*\*[**Mardi 16 novembre 2021 à 14h00 - Webinaire de Questions/Réponses pour les employeurs**](https://app.livestorm.co/itou/les-emplois-webinaire-de-questionsreponses-pour-les-employeurs4?type=detailed)\*\*\*\*
+* \*\*\*\*[**Mardi 7 décembre 2021 à 14h - Webinaire de Questions/Réponses pour les employeurs**](https://app.livestorm.co/itou/les-emplois-webinaire-questionsreponses-pour-les-employeurs?type=detailed)\*\*\*\*
+
+\*\*\*\*
 {% endhint %}
 
 {% hint style="danger" %}
