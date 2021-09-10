@@ -13,11 +13,12 @@ description: Journal des modifications du pilotage de l'inclusion
 * Modification sur un filtre dans le TB privé 'Nombre de salarié par commune'
 * Construction d'une table agrégée avec un certain nombre de données sur les saisies mensuelles des structures dans l'extranet asp
 * Modification sur la table qui permet de faire la correspondance entre le nom des communes et leur cordonnées GPS
-*  Automatisation du script qui permet d'avoir un suivi des recrutements 
+*  Automatisation du script qui permet de suivre les recrutements 
 
   avec ajout des deux champs département et région de l'annexe financière 
 
-* Automatisation du script qui permet d'avoir un suivi des sorties avec ajout des deux champs département et région de l'annexe financière 
+* Automatisation du script qui permet de suivre les sorties avec ajout des deux champs département et région de l'annexe financière
+* Modification du script permettant de mettre à jour le tableau de bord AI-ETTI opérations en remplaçant les colonnes 'ITOU%' par des colonnes équivalentes des tables flux IAE
 
  
 
