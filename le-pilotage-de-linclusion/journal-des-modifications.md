@@ -19,6 +19,7 @@ description: Journal des modifications du pilotage de l'inclusion
 
 * Automatisation du script qui permet de suivre les sorties avec ajout des deux champs département et région de l'annexe financière
 * Modification du script permettant de mettre à jour le tableau de bord AI-ETTI opérations en remplaçant les colonnes 'ITOU%' par des colonnes équivalentes des tables flux IAE
+* Correction d'un bug sur les tableaux de bord publics
 
  
 
