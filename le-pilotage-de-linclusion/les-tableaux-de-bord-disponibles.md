@@ -68,3 +68,10 @@ description: Liste de tous les tableaux de bord disponibles
 * 🌎 **Type** : Privé visible par la DRIEETS du Seine-Saint-Denis
 * 🔗 **Lien** : 
 
+## Recrutement
+
+* 📰 **Titre** : Où se situent les tensions de recrutement
+* 📌 **Code** : TB116
+* 🌎 **Type** : Public
+* 🔗 **Lien** : [https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/recrutement/](https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/recrutement/)
+

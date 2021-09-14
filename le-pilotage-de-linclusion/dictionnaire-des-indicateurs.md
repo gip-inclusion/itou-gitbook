@@ -360,3 +360,68 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : total du nombre des conseillers en insertion professionnelle
 * 📊 **Présent dans** : TB100
 
+## Tensions de recrutement
+
+### Evolution des candidatures par état
+
+* 📗 **Définition** : Évolution mois par mois de toutes les candidatures, présentées par état de la candidature \(à l'étude, acceptée...\)
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Décompte de toutes les candidatures de la période considérée, regroupées par mois \(sur la base de la date de candidature\), puis par état à l'intérieur d'un mois
+* 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
+### Evolution des candidatures par type d'orienteur
+
+* 📗 **Définition** : Évolution mois par mois de toutes les candidatures, présentées par type d'orienteur à l'origine de la candidature. Trois types d'orienteurs sont présentées pour simplifier la lecture : employeur, Pôle emploi et tous les autres cas.
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Décompte de toutes les candidatures de la période considérée, regroupées par mois \(sur la base de la date de candidature\), puis par type d'orienteur.
+* 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
+### Evolution des candidatures acceptées par type d'employeur
+
+* 📗 **Définition** : Évolution mois par mois de toutes les candidatures acceptées, présentées par type d'employeur.
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Décompte de toutes les candidatures dont l'état est "candidature acceptée" de la période considérée, regroupées par mois \(sur la base de la date de candidature\), puis par type d'employeur qui a acceptée la candidature.
+* 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
+### Evolution des candidatures acceptées par type d'orienteur
+
+* 📗 **Définition** : Évolution mois par mois de toutes les candidatures acceptées, présentées par type d'orienteur à l'origine de la candidature. Trois types d'orienteurs sont présentées pour simplifier la lecture : employeur, Pôle emploi et tous les autres cas.
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Décompte de toutes les candidatures dont l'état est "candidature acceptée" de la période considérée, regroupées par mois \(sur la base de la date de candidature\), puis par type d'orienteur.
+* 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
+### Profil des candidats embauchés
+
+* 📗 **Définition** : Evolution mois par mois du profil des candidats dont la candidature a été acceptée, en se concentrant sur 5 types de profil : RSA, DETLD, DELD, Jeune, QPV
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Pour RSA : pourcentage calculé par la division du \[décompte de tous les candidats dont au moins une candidature a été acceptée et dont le champ RSA est égal à Oui\] par le \[décompte de tous les candidats dont au moins une candidature a été acceptée\], regroupés par mois \(sur la base de la date de diagnostic : date à laquelle le prescripteur ou l'employeur a renseigné le profil\). Même principe pour les autres profils DETLD, DELD, Jeune, QPV
+* 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
+### Etat des candidatures par métier
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
+### Pourcentage de candidatures acceptées par type de prescripteur
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
+### Motif de refus des candidatures
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
+### Motif de refus des candidatures par type de prescripteur
+
+* 📗 **Définition** : 
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : 
+* 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
