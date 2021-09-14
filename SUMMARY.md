@@ -18,7 +18,7 @@
     * [Renseigner le réseau auquel vous adhérez](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/renseigner-le-reseau-auquel-vous-adherez.md)
     * [Ajouter mes références clients](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/ajouter-mes-references-clients.md)
     * [M'inscrire sur le Marché](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/minscrire-sur-le-marche.md)
-    * [Publier mes offres de prestations](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
+    * [Publier une ou plusieurs offres commerciales](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
     * [Réaliser une belle fiche prestataire](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/realiser-une-belle-fiche-prestataire.md)
     * [Ajouter votre périmètre d'intervention](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/ajouter-votre-perimetre-dintervention.md)
     * [Décrire son offre commerciale et sa structure](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/decrire-son-offre-commerciale-et-sa-structure.md)

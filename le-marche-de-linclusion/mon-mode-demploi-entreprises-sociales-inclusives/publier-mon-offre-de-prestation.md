@@ -1,12 +1,12 @@
 ---
 description: >-
-  Découvrez comment mettre en avant vos offres de prestations sur le Marché de
+  Découvrez comment mettre en avant vos offres commerciales sur le Marché de
   l'inclusion.
 ---
 
-# Publier mes offres de prestations
+# Publier une ou plusieurs offres commerciales
 
-Rendez-vous sur _Mon Espace_ &gt; _Mes Structures_ &gt; _Offres de prestations_. Ensuite, cliquez sur "Ajouter" : 
+Rendez-vous sur _Mon Espace_ &gt; _Mes Structures_ &gt; Modifier &gt; _Offres de prestations_. Ensuite, cliquez sur "Ajouter" : 
 
 Quelques conseils pour une offre **claire** et **efficace** :
 
@@ -15,7 +15,9 @@ Quelques conseils pour une offre **claire** et **efficace** :
 * Puis cliquez sur "Enregistrer"
 * Ensuite, vous pouvez créer autant d'offres de prestation que vous le désirez en cliquant sur "Ajouter".
 
-Connectez-vous sur [le Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/).
+{% hint style="info" %}
+Inscrivez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/inscription)
+{% endhint %}
 
 ![](../../.gitbook/assets/image%20%28116%29.png)
 
