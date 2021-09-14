@@ -10,7 +10,9 @@ description: >-
 * Rendez-vous sur _Mon Espace_ &gt; _Mes Structures_ &gt; Modifier &gt; _Réseaux_. 
 * Ensuite, cliquez sur le ou les réseaux auxquels vous êtes adhérent. Puis cliquez sur "Enregistrer"
 
-Connectez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/)
+{% hint style="info" %}
+Inscrivez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/inscription)
+{% endhint %}
 
 ![](../../.gitbook/assets/image%20%28120%29.png)
 

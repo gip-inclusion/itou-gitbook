@@ -13,7 +13,9 @@ Pour cela, munissez-vous des logos de vos clients et au préalable assurez-vous 
 * Pour ajouter un ou plusieurs logos de vos clients, cliquez sur "Parcourir" et sélectionnez un ou plusieurs logos.
 * Finissez par cliquer sur "Enregistrer".
 
-Connectez-vous sur [le Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/).
+{% hint style="info" %}
+Inscrivez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/inscription)
+{% endhint %}
 
 ![](../../.gitbook/assets/image%20%28117%29.png)
 

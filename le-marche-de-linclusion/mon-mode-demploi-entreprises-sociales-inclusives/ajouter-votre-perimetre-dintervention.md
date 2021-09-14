@@ -11,7 +11,9 @@ description: >-
 * Dans l'onglet "Présentation" rendez-vous en bas de page au niveau de "Périmètre d'activité" puis cliquez sur votre périmètre : France entière, Régional, Départemental ou Rayon en Km
 * Enfin, cliquez sur "Sauvegarder"
 
-Connectez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/)
+{% hint style="info" %}
+Inscrivez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/inscription)
+{% endhint %}
 
 Voici une petite vidéo tutorielle :
 
