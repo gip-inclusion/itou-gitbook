@@ -13,7 +13,9 @@ description: >-
 * Un aperçu du logo devrait s'afficher
 * Pour finir, cliquez sur "Sauvegarder" en bas
 
-Connectez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/)
+{% hint style="info" %}
+Inscrivez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/inscription)
+{% endhint %}
 
 ![](../../.gitbook/assets/image%20%28124%29.png)
 
