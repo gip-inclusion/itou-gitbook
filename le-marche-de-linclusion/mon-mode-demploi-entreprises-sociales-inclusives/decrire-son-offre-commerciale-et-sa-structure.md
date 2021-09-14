@@ -12,7 +12,9 @@ description: >-
 * Rédigez un texte d'environ 500 à 700 caractères
 * Enfin, cliquez sur "Sauvegarder"
 
-Connectez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/)
+{% hint style="info" %}
+Inscrivez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/inscription)
+{% endhint %}
 
 ![](../../.gitbook/assets/image%20%28123%29.png)
 
