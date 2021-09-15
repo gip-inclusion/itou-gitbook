@@ -399,29 +399,29 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 ### Etat des candidatures par métier
 
-* 📗 **Définition** : 
+* 📗 **Définition** : Liste des métiers proposés sur les emplois de l'inclusion, avec le nombre de candidatures, le pourcentage de candidatures acceptées et le pourcentage de candidatures déclinées
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : 
+* 🧮 **Formule** : Liste de tous les codes ROME, nombre total sur la période concernée de candidatures rattachées à des fiches de poste avec le code ROME correspondant ; nombre de candidatures dont l'état est "candidature acceptée" parmi ce total divisé par le total ramené en base 100 ; nombre de candidatures dont l'état est "candidature déclinée" parmi ce total divisé par le total ramené en base 100
 * 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
 
 ### Pourcentage de candidatures acceptées par type de prescripteur
 
-* 📗 **Définition** : 
+* 📗 **Définition** : Liste des prescripteurs avec le nombre d'établissements, de conseillers, de candidatures, ratio de candidatures par conseiller et ratio de candidatures acceptées
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : 
+* 🧮 **Formule** : Liste de tous les types de prescripteurs et orienteurs et en colonne le nombre d'établissements, le nombre total de conseillers, le nombre total de candidatures émises sur la période considérée, le ratio candidatures par conseiller \(division du total précédent par le nombre de conseillers\), le ratio de candidatures acceptées \(part des candidatures dont l'état est "candidature acceptée" parmi le total précédent\)
 * 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
 
 ### Motif de refus des candidatures
 
-* 📗 **Définition** : 
+* 📗 **Définition** : Répartition des motifs de refus des candidatures sur la période considérée
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : 
+* 🧮 **Formule** : Répartition en pourcentage des refus des candidatures dont l'état est "candidature déclinée" sur la période considérée. Les motifs sont répartis comme suit : Candidat pas venu ou pas intéressé \(motif "Candidat indisponible ou non intéressé par le poste" ou "Candidat non venu ou non joignable"\) ; Pas de poste ouvert \(motif "Pas de poste ouvert en ce moment"\) Incompatibilité avec le poste \(motif "Un des freins à l'emploi du candidat est incompatible avec le poste proposé"\) ; Doute sur l'éligibilité \(motif "Candidat non éligible" ou "Doute sur l'éligibilité du candidat \(penser à renvoyer la personne vers un prescripteur\)"\) ; Contraire aux objectifs négociés \(motif "L'embauche du candidat empêche la réalisation des objectifs du dialogue de gestion"\) ; Autre \(tous les autres motifs\)
 * 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
 
 ### Motif de refus des candidatures par type de prescripteur
 
-* 📗 **Définition** : 
+* 📗 **Définition** : Répartition des motifs de refus des candidatures sur la période considérée, par type de prescripteur
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : 
+* 🧮 **Formule** : Répartition en pourcentage des refus des candidatures dont l'état est "candidature déclinée" sur la période considérée et par type de prescripteur. Les motifs sont répartis comme suit : Candidat pas venu ou pas intéressé \(motif "Candidat indisponible ou non intéressé par le poste" ou "Candidat non venu ou non joignable"\) ; Pas de poste ouvert \(motif "Pas de poste ouvert en ce moment"\) Incompatibilité avec le poste \(motif "Un des freins à l'emploi du candidat est incompatible avec le poste proposé"\) ; Doute sur l'éligibilité \(motif "Candidat non éligible" ou "Doute sur l'éligibilité du candidat \(penser à renvoyer la personne vers un prescripteur\)"\) ; Contraire aux objectifs négociés \(motif "L'embauche du candidat empêche la réalisation des objectifs du dialogue de gestion"\) ; Autre \(tous les autres motifs\)
 * 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
 

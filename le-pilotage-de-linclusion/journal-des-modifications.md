@@ -4,6 +4,11 @@ description: Journal des modifications du pilotage de l'inclusion
 
 # Journal des modifications
 
+## Du 13/09/2021 au 24/09/2021
+
+* Ajout du tableau de bord [TB116](les-tableaux-de-bord-disponibles.md#recrutement) "Recrutements" sur le site [pilotage](https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/recrutement/)
+* Intégration du suivi Matomo sur le site [pilotage](https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/recrutement/)
+
 ## Du 30/08/2021 au 10/09/2021
 
 * Correction d'un bug sur le filtre département du [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
