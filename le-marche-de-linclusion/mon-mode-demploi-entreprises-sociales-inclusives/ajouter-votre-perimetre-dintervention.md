@@ -11,11 +11,11 @@ description: >-
 * Dans l'onglet "Présentation" rendez-vous en bas de page au niveau de "Périmètre d'activité" puis cliquez sur votre périmètre : France entière, Régional, Départemental ou Rayon en Km
 * Enfin, cliquez sur "Sauvegarder"
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Inscrivez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/inscription)
 {% endhint %}
 
-Voici une petite vidéo tutorielle :
+Voici une vidéo tutorielle :
 
 [Accueil - marché de l'inclusion - Watch Video![](https://cdn.loom.com/sessions/thumbnails/5e7c262dbaa148a996fe27512d5f297f-with-play.gif)](https://www.loom.com/share/5e7c262dbaa148a996fe27512d5f297f)
 
@@ -31,7 +31,7 @@ Indiquer votre périmètre d'intervention vous permettra donc :
 3. d'apporter un éclairage sur votre rayonnement géographique
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 #### **👉** [Assistez au prochain Webinaire de présentation et de Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
 {% endhint %}
 

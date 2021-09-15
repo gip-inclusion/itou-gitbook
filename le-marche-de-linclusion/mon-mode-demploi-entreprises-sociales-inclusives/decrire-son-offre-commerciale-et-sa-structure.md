@@ -12,7 +12,7 @@ description: >-
 * Rédigez un texte d'environ 500 à 700 caractères
 * Enfin, cliquez sur "Sauvegarder"
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Inscrivez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/inscription)
 {% endhint %}
 
@@ -32,7 +32,7 @@ Voici quelques conseils pour construire une belle et convaincante description de
 **On passe à l'action :** Terminez en indiquant clairement au prospect comment rentrer en contact avec vous. En résumer, votre contenu doit pousser votre prospect à l'action.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 #### **👉** [Assistez au prochain Webinaire de présentation et de Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
 {% endhint %}
 

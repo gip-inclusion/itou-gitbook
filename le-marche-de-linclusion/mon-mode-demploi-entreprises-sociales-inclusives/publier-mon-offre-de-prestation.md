@@ -15,7 +15,7 @@ Quelques conseils pour une offre **claire** et **efficace** :
 * Puis cliquez sur "Enregistrer"
 * Ensuite, vous pouvez créer autant d'offres de prestation que vous le désirez en cliquant sur "Ajouter".
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Inscrivez-vous sur le [Marché de l'inclusion](https://lemarche.inclusion.beta.gouv.fr/fr/inscription)
 {% endhint %}
 
@@ -31,7 +31,7 @@ Pour maximiser vos chances d'être contacté par un acheteur, suivez ces quelque
 * Inspirez vous de ce que font les autres structures d'insertion de votre région ou de votre secteur d'activité
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 #### **👉** [Assistez au prochain Webinaire de présentation et de Questions/Réponses du Marché de l'inclusion](../../rendez-vous-webinaires/le-marche-de-linclusion.md#assistez-au-prochain-webinaire-de-presentation-de-loutil)
 {% endhint %}
 
