@@ -2,13 +2,21 @@
 
 ### Définition d'un GEIQ
 
-**Groupement d’entreprises** dont la mission est d’organiser des **parcours d’insertion et de qualification** au profit de **demandeurs d’emploi en difficulté sociale et professionnelle :**
+Dispositif engagé socialement et localement, les Geiq \(Groupements d’Employeurs pour l’Insertion et la Qualification\) sont portés par des entreprises rencontrant des difficultés de recrutement. **Sur des parcours de 6 à 24 mois, les Geiq accompagnent des personnes éloignées du marché du travail qu’ils font monter en compétence et qualifient** grâce à l’alternance avec pour objectif l’accès à un emploi durable.
 
-* **Embauche directe** de candidats et **mise à disposition auprès de leurs entreprises adhérentes**
-* Parcours en **alternance de 6 à 24 mois** \(apprentissage et professionnalisation\)
-* **Pas besoin de** [**Pass IAE**](pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) **pour recruter** via les emplois de l'inclusion
+#### 🟢 Facilite le recrutement sur les métiers en tension 
 
-Les GEIQ ne sont pas des [**Structures de l’insertion par l’activité économique \(SIAE\)**](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) ****mais participent à l’écosystème des acteurs de l’Inclusion.
+#### 🟢 Forme la personne grâce à une alternance de 6 à 24 mois \(apprentissage et professionnalisation\) 
+
+#### 🟢 Embauche en direct de la personne par le Geiq et mise à disposition auprès de ses entreprises adhérentes pour faciliter l’insertion
+
+#### 🟢 Apporte un accompagnement social et professionnel tout au long du parcours • Pas besoin de Pass IAE pour recruter via les emplois de l'inclusion
+
+{% hint style="info" %}
+Les GEIQ ne sont pas des Structures de l’insertion par l’activité économique \(SIAE\) mais participent à l’écosystème des acteurs de l’Inclusion.
+{% endhint %}
+
+
 
 {% embed url="https://www.youtube.com/watch?time\_continue=135&v=29HdUEtcbTY&feature=emb\_logo" %}
 
