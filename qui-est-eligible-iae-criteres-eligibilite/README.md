@@ -49,9 +49,9 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p><b>B&#xE9;n&#xE9;ficiaire du RSA (socle)</b>
+        <p><b>B&#xE9;n&#xE9;ficiaire du RSA</b>
         </p>
-        <p>Revenue de solidarit&#xE9; active</p>
+        <p>Revenu de solidarit&#xE9; active</p>
       </td>
       <td style="text-align:left">
         <p><b>Attestation RSA </b>
