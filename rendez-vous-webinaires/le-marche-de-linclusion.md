@@ -5,7 +5,6 @@ Pour accompagner les entreprises sociales inclusives \(SIAE, GEIQ et EA\) dans l
 ### 👉 Assistez au prochain Webinaire de Questions/Réponses.
 
 {% hint style="warning" %}
-* [**Jeudi 16 septembre à 14h00 - Webinaire de Questions/Réponses**](https://app.livestorm.co/itou/webinaire-le-marche-de-linclusion-questionsreponses?utm_source=Livestorm+company+page)\*\*\*\*
 * \*\*\*\*[**Mardi 12 octobre à 14h00 - Webinaire de Questions/Réponses**](https://app.livestorm.co/itou/webinaire-le-marche-de-linclusion-questionsreponses3?type=detailed)\*\*\*\*
 {% endhint %}
 
