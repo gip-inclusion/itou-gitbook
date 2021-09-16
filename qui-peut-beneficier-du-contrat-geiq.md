@@ -10,7 +10,9 @@ Dispositif engagé socialement et localement, les Geiq \(Groupements d’Employe
 
 #### 🟢 Embauche en direct de la personne par le Geiq et mise à disposition auprès de ses entreprises adhérentes pour faciliter l’insertion
 
-#### 🟢 Apporte un accompagnement social et professionnel tout au long du parcours • Pas besoin de Pass IAE pour recruter via les emplois de l'inclusion
+#### 🟢 Apporte un accompagnement social et professionnel tout au long du parcours 
+
+#### 🟢 Pas besoin de Pass IAE pour recruter via les emplois de l'inclusion
 
 {% hint style="info" %}
 Les GEIQ ne sont pas des Structures de l’insertion par l’activité économique \(SIAE\) mais participent à l’écosystème des acteurs de l’Inclusion.
