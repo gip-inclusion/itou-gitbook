@@ -25,7 +25,7 @@ Vous êtes alerté par mail de l’avancement de votre candidature \(à l’étu
 ### _J'ai perdu mon mot de passe, comment faire ?_
 
 {% hint style="info" %}
-Vous pouvez réinitialiser votre mot de passe sur cette [page](https://inclusion.beta.gouv.fr/accounts/password/reset/).
+Vous pouvez réinitialiser votre mot de passe sur cette [page](https://emplois.inclusion.beta.gouv.fr/accounts/password/reset/).
 {% endhint %}
 
 {% hint style="warning" %}
