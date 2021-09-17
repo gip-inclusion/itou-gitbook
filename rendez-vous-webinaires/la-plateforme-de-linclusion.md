@@ -10,19 +10,25 @@ Pour **accompagner le déploiement et faciliter la prise en main du site les emp
 
 ## 📺 Inscrivez-vous à nos webinaires de formation technique
 
-### _Open webinaires de formation pour les prescripteurs \(prescripteurs habilités + orienteurs\)_
+## 🌍Open webinaires de formation pour les prescripteurs \(prescripteurs habilités + orienteurs\)
 
 {% hint style="success" %}
 **⌛ Durée : 1h30**
 
 **📜 Programme: une présentation détaillée du site les emplois de l'inclusion spéciale prescripteurs + des réponses à vos questions** 
 
-* \*\*\*\*[**Mercredi 8 Septembre à 10h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-21?type=detailed)
 * \*\*\*\*[**Mardi 28 Septembre à 15h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-22?type=detailed)\*\*\*\*
 * \*\*\*\*[**Jeudi 7 Octobre à 10h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/les-emplois-open-webinaire-de-demonstration-pour-les-prescripteurs-23?type=detailed)\*\*\*\*
+* \*\*\*\*[**Lundi 18 Octobre à 10h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-25?type=detailed)\*\*\*\*
+* \*\*\*\*[**Mercredi 3 Novembre à 10h00 - Webinaire de démonstration pour les prescripteur**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-26?type=detailed)
+* \*\*\*\*[**Lundi 15 Novembre à 15h00 - Webinaire de démonstration pour les prescripteur**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-27?type=detailed)
+* \*\*\*\*[**Mercredi 8 Décembre  à 11h00 - Webinaire de démonstration pour les prescripteur**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-28?type=detailed)
+* \*\*\*\*[**Mardi 21 Décembre à 10h00 - Webinaire de démonstration pour les prescripteur**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-29?type=detailed)
+
+  \*\*\*\*
 {% endhint %}
 
-### _Open webinaires de Questions/Réponses pour les employeurs solidaires \(SIAE, GEIQ, EA...\)_
+## 🌎Open webinaires de Questions/Réponses pour les employeurs solidaires \(SIAE, GEIQ, EA...\)
 
 {% hint style="success" %}
 **⌛ Durée : 1h30**
