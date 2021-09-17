@@ -1,12 +1,11 @@
 ---
 description: >-
-  Les webinaires thématiques ou régionaux des services des emplois de
-  l'inclusion
+  Pour accompagner le déploiement et faciliter la prise en main du site les
+  emplois de l'inclusion par tous les acteurs de l'inclusion, nous organisons
+  des Webinaires
 ---
 
-# Les emplois de l'inclusion
-
-Pour **accompagner le déploiement et faciliter la prise en main du site les emplois de l'inclusion** par tous les acteurs de l'inclusion, nous organisons des **Webinaires de présentation par thématique et/ou par région**. Retrouvez **les replay sur cette page**.
+# 📖 Les emplois de l'inclusion
 
 ## 📺 Inscrivez-vous à nos webinaires de formation technique
 
