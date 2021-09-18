@@ -1,5 +1,7 @@
 # 🎫 Contrat IAE \(Eligibilité & diagnostic\)
 
+L’insertion par l’activité économique \(IAE\) permet aux personnes les plus éloignées de l’emploi, en raison de difficultés sociales et professionnelles particulières \(âge, état de santé, précarité\) de bénéficier d’un accompagnement renforcé qui doit faciliter leur insertion sociale et professionnelle par le biais de contrats de travail spécifiques
+
 **Qui peut bénéficier d'un parcours d'Insertion par l'Activité Economique \(IAE\) ? :**
 
 * Les **personnes** en **difficultés sociales et/ou professionnelles** \(précarité, âge, santé\)
