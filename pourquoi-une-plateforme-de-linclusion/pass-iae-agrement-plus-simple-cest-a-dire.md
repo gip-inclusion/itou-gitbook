@@ -60,9 +60,11 @@ Les structures suivantes peuvent récupérer le PASS IAE ou agrément  en cliqua
 {% hint style="warning" %}
 L'employeur peut suspendre un PASS IAE depuis son tableau de bord[ \[ Voir mode d'emploi - Suspendre un PASS IAE \] ](../mon-monde-demploi-employeur-solidaire/suspendre-un-pass-iae.md) pour les motifs suivants :
 
-* Contrat de travail suspendu depuis plus de 15 jours 
+* [Contrat de travail suspendu](https://travail-emploi.gouv.fr/droit-du-travail/la-vie-du-contrat-de-travail/article/contrat-de-travail-les-principales-caracteristiques#Quelles-sont-les-situations-entrainant-la-suspension-du-contrat-de-travail-nbsp) depuis plus de 15 jours 
 * Contrat de travail rompu 
 * Contrat de travail terminé
+
+Source : [Décret n° 2021-1128 du 30 août 2021 relatif à l'insertion par l'activité économique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043990367)
 {% endhint %}
 
 
