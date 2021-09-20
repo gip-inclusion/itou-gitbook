@@ -14,31 +14,31 @@ Dans votre tableau de bord, cliquez sur **"Candidatures acceptées"**
 
 Puis cliquez sur **"Gérer la candidature"**
 
-![](../.gitbook/assets/susp2.png)
+![](../.gitbook/assets/image%20%28139%29.png)
 
 Ensuite sur **"Suspendre"**
 
-![](../.gitbook/assets/susp3.jpg)
+![](../.gitbook/assets/image%20%28141%29.png)
 
 Renseignez la date de début et de fin \(la suspension peut être rétroactive et il vous sera également possible de modifier les dates en cas de besoin\)
 
 _Attention s'il s'agit d'un agrément Pôle emploi récupéré via le module "prolonger/suspendre un agrément"  la rétroactivité n'est pas possible, en cas de besoin vous pouvez_ [_nous contacter_](https://assistance.inclusion.beta.gouv.fr/accueil/support)_._
 
-![](../.gitbook/assets/susp4.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
 Sélectionnez le **motif** et cliquez sur **"Valider la suspension"**
 
-![](../.gitbook/assets/susp5.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 **Confirmez** la suspension
 
-![](../.gitbook/assets/susp6.png)
+![](../.gitbook/assets/image%20%28135%29.png)
 
 La mention "PASS IAE suspendu" est affichée sur la fiche candidature
 
-![](../.gitbook/assets/susp7.jpg)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 Si besoin vous pouvez **"Modifier"** ou **"Annuler"** la suspension \(possible uniquement si elle est encore en cours de validité, sinon [contactez-nous ](https://assistance.inclusion.beta.gouv.fr/accueil/support)\)
 
-![](../.gitbook/assets/susp8.jpg)
+![](../.gitbook/assets/image%20%28140%29.png)
 
