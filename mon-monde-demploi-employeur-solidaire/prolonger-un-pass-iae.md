@@ -2,94 +2,82 @@
 
 Si la situation d'un salarié le nécessite, il est possible sous certaines conditions de prolonger un PASS IAE au-delà de 24 mois.
 
-### Motifs communs à toutes les SIAE : 
+### 🟡Motifs de prolongation communs à toutes les SIAE : 
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Motifs</th>
-      <th style="text-align:left">Dur&#xE9;es</th>
+      <th style="text-align:left">&#x1F4C3;Motifs</th>
+      <th style="text-align:left">&#x23F1;Dur&#xE9;es</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p><b>CDI conclu avec une personne &#xE2;g&#xE9;e d&apos;au moins 57 ans </b>
-        </p>
+      <td style="text-align:left"><b>CDI conclu avec une personne &#xE2;g&#xE9;e d&apos;au moins 57 ans </b>
       </td>
       <td style="text-align:left">
-        <p></p>
         <p>12 mois de prolongation maximum.</p>
-        <p>Renouvellements : jusqu&apos;&#xE0; la rupture de ce contrat &#xE0; l&apos;initiative
-          de l&apos;employeur ou &#xE0; celle du salari&#xE9;)</p>
+        <p>Renouvellements : jusqu&apos;&#xE0; la rupture du CDI &#xE0; l&apos;initiative
+          de l&apos;employeur ou &#xE0; celle du salari&#xE9;.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Fin d&apos;une formation</b>
       </td>
-      <td style="text-align:left">6 mois de prolongation maximum</td>
+      <td style="text-align:left">6 mois de prolongation maximum.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>RQTH</b>
       </td>
       <td style="text-align:left">
         <p>12 mois de prolongation maximum.</p>
-        <p>Renouvellements : dans la limite de 5 ans</p>
+        <p>Renouvellements : dans la limite de 5 ans.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>50 ans et plus</b>
       </td>
       <td style="text-align:left">
-        <p>12 mois de prolongation maximum</p>
-        <p>Renouvellements : dans la limite de 7 ans</p>
+        <p>12 mois de prolongation maximum.</p>
+        <p>Renouvellements : dans la limite de 7 ans.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Contexte sanitaire</b>
+      <td style="text-align:left"><b>Contexte sanitaire (motif temporaire)</b>
       </td>
-      <td style="text-align:left">
-        <p>12 mois de prolongation maximum</p>
-        <p>Pas de renouvellement</p>
-      </td>
+      <td style="text-align:left">12 mois de prolongation maximum.</td>
     </tr>
   </tbody>
 </table>
 
-### Motifs supplémentaire pour les AI et ACI 
+### 🟠Motif de prolongation supplémentaire pour les AI et ACI 
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Motif</th>
-      <th style="text-align:left">Dur&#xE9;e</th>
+      <th style="text-align:left">&#x1F4C3;Motif</th>
+      <th style="text-align:left">&#x23F1;Dur&#xE9;e</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p><b>Difficult&#xE9;s particuli&#xE8;res qui font  obstacle &#xE0; l&apos;insertion durable  dans l&#x2019;emploi</b>
-        </p>
+      <td style="text-align:left"><b>Difficult&#xE9;s particuli&#xE8;res qui font  obstacle &#xE0; l&apos;insertion durable  dans l&#x2019;emploi</b>
       </td>
       <td style="text-align:left">
-        <p>12 mois de prolongation maximum</p>
-        <p>Renouvellements : dans la limite de 5 ans</p>
+        <p>12 mois de prolongation maximum.</p>
+        <p>Renouvellements : dans la limite de 5 ans.</p>
       </td>
     </tr>
   </tbody>
 </table>
+
+## Mode d'emploi pour enregistrer une demande de prolongation en ligne : 
 
 {% hint style="danger" %}
 L'enregistrement de l'autorisation de prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 
 
 Si l'agrément  est expiré il ne sera plus possible de demander une prolongation.
 {% endhint %}
-
-## Mode d'emploi pour enregistrer une demande de prolongation en ligne : 
-
-
 
 2 cas de figure : 
 

@@ -24,7 +24,7 @@ Puis cliquez sur **"Gérer la candidature"**
 
 Ensuite sur **"Suspendre"**
 
-![](../.gitbook/assets/image%20%28141%29.png)
+![Ce lien ne s&apos;affiche que le 5&#xE8;me jour qui suit la date de d&#xE9;marrage du PASS IAE ](../.gitbook/assets/image%20%28141%29.png)
 
 Renseignez la date de début et de fin \(la suspension peut être rétroactive et il vous sera également possible de modifier les dates en cas de besoin\)
 
