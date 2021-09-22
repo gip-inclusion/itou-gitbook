@@ -1,7 +1,5 @@
 # Prolonger un agrément
 
-## 📢 CETTE PAGE EST EN COURS DE MISE A JOUR 
-
 {% hint style="danger" %}
 L'enregistrement de l'autorisation de prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 
 
