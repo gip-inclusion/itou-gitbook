@@ -76,12 +76,13 @@ Pour le moment, seuls les agréments qui ont été initialement délivrés par P
 
 La prolongation est autorisée pour les motifs suivants : 
 
+* CDI conclu avec une personne âgée d'au moins 57 ans \( 12 mois de prolongation maximum\)
 * Fin d'une formation \(6 mois de prolongation maximum\) 
 * RQTH \(12 mois de prolongation maximum\) 
 * 50 ans et plus \(12 mois de prolongation maximum\) 
 * Contexte sanitaire \(12 mois de prolongation maximum\) 
 
-Les ACI ont un motif supplémentaire : 
+Les ACI et AI ont un motif supplémentaire : 
 
 * Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
 {% endhint %}

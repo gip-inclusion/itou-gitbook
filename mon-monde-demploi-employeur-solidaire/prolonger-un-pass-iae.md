@@ -3,16 +3,28 @@
 ## 📢 CETTE PAGE EST EN COURS DE MISE A JOUR 
 
 {% hint style="danger" %}
-Suite au nouveau [Décret n° 2021-1128 du 30 août 2021 relatif à l'insertion par l'activité économique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043990367) nos équipes vont très prochainement implémenter les fonctionnalités relatives aux nouvelles règles.
-{% endhint %}
-
-{% hint style="danger" %}
 L'enregistrement de l'autorisation de prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 
 
 Si l'agrément  est expiré il ne sera plus possible de demander une prolongation.
 {% endhint %}
 
+{% hint style="info" %}
+La prolongation est autorisée pour les motifs suivants : 
+
+* CDI conclu avec une personne âgée d'au moins 57 ans \( 12 mois de prolongation maximum\)
+* Fin d'une formation \(6 mois de prolongation maximum\) 
+* RQTH \(12 mois de prolongation maximum\) 
+* 50 ans et plus \(12 mois de prolongation maximum\) 
+* Contexte sanitaire \(12 mois de prolongation maximum\) 
+
+Les ACI et AI ont un motif supplémentaire : 
+
+* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
+{% endhint %}
+
 ## Mode d'emploi pour enregistrer une demande de prolongation en ligne : 
+
+
 
 2 cas de figure : 
 
