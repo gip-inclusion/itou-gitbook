@@ -1,10 +1,6 @@
 # Prolonger un agrément
 
-{% hint style="danger" %}
-L'enregistrement de l'autorisation de prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 
-
-Si l'agrément  est expiré il ne sera plus possible de demander une prolongation.
-{% endhint %}
+Dans certains cas et si la situation d'un salarié le nécessite il est possible sous certaines conditions de prolonger un PASS IAE au-delà de 24 mois.
 
 {% hint style="info" %}
 La prolongation est autorisée pour les motifs suivants : 
@@ -18,6 +14,12 @@ La prolongation est autorisée pour les motifs suivants :
 Les ACI et AI ont un motif supplémentaire : 
 
 * Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
+{% endhint %}
+
+{% hint style="danger" %}
+L'enregistrement de l'autorisation de prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 
+
+Si l'agrément  est expiré il ne sera plus possible de demander une prolongation.
 {% endhint %}
 
 ## Mode d'emploi pour enregistrer une demande de prolongation en ligne : 
