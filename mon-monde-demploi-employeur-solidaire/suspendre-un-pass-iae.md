@@ -5,9 +5,9 @@ Les suspensions de PASS IAE sont possibles depuis la fiche candidature disponibl
 {% hint style="success" %}
 L'employeur peut suspendre un PASS IAE pour les motifs suivants :
 
-* [Contrat de travail suspendu](https://travail-emploi.gouv.fr/droit-du-travail/la-vie-du-contrat-de-travail/article/contrat-de-travail-les-principales-caracteristiques#Quelles-sont-les-situations-entrainant-la-suspension-du-contrat-de-travail-nbsp) depuis plus de 15 jours 
-* Contrat de travail rompu 
-* Contrat de travail terminé
+* \*\*\*\*[**Contrat de travail suspendu**](https://travail-emploi.gouv.fr/droit-du-travail/la-vie-du-contrat-de-travail/article/contrat-de-travail-les-principales-caracteristiques#Quelles-sont-les-situations-entrainant-la-suspension-du-contrat-de-travail-nbsp) **depuis plus de 15 jours** 
+* **Contrat de travail rompu** 
+* **Contrat de travail terminé**
 {% endhint %}
 
 La suspension du PASS IAE est disponible dès le 5ème jour qui suit le démarrage du parcours IAE. 
