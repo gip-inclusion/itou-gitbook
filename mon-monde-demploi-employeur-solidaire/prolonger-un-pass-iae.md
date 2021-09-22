@@ -5,15 +5,15 @@ Dans certains cas et si la situation d'un salarié le nécessite il est possible
 {% hint style="info" %}
 La prolongation est autorisée pour les motifs suivants : 
 
-* CDI conclu avec une personne âgée d'au moins 57 ans \( 12 mois de prolongation maximum\)
-* Fin d'une formation \(6 mois de prolongation maximum\) 
-* RQTH \(12 mois de prolongation maximum\) 
-* 50 ans et plus \(12 mois de prolongation maximum\) 
-* Contexte sanitaire \(12 mois de prolongation maximum\) 
+* **CDI conclu avec une personne âgée d'au moins 57 ans \( 12 mois de prolongation maximum\)**
+* **Fin d'une formation \(6 mois de prolongation maximum\)** 
+* **RQTH \(12 mois de prolongation maximum\)** 
+* **50 ans et plus \(12 mois de prolongation maximum\)** 
+* **Contexte sanitaire \(12 mois de prolongation maximum\)** 
 
 Les ACI et AI ont un motif supplémentaire : 
 
-* Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)
+* **Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)**
 {% endhint %}
 
 {% hint style="danger" %}
