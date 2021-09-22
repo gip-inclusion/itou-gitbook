@@ -1,20 +1,85 @@
 # Prolonger un agrément
 
-Dans certains cas et si la situation d'un salarié le nécessite il est possible sous certaines conditions de prolonger un PASS IAE au-delà de 24 mois.
+Si la situation d'un salarié le nécessite, il est possible sous certaines conditions de prolonger un PASS IAE au-delà de 24 mois.
 
-{% hint style="info" %}
-La prolongation est autorisée pour les motifs suivants : 
+### Motifs communs à toutes les SIAE : 
 
-* **CDI conclu avec une personne âgée d'au moins 57 ans \( 12 mois de prolongation maximum\)**
-* **Fin d'une formation \(6 mois de prolongation maximum\)** 
-* **RQTH \(12 mois de prolongation maximum\)** 
-* **50 ans et plus \(12 mois de prolongation maximum\)** 
-* **Contexte sanitaire \(12 mois de prolongation maximum\)** 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Motifs</th>
+      <th style="text-align:left">Dur&#xE9;es</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p><b>CDI conclu avec une personne &#xE2;g&#xE9;e d&apos;au moins 57 ans </b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>12 mois de prolongation maximum.</p>
+        <p>Renouvellements : jusqu&apos;&#xE0; la rupture de ce contrat &#xE0; l&apos;initiative
+          de l&apos;employeur ou &#xE0; celle du salari&#xE9;)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Fin d&apos;une formation</b>
+      </td>
+      <td style="text-align:left">6 mois de prolongation maximum</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>RQTH</b>
+      </td>
+      <td style="text-align:left">
+        <p>12 mois de prolongation maximum.</p>
+        <p>Renouvellements : dans la limite de 5 ans</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>50 ans et plus</b>
+      </td>
+      <td style="text-align:left">
+        <p>12 mois de prolongation maximum</p>
+        <p>Renouvellements : dans la limite de 7 ans</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Contexte sanitaire</b>
+      </td>
+      <td style="text-align:left">
+        <p>12 mois de prolongation maximum</p>
+        <p>Pas de renouvellement</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Les ACI et AI ont un motif supplémentaire : 
+### Motifs supplémentaire pour les AI et ACI 
 
-* **Difficultés particulières qui font obstacle à l'insertion durable dans l’emploi \(12 mois de prolongation maximum, dans la limite de 5 ans\)**
-{% endhint %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Motif</th>
+      <th style="text-align:left">Dur&#xE9;e</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p><b>Difficult&#xE9;s particuli&#xE8;res qui font  obstacle &#xE0; l&apos;insertion durable  dans l&#x2019;emploi</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>12 mois de prolongation maximum</p>
+        <p>Renouvellements : dans la limite de 5 ans</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="danger" %}
 L'enregistrement de l'autorisation de prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.** 
