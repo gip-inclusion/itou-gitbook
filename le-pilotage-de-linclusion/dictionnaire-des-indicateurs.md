@@ -311,9 +311,9 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 ### Recrutements
 
-* 📗 **Définition** : nombre distinct de salariés embauchés en insertion déclarés par les SIAE dans l'extranet IAE de l'ASP
+* 📗 **Définition** : nombre distinct de salariés recrutés en insertion déclarés par les SIAE dans l'extranet IAE de l'ASP
 * 💾 **Source des données** : ASP
-* 🧮 **Formule** : total du nombre des salariés distincts embauchés dans les SIAE
+* 🧮 **Formule** : total du nombre des salariés distincts recrutés dans les SIAE
 * 📊 **Présent dans** : TB88, TB100
 
 ### Nombre de salariés en insertion
@@ -390,7 +390,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Décompte de toutes les candidatures dont l'état est "candidature acceptée" de la période considérée, regroupées par mois \(sur la base de la date de candidature\), puis par type d'orienteur.
 * 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
 
-### Profil des candidats embauchés
+### Profil des candidats acceptés
 
 * 📗 **Définition** : Evolution mois par mois du profil des candidats dont la candidature a été acceptée, en se concentrant sur 5 types de profil : RSA, DETLD, DELD, Jeune, QPV
 * 💾 **Source des données** : emplois de l'inclusion
