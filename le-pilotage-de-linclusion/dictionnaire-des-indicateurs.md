@@ -31,9 +31,9 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Nombre d'employeurs avec au moins une offre de poste active divisé par le nombre total d'employeurs, rapporté en base 100
 * 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
 
-### Pourcentage d'employeurs ayant embauché dans les 30 derniers jours
+### Pourcentage d'employeurs ayant accepté une candidature dans les 30 derniers jours
 
-* 📗 **Définition** : Pourcentage d'employeurs qui ont embauché au moins une personne via les emplois de l'inclusion dans les 30 derniers jours
+* 📗 **Définition** : Pourcentage d'employeurs qui ont accepté au moins une candidature via les emplois de l'inclusion dans les 30 derniers jours
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Nombre d'employeurs ayant accepté au moins une candidature dans les 30 derniers jours divisé par le nombre total d'employeurs, rapporté en base 100
 * 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
@@ -75,7 +75,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : x
 * 📊 **Présent dans** : [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
 
-## Candidatures, embauches et pass IAE
+## Candidatures et pass IAE
 
 ### Nombre de candidatures
 
@@ -105,23 +105,23 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Nombre total de candidats avec au moins une candidature
 * 📊 **Présent dans** : [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
 
-### Nombre d'embauches
+### Nombre de candidatures acceptées
 
 * 📗 **Définition** : Nombre de candidatures acceptées par les employeurs sur les emplois de l'inclusion
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Nombre total des candidatures dont le statut est 'acceptée'
 * 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 
-### Nombre de personnes embauchées
+### Nombre de candidats acceptés
 
-* 📗**Définition** : Nombre de personnes embauchées via les emplois de l'inlcusion
+* 📗**Définition** : Nombre de personnes acceptées via les emplois de l'inlcusion
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Nombre de candidats dont au moins une candidature a été acceptée
 * 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs)
 
-### Pourcentage de candidats embauchés parmi ceux orientés par des prescripteurs
+### Pourcentage de candidats acceptés parmi ceux orientés par des prescripteurs
 
-* 📗 **Définition** : Pourcentage de candidats embauchés parmi ceux orientés par des prescripteurs
+* 📗 **Définition** : Pourcentage de candidats acceptés parmi ceux orientés par des prescripteurs
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Nombre de candidats orientés par un prescripteur et dont au moins une candidature a été acceptée divisé par le nombre total de candidats orientés par des prescripteurs, ramené en base 100
 * 📊 **Présent dans** : [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
@@ -130,17 +130,17 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 * 📗 **Définition** : Pour chacun des critères administratifs principaux, part des personnes relevant de ce critère parmi les personnes orientées
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Pour chacun des critères, nombre de personnes orientées par un prescripteur et pour lesquels ce critère est coché, divisé par le nombre total de personnes embauchées, rapporté en base 100
+* 🧮 **Formule** : Pour chacun des critères, nombre de personnes orientées par un prescripteur et pour lesquels ce critère est coché, divisé par le nombre total de candidats acceptés, rapporté en base 100
 * 📊 **Présent dans** : [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
 
-### Profil des personnes embauchées
+### Profil des candidats acceptés
 
-* 📗 **Définition** : Pour chacun des critères administratifs principaux, part des personnes relevant de ce critère parmi les personnes embauchées
+* 📗 **Définition** : Pour chacun des critères administratifs principaux, part des personnes relevant de ce critère parmi les candidats acceptés
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Pour chacun des critères, nombre de personnes embauchées et pour lesquels ce critère est coché, divisé par le nombre total de personnes embauchées, rapporté en base 100
+* 🧮 **Formule** : Pour chacun des critères, nombre de candidats acceptés et pour lesquels ce critère est coché, divisé par le nombre total de candidats acceptés, rapporté en base 100
 * 📊 **Présent dans** : [TB54](les-tableaux-de-bord-disponibles.md#employeurs), [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs)
 
-### Nombre d'embauches dans les 7 derniers jours
+### Nombre de candidatures acceptées dans les 7 derniers jours
 
 * 📗 **Définition** : Nombre de candidatures acceptées par les employeurs sur les emplois de l'inclusion dans les 7 derniers jours qui précèdent la mise à jour de données du tableau de bord
 * 💾 **Source des données** : emplois de l'inclusion
@@ -172,44 +172,44 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 ### Recrutements en auto-prescription
 
-* 📗 **Définition** : La part des candidatures acceptées initiées par l'employeur parmi toutes les embauches faites par les SIAE
+* 📗 **Définition** : La part des candidatures acceptées initiées par l'employeur parmi toutes les candidatures acceptées par les SIAE
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Somme des candidatures acceptées initiées par les employeurs de type SIAE divisée par le nombre total des embauches \(initiés par l'employeur, par un prescripteur ou par le candidat lui-même\) dans les structures de type SIAE
+* 🧮 **Formule** : Somme des candidatures acceptées initiées par les employeurs de type SIAE divisée par le nombre total des candidatures acceptées \(initiés par l'employeur, par un prescripteur ou par le candidat lui-même\) dans les structures de type SIAE
 * 📊 **Présent dans** : [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 
 ### Nombre de personnes concernées par l'autoprescription
 
 * 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Nombre de candidats embauchés et dont l'éligibilité a été validée par une SIAE
+* 🧮 **Formule** : Nombre de candidats acceptés et dont l'éligibilité a été validée par une SIAE
 * 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 
 ### Nombre de critères de niveau 1
 
 * 📗 **Définition** : Nombre critères de niveau 1 sélectionnés par la SIAE dans le cadre de l'autoprescription pour valider l'éligibilité d'une personne \([rappel sur les règles](../qui-est-eligible-iae-criteres-eligibilite/)\)
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Pour chaque personne embauchée en autoprescription, décompte du nombre de critères niveau 1 cochés par la SIAE \(de 0 à 4 car il y a 4 critères de niveau 1\)
+* 🧮 **Formule** : Pour chaque personne acceptée en autoprescription, décompte du nombre de critères niveau 1 cochés par la SIAE \(de 0 à 4 car il y a 4 critères de niveau 1\)
 * 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 
 ### Nombre de personnes recrutées en autoprescription sur la base de critères de niveau 1
 
 * 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription sur la base de critères de niveau 1 \([rappel sur les règles](../qui-est-eligible-iae-criteres-eligibilite/)\)
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Pour chaque personne embauchée en autoprescription, décompte du nombre de cas où au moins 1 critère de niveau 1 a été coché par la SIAE
+* 🧮 **Formule** : Pour chaque personne acceptée en autoprescription, décompte du nombre de cas où au moins 1 critère de niveau 1 a été coché par la SIAE
 * 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 
 ### Nombre de personnes recrutées en autoprescription sur la base de critères de niveau 2
 
 * 📗 **Définition** : Nombre de personnes dont l'éligibilité a été validée par une SIAE dans le cadre de l'autoprescription sur la base de critères de niveau 2 \([rappel sur les règles](../qui-est-eligible-iae-criteres-eligibilite/)\)
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Pour chaque personne embauchée en autoprescription, décompte du nombre de cas où aucun critère de niveau 1 n'a été coché par la SIAE, ce qui veut dire obligatoirement que ce sont les critères de niveau 2 qui sont pris en compte
+* 🧮 **Formule** : Pour chaque personne acceptée en autoprescription, décompte du nombre de cas où aucun critère de niveau 1 n'a été coché par la SIAE, ce qui veut dire obligatoirement que ce sont les critères de niveau 2 qui sont pris en compte
 * 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 
 ### Nombre de critères de niveau 2
 
 * 📗 **Définition** : Nombre critères de niveau 2 sélectionnés par la SIAE dans le cadre de l'autoprescription pour valider l'éligibilité d'une personne \([rappel sur les règles](../qui-est-eligible-iae-criteres-eligibilite/)\)
 * 💾 **Source des données** : emplois de l'inclusion
-* 🧮 **Formule** : Pour chaque personne embauchée en autoprescription dont le nombre de critères de niveau 1 cochés est égale à 0, décompte du nombre de critères niveau 2 cochés par la SIAE \(de 2 à 11 car il y a 11 critères de niveau 2\)
+* 🧮 **Formule** : Pour chaque personne acceptée en autoprescription dont le nombre de critères de niveau 1 cochés est égale à 0, décompte du nombre de critères niveau 2 cochés par la SIAE \(de 2 à 11 car il y a 11 critères de niveau 2\)
 * 📊 **Présent dans** : [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 
 ## Postes et métiers
