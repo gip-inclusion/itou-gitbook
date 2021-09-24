@@ -325,7 +325,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 ### Nombre d'ETP consommés
 
-* 📗 **Définition** : nombre des équivalents temps plein consommés déclarés par l'ensemble des SIAE mensuellement sur l'extranet ASP 
+* 📗 **Définition** : nombre des [équivalents temps plein](https://doc.inclusion.beta.gouv.fr/glossaire-inclusion#les-termes-qui-reviennent-souvent-dans-nos-produits) consommés déclarés par l'ensemble des SIAE mensuellement sur l'extranet ASP 
 * 💾 **Source des données** : Agence de services et de paiement
 * 🧮 **Formule** : somme des équivalents temps plein consommés dans la période considérée
 * 📊 **Présent dans** : TB88, TB100
@@ -353,7 +353,7 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 
 ### Nombre de sorties
 
-* 📗 **Définition** : nombre de salariés en insertion déclarés dans l'extranet ASP comme ayant quitté la structure vers une des différentes catégories de sorties \(emploi durable, emploi de transition, sorties positives, autres sorties\) 
+* 📗 **Définition** : nombre de salariés en insertion déclarés dans l'extranet ASP comme ayant quitté la structure vers une des différentes catégories de sorties \([emploi durable](https://doc.inclusion.beta.gouv.fr/glossaire-inclusion#les-termes-qui-reviennent-souvent-dans-nos-produits), [emploi de transition](https://doc.inclusion.beta.gouv.fr/glossaire-inclusion#les-termes-qui-reviennent-souvent-dans-nos-produits), [sorties positives](https://doc.inclusion.beta.gouv.fr/glossaire-inclusion#les-termes-qui-reviennent-souvent-dans-nos-produits), [autres sorties](https://doc.inclusion.beta.gouv.fr/glossaire-inclusion#les-termes-qui-reviennent-souvent-dans-nos-produits)\) 
 * 💾 **Source des données** : Agence de services et de paiement
 * 🧮 **Formule** : nombre de salarié avec une catégorie de sortie renseignée dans l'ASP
 * 📊 **Présent dans** : TB88, TB100
