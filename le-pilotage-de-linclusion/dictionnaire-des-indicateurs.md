@@ -323,6 +323,13 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : total du nombre de salariés déclarés par les SIAE comme ayant travaillé au moins une heure dans la période considérée
 * 📊 **Présent dans** : TB88, TB100
 
+### Nombre d'ETP consommés
+
+* 📗 **Définition** : nombre des équivalents temps plein consommés déclarés par l'ensemble des SIAE mensuellement sur l'extranet ASP 
+* 💾 **Source des données** : Agence de services et de paiement
+* 🧮 **Formule** : somme des équivalents temps plein consommés dans la période considérée
+* 📊 **Présent dans** : TB88, TB100
+
 ### Nombre d'heures travaillées
 
 * 📗 **Définition** : nombre d'heures travaillées par les salariés en insertion déclarées par l'ensemble des SIAE mensuellement sur l'extranet ASP 
