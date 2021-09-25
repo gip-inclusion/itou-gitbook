@@ -9,9 +9,10 @@ description: Journal des modifications du pilotage de l'inclusion
 * Ajout du tableau de bord [TB116](les-tableaux-de-bord-disponibles.md#recrutement) "Recrutements" sur le site [pilotage](https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/recrutement/)
 * Intégration du suivi Matomo sur le site [pilotage](https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/recrutement/)
 * Modification de terminologie dans les [TB34](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion), [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion), [TB52](les-tableaux-de-bord-disponibles.md#prescripteurs), [TB54](les-tableaux-de-bord-disponibles.md#employeurs), [TB32](les-tableaux-de-bord-disponibles.md#criteres), [TB116](les-tableaux-de-bord-disponibles.md#recrutement) : le terme "embauche" est remplacé par "candidature acceptée"
+* Modification de terminologie dans les [TB](les-tableaux-de-bord-disponibles.md#statistiques-des-emplois-de-linclusion)117, [TB118](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/~/drafts/-MkRsUyWfnVEJG9shT_c/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties) : le terme "embauche" est remplacé par "recrutement"
 * Optimisation de l'affichage des étiquettes de données des graphiques camembert dans le [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 * Nouveau tableau de bord détaillé sur les tensions de recrutement
-
+* 
 ## Du 30/08/2021 au 10/09/2021
 
 * Correction d'un bug sur le filtre département du [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)

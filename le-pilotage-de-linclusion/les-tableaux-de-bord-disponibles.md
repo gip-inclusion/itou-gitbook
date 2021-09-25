@@ -56,16 +56,16 @@ description: Liste de tous les tableaux de bord disponibles
 
 ## Suivi des recrutements, heures travaillées et sorties
 
-* 📰 **Titre** : Pilotage de l'inclusion : focus sur le département du Seine-Saint-Denis
-* 📌 **Code** : TB100
-* 🌎 **Type** : Privé visible par le conseil départemantal du Seine-Saint-Denis
+* 📰 **Titre** : Pilotage de l'inclusion : voir les données de mon département
+* 📌 **Code** : TB118
+* 🌎 **Type** : Privé visible par les conseils départementaux des départements en expérimentation: 93, 62, 67, 38
 * 🔗 **Lien** : 
 
 ## Suivi des recrutements, heures travaillées et sorties
 
-* 📰 **Titre** : Pilotage de l'inclusion : focus sur le département du Seine-Saint-Denis
-* 📌 **Code** : TB88
-* 🌎 **Type** : Privé visible par la DRIEETS du Seine-Saint-Denis
+* 📰 **Titre** : Pilotage de l'inclusion : voir les données de mon département
+* 📌 **Code** : TB117
+* 🌎 **Type** : Privé visible par les DDETS  des départements en expérimentation: 93, 62, 67, 38
 * 🔗 **Lien** : 
 
 ## Recrutement
