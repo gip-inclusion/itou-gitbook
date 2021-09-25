@@ -22,7 +22,7 @@ description: Journal des modifications du pilotage de l'inclusion
 * Optimisation de l'affichage des étiquettes de données des graphiques camembert dans le [TB43](les-tableaux-de-bord-disponibles.md#statistiques-avancees-des-emplois-de-linclusion)
 * Nouveau tableau de bord détaillé sur les tensions de recrutement
 * Première version du tableau de bord avec les indicateurs d'impact des emplois de l'inclusion
-* Suppression du champ \(vide\) dans le graphique des prescripteurs habilités inscrits dnas le [TB34](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#statistiques-des-emplois-de-linclusion)
+* Suppression du champ \(vide\) dans le graphique des prescripteurs habilités inscrits dans le [TB34](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#statistiques-des-emplois-de-linclusion)
 * Correction du bug sur les tableaux de bord : [TB54](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#employeurs), [TB52](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#prescripteurs), [TB116](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#recrutement) généré par le changement du nom du critère BRSA.
 
 ## Du 30/08/2021 au 10/09/2021
