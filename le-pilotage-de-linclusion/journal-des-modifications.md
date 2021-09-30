@@ -4,6 +4,10 @@ description: Journal des modifications du pilotage de l'inclusion
 
 # Journal des modifications
 
+## Du 27/09/2021 au 08/10/2021
+
+* Ajout du graphique "Evolution des candidatures sur les 12 derniers mois, par origine \(sans les orienteurs ni les candidats\)" au tableau de bord [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
 ## Du 13/09/2021 au 24/09/2021
 
 * Ajout du tableau de bord [TB116](les-tableaux-de-bord-disponibles.md#recrutement) "Recrutements" sur le site [pilotage](https://pilotage.inclusion.beta.gouv.fr/tableaux-de-bord/recrutement/)
