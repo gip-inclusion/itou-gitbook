@@ -376,9 +376,16 @@ _N'hésitez pas à consulter le_ [_Glossaire_](../glossaire-inclusion.md) _si vo
 * 🧮 **Formule** : Décompte de toutes les candidatures de la période considérée, regroupées par mois \(sur la base de la date de candidature\), puis par état à l'intérieur d'un mois
 * 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
 
-### Evolution des candidatures par type d'orienteur
+### Evolution des candidatures par type origine
 
-* 📗 **Définition** : Évolution mois par mois de toutes les candidatures, présentées par type d'orienteur à l'origine de la candidature. Trois types d'orienteurs sont présentées pour simplifier la lecture : employeur, Pôle emploi et tous les autres cas.
+* 📗 **Définition** : Évolution mois par mois de toutes les candidatures, présentées par origine de la candidature. Trois types d'orienteurs sont présentées pour simplifier la lecture : employeur, Pôle emploi et tous les autres cas \(autres prescripteurs, orienteurs et candidats\).
+* 💾 **Source des données** : emplois de l'inclusion
+* 🧮 **Formule** : Décompte de toutes les candidatures de la période considérée, regroupées par mois \(sur la base de la date de candidature\), puis par type d'orienteur.
+* 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+
+### Evolution des candidatures par type origine \(sans les orienteurs ni les candidats\)
+
+* 📗 **Définition** : Évolution mois par mois de toutes les candidatures, présentées par origine de la candidature. Trois types d'orienteurs sont présentées pour simplifier la lecture : employeur, Pôle emploi et tous les autres prescripteurs \(sans les orienteurs et ni les candidats\).
 * 💾 **Source des données** : emplois de l'inclusion
 * 🧮 **Formule** : Décompte de toutes les candidatures de la période considérée, regroupées par mois \(sur la base de la date de candidature\), puis par type d'orienteur.
 * 📊 **Présent dans** : [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
