@@ -12,6 +12,7 @@ description: Journal des modifications du pilotage de l'inclusion
 * Ajout d'un message en bas de page du [TB117](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties) et [TB118](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties-1) pour indiquer aux utilisateurs la possibilité de télécharger les données des graphiques du tableau bord
 * Ajout d'une table avec le nombre de visites et le nombre de visiteurs uniques sur le site des emplois et le site pilotage
 * Ajout d'une table de correspondance entre commune et département, région, établissement public de coopération intercommunale \(EPCI\), arrondissement, zone d'emploi 2020
+* Correction d'un bug sur les filtres du [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
 
 ## Du 13/09/2021 au 24/09/2021
 
