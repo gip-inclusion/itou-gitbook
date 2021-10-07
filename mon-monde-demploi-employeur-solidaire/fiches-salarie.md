@@ -25,7 +25,7 @@ Depuis votre tableau de bord cliquez sur  **"Gérer mes fiches salarié"**
 
 ![](../.gitbook/assets/image%20%28144%29.png)
 
-Toutes vos embauches seront transférées dans cette page \( après 96h, c'est à dire le 5ème qui suit la date de démarrage du contrat\)
+Toutes vos embauches seront transférées dans cette page \( après 96h, c'est à dire le 5ème jour qui suit la date de démarrage du contrat de travail\)
 
 ![](../.gitbook/assets/image%20%28152%29.png)
 
