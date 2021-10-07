@@ -1,6 +1,6 @@
 # Fiches salarié
 
-Le transfert vers l'extranet IAE 2.0  de l'ASP  des données relatives aux embauches enregistrées sur le site des emplois est activé depuis le 27 Septembre
+Le transfert vers l'Extranet IAE 2.0  de l'ASP  des données relatives aux embauches enregistrées sur le site des emplois est activé depuis le 27 Septembre
 
 {% hint style="info" %}
 **Pour les AI :** Conformément à la loi du 14 décembre 2020, l’entrée en vigueur est différée au 1er décembre 2021 pour les salariés en association intermédiaire qui ne sont aujourd’hui pas soumis à l’agrément, à savoir les salariés mis à disposition hors secteur marchand ou dans le secteur marchand pour une durée hebdomadaire inférieure à 16 heures. Sur le plan technique, les recrutements déclarés via les emplois de l’inclusion pourront également être alimentés automatiquement dans l’Extranet IAE 2.0 dès le 27 septembre 2021. La création d’un salarié directement dans l’Extranet IAE 2.0 est possible jusqu’au 30 novembre 2021, pour faciliter les démarches.
