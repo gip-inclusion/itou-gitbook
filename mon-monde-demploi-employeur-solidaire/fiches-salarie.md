@@ -32,8 +32,7 @@ Toutes vos embauches seront transférées dans cette page \( après 96h, c'est �
 {% hint style="info" %}
 Par défaut le système affiche toutes les fiches salarié correspondantes aux embauches validées dans _Les emplois_ depuis le 1er Juillet 2021, ceci afin de permettre aux employeurs qui n’ont pas encore introduit les fiches salarié dans l’_Extranet IAE 2.0 de l’ASP_ de pouvoir régulariser les saisies directement depuis leur tableau de bord des emplois de l’inclusion.
 
-**Vous ne devez compléter que les fiches salarié des embauches non déclarées dans l’**  
-_**Extranet IAE 2.0 de l’ASP**_
+**Vous ne devez compléter que les fiches salarié des embauches non déclarées dans l’**_**Extranet IAE 2.0 de l’ASP**_
 {% endhint %}
 
 ## Etape 3 : Initialisation de la fiche salarié 
