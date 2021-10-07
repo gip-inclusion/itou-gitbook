@@ -23,8 +23,6 @@ Si vous avez utilisé cette fonction pour une embauche non déclarée dans l’A
 
 Depuis votre tableau de bord cliquez sur  **"Gérer mes fiches salarié"**  
 
-
-
 ![](../.gitbook/assets/image%20%28144%29.png)
 
 Toutes vos embauches seront transférées dans cette page \( après 96h, c'est à dire le 5ème qui suit la date de démarrage du contrat\)
