@@ -41,7 +41,7 @@ Cliquez sur **"Créer la fiche salarié"**
 
 ![](../.gitbook/assets/image%20%28146%29.png)
 
-**Complétez les informations manquantes**  : Civilité, Pays de Naissance, Commune de naissance \(La commune de naissance ne doit être saisie que lorsque le salarié est né en France\). 
+**Complétez les informations manquantes**  : Civilité, Pays de Naissance, Commune de naissance du salarié  \(La commune de naissance ne doit être saisie que lorsque le salarié est né en France\). 
 
 Puis cliquez sur **"Continuer"**
 
@@ -53,7 +53,7 @@ Puis cliquez sur **"Continuer"**
 
 ![](../.gitbook/assets/image%20%28151%29.png)
 
-Renseignez le Niveau de formation, le statut d'inscription à Pôle emploi et sa situation administrative
+Renseignez le Niveau de formation, le statut d'inscription à Pôle emploi et la situation administrative du salarié
 
 Puis cliquez sur **"Continuer"**
 
@@ -63,7 +63,7 @@ Sélectionnez votre annexe financière, puis cliquez sur **"Continuer"**
 
 ![](../.gitbook/assets/image%20%28153%29.png)
 
-Le récapitulatif de la fiche salarié s'affiche, si les informations sont correctes cliquez sur **"Validez la fiche salarié"** \(En cas de besoin vous pouvez retourner en arrière pour apporter des modifications en cliquant sur "Précédent"\)
+Le récapitulatif de la fiche salarié s'affiche, si les informations sont correctes, cliquez sur **"Validez la fiche salarié"** \(En cas de besoin vous pouvez retourner en arrière pour apporter des modifications en cliquant sur "Précédent"\)
 
 ![](../.gitbook/assets/image%20%28150%29.png)
 
@@ -71,7 +71,7 @@ Un message vous confirme la validation de la fiche salarié
 
 ![](../.gitbook/assets/image%20%28155%29.png)
 
-Vous pourrez suivre l'avancement du traitement de la fiche salarié depuis votre tableau de bord, des filtre sont disponibles sur la gauche
+Vous pourrez suivre l'avancement du traitement de la fiche salarié depuis votre tableau de bord, des filtres sont disponibles sur la gauche
 
 ![](../.gitbook/assets/image%20%28147%29.png)
 
@@ -80,14 +80,14 @@ Vous pourrez suivre l'avancement du traitement de la fiche salarié depuis votre
 {% hint style="success" %}
 L’intégration des « Candidats » depuis les emplois de l'inclusion dans l’Extranet IAE sera réalisée toutes les 2 heures entre les plages horaires de 6h00 et 22h00 \(heures métropole\)
 
-Ces informations seront également disponibles pour intégration dans les logiciels métiers utilisés par les SIAE.
+Ces informations seront également disponibles pour intégration dans les logiciels métiers.
 {% endhint %}
 
-Dans l’Extranet IAE 2.0, la « fiche salarié » de la personne recrutée est pré- renseignée des données collectées par la plateforme de l’inclusion. Elle peut être validée par la structure après renseignement de quelques données de validation \(NIR du salarié, date de début et de fin du contrat de travail, etc.\)
+Dans l’Extranet IAE 2.0, la « fiche salarié » de la personne recrutée est pré- renseignée des données collectées par les emplois de l’inclusion. Elle peut être validée par la structure après renseignement de quelques données de validation \(NIR du salarié, date de début et de fin du contrat de travail, etc.\)
 
 ### Etape 5 : Exécution du parcours
 
-Dans l’Extranet IAE 2.0, la SIAE déclare les heures travaillées chaque mois par le salarié et les autres données demandées soit directement, soit par le biais des logiciels métiers.
+Dans l’Extranet IAE 2.0, vous déclarez les heures travaillées chaque mois par le salarié et les autres données demandées soit directement, soit par le biais des logiciels métiers.
 
 {% hint style="info" %}
 En cours de parcours et en l’absence de changement de structure, la mise à jour des informations du salarié se fait uniquement dans l’Extranet IAE 2.0.
