@@ -93,7 +93,9 @@ Dans l’Extranet IAE 2.0, vous déclarez les heures travaillées chaque mois pa
 En cours de parcours et en l’absence de changement de structure, la mise à jour des informations du salarié se fait uniquement dans l’Extranet IAE 2.0.
 {% endhint %}
 
+## 💡[Consultez les réponses aux questions les plus fréquentes](https://communaute.inclusion.beta.gouv.fr/t/fiches-salarie-informations-utiles/7024?u=zohra_h)
 
+### 
 
 ### Support de présentation utilisé pendant le Webinaire "Interopérabilité ASP - Plateforme de l'inclusion" : 
 
