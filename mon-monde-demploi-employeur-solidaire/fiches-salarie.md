@@ -10,7 +10,7 @@ Le transfert vers l'Extranet IAE 2.0  de l'ASP  des données relatives aux embau
 
 ![](../.gitbook/assets/image%20%28154%29.png)
 
-### Procédure sur les emplois de l'inclusion
+## Procédure sur les emplois de l'inclusion
 
 ### Etape 1 : Validation d'une embauche avec demande d'obtention d'un PASS IAE \( suite à une candidature transmise ou une auto-prescription\)
 
@@ -35,7 +35,7 @@ Par défaut le système affiche toutes les fiches salarié correspondantes aux e
 **Vous ne devez compléter que les fiches salarié des embauches non déclarées dans l’**_**Extranet IAE 2.0 de l’ASP**_
 {% endhint %}
 
-## Etape 3 : Initialisation de la fiche salarié 
+### Etape 3 : Initialisation de la fiche salarié 
 
 Cliquez sur **"Créer la fiche salarié"**
 
