@@ -83,14 +83,12 @@ L’intégration des « Candidats » depuis les emplois de l'inclusion dans l’
 Ces informations seront également disponibles pour intégration dans les logiciels métiers.
 {% endhint %}
 
-Dans l’Extranet IAE 2.0, la « fiche salarié » de la personne recrutée est pré- renseignée des données collectées par les emplois de l’inclusion. Elle peut être validée par la structure après renseignement de quelques données de validation \(NIR du salarié, date de début et de fin du contrat de travail, etc.\)
+Dans l’Extranet IAE 2.0, la « fiche salarié » de la personne recrutée est pré- renseignée des données collectées par les emplois de l’inclusion. Elle peut être validée par la structure après renseignement de quelques données de validation \(NIR du salarié, date de début et de fin du contrat de travail, etc.\).
+
+En création de salarié, **les données reçues de les Emplois de l’Inclusion seront affichées mais modifiables à l’exception du PASS IAE et de la mesure.** Le NIR n’étant pas encore géré par la Plateforme de l’Inclusion, il doit être saisi dans l’Extranet IAE.
 
 {% hint style="success" %}
-Si la fiche salarié ne s'affiche pas dans l'Extranet IAE 2.0  de l'ASP , essayez l'astuce suivante.
-
-Dans la rubrique « Gestion des salariés » de l’Extranet IAE 2.0 de l’ASP : 
-
-Cliquez sur « Recherche » sans mettre de NOM de salarié. La fiche salarié apparait alors en rose.
+Si la fiche salarié ne s'affiche pas dans l'Extranet IAE 2.0  de l'ASP , essayez l'astuce suivante. Dans la rubrique **« Gestion des salariés »** de l’Extranet IAE 2.0 de l’ASP :  Cliquez sur **«Recherche» sans mettre de NOM de salarié**. La fiche salarié apparait alors en rose.
 {% endhint %}
 
 ### Etape 5 : Exécution du parcours
