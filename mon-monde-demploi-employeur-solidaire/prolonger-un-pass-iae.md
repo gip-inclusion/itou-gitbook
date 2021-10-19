@@ -18,6 +18,29 @@ Si la situation d'un salarié le nécessite, il est possible sous certaines cond
 | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Difficultés particulières qui font  obstacle à l'insertion durable  dans l’emploi** | <p>12 mois de prolongation maximum.                                                                                                                                                                      </p><p>Renouvellements : dans la limite de 5 ans.</p> |
 
+
+
+{% hint style="info" %}
+## Comment ça marche ?&#x20;
+
+1️⃣** L'employeur sollicite un prescripteur habilité pour demander la prolongation**.&#x20;
+
+Cette demande se fait en dehors du site (e-mail, courrier, téléphone) :&#x20;
+
+* l'employeur dresse un bilan des actions réalisées (uniquement si le bénéficiaire du parcours IAE est actuellement ou a été récemment dans l'effectif de la SIAE&#x20;
+* &#x20;il présente le plan d'accompagnement envisagé ainsi que la durée nécessaire (dans la limite de c
+*
+
+
+
+2️⃣ **Le prescripteur prend sa décision : **
+
+* <mark style="color:green;">**S'il donne son accord**</mark> <mark style="color:green;">: l'employeur peut enregistrer l'autorisation de prolongation</mark> <mark style="color:blue;"></mark>[<mark style="color:blue;">\[voir mode d'emploi\]</mark>](prolonger-un-pass-iae.md#mode-demploi-pour-enregistrer-une-demande-de-prolongation-en-ligne)<mark style="color:blue;"></mark>
+* <mark style="color:red;">**S'il refuse :**</mark><mark style="color:red;"><mark style="color:green;">** **<mark style="color:green;"></mark><mark style="color:red;">il doit motiver le refus par écrit et notifier, par tout moyen la structure et le salarié ou candidat</mark>
+
+<mark style="color:red;"></mark>
+{% endhint %}
+
 ## Mode d'emploi pour enregistrer une demande de prolongation en ligne :&#x20;
 
 {% hint style="danger" %}
