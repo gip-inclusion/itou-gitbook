@@ -2,17 +2,17 @@
 
 L'équipe du Forum de l'inclusion met à votre disposition des [espaces d'échanges par communauté d'acteurs](https://forum.inclusion.beta.gouv.fr/c/se-retrouver-par-communaute-d-acteurs/45).
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](<../../.gitbook/assets/image (31).png>)
 
 👉 **Ils ont pour but de vous permettre d'échanger, d'informer et communiquer avec la communauté d'acteurs de votre choix.**
 
-\*\*\*\*
+****
 
 🙋  **Créés à la demande, selon vos besoins, pour :**
 
-* Les membres d'une fédération 
+* Les membres d'une fédération&#x20;
 * Un regroupement d'acteurs de l'inclusion d'un département
-* Une typologie d'acteurs \(travailleurs sociaux, CIP, employeurs solidaires....\)
+* Une typologie d'acteurs (travailleurs sociaux, CIP, employeurs solidaires....)
 * Les membres d'un réseau
 * Tout autre regroupement, équipe, communauté de votre choix
 
@@ -32,7 +32,7 @@ L'équipe du Forum de l'inclusion met à votre disposition des [espaces d'échan
 
 👀 **Des espaces d'échanges Publics ou Privés**
 
-Les espaces d'échanges par communauté d'acteurs sont créés en fonction de vos besoins. 
+Les espaces d'échanges par communauté d'acteurs sont créés en fonction de vos besoins.&#x20;
 
 Vous souhaitez bénéficier d'**un espace ouvert et National** pour échanger avec les membres de votre communauté ? Votre espace d'échanges pourra être **visible par tous les acteurs de l'inclusion**.
 
@@ -44,7 +44,6 @@ Vous avez besoin d'un espace où vous pouvez **partager des actualités et des i
 
 ### [Créer votre espace d'échange par communauté d'acteurs](creer-votre-espace-dechange-par-communaute-dacteurs.md)
 
-### 
+###
 
-### 
-
+###

@@ -15,8 +15,8 @@ Les sujets marqués comme résolus sont utiles à la communauté. Ils permettent
 {% endhint %}
 
 {% hint style="warning" %}
-Seuls les auteurs d'un sujet ont la possibilité d'identifier un commentaire comme répondant à la question.   
-  
+Seuls les auteurs d'un sujet ont la possibilité d'identifier un commentaire comme répondant à la question. \
+\
 Les autres utilisateurs ont la possibilité de liker et commenter les différents commentaires pour apporter un éclairage ou soutenir un message.
 {% endhint %}
 
@@ -24,15 +24,15 @@ Voici comment marquer votre sujet comme résolu en pas à pas.
 
 
 
-### Une fois que vous avez rédigé un Sujet \[[Cliquez ici pour suivre les étapes](postez-un-sujet.md)\]
+### Une fois que vous avez rédigé un Sujet \[[Cliquez ici pour suivre les étapes](postez-un-sujet.md)]
 
 Retrouvez les commentaires postés par la communauté dans vos notifications.
 
-### 
+###
 
 ### Cliquez sur le rond de couleur en haut à droite du site
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](<../.gitbook/assets/image (13).png>)
 
 
 
@@ -47,4 +47,3 @@ Cliquez sur la notification de votre choix pour afficher le commentaire.
 Cliquez sur le bouton "Merci ce message répond à ma question". Comme sur l'image ci-dessous.
 
 ![](../.gitbook/assets/resolu.png)
-

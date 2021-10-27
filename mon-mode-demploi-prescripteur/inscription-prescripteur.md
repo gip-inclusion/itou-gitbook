@@ -6,13 +6,13 @@ description: >-
 
 # M'inscrire sur les emplois de l'inclusion
 
-Cliquez en haut à droite sur le bouton **"Se connecter" \[1\] ,** puis sélectionnez **"Prescripteur" \[2\] :**
+Cliquez en haut à droite sur le bouton **"Se connecter" \[1] , **puis sélectionnez **"Prescripteur" \[2] :**
 
 ![](../.gitbook/assets/seconnecter.png)
 
-Puis cliquez sur **"Créer un compte prescripteur" :**
+Puis cliquez sur** "Créer un compte prescripteur" :**
 
-![](../.gitbook/assets/creationpresc.png)
+![](<../.gitbook/assets/image (179).png>)
 
 **Nous avons mis en place des processus d'inscription spécifiques à chaque organisation :**
 
@@ -20,56 +20,50 @@ Puis cliquez sur **"Créer un compte prescripteur" :**
 
 📝[Voir le processus d'inscription pour un prescripteur habilité au national](inscription-prescripteur.md#inscription-pour-un-prescripteur-habilite-au-national)
 
-📝[Voir le processus d'inscription pour une organisation conventionnée par un Conseil Départemental pour le suivi des bénéficiaires du RSA](inscription-prescripteur.md#inscription-pour-une-organisation-conventionnee-par-un-conseil-departemental-pour-le-suivi-des-beneficiaires-du-rsa)
-
 📝[Voir le processus d'inscription pour un prescripteur habilité au niveau préfectoral](inscription-prescripteur.md#inscription-pour-un-prescripteur-habilite-au-niveau-prefectoral)
 
-📝 [Voir le processus d'inscription pour un orienteur](inscription-prescripteur.md#inscription-pour-un-orienteur)
+📝 [Voir le processus d'inscription pour un orienteur](inscription-prescripteur.md#inscription-pour-un-orienteur)****
 
 ## Inscription pour un agent Pôle emploi
 
-A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Oui"** puis sur **"Continuer"**
+Cliquez sur** "Je travaille pour Pôle emploi"**
 
-![](../.gitbook/assets/inscriptionpe.png)
+![](<../.gitbook/assets/image (160).png>)
 
-**Renseignez le code SAFIR** de votre agence ou DT. Si vous ne le connaissez pas, rapprochez-vous de votre CLI \(Correspondant Local Informatique\) ou de votre ELD \(Equipe Locale de Direction\).
+**Renseignez le code SAFIR** de votre agence ou DT. Si vous ne le connaissez pas, rapprochez-vous de votre CLI (Correspondant Local Informatique) ou de votre ELD (Equipe Locale de Direction).
 
 Puis cliquez sur **"Continuer".**
 
-![](../.gitbook/assets/codesafir.png)
+![](<../.gitbook/assets/image (161).png>)
 
-**Complétez le formulaire, en renseignant votre prénom, nom et adresse e-mail professionnelle**  \(seules les adresses pole-emploi.fr sont acceptées\), **choisissez un mot de passe** puis cliquez sur **"Inscription"**
+**Complétez le formulaire, en renseignant votre prénom, nom et adresse e-mail professionnelle ** (seules les adresses pole-emploi.fr sont acceptées), **choisissez un mot de passe** puis cliquez sur **"Inscription"**
 
-![](../.gitbook/assets/inscripeee.png)
+![](<../.gitbook/assets/image (165).png>)
 
 {% hint style="info" %}
- **Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**
+** Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**
 {% endhint %}
 
 ## Inscription pour un prescripteur habilité au national
 
-A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** puis sur **"Continuer"**
+Renseignez le** SIRET de votre organisation **et sélectionnez votre **département, **puis cliquez sur **"Rechercher"**
 
-![](../.gitbook/assets/penon.png)
+![](<../.gitbook/assets/image (171).png>)
 
-**Sélectionnez votre organisation** dans la liste, puis cliquez sur **"Continuer"**
+Si votre organisation n'est pas encore inscrite, un écran de sélection s'affiche ** : Sélectionnez votre organisation** dans la liste, puis cliquez sur **"Continuer"**
 
-![](../.gitbook/assets/listing-prescripteur-habilite-au-national.png)
+![](<../.gitbook/assets/image (164).png>)
 
-Renseignez le **numéro de SIRET** de votre organisation, puis cliquez sur "**Continuer"**
+Complétez le formulaire en renseignant votre** adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur** "Inscription"**
 
-![](../.gitbook/assets/siret.png)
-
-Complétez le formulaire en renseignant votre **adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur **"Inscription"**
-
-![](../.gitbook/assets/formulaireph.png)
+![](<../.gitbook/assets/image (178).png>)
 
 {% hint style="info" %}
 **Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**
 {% endhint %}
 
 {% hint style="warning" %}
-Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoindre le compte de votre organisation que sur invitation. Contactez l'administrateur de l'organisation pour qu'il puisse vous inviter. [\[ Procédure d'invitation des collaborateurs \]](rattachement-collaborateur-au-compte.md)
+Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoindre le compte de votre organisation que sur invitation.&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
@@ -78,110 +72,67 @@ Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoin
 
 ## Inscription pour un prescripteur habilité au niveau préfectoral
 
-A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** puis sur **"Continuer"**
+Renseignez le** SIRET de votre organisation **et sélectionnez votre **département, **puis cliquez sur **"Rechercher"**
 
-![](../.gitbook/assets/penon.png)
+![](<../.gitbook/assets/image (167).png>)
 
-**Sélectionnez "Autre"**, puis cliquez sur **"Continuer"**
+Si votre organisation n'est pas encore inscrite, un écran de sélection s'affiche ** : **Sélectionnez **"Autre"** dans la liste, puis cliquez sur **"Continuer"**
 
-![](../.gitbook/assets/autre.png)
+![](<../.gitbook/assets/image (164).png>)
 
-À la question **"**_Pour qui travaillez-vous ?"_, sélectionnez **"Pour une organisation habilitée par le Préfet,** puis cliquez sur **"Continuer"**
+** **Sélectionnez **"Pour une organisation habilitée par le Préfet", **puis cliquez sur **"Continuer"**
 
-![](../.gitbook/assets/questionhabilitation.png)
+![](<../.gitbook/assets/image (173).png>)
 
-Confirmez votre habilitation préfectorale en cliquant sur **"Oui, je confirme que mon organisation est habilitée par le Préfet",** puis cliquez sur **"Continuer"**
+Confirmez votre habilitation préfectorale en cliquant sur** "Oui, je confirme que mon organisation est habilitée par le Préfet", **puis cliquez sur **"Continuer"**
 
-![](../.gitbook/assets/confirmationhab.png)
+![](<../.gitbook/assets/image (169).png>)
 
-Renseignez le **numéro de SIRET** de votre organisation, puis cliquez sur "**Continuer"**
+Complétez le formulaire en renseignant votre** adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur** "Inscription"**
 
-![](../.gitbook/assets/siret.png)
-
-Complétez le formulaire en renseignant votre **adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur **"Inscription"**
-
-![](../.gitbook/assets/soli.png)
+![](<../.gitbook/assets/image (162).png>)
 
 {% hint style="info" %}
 **Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**
 {% endhint %}
 
 {% hint style="warning" %}
-Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoindre le compte de votre organisation que sur invitation. Contactez l'administrateur de l'organisation pour qu'il puisse vous inviter. [\[ Procédure d'invitation des collaborateurs\]](rattachement-collaborateur-au-compte.md)
+Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoindre le compte de votre organisation que sur invitation.
 {% endhint %}
 
-Un message d'information en jaune vous invite à nous **transmettre votre arrêté préfectoral** portant mention de votre habilitation en cliquant sur **"Cliquez ici pour l'envoyer"**
+Un message d'information en jaune vous invite à nous** transmettre votre arrêté préfectoral **portant mention de votre habilitation en cliquant sur** "Cliquez ici pour l'envoyer"**
 
 ![](../.gitbook/assets/sendhab.png)
 
 {% hint style="info" %}
-Vous serez notifié\(e\) par mail dès que votre demande d'habilitation aura été traitée par notre équipe.
+Vous serez notifié(e) par mail dès que votre demande d'habilitation aura été traitée par notre équipe.
 {% endhint %}
 
 {% hint style="danger" %}
- **Si l'arrêté préfectoral n'est pas transmis, vos prescriptions ne seront pas considérées comme celles d’un prescripteur habilité mais comme celles d’un orienteur.**
-{% endhint %}
-
-## Inscription pour une organisation conventionnée par un Conseil Départemental **pour le suivi des Bénéficiaires du RSA**
-
-{% hint style="success" %}
-[Si votre organisation travaille pour le compte du Conseil Départemental dans le cadre du suivi des BRSA, vous pouvez prétendre au statut de prescripteur habilité.](https://emplois.inclusion.beta.gouv.fr/signup/prescriber/is_pole_emploi)
-{% endhint %}
-
-A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** puis sur **"Continuer"**
-
-![](../.gitbook/assets/penon.png)
-
-Sélectionnez **"Service social du Conseil Départemental"**, puis cliquez sur **"Continuer"**
-
-![](../.gitbook/assets/cd.png)
-
-Renseignez le **numéro de SIRET** de votre organisation \(pas celui du Conseil Départemental\), puis cliquez sur "**Continuer"**
-
-![](../.gitbook/assets/siret.png)
-
-  
-Complétez le formulaire en renseignant votre **adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur **"Inscription"**
-
-![](../.gitbook/assets/siretcd.png)
-
-{% hint style="info" %}
-**Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**
-{% endhint %}
-
-{% hint style="warning" %}
-Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoindre le compte de votre organisation que sur invitation. Contactez l'administrateur de l'organisation pour qu'il puisse vous inviter. [\[ Procédure d'invitation des collaborateurs\]](rattachement-collaborateur-au-compte.md)
-{% endhint %}
-
-{% hint style="danger" %}
-**Le statut de votre habilitation restera en attente le temps qu’un modérateur vérifie votre identité. Pendant ce laps de temps, vos prescriptions ne seront pas considérées comme celles d’un prescripteur habilité mais comme celles d’un orienteur.**
+** Si l'arrêté préfectoral n'est pas transmis, vos prescriptions ne seront pas considérées comme celles d’un prescripteur habilité mais comme celles d’un orienteur.**
 {% endhint %}
 
 ## Inscription pour un orienteur
 
-A la question _"Travaillez-vous pour Pôle emploi ? "_, cliquez sur **"Non"** puis sur **"Continuer"**
+Renseignez le** SIRET de votre organisation **et sélectionnez votre **département, **puis cliquez sur **"Rechercher"**
 
-![](../.gitbook/assets/penon.png)
-
-Sélectionnez **"Autre"**, puis cliquez sur **"Continuer"**
-
-![](../.gitbook/assets/autre.png)
-
-A la question **"**_Pour qui travaillez-vous ?"_, **sélectionnez "Pour une organisation non-habilitée", puis cliquez sur "Continuer"**
-
-![](../.gitbook/assets/organonhab.png)
+![](<../.gitbook/assets/image (171).png>)
 
 {% hint style="info" %}
-**Vous pouvez également faire le choix d'utiliser les emplois de l'inclusion sans vous rattacher à une organisation. Dans ce cas cliquez sur "Seul \(sans organisation\)".** [**\[Voir la suite du processus d'inscription pour un orienteur sans organisation\]**](inscription-prescripteur.md#inscription-pour-un-orienteur-sans-organisation)\*\*\*\*
+**Vous pouvez également faire le choix d'utiliser les emplois de l'inclusion sans vous rattacher à une organisation. Dans ce cas cliquez sur "Seul (sans organisation)". **[**\[Voir la suite du processus d'inscription pour un orienteur sans organisation\]**](inscription-prescripteur.md#inscription-pour-un-orienteur-sans-organisation)****
 {% endhint %}
 
-Renseignez le **numéro de SIRET** de votre organisation, puis cliquez sur "**Continuer"**
+Sélectionnez** "Autre"**, puis cliquez sur **"Continuer"**
 
-![](../.gitbook/assets/siret.png)
+![](<../.gitbook/assets/image (182).png>)
 
-Complétez le formulaire en renseignant votre **adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur **"Inscription"**
+A la question **"**_Pour qui travaillez-vous ?"_, sélectionnez** "Pour une organisation non-habilitée", puis cliquez sur "Continuer"**
 
-![](../.gitbook/assets/soli.png)
+![](<../.gitbook/assets/image (177).png>)
+
+Complétez le formulaire en renseignant votre** adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur** "Inscription"**
+
+![](<../.gitbook/assets/image (176).png>)
 
 {% hint style="info" %}
 **Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**
@@ -193,16 +144,15 @@ Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoin
 
 ## Inscription pour un orienteur sans organisation
 
-  
-A la question **"**_Pour qui travaillez-vous ?"_, **sélectionnez "Seul \(sans organisation\)",** puis cliquez sur **"Continuer"**
+\
+Cliquez sur** "Je ne fais partie d'aucune organisation"**
 
-![](../.gitbook/assets/soloorienteur.png)
+![](<../.gitbook/assets/image (175).png>)
 
-Complétez le formulaire en renseignant votre **adresse e-mail, prénom et nom**. Choisissez votre mot de passe puis cliquez sur **"Inscription"**
+Complétez le formulaire en renseignant votre** adresse e-mail, prénom et nom**. Choisissez votre mot de passe puis cliquez sur** "Inscription"**
 
-![](../.gitbook/assets/formulaireorienteursolo.png)
+![](<../.gitbook/assets/image (170).png>)
 
 {% hint style="info" %}
 **Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**
 {% endhint %}
-

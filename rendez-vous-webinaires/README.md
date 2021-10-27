@@ -6,13 +6,13 @@ description: Retrouvez toutes les informations des services de la Plateforme de 
 
 ## **Sélectionnez le service qui vous intéresse :**
 
-\*\*\*\*
+****
 
-## **👉** [Les emplois de l'inclusion \(Pour faciliter les recrutements des Structures Inclusives\)](la-plateforme-de-linclusion.md)
+## **👉 **[Les emplois de l'inclusion (Pour faciliter les recrutements des Structures Inclusives)](la-plateforme-de-linclusion.md)
 
 
 
-## \*\*\*\*[**👉** Le Marché de l'inclusion \(Pour améliorer la visibilité des Structures Inclusives et trouver des nouveaux clients\)](le-marche-de-linclusion.md)
+## ****[**👉 **Le Marché de l'inclusion (Pour améliorer la visibilité des Structures Inclusives et trouver des nouveaux clients)](le-marche-de-linclusion.md)
 
 
 
@@ -20,9 +20,9 @@ description: Retrouvez toutes les informations des services de la Plateforme de 
 
 Thème :  Informations pratiques et opportunités à saisir pour les entreprises sociales inclusives
 
-{% file src="../.gitbook/assets/relance-et-inclusion\_webinaire-17032021-1-.pdf" caption="Télécharger le support de présentation" %}
+{% file src="../.gitbook/assets/relance-et-inclusion_webinaire-17032021-1-.pdf" %}
+Télécharger le support de présentation
+{% endfile %}
 
-{% embed url="https://www.youtube.com/watch?v=SIfkr\_1xnx4" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=SIfkr_1xnx4" %}
 

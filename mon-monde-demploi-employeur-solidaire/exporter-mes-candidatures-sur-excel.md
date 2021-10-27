@@ -14,27 +14,28 @@ Une fois le téléchargement terminé, n'ouvrez pas directement le fichier.
 
 ### **👉 Ouvrez une nouvelle page Excel**
 
-Cliquez sur **"Données",** puis sur **"A partir d'un fichier texte/CSV"**
+Cliquez sur** "Données", **puis sur** "A partir d'un fichier texte/CSV"**
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](<../.gitbook/assets/image (70).png>)
 
-Sélectionnez le fichier téléchargé puis cliquez sur **"Importer"** 
+Sélectionnez le fichier téléchargé puis cliquez sur **"Importer"**&#x20;
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](<../.gitbook/assets/image (72).png>)
 
-Une fenêtre de paramétrage s'affiche : 
+Une fenêtre de paramétrage s'affiche :&#x20;
 
-1- Dans  la partie **"Origine du fichier"  :** sélectionnez " **65001 : Unicode \(UTF-8\)**” \(la référence se trouve en bas de la liste déroulante\). 
+1- Dans  la partie **"Origine du fichier"  :** sélectionnez " **65001 : Unicode (UTF-8)**” (la référence se trouve en bas de la liste déroulante).&#x20;
 
 2-  Puis cliquez sur **"Charger"**
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](<../.gitbook/assets/image (74).png>)
 
 {% hint style="danger" %}
 Pensez à bien enregistrer le tableau car les modifications apportées n'impacteront pas le fichier téléchargé.
 {% endhint %}
 
-### Voici un autre tutoriel si vous avez une autre version d'Excel  \(Document créé par par C. REVELIN - Pôle emploi La Réunion \)
+### Voici un autre tutoriel si vous avez une autre version d'Excel  (Document créé par par C. REVELIN - Pôle emploi La Réunion )
 
-{% file src="../.gitbook/assets/mode-demploi-pour-exporter-les-candidatures.pdf" caption="Tuto Export des candidatures " %}
-
+{% file src="../.gitbook/assets/mode-demploi-pour-exporter-les-candidatures.pdf" %}
+Tuto Export des candidatures&#x20;
+{% endfile %}

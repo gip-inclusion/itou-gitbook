@@ -1,12 +1,12 @@
 ---
-description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
+description: 💡 Un moteur de recherche est disponible en haut à droite ↗↗↗
 ---
 
 # 🔑 Embauches et PASS IAE
 
 ## 🟡 LISTE DES QUESTIONS  :
 
-1️⃣ **\[ QU'EST-CE QU'UN PASS IAE ? \]**
+1️⃣ **\[ QU'EST-CE QU'UN PASS IAE ? ]**
 
 [A quoi sert un PASS IAE ?](pass-iae.md#a-quoi-sert-un-pass-iae)
 
@@ -14,7 +14,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Le numéro d'agrément délivré par les emplois de l'inclusion est-il valide et de même valeur que l'agrément Pôle emploi ?](pass-iae.md#le-numero-dagrement-delivre-par-les-emplois-de-linclusion-est-il-valide-et-de-meme-valeur-que-lagrement-pole-emploi)
 
-2️⃣ **\[ OBTENIR UN PASS IAE \]**
+2️⃣ **\[ OBTENIR UN PASS IAE ]**
 
 [Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?](pass-iae.md#vous-me-demandez-de-mettre-une-fin-de-contrat-que-dois-je-indiquer-si-les-contrats-peuvent-etre-renouveles)
 
@@ -38,7 +38,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Le PASS IAE qui m'a été envoyé ne dure pas 2 ans mais moins, pourquoi ?](pass-iae.md#le-pass-iae-qui-ma-ete-envoye-ne-dure-pas-2-ans-mais-moins-pourquoi)
 
-3️⃣ **\[ GERER UN PASS IAE EN COURS \]**
+3️⃣ **\[ GERER UN PASS IAE EN COURS ]**
 
 [Y-a-t-il un impact de la crise sanitaire sur les embauches et le Pass IAE ?](pass-iae.md#y-a-t-il-un-impact-de-la-crise-sanitaire-sur-les-embauches-et-le-pass-iae)
 
@@ -56,7 +56,7 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Dois-je informer Pôle emploi qu'un Pass IAE m'a été délivré ?](pass-iae.md#dois-je-informer-pole-emploi-quun-pass-iae-ma-ete-delivre)
 
-[Je reçois le numéro d'agrément \(Pass IAE\) en combien de temps ?](pass-iae.md#je-recois-le-numero-dagrement-pass-iae-en-combien-de-temps)
+[Je reçois le numéro d'agrément (Pass IAE) en combien de temps ?](pass-iae.md#je-recois-le-numero-dagrement-pass-iae-en-combien-de-temps)
 
 [Comment modifier la date de fin de contrat ?](pass-iae.md#comment-modifier-la-date-de-fin-de-contrat)
 
@@ -70,14 +70,14 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 [Vous n’avez pas trouvé la réponse à votre question ?](pass-iae.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
 {% endhint %}
 
-## 🟢 LES REPONSES : 
+## 🟢 LES REPONSES :&#x20;
 
-## 1️⃣ **\[ QU'EST-CE QU'UN PASS IAE ? \]**
+## 1️⃣ **\[ QU'EST-CE QU'UN PASS IAE ? ]**
 
 ### _A quoi sert un PASS IAE ?_
 
 {% hint style="info" %}
-Le PASS IAE : 
+Le PASS IAE :&#x20;
 
 * Valide l’entrée en parcours IAE du candidat
 * A une durée de validité de 2 ans
@@ -88,7 +88,7 @@ Le PASS IAE :
 ### _Quelle est la différence entre un agrément et un Pass IAE ?_
 
 {% hint style="info" %}
-Un agrément est délivré par Pôle emploi, un [Pass IAE](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) est délivré directement par les emplois de l'inclusion \(sous 2 jours en moyenne\). Tous deux ont la même valeur et peuvent être utilisés par les SIAE lors de leur déclaration sur l'Extranet IAE 2.0 de l'ASP.
+Un agrément est délivré par Pôle emploi, un [Pass IAE](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) est délivré directement par les emplois de l'inclusion (sous 2 jours en moyenne). Tous deux ont la même valeur et peuvent être utilisés par les SIAE lors de leur déclaration sur l'Extranet IAE 2.0 de l'ASP.
 {% endhint %}
 
 ### _Le numéro d'agrément délivré par les emplois de l'inclusion est-il valide et de même valeur que l'agrément Pôle emploi ?_
@@ -97,7 +97,7 @@ Un agrément est délivré par Pôle emploi, un [Pass IAE](../pourquoi-une-plate
 Oui, le Pass IAE a même valeur que l'agrément Pôle emploi. Il est valide dès réception. Vous pourrez l’indiquer sur l'Extranet IAE 2.0 de l'ASP.
 {% endhint %}
 
-## 2️⃣ **\[ OBTENIR UN PASS IAE \]**
+## 2️⃣ **\[ OBTENIR UN PASS IAE ]**
 
 ### _Vous me demandez de mettre une fin de contrat, que dois-je indiquer si les contrats peuvent être renouvelés ?_
 
@@ -108,7 +108,7 @@ Vous pouvez indiquer les dates du premier contrat. Le candidat se verra alors at
 ### _J’ai un problème avec « la date de début du contrat ne doit pas être dans le passé », que faire ?_
 
 {% hint style="info" %}
-Il n’est pas possible d'antidater un contrat. Lorsque vous cliquez sur ‘’Je l'embauche’’, la date du contrat doit toujours être dans le futur \(ou au plus tôt la date du jour\)
+Il n’est pas possible d'antidater un contrat. Lorsque vous cliquez sur ‘’Je l'embauche’’, la date du contrat doit toujours être dans le futur (ou au plus tôt la date du jour)
 {% endhint %}
 
 ### _Qui fait la demande de PASS IAE ?_
@@ -136,11 +136,11 @@ La Direction Générale de Pôle emploi nous a fait parvenir l'historique des PA
 {% hint style="info" %}
 Si vous avez cliqué par erreur sur le mauvais bouton et que finalement vous avez besoin d'un PASS IAE. Vous devez refaire la demande d'obtention de PASS IAE en cliquant sur "obtenir un PASS IAE".
 
-L'éligibilité IAE du candidat sera automatiquement récupérée. 
+L'éligibilité IAE du candidat sera automatiquement récupérée.&#x20;
 
 Une fois enregistrée la candidature sera affichée dans la page "candidatures à traiter", vous devez finaliser l'embauche en cliquant sur "gérer la candidature"
 
-Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et [contactez-nous ](https://assistance.inclusion.beta.gouv.fr/)afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
+Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et [contactez-nous ](https://assistance.inclusion.beta.gouv.fr)afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
 {% endhint %}
 
 ### J'ai annulé par erreur l'embauche, le PASS IAE a été supprimé
@@ -148,11 +148,11 @@ Si la date d'embauche est déjà passée, renseignez la date du jour en date de 
 {% hint style="info" %}
 Vous devez refaire la demande d'obtention de PASS IAE en cliquant sur "obtenir un PASS IAE".
 
-L'éligibilité IAE du candidat sera automatiquement récupérée. 
+L'éligibilité IAE du candidat sera automatiquement récupérée.&#x20;
 
 Une fois enregistrée la candidature sera affichée dans la page "candidatures à traiter", vous devez finaliser l'embauche en cliquant sur "gérer la candidature"
 
-Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et[ contactez-nous ](https://assistance.inclusion.beta.gouv.fr/)afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
+Si la date d'embauche est déjà passée, renseignez la date du jour en date de début de contrat et[ contactez-nous ](https://assistance.inclusion.beta.gouv.fr)afin que nous puissions régulariser le dossier du candidat. Pensez à nous communiquer son nom prénom et adresse mail ainsi que la date réelle de l'embauche.
 {% endhint %}
 
 ### _Je n'ai toujours pas reçu de Pass IAE, comment faire ?_
@@ -160,7 +160,7 @@ Si la date d'embauche est déjà passée, renseignez la date du jour en date de 
 {% hint style="info" %}
 Le délai moyen entre la validation de l'embauche et l’obtention du Pass IAE est de maximum 2 jours. Si ce délai est largement dépassé, assurez-vous que le mail du Pass IAE ne se trouve pas dans vos spams.
 
-Si ce n’est pas le cas, faites une vérification de la candidature dans votre ‘’Tableau de bord’’. Si l’agrément a été délivré, la candidature affichera le numéro. Si le numéro d'agrément n’apparaît pas, [contactez-nous.](https://assistance.inclusion.beta.gouv.fr/)
+Si ce n’est pas le cas, faites une vérification de la candidature dans votre ‘’Tableau de bord’’. Si l’agrément a été délivré, la candidature affichera le numéro. Si le numéro d'agrément n’apparaît pas, [contactez-nous.](https://assistance.inclusion.beta.gouv.fr)
 {% endhint %}
 
 ### _J'ai eu la confirmation d'attribution de mon PASS IAE mais je n'ai toujours pas l'attestation de PASS IAE_
@@ -183,12 +183,12 @@ Certains acteurs nous signalent que certains employeurs refusent d'embaucher des
 Cela provient surement du fait que votre candidat avait déjà un parcours d'insertion en cours avant que vous ne l'embauchiez. Vous avez donc reçu son PASS IAE en cours de validité et le site vous indique le temps de validité restant sur le parcours de ce candidat.
 {% endhint %}
 
-## 3️⃣ **\[ GERER UN PASS IAE EN COURS \]**
+## 3️⃣ **\[ GERER UN PASS IAE EN COURS ]**
 
 ### _Y-a-t-il un impact de la crise sanitaire sur les embauches et le Pass IAE ?_
 
 {% hint style="info" %}
-Suite au confinement, tout Pass IAE en cours de validité entre le 17 mars et le 16 juin 2020 inclus voit sa date d'échéance reportée de 3 mois. Aucune démarche n'est à faire, le report se fait automatiquement ! Exemple : date d'échéance d'un Pass IAE délivré en avril 2018 portée à juillet 2020 au lieu d'avril 2020 \(soit 27 mois au lieu de 24\). 
+Suite au confinement, tout Pass IAE en cours de validité entre le 17 mars et le 16 juin 2020 inclus voit sa date d'échéance reportée de 3 mois. Aucune démarche n'est à faire, le report se fait automatiquement ! Exemple : date d'échéance d'un Pass IAE délivré en avril 2018 portée à juillet 2020 au lieu d'avril 2020 (soit 27 mois au lieu de 24).&#x20;
 {% endhint %}
 
 ### _Un candidat peut-il bénéficier de plusieurs parcours IAE successifs ?_
@@ -206,9 +206,9 @@ Consultez notre [note dédiée aux extensions, prolongations, suspensions](https
 ### _Que se passe-t-il en cas de doublon agrément Pole emploi/ Pass IAE , lequel est valable ? Et quel impact sur le financement ?_
 
 {% hint style="info" %}
-En cas de doublon, nous alignons les dates. \(c'est la date la plus ancienne qui est retenue\).
+En cas de doublon, nous alignons les dates. (c'est la date la plus ancienne qui est retenue).
 
-Les agents Pôle emploi peuvent[ nous contacter ](https://assistance.inclusion.beta.gouv.fr/)pour que nous puissions mettre à jour nos bases de données respectives. 
+Les agents Pôle emploi peuvent[ nous contacter ](https://assistance.inclusion.beta.gouv.fr)pour que nous puissions mettre à jour nos bases de données respectives.&#x20;
 
 L'employeur pourra utiliser le numéro de PASS **ou** le numéro d'agrément Pôle emploi pour sa déclaration dans l'extranet IAE 2.0 de l'ASP, les 2 numéros sont valables.
 
@@ -218,15 +218,15 @@ Il n'y a pas de risque de double financement car l'ASP vérifie les déclaration
 ### _**Puis-je annuler un Pass IAE ?**_
 
 {% hint style="info" %}
-La question revient régulièrement au support : j’ai embauché un candidat et obtenu un PASS IAE. Au troisième jour le contrat est rompu \( fin de période d’essai à l’initiative d’une des deux parties par exemple\). Dois-je annuler le PASS IAE ?
+La question revient régulièrement au support : j’ai embauché un candidat et obtenu un PASS IAE. Au troisième jour le contrat est rompu ( fin de période d’essai à l’initiative d’une des deux parties par exemple). Dois-je annuler le PASS IAE ?
 
-Premier point d’attention : **un PASS IAE n’est pas un contrat de travail** et ne se gère pas comme tel. Un PASS IAE est un élément incontournable pour obtenir une aide au poste.
+Premier point d’attention :** un PASS IAE n’est pas un contrat de travail** et ne se gère pas comme tel. Un PASS IAE est un élément incontournable pour obtenir une aide au poste.
 
-Nous permettons d’annuler un PASS IAE dans les 96 heures \(par exemple parce que le candidat ne s’est finalement pas présenté\). Dans ce cas le PASS IAE est supprimé et il ne vous permettra pas de toucher l’aide au poste et le candidat pour travailler dans une autre SIAE devra bénéficier d’un nouveau PASS.
+Nous permettons d’annuler un PASS IAE dans les 96 heures (par exemple parce que le candidat ne s’est finalement pas présenté). Dans ce cas le PASS IAE est supprimé et il ne vous permettra pas de toucher l’aide au poste et le candidat pour travailler dans une autre SIAE devra bénéficier d’un nouveau PASS.
 
 Dans notre exemple, si vous annulez le PASS, les 3 jours travaillés ne pourront bénéficier de l’aide au poste. Pour toucher l’aide au poste pour ces 3 jours, il ne faut donc **PAS** annuler le PASS. Le candidat pourra travailler dans une autre SIAE avec le même PASS car il aura débuté un parcours.
 
-Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourrez plus l'annuler par vous-même. Vous devrez [nous contacter ](https://assistance.inclusion.beta.gouv.fr/)en prenant soin de mentionner les références du PASS et les raisons de cette demande tardive.
+Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourrez plus l'annuler par vous-même. Vous devrez [nous contacter ](https://assistance.inclusion.beta.gouv.fr)en prenant soin de mentionner les références du PASS et les raisons de cette demande tardive.
 {% endhint %}
 
 ### _**J'avais signalé une interruption de PASS IAE à Pole Emploi, mais celle-ci n'a pas été prise en compte par le site**_
@@ -234,28 +234,28 @@ Passé ce délai de 96h et que vous souhaitez annuler le PASS IAE, vous ne pourr
 {% hint style="info" %}
 Les emplois de l'inclusion ne prend pas en compte les interruptions d'agréments mais seulement les suspensions.
 
-Pour en savoir plus sur les motifs légitimes de suspension, consultez notre espace de documentation : [https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire\#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae). 
+Pour en savoir plus sur les motifs légitimes de suspension, consultez notre espace de documentation : [https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#extension-suspension-prolongation-derogation-quels-changements-avec-le-pass-iae).&#x20;
 {% endhint %}
 
 ### _Comment obtenir une extension d'agrément ?_
 
 {% hint style="info" %}
-L'extension n'existe plus car le PASS IAE est rattaché à une personne et non plus à un employeur \(comme c'était le cas pour l'agrément\)  Il reste donc le même tout au long du parcours professionnel même si la personne change de SIAE. 
+L'extension n'existe plus car le PASS IAE est rattaché à une personne et non plus à un employeur (comme c'était le cas pour l'agrément)  Il reste donc le même tout au long du parcours professionnel même si la personne change de SIAE.&#x20;
 
-Le nouvel employeur peut récupérer le PASS IAE en enregistrant le candidat sur les emplois de l'inclusion \( En cliquant sur "obtenir un PASS IAE"\)
+Le nouvel employeur peut récupérer le PASS IAE en enregistrant le candidat sur les emplois de l'inclusion ( En cliquant sur "obtenir un PASS IAE")
 {% endhint %}
 
 ### _Dois-je informer Pôle emploi qu'un Pass IAE m'a été délivré ?_
 
 {% hint style="info" %}
-Il n'est pas nécessaire d'informer Pôle emploi. Un protocole automatique est en place entre les emplois de l'inclusion et Pôle emploi \(fichier partagé des Pass IAE\). Les agences Pole emploi reçoivent la liste des PASS IAE pour que les conseillers puissent mettre à jour les dossiers des demandeurs d'emploi concernés.
+Il n'est pas nécessaire d'informer Pôle emploi. Un protocole automatique est en place entre les emplois de l'inclusion et Pôle emploi (fichier partagé des Pass IAE). Les agences Pole emploi reçoivent la liste des PASS IAE pour que les conseillers puissent mettre à jour les dossiers des demandeurs d'emploi concernés.
 {% endhint %}
 
-### _Je reçois le numéro d'agrément \(Pass IAE\) en combien de temps ?_
+### _Je reçois le numéro d'agrément (Pass IAE) en combien de temps ?_
 
 {% hint style="info" %}
-Lorsque le numéro identifiant Pôle emploi est renseigné ou si le candidat n'est pas inscrit chez Pole emploi, la délivrance du PASS IAE est instantanée.  
-En revanche si l'employeur a sélectionné "identifiant Pôle emploi oublié" , cela implique une vérification manuelle.  La vérification manuelle est de maximum 2 jours. 
+Lorsque le numéro identifiant Pôle emploi est renseigné ou si le candidat n'est pas inscrit chez Pole emploi, la délivrance du PASS IAE est instantanée.\
+En revanche si l'employeur a sélectionné "identifiant Pôle emploi oublié" , cela implique une vérification manuelle.  La vérification manuelle est de maximum 2 jours.&#x20;
 {% endhint %}
 
 ### _Comment modifier la date de fin de contrat ?_
@@ -269,19 +269,19 @@ Il n'est pas possible de modifier les dates de contrat saisies. La date de fin d
 {% hint style="info" %}
 L'utilisateur ne peut pas modifier la date de début de contrat.
 
-2 cas de figure possibles : 
+2 cas de figure possibles :&#x20;
 
-**Cas 1 : Ce contrat a généré un nouveau PASS IAE \(date de début de contrat = date de démarrage du PASS IAE\)**
+**Cas 1 : Ce contrat a généré un nouveau PASS IAE (date de début de contrat = date de démarrage du PASS IAE)**
 
 * Vous pouvez demander à repousser la date de début du PASS IAE
-* Vous pouvez demander à avancer la date de début de PASS IAE \(au plus tôt le jour où vous avez validé la demande d'embauche\).
+* Vous pouvez demander à avancer la date de début de PASS IAE (au plus tôt le jour où vous avez validé la demande d'embauche).
 
-✉ [Contactez-nous ](https://assistance.inclusion.beta.gouv.fr/)en nous indiquant les éléments suivants : 
+✉ [Contactez-nous ](https://assistance.inclusion.beta.gouv.fr)en nous indiquant les éléments suivants :&#x20;
 
 * La référence du PASS IAE à modifier
 * La nouvelle date de démarrage
 
-**Cas 2 : Ce contrat n'a pas généré de nouveau PASS IAE, il s'agit d'une reprise de PASS IAE ou d'agrément**  
+**Cas 2 : Ce contrat n'a pas généré de nouveau PASS IAE, il s'agit d'une reprise de PASS IAE ou d'agrément  **
 
 * Vous n'avez aucune démarche à faire car la date de début de contrat n'impacte pas le PASS IAE qui est déjà en cours.
 {% endhint %}
@@ -289,22 +289,21 @@ L'utilisateur ne peut pas modifier la date de début de contrat.
 ### Que devient le PASS IAE en cas de rupture de contrat ?
 
 {% hint style="info" %}
-La rupture de contrat n'est pas un [motif légitime de suspension de PASS IAE](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#suspension). 
+La rupture de contrat n'est pas un [motif légitime de suspension de PASS IAE](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#suspension).&#x20;
 
 En cas de rupture de contrat, le PASS IAE du candidat reste valable le temps restant, il est donc du devoir de la SIAE d'informer le candidat sur son droit à un parcours en IAE car le candidat n'est parfois pas conscient d'être en parcours d'insertion et de ce à quoi cela lui donne accès. L'employeur peut également proposé au candidat de contacter un prescripteur pour qu'il puisse être accompagné. Un [moteur de recherche de prescripteurs](https://inclusion.beta.gouv.fr/search/prescribers) est disponible sur le site
 {% endhint %}
 
-\*\*\*\*
+****
 
 ### _Vous n’avez pas trouvé la réponse à votre question ?_
 
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement des emplois de l'inclusion\).
+* 💬 [**Poster votre question sur le Forum de l'inclusion **](https://forum.inclusion.beta.gouv.fr)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles (exemple : demande d'information sur le fonctionnement des emplois de l'inclusion).
 
 
 
-* 📝[**Contacter l’équipe .**](https://assistance.inclusion.beta.gouv.fr/) ****Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
+* 📝[**Contacter l’équipe .**](https://assistance.inclusion.beta.gouv.fr)** **Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande (exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …)
 {% endhint %}
-

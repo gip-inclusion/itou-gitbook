@@ -1,12 +1,12 @@
 ---
-description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
+description: 💡 Un moteur de recherche est disponible en haut à droite ↗↗↗
 ---
 
 # 👀 Suivi et gestion des candidatures
 
 ## 🟡 LISTE DES QUESTIONS  :
 
-1️⃣ **\[ SUIVI DES CANDIDATURES PAR L'EMPLOYEUR \]**
+1️⃣ **\[ SUIVI DES CANDIDATURES PAR L'EMPLOYEUR ]**
 
 [Je n'ai pas le lien "candidatures à traiter" ?](suivi-des-candidatures.md#je-nai-pas-le-lien-candidatures-a-traiter)
 
@@ -20,9 +20,9 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [J'ai refusé une candidature, comment la récupérer ](suivi-des-candidatures.md#jai-refuse-annule-une-candidature-par-erreur-comment-la-recuperer)?
 
-2️⃣ **\[ SUIVI DES CANDIDATURES PAR LE PRESCRIPTEUR \]**
+2️⃣ **\[ SUIVI DES CANDIDATURES PAR LE PRESCRIPTEUR ]**
 
-\_\_[Suis-je informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?](suivi-des-candidatures.md#suis-je-informe-e-de-lavancee-des-candidatures-des-personnes-que-jaccompagne)
+__[Suis-je informé(e) de l'avancée des candidatures des personnes que j’accompagne ?](suivi-des-candidatures.md#suis-je-informe-e-de-lavancee-des-candidatures-des-personnes-que-jaccompagne)
 
 [Le prescripteur est-il informé du motif de refus d'embauche ?](suivi-des-candidatures.md#le-prescripteur-est-il-informe-du-motif-de-refus-dembauche)
 
@@ -44,14 +44,14 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 [Vous n’avez pas trouvé la réponse à votre question ?](suivi-des-candidatures.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
 {% endhint %}
 
-## 🟢LES REPONSES : 
+## 🟢LES REPONSES :&#x20;
 
-## 1️⃣ **\[ SUIVI DES CANDIDATURES PAR L'EMPLOYEUR \]**
+## 1️⃣ **\[ SUIVI DES CANDIDATURES PAR L'EMPLOYEUR ]**
 
 ### _Je n'ai pas le lien "candidatures à traiter"_
 
 {% hint style="info" %}
-Ce lien s'affiche uniquement si des candidatures sont en attente de décision \(nouvelles candidatures + candidatures à l'étude\)
+Ce lien s'affiche uniquement si des candidatures sont en attente de décision (nouvelles candidatures + candidatures à l'étude)
 {% endhint %}
 
 ### J'ai reçu une notification mail pour une nouvelle candidature mais je ne la trouve pas dans mes candidatures à traiter
@@ -67,7 +67,7 @@ En cliquant "J'étudie la candidature", vous signifiez au candidat et au prescri
 
 A noter qu'aucune notification n'est envoyée lorsqu'une candidature passe au statut de "candidature à l'étude"
 
-En cliquant sur ce bouton de nouveaux boutons apparaissent \(en bas de page\) pour vous permettre de traiter la candidature.
+En cliquant sur ce bouton de nouveaux boutons apparaissent (en bas de page) pour vous permettre de traiter la candidature.
 {% endhint %}
 
 ### _Les employeurs sont-ils alertés en cas d’embauche par un autre employeur ?_
@@ -88,18 +88,18 @@ Vous pouvez bloquer temporairement la réception de nouvelles candidatures à pa
 Vous pouvez réactiver une candidature refusée pour valider une embauche. Cliquez sur "gérer la candidature" puis sur le bouton "Je l'embauche"
 {% endhint %}
 
-## 2️⃣**\[ SUIVI DES CANDIDATURES PAR LE PRESCRIPTEUR\]**
+## 2️⃣**\[ SUIVI DES CANDIDATURES PAR LE PRESCRIPTEUR]**
 
-### _Suis-je informé\(e\) de l'avancée des candidatures des personnes que j’accompagne ?_
+### _Suis-je informé(e) de l'avancée des candidatures des personnes que j’accompagne ?_
 
 {% hint style="info" %}
-Oui, votre Tableau de bord vous permet de vérifier l’état des candidatures \(à l’étude, acceptées, pour plus tard, refusées…\), et vous êtes également alerté par mail d’un changement de statut.
+Oui, votre Tableau de bord vous permet de vérifier l’état des candidatures (à l’étude, acceptées, pour plus tard, refusées…), et vous êtes également alerté par mail d’un changement de statut.
 {% endhint %}
 
 ### _Le prescripteur est-il informé du motif de refus d'embauche ?_
 
 {% hint style="info" %}
-Oui l'employeur choisit parmi une liste de motifs, le prescripteur reçoit le motif de refus \(celui-ci n'est pas communiqué au candidat\). Le candidat reçoit uniquement le message de réponse
+Oui l'employeur choisit parmi une liste de motifs, le prescripteur reçoit le motif de refus (celui-ci n'est pas communiqué au candidat). Le candidat reçoit uniquement le message de réponse
 {% endhint %}
 
 ### _Peut**-**on voir toutes les candidatures d'un demandeur d'emploi ?_
@@ -117,7 +117,7 @@ Depuis votre tableau de bord, cliquez "suivi des candidatures. Vous visualiserez
 ### _Le candidat que j'ai accompagné à postuler est-il tenu informé de l’avancement de sa candidature ?_
 
 {% hint style="info" %}
-Si vous avez postulé pour lui en indiquant son mail, il sera informé par mail à chaque étape du traitement de sa candidature \(à l’étude, acceptée, pour plus tard, refusée…\).
+Si vous avez postulé pour lui en indiquant son mail, il sera informé par mail à chaque étape du traitement de sa candidature (à l’étude, acceptée, pour plus tard, refusée…).
 {% endhint %}
 
 ### _Quels sont les différents statuts liés aux candidatures ?_
@@ -125,12 +125,12 @@ Si vous avez postulé pour lui en indiquant son mail, il sera informé par mail 
 {% hint style="info" %}
 _Il existe 7 types de statut :_
 
-* _**Nouvelle candidature** = L'employeur n'a pas encore pris connaissance de la candidature_
+* _**Nouvelle candidature **= L'employeur n'a pas encore pris connaissance de la candidature_
 * _**Candidature à l'étude =** L'employeur a pris connaissance de la candidature_
-* _**Candidature acceptée =** L'employeur a décidé d'embaucher le candidat_
-* _**Embauche pour plus tard** = L'employeur a différé la réponse \( l'embauche n'est pas garantie\)_
+* _**Candidature acceptée = **L'employeur a décidé d'embaucher le candidat_
+* _**Embauche pour plus tard **= L'employeur a différé la réponse ( l'embauche n'est pas garantie)_
 * _**Candidature déclinée =** L'employeur a refusé la candidature_
-* _**Embauche annulée =** L'employeur avait accepté l'embauche mais s'est rétracté \( exemple : le candidat ne se présente pas\)_
+* _**Embauche annulée = **L'employeur avait accepté l'embauche mais s'est rétracté ( exemple : le candidat ne se présente pas)_
 * _**Embauché ailleurs =** Une autre structure a embauché ce candidat_
 {% endhint %}
 
@@ -149,11 +149,11 @@ Oui, cliquez sur "Rechercher dans vos candidatures" puis inscrivez le nom de la 
 ### Un prescripteur peut-il modifier une candidature déjà envoyée ?
 
 {% hint style="info" %}
-Une fois la candidature envoyée il sera possible de modifier les coordonnées du candidat \(uniquement pour un prescripteur habilité\)
+Une fois la candidature envoyée il sera possible de modifier les coordonnées du candidat (uniquement pour un prescripteur habilité)
 
 En revanche on ne peut pas modifier le message de candidature, le CV et les critères administratifs.
 
-Si cela est nécessaire, vous pouvez contacter l'employeur et/ou renouveler la candidature \(attention un délai de 24h est exigé pour postuler à nouveau auprès du même employeur pour un même candidat\).
+Si cela est nécessaire, vous pouvez contacter l'employeur et/ou renouveler la candidature (attention un délai de 24h est exigé pour postuler à nouveau auprès du même employeur pour un même candidat).
 {% endhint %}
 
 
@@ -163,12 +163,10 @@ Si cela est nécessaire, vous pouvez contacter l'employeur et/ou renouveler la c
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement des emplois de l'inclusion\).
+* 💬 [**Poster votre question sur le Forum de l'inclusion **](https://forum.inclusion.beta.gouv.fr)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles (exemple : demande d'information sur le fonctionnement des emplois de l'inclusion).
 
 
 
-* 📝[**Contacter l’équipe**](https://assistance.inclusion.beta.gouv.fr/) **.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
+* 📝[**Contacter l’équipe**](https://assistance.inclusion.beta.gouv.fr)** . **Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande (exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …)
 {% endhint %}
-
-
 

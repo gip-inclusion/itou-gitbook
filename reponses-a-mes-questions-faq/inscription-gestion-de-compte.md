@@ -6,7 +6,7 @@ description: �� Un moteur de recherche est disponible en haut à droite ↗�
 
 ## 🟡 LISTE DES QUESTIONS  :
 
-1️⃣ **\[ INSCRIPTION \]**
+1️⃣ **\[ INSCRIPTION ]**
 
 [Je veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ? ](inscription-gestion-de-compte.md#je-veux-creer-un-compte-prescripteur-mais-je-ne-trouve-pas-mon-organisation-dans-la-liste-des-prescripteurs)
 
@@ -18,21 +18,21 @@ description: �� Un moteur de recherche est disponible en haut à droite ↗�
 
 [Est-il possible d'envoyer une relance aux collaborateurs qui n'ont pas fait leur inscription suite au mail d'invitation ?](inscription-gestion-de-compte.md#est-il-possible-denvoyer-une-relance-aux-collaborateurs-qui-nont-pas-fait-leur-inscription-suite-au-mail-dinvitation)
 
-[Mon organisation prescripteur a plusieurs antennes \(de même type\) mais un seul SIRET](inscription-gestion-de-compte.md#mon-organisation-prescripteur-a-plusieurs-antennes-de-meme-type-mais-un-seul-siret)
+[Mon organisation prescripteur a plusieurs antennes (de même type) mais un seul SIRET](inscription-gestion-de-compte.md#mon-organisation-prescripteur-a-plusieurs-antennes-de-meme-type-mais-un-seul-siret)
 
 [Est-il possible pour un employeur de créer un compte prescripteur avec le même SIRET ?](inscription-gestion-de-compte.md#est-il-possible-pour-un-employeur-de-creer-un-compte-prescripteur-avec-le-meme-siret)
 
-**2️⃣ \[ GESTION DE VOTRE STRUCTURE \]**
+**2️⃣ \[ GESTION DE VOTRE STRUCTURE ]**
 
 [Quel est le rôle de l'administrateur ?](inscription-gestion-de-compte.md#quel-est-le-role-de-ladministrateur)
 
-[Comment nommer un ou plusieurs administrateur\(s\) pour ma structure  ?](inscription-gestion-de-compte.md#comment-nommer-un-ou-plusieurs-administrateur-s-pour-ma-structure)
+[Comment nommer un ou plusieurs administrateur(s) pour ma structure  ?](inscription-gestion-de-compte.md#comment-nommer-un-ou-plusieurs-administrateur-s-pour-ma-structure)
 
 [J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?](inscription-gestion-de-compte.md#jai-cree-le-compte-de-mon-organisation-mais-je-ne-veux-pas-etre-ladministrateur-comment-changer)
 
 [Comment retirer un collaborateur de mon organisation ?](inscription-gestion-de-compte.md#comment-retirer-un-collaborateur-de-mon-organisation)
 
-[Sur mon compte, le type d'organisation \(Cap emploi, Mission locale…\) n'est pas bon ou pas renseigné. Comment rectifier ?](inscription-gestion-de-compte.md#sur-mon-compte-le-type-dorganisation-cap-emploi-mission-locale-nest-pas-bon-ou-pas-renseigne-comment-rectifier)
+[Sur mon compte, le type d'organisation (Cap emploi, Mission locale…) n'est pas bon ou pas renseigné. Comment rectifier ?](inscription-gestion-de-compte.md#sur-mon-compte-le-type-dorganisation-cap-emploi-mission-locale-nest-pas-bon-ou-pas-renseigne-comment-rectifier)
 
 [Ma structure a différentes activités sur plusieurs sites, puis-je différencier mes fiches de poste selon les sites ?](inscription-gestion-de-compte.md#ma-structure-a-differentes-activites-sur-plusieurs-sites-puis-je-differencier-mes-fiches-de-poste-selon-les-sites)
 
@@ -54,7 +54,7 @@ description: �� Un moteur de recherche est disponible en haut à droite ↗�
 
 [Où trouver l'ID de ma structure ? A quoi sert l'ID de ma structure ?](inscription-gestion-de-compte.md#ou-trouver-lid-de-ma-structure-a-quoi-sert-lid-de-ma-structure)
 
-**3️⃣\[ GESTION DE VOTRE COMPTE UTILISATEUR \]**
+**3️⃣\[ GESTION DE VOTRE COMPTE UTILISATEUR ]**
 
 [Je souhaite changer l’adresse mail de mon compte](inscription-gestion-de-compte.md#je-souhaite-changer-ladresse-mail-de-mon-compte)
 
@@ -74,16 +74,16 @@ description: �� Un moteur de recherche est disponible en haut à droite ↗�
 [Vous n’avez pas trouvé la réponse à votre question ?](inscription-gestion-de-compte.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
 {% endhint %}
 
-## 🟢LES REPONSES : 
+## 🟢LES REPONSES :&#x20;
 
 ## 1️⃣ INSCRIPTION
 
-### _Je veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ?_ 
+### _Je veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ? _
 
 {% hint style="info" %}
-La liste correspond uniquement aux prescripteurs habilités au national. 
+La liste correspond uniquement aux prescripteurs habilités au national.&#x20;
 
-Si votre votre organisation est : 
+Si votre votre organisation est :&#x20;
 
 * Habilitée par le préfet[ \[ Consultez le mode d'emploi pour vous inscrire \]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/inscription-prescripteur#inscription-pour-un-prescripteur-habilite-au-niveau-prefectoral)
 * Conventionnée par un Conseil départemental [\[Consultez le mode d'emploi pour vous inscrire \]](https://doc.inclusion.beta.gouv.fr/mon-mode-demploi-prescripteur/inscription-prescripteur#inscription-pour-une-organisation-conventionnee-par-un-conseil-departemental-pour-le-suivi-des-beneficiaires-du-rsa)
@@ -94,22 +94,22 @@ Si votre organisation n'est pas habilitée, vous pouvez créer votre compte orie
 ### Je n'arrive pas à créer mon compte Employeur ou j'ai un message ''Siret non reconnu'' que dois-je faire ?
 
 {% hint style="info" %}
-**Pour les SIAE :** 
+**Pour les SIAE : **
 
-Nous recevons les données concernant les entreprises récemment \(re\)conventionnées assez régulièrement, mais pas en temps réel.
+Nous recevons les données concernant les entreprises récemment (re)conventionnées assez régulièrement, mais pas en temps réel.
 
-Ainsi, nous vous invitons à renouveler assez souvent votre tentative d'inscription. Si toutefois, cela ne fonctionne toujours pas et que vous souhaitez accélérer la procédure, vous pouvez demander à votre DIRECCTE de nous écrire en utilisant notre [portail assistance](https://assistance.inclusion.beta.gouv.fr/) rubrique " autre demande"  en précisant :
+Ainsi, nous vous invitons à renouveler assez souvent votre tentative d'inscription. Si toutefois, cela ne fonctionne toujours pas et que vous souhaitez accélérer la procédure, vous pouvez demander à votre DIRECCTE de nous écrire en utilisant notre [portail assistance](https://assistance.inclusion.beta.gouv.fr) rubrique " autre demande"  en précisant :
 
 * le/les SIRET des structures dont le conventionnement est actif et qui ne sont pas encore référencées sur les emplois de l'inclusion.
 * Le type de structure
 * le nom et l'adresse de ces structures
-* l'e-mail du correspondant technique ASP \(que vous avez normalement choisi dans votre extranet ASP\).
+* l'e-mail du correspondant technique ASP (que vous avez normalement choisi dans votre extranet ASP).
 
 Dès que ces éléments seront portés à notre connaissance, nous procéderons à la création de votre SIAE
 
-**Pour les GEIQ/EA :** 
+**Pour les GEIQ/EA : **
 
- Si vous tentez d'inscrire une Entreprise Adaptée ou un GEIQ, merci d'utiliser [ce formulaire](https://itou.typeform.com/to/RYfNLR79).
+&#x20;Si vous tentez d'inscrire une Entreprise Adaptée ou un GEIQ, merci d'utiliser [ce formulaire](https://itou.typeform.com/to/RYfNLR79).
 {% endhint %}
 
 ### _Comment ajouter mes collaborateurs sur le compte de ma structure ?_
@@ -130,21 +130,21 @@ Tous les membres du tableau de bord
 Il faut renvoyer une nouvelle invitation.
 {% endhint %}
 
-### Mon organisation prescripteur a plusieurs antennes \(de même type\) mais un seul SIRET
+### Mon organisation prescripteur a plusieurs antennes (de même type) mais un seul SIRET
 
 {% hint style="info" %}
 Les employeurs peuvent créer leur antennes depuis leur tableau de bord.
 
-**En revanche les prescripteurs doivent** [**nous contacter** ](https://assistance.inclusion.beta.gouv.fr/)pour que nous puissions créer les différentes antennes.
+**En revanche les prescripteurs doivent **[**nous contacter** ](https://assistance.inclusion.beta.gouv.fr)pour que nous puissions créer les différentes antennes.
 
 _Exemple  : Un Conseil Départemental a 10 Maisons du département dans différentes villes, ces maisons du département ont le même numéro SIRET que le Conseil Départemental._
 
-_Le service social conseil départemental a déjà créé le compte de l'organisation mère \( = Le Conseil départemental, siège\). En nous contactant nous pourrons créer les 10 antennes \( = Les maisons du département\)_
+_Le service social conseil départemental a déjà créé le compte de l'organisation mère ( = Le Conseil départemental, siège). En nous contactant nous pourrons créer les 10 antennes ( = Les maisons du département)_
 
-  
-**Prérequis nécessaire à la demande de création d'antennes:** 
+\
+**Prérequis nécessaire à la demande de création d'antennes: **
 
-Avoir une organisation prescripteur inscrite sur les emplois de l'inclusion \( = Organisation mère \)
+Avoir une organisation prescripteur inscrite sur les emplois de l'inclusion ( = Organisation mère )
 {% endhint %}
 
 ### _Est-il possible pour un employeur de créer un compte prescripteur avec le même SIRET ?_
@@ -158,20 +158,20 @@ Oui, c'est possible. Il faudra simplement créer un compte prescripteur depuis u
 ### _Quel est le rôle de l'administrateur ?_
 
 {% hint style="info" %}
-Pour en savoir plus sur le rôle d'administrateur. 
+Pour en savoir plus sur le rôle d'administrateur.&#x20;
 
-Consultez les modes d'emploi : 
+Consultez les modes d'emploi :&#x20;
 
 * [Mode d'emploi employeur : rôle de l'administrateur](../mon-monde-demploi-employeur-solidaire/administrateur-de-la-structure.md)
 * [Mode d'emploi prescripteur : rôle du prescripteur ](../mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
 {% endhint %}
 
-### _Comment nommer un ou plusieurs administrateur\(s\) pour ma structure ?_
+### _Comment nommer un ou plusieurs administrateur(s) pour ma structure ?_
 
 {% hint style="info" %}
-Par défaut, le premier qui créé le compte de son organisation devient l'administrateur. Cet administrateur peut nommer un ou plusieurs administrateurs. 
+Par défaut, le premier qui créé le compte de son organisation devient l'administrateur. Cet administrateur peut nommer un ou plusieurs administrateurs.&#x20;
 
-Consultez les modes d'emploi : 
+Consultez les modes d'emploi :&#x20;
 
 * [Mode d'emploi employeur : rôle de l'administrateur](../mon-monde-demploi-employeur-solidaire/administrateur-de-la-structure.md)
 * [Mode d'emploi prescripteur : rôle du prescripteur ](../mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
@@ -180,9 +180,9 @@ Consultez les modes d'emploi :
 ### _J’ai créé le compte de mon organisation, mais je ne veux pas être l’administrateur, comment changer ?_
 
 {% hint style="info" %}
-Si vous avez créé le compte de votre organisation et que vous ne souhaitez pas être administrateur, vous pouvez inviter la personne qui prendra ce rôle et lui attribuer le statut d'administrateur. Le nouvel administrateur se chargera de vous retirer les droits admin. 
+Si vous avez créé le compte de votre organisation et que vous ne souhaitez pas être administrateur, vous pouvez inviter la personne qui prendra ce rôle et lui attribuer le statut d'administrateur. Le nouvel administrateur se chargera de vous retirer les droits admin.&#x20;
 
-Consultez les modes d'emploi : 
+Consultez les modes d'emploi :&#x20;
 
 * [Mode d'emploi employeur : rôle de l'administrateur](../mon-monde-demploi-employeur-solidaire/administrateur-de-la-structure.md)
 * [Mode d'emploi prescripteur : rôle du prescripteur ](../mon-mode-demploi-prescripteur/administrateur-de-lorganisation.md)
@@ -194,10 +194,10 @@ Consultez les modes d'emploi :
 L'administrateur de l'organisation a la possibilité de retirer un membre depuis la page "Gérer vos collaborateurs" en cliquant sur "retirer de la structure"
 {% endhint %}
 
-### _Sur mon compte, le type d'organisation \(Cap emploi, Mission locale...\) n'est pas bon ou pas renseigné. Comment rectifier ?_
+### _Sur mon compte, le type d'organisation (Cap emploi, Mission locale...) n'est pas bon ou pas renseigné. Comment rectifier ?_
 
 {% hint style="info" %}
-Vous ne pouvez pas le modifier par vous-même pour l'instant, mais cela viendra ![ Contactez-nous](https://assistance.inclusion.beta.gouv.fr/) pour nous le signaler, merci.
+Vous ne pouvez pas le modifier par vous-même pour l'instant, mais cela viendra \![ Contactez-nous](https://assistance.inclusion.beta.gouv.fr) pour nous le signaler, merci.
 {% endhint %}
 
 ### _Ma structure a différentes activités sur plusieurs sites, puis-je différencier mes fiches de poste selon les sites ?_
@@ -209,21 +209,21 @@ L’administrateur du compte peut [créer une nouvelle structure ](../mon-monde-
 ### _Je ne vois pas ma structure dans le moteur de recherche des employeurs_
 
 {% hint style="info" %}
-La liste des structures référencées sur les emplois de l'inclusion correspond aux structures conventionnées. Si votre conventionnement est récent, il est probable que vous n’apparaissiez pas encore. Nous mettons régulièrement à jour les nouveaux conventionnements. Si vous cela tarde, [contactez-nous.](https://assistance.inclusion.beta.gouv.fr/)
+La liste des structures référencées sur les emplois de l'inclusion correspond aux structures conventionnées. Si votre conventionnement est récent, il est probable que vous n’apparaissiez pas encore. Nous mettons régulièrement à jour les nouveaux conventionnements. Si vous cela tarde, [contactez-nous.](https://assistance.inclusion.beta.gouv.fr)
 
 Si votre SIAE est bien conventionnée mais qu'elle n'apparait pas, essayez d'élargir le rayon de recherche. Si elle n'apparait toujours pas vérifiez votre adresse depuis votre tableau de bord, dans la rubrique "Modifier les informations".
 
-Si aucune des solutions proposées n'a permis de résoudre le problème  [contactez-nous.](https://assistance.inclusion.beta.gouv.fr/)
+Si aucune des solutions proposées n'a permis de résoudre le problème  [contactez-nous.](https://assistance.inclusion.beta.gouv.fr)
 {% endhint %}
 
 ### _Je ne vois pas mon organisation dans le moteur de recherche des prescripteurs_
 
 {% hint style="info" %}
-Seuls les prescripteurs habilités sont référencés dans le moteur de recherche des prescripteurs 
+Seuls les prescripteurs habilités sont référencés dans le moteur de recherche des prescripteurs&#x20;
 
 Si vous faites partie des prescripteurs habilité, essayez d'élargir le rayon de recherche. Si votre organisation n'apparait toujours pas vérifiez votre adresse depuis votre tableau de bord, dans la rubrique "Modifier les informations".
 
-Si aucune des solutions proposées n'a permis de résoudre le problème  [contactez-nous](https://assistance.inclusion.beta.gouv.fr/).
+Si aucune des solutions proposées n'a permis de résoudre le problème  [contactez-nous](https://assistance.inclusion.beta.gouv.fr).
 {% endhint %}
 
 ### _Je ne souhaite plus recruter sur un métier_
@@ -254,7 +254,7 @@ Une fois que vous avez créé votre compte Employeur, rendez-vous sur votre ‘�
 La géolocalisation dépend de l'adresse de votre structure. Si l’adresse comporte une erreur, vous pouvez la modifier en cliquant sur "modifier les informations"
 {% endhint %}
 
-### _Comment corriger le nom de ma structure s’il est incorrect ?_
+### _&#xD;Comment corriger le nom de ma structure s’il est incorrect ?_
 
 {% hint style="info" %}
 Depuis votre tableau de bord, cliquez sur "Modifier les informations"
@@ -269,17 +269,17 @@ Il n'est pas encore possible de supprimer les invitations en attente pour "netto
 ### _Ma SIAE a fermé / mon SIRET a changé, que dois-je faire ?_
 
 {% hint style="info" %}
-Si votre SIAE a fermé, votre compte sera automatique désactivé d'ici quelques temps. 
+Si votre SIAE a fermé, votre compte sera automatique désactivé d'ici quelques temps.&#x20;
 
-Si votre SIRET a changé, il sera également automatiquement modifié par notre système dès que l'information nous aura été transmise par l'ASP. 
+Si votre SIRET a changé, il sera également automatiquement modifié par notre système dès que l'information nous aura été transmise par l'ASP.&#x20;
 
-Si toutefois vous rencontrez un problème à un moment donné, [contactez-nous](https://assistance.inclusion.beta.gouv.fr/).
+Si toutefois vous rencontrez un problème à un moment donné, [contactez-nous](https://assistance.inclusion.beta.gouv.fr).
 {% endhint %}
 
 ### _Où trouver l'ID de ma structure ? A quoi sert l'ID de ma structure ?_
 
 {% hint style="info" %}
-Lorsque vous communiquez avec notre équipe, nous communiquer l'ID de votre structure nous permet de la retrouver plus simplement. Vous trouverez ce numéro dans votre tableau de bord, dans le bloc "Ma structure" \(cf. capture écran\)
+Lorsque vous communiquez avec notre équipe, nous communiquer l'ID de votre structure nous permet de la retrouver plus simplement. Vous trouverez ce numéro dans votre tableau de bord, dans le bloc "Ma structure" (cf. capture écran)
 {% endhint %}
 
 ![](../.gitbook/assets/capture-id.png)
@@ -289,11 +289,11 @@ Lorsque vous communiquez avec notre équipe, nous communiquer l'ID de votre stru
 ### _Je souhaite changer l’adresse mail de mon compte_
 
 {% hint style="info" %}
-Pour modifier votre e-mail d'accès au compte, vous devez au préalable vous connecter à votre compte : 
+Pour modifier votre e-mail d'accès au compte, vous devez au préalable vous connecter à votre compte :&#x20;
 
-* Cliquer sur "Modifier mon adresse e-mail" Remplir les champs indiquant la nouvelle adresse e-mail 
+* Cliquer sur "Modifier mon adresse e-mail" Remplir les champs indiquant la nouvelle adresse e-mail&#x20;
 
-ATTENTION : vérifiez de ne pas avoir fait d'erreur de frappe car cela serait bloquant pour la suite, vous allez ensuite être déconnecté. 
+ATTENTION : vérifiez de ne pas avoir fait d'erreur de frappe car cela serait bloquant pour la suite, vous allez ensuite être déconnecté.&#x20;
 
 * Reconnectez vous en utilisant le nouvel e-mail choisi. On vous invitera à vérifier vos mails pour valider votre nouvelle adresse mail. Validez via le lien et connectez vous !
 {% endhint %}
@@ -315,16 +315,16 @@ A noter qu'il faudra utiliser une adresse mail différente si celle-ci est déj�
 ### _Un prescripteur peut-il être membre de plusieurs organisations de prescripteurs/orienteurs?_
 
 {% hint style="info" %}
-Oui un prescripteur peut être présent sur plusieurs organisations \(uniquement de type "prescripteur"\)
+Oui un prescripteur peut être présent sur plusieurs organisations (uniquement de type "prescripteur")
 
 Vous pouvez créer le compte de la première organisation en suivant le [processus d'inscription des prescripteurs](../mon-mode-demploi-prescripteur/inscription-prescripteur.md)
 
 Pour la deuxième organisation et les suivantes  :
 
-2 cas de figure : 
+2 cas de figure :&#x20;
 
-* **L'autre organisation que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur les emplois de l'inclusion
-* **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur les emplois de l'inclusion**= il faut nous [contacter ](https://assistance.inclusion.beta.gouv.fr/)afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
+* **L'autre organisation que vous souhaitez rejoindre a déjà des membres **= il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur les emplois de l'inclusion
+* **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur les emplois de l'inclusion**= il faut nous [contacter ](https://assistance.inclusion.beta.gouv.fr)afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
 
 Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'autre en cliquant sur le bouton situé en haut à droite "changer de structure"**
 {% endhint %}
@@ -332,22 +332,22 @@ Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'
 ### _Un employeur peut-il être membre de plusieurs structures ?_
 
 {% hint style="info" %}
-Oui un employeur peut être présent sur plusieurs structures \(uniquement de type "employeur"\)
+Oui un employeur peut être présent sur plusieurs structures (uniquement de type "employeur")
 
 Vous pouvez créer le compte de la première organisation en suivant le [processus d'inscription des employeurs ](../mon-monde-demploi-employeur-solidaire/inscription-employeur.md)
 
 Pour la deuxième structure et les suivantes  :
 
-2 cas de figure : 
+2 cas de figure :&#x20;
 
-* **L'autre structure que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur les emplois de l'inclusion
+* **L'autre structure que vous souhaitez rejoindre a déjà des membres **= il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur les emplois de l'inclusion
 * **L'autre structure que vous souhaitez rejoindre n'existe pas encore sur les emplois de l'inclusion**= il vous faudra cliquer sur ["Créer / rejoindre une autre structure"](../mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)
 {% endhint %}
 
 ### Un utilisateur peut-il être prescripteur et employeur avec le même compte ?
 
 {% hint style="info" %}
-Non, il faudra utiliser un autre compte \(associé à une autre adresse e-mail\)
+Non, il faudra utiliser un autre compte (associé à une autre adresse e-mail)
 {% endhint %}
 
 ### J'ai changé d'organisation comment faire pour rejoindre le compte de ma nouvelle organisation ?
@@ -356,17 +356,15 @@ Non, il faudra utiliser un autre compte \(associé à une autre adresse e-mail\)
 Demandez à vos nouveaux collègues de vous inviter sur le tableau de bord de votre nouvelle organisation et demandez également à l'administrateur de votre ancienne organisation de vous retirer de la liste des membres.
 {% endhint %}
 
-### Vous n’avez pas trouvé la réponse à votre question ?
+### &#xD;Vous n’avez pas trouvé la réponse à votre question ?
 
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement des emplois de l'inclusion\).
+* 💬 [**Poster votre question sur le Forum de l'inclusion **](https://forum.inclusion.beta.gouv.fr)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles (exemple : demande d'information sur le fonctionnement des emplois de l'inclusion).
 
 
 
-* 📝[**Contacter l’équipe** ](https://assistance.inclusion.beta.gouv.fr/)**.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
+* 📝[**Contacter l’équipe **](https://assistance.inclusion.beta.gouv.fr)**. **Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande (exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …)
 {% endhint %}
-
-
 

@@ -16,7 +16,7 @@ Si ce n'est pas le cas et que vous souhaitez écrire un sujet à partager avec l
 
 Comme sur l'image ci-dessous.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](<../.gitbook/assets/image (21).png>)
 
 ### Une fenêtre apparait en bas de votre écran
 
@@ -25,7 +25,7 @@ Comme sur l'image ci-dessous.
 3. Renseignez le texte de votre Sujet.
 4. Validez en cliquant sur poster
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](<../.gitbook/assets/image (17).png>)
 
 
 
@@ -37,19 +37,19 @@ Comme sur l'image ci-dessous.
 
 1. Sélectionnez une catégorie depuis la page d'accueil du Forum
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](<../.gitbook/assets/image (22).png>)
 
 
 
-2. Sélectionnez un espace d'échange en fonction des éléments et informations que vous souhaitez partager.
+2\. Sélectionnez un espace d'échange en fonction des éléments et informations que vous souhaitez partager.
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](<../.gitbook/assets/image (24).png>)
 
 
 
 ### Cliquez sur créer un sujet
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](<../.gitbook/assets/image (23).png>)
 
 
 
@@ -59,9 +59,8 @@ Comme sur l'image ci-dessous.
 2. Renseignez le texte de votre Sujet.
 3. Validez en cliquant sur poster
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](<../.gitbook/assets/image (17).png>)
 
 
 
 Votre Sujet sera directement posté dans l'espace d'échange sélectionné.
-

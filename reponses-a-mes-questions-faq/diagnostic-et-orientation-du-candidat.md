@@ -1,12 +1,12 @@
 ---
-description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite ↗↗↗"
+description: 💡 Un moteur de recherche est disponible en haut à droite ↗↗↗
 ---
 
 # ✅ Orientation candidat & Eligibilité IAE
 
 ## 🟡 LISTE DES QUESTIONS  :
 
-1️⃣  **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
+1️⃣ ** \[ RECHERCHER DES EMPLOYEURS SOLIDAIRES ]**
 
 [Comment lancer une recherche sur les emplois de l'inclusion ?](diagnostic-et-orientation-du-candidat.md#comment-lancer-une-recherche-sur-les-emplois-de-linclusion)
 
@@ -20,9 +20,9 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [La ville que j'ai renseignée n'est pas reconnue par le moteur de recherche](diagnostic-et-orientation-du-candidat.md#la-ville-que-jai-renseignee-nest-pas-reconnue-par-le-moteur-de-recherche)
 
- 2️⃣ **\[ POSTULER POUR UN CANDIDAT \]**
+&#x20;2️⃣ **\[ POSTULER POUR UN CANDIDAT ]**
 
-\_\_[Mon candidat n'a pas d'adresse mail, comment faire ?](diagnostic-et-orientation-du-candidat.md#mon-candidat-na-pas-dadresse-mail-comment-faire)
+__[Mon candidat n'a pas d'adresse mail, comment faire ?](diagnostic-et-orientation-du-candidat.md#mon-candidat-na-pas-dadresse-mail-comment-faire)
 
 [Si je suis orienteur, dois-je envoyer le candidat vers un prescripteur habilité ?](diagnostic-et-orientation-du-candidat.md#si-je-suis-orienteur-dois-je-envoyer-le-candidat-vers-un-prescripteur-habilite)
 
@@ -46,9 +46,9 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 
 [Je suis un employeur et je veux orienter un candidat vers un autre employeur comment faire ?](diagnostic-et-orientation-du-candidat.md#je-suis-un-employeur-et-je-veux-orienter-un-candidat-vers-un-autre-employeur-comment-faire)
 
-**3️⃣   \[ DIAGNOSTIC & ELIGIBILITE IAE \]**
+**3️⃣   \[ DIAGNOSTIC & ELIGIBILITE IAE ]**
 
-\_\_[Doit-on utiliser des fiches de positionnement \( ou fiches de liaison\) IAE ?](diagnostic-et-orientation-du-candidat.md#doit-on-utiliser-des-fiches-de-positionnement-ou-fiches-de-liaison-iae)
+__[Doit-on utiliser des fiches de positionnement ( ou fiches de liaison) IAE ?](diagnostic-et-orientation-du-candidat.md#doit-on-utiliser-des-fiches-de-positionnement-ou-fiches-de-liaison-iae)
 
 [Le candidat ne remplit aucun critère exigé par l'IAE. Puis-je tout de même valider son éligibilité ?](diagnostic-et-orientation-du-candidat.md#le-candidat-ne-remplit-aucun-critere-exige-par-liae-puis-je-tout-de-meme-valider-son-eligibilite)
 
@@ -72,32 +72,32 @@ description: "\U0001F4A1 Un moteur de recherche est disponible en haut à droite
 [Vous n’avez pas trouvé la réponse à votre question ?](diagnostic-et-orientation-du-candidat.md#vous-navez-pas-trouve-la-reponse-a-votre-question)
 {% endhint %}
 
-## 🟢 LES REPONSES : 
+## 🟢 LES REPONSES :&#x20;
 
-## 1️⃣ **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES \]**
+## 1️⃣ **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES ]**
 
 ### _Comment lancer une recherche sur les emplois de l'inclusion ?_
 
 {% hint style="info" %}
-Rendez-vous sur [https://emplois.inclusion.beta.gouv.fr](https://emplois.inclusion.beta.gouv.fr/)
+Rendez-vous sur [https://emplois.inclusion.beta.gouv.fr](https://emplois.inclusion.beta.gouv.fr)
 
-Renseignez la ville dans laquelle vous souhaitez lancer une recherche, sélectionnez la ville dans le menu déroulant \(sans cette sélection le moteur de recherche ne fonctionnera pas même si la ville est bien orthographiée\)
+Renseignez la ville dans laquelle vous souhaitez lancer une recherche, sélectionnez la ville dans le menu déroulant (sans cette sélection le moteur de recherche ne fonctionnera pas même si la ville est bien orthographiée)
 
 Par défaut le rayon de recherche est de 5km vous pouvez l'agrandir en cliquant sur le filtre kilométrique à gauche
 
 A droite du champ "ville" vous avez la possibilité de filtrer par type d'employeur
 {% endhint %}
 
-### _A quoi correspondent les sigles disponibles en filtre de recherche?_ 
+### _A quoi correspondent les sigles disponibles en filtre de recherche? _
 
 {% hint style="info" %}
 Les sigles correspondent aux différents types d'employeurs solidaires. En cliquant sur un des sigles vous pourrez filtrer sur un type d'employeur.
 
 EI = Entreprise d'Insertion
 
-AI = Association intermédiaire 
+AI = Association intermédiaire&#x20;
 
-ACI = Atelier et chantier d'insertion 
+ACI = Atelier et chantier d'insertion&#x20;
 
 ACIPHC : Atelier et chantier d'insertion -  Premières Heures en Chantier
 
@@ -119,7 +119,7 @@ Les employeurs sont répartis en trois groupes affichés dans cet ordre :
 * Second groupe : employeurs inscrits mais ayant temporairement bloqué la réception de nouvelles candidatures.
 * Troisième groupe : employeurs non inscrits sur les emplois de l'inclusion
 
-Chacun de ces trois groupes est trié aléatoirement avec la vocation suivante : 
+Chacun de ces trois groupes est trié aléatoirement avec la vocation suivante :&#x20;
 
 * D'équilibrer les candidatures entre les employeurs pertinents afin qu'aucun ne soit plus  avantagé dans une même ville lors d'une recherche.
 * De rendre la sélection plus dynamique d'un jour à l'autre avec des employeurs différents mis en avant.
@@ -147,16 +147,16 @@ Exemple : la ville non reconnue est "Lille" , Ecrivez seulement "Li" puis attend
 A noter que le navigateur Internet Explorer peut bloquer l'autosuggestion, il faut donc privilégier les navigateurs Chrome ou Firefox.
 {% endhint %}
 
-##  2️⃣ **\[ POSTULER POUR UN CANDIDAT \]**
+## &#x20;2️⃣ **\[ POSTULER POUR UN CANDIDAT ]**
 
 ### _Mon candidat n'a pas d'adresse mail, comment faire ?_
 
 {% hint style="info" %}
-Notre système rend obligatoire l'utilisation d'un e-mail pour le candidat afin de lui attribuer une "identité numérique". Vous pouvez lui créer une adresse mail en quelques secondes sur le site [laposte.net](https://compte.laposte.net/inscription/index.do?srv_gestion=lapostefr)
+Notre système rend obligatoire l'utilisation d'un e-mail pour le candidat afin de lui attribuer une "identité numérique". Vous pouvez lui créer une adresse mail en quelques secondes sur le site [laposte.net](https://compte.laposte.net/inscription/index.do?srv\_gestion=lapostefr)
 
 Le candidat peut tout à fait ne jamais consulter cette boîte mail, cela n'impactera pas la procédure de candidature. Il ne s'agit que de son identité numérique sur les emplois de l'inclusion. Le prescripteur sera notifié par mail lorsque l'employeur prendra une décision.
 
-Il est fortement déconseillé d'utiliser un autre e-mail \(celui d'un prescripteur par exemple\) pour créer le compte d'un candidat, car cela empêchera alors le réel détenteur de l'e-mail de pouvoir créer son compte sur les emplois de l'inclusion, le moment souhaité.
+Il est fortement déconseillé d'utiliser un autre e-mail (celui d'un prescripteur par exemple) pour créer le compte d'un candidat, car cela empêchera alors le réel détenteur de l'e-mail de pouvoir créer son compte sur les emplois de l'inclusion, le moment souhaité.
 {% endhint %}
 
 ### _Si je suis orienteur, dois-je envoyer le candidat vers un prescripteur habilité ?_
@@ -174,7 +174,7 @@ Le prescripteur peut candidater pour le candidat et il pourra suivre la candidat
 ### _Puis-je orienter un candidat vers un employeur d'un autre département ?_
 
 {% hint style="info" %}
-Il est effectivement possible via les emplois de l'inclusion, d'orienter un candidat vers un employeur situé dans un autre département. 
+Il est effectivement possible via les emplois de l'inclusion, d'orienter un candidat vers un employeur situé dans un autre département.&#x20;
 
 Certains acteurs nous signalent que certains employeurs refusent d'embaucher des candidats en dehors de leur département,  nous les invitons à prendre contact avec leur DIRECCTE
 {% endhint %}
@@ -200,7 +200,7 @@ Non, tant que l'employeur bloque les candidatures on ne peut plus postuler aupr�
 ### _Est-il possible de postuler sur plusieurs structures en une seule manipulation ?_
 
 {% hint style="info" %}
-Pour le moment ce n'est pas possible de le faire en une fois, on peut postuler auprès d'une structure à la fois. 
+Pour le moment ce n'est pas possible de le faire en une fois, on peut postuler auprès d'une structure à la fois.&#x20;
 {% endhint %}
 
 ### _Peut-on prescrire sur les emplois de l'inclusion sans orienter sur une structure en particulier ?_
@@ -209,18 +209,18 @@ Pour le moment ce n'est pas possible de le faire en une fois, on peut postuler a
 Non il faut obligatoirement postuler auprès d'une structure.
 {% endhint %}
 
-### _Quel numéro d'identifiant Pôle emploi doit-on saisir ?_ 
+### _Quel numéro d'identifiant Pôle emploi doit-on saisir ? _
 
 {% hint style="info" %}
-Il faut renseigner le numéro de dossier Pole emploi \(et pas l'identifiant de connexion pole-emploi.fr \) 
+Il faut renseigner le numéro de dossier Pole emploi (et pas l'identifiant de connexion pole-emploi.fr )&#x20;
 
 Il est composé de 8 caractères : 7 chiffres suivis d'une 1 lettre ou d'un chiffre.
 {% endhint %}
 
-### _J'ai fait une erreur de saisie dans le profil du candidat_ 
+### _J'ai fait une erreur de saisie dans le profil du candidat _
 
 {% hint style="info" %}
-La modification des informations d'un candidat n'est possible que si le candidat n'a jamais activé son compte sur les emplois de l'inclusion. S'il a déjà activé son compte \(en se connectant une première fois\) il a la main pour modifier ses informations depuis son espace candidat à la rubrique "Mon espace", puis "Modifier mon profil"
+La modification des informations d'un candidat n'est possible que si le candidat n'a jamais activé son compte sur les emplois de l'inclusion. S'il a déjà activé son compte (en se connectant une première fois) il a la main pour modifier ses informations depuis son espace candidat à la rubrique "Mon espace", puis "Modifier mon profil"
 
 [Mode d'emploi "Modifier les informations d'un candidat" pour les employeurs](../mon-monde-demploi-employeur-solidaire/modifier-les-informations-dun-candidat.md)
 
@@ -241,12 +241,12 @@ Il n'est pas encore possible de réaliser cette action depuis votre tableau de b
 Pour le moment, vous devez vous créer un compte "orienteur" avec un e-mail différent de celui de votre compte employeur. Vous pourrez alors reprendre l'e-mail du candidat et l'orienter depuis ce compte vers une autre SIAE.
 {% endhint %}
 
-## **3️⃣   \[ DIAGNOSTIC & ELIGIBILITE IAE \]**
+## **3️⃣   \[ DIAGNOSTIC & ELIGIBILITE IAE ]**
 
-### _Doit-on utiliser des fiches de positionnement \( ou fiches de liaison\) IAE ?_
+### _Doit-on utiliser des fiches de positionnement ( ou fiches de liaison) IAE ?_
 
 {% hint style="info" %}
-Non :\) La fiche de positionnement IAE n'est plus nécessaire, tout se fait sur les emplois de l'inclusion. Il ne faut donc pas envoyer de fiches de positionnement aux employeurs mais orienter les candidats via les emplois de l'inclusion.
+Non :) La fiche de positionnement IAE n'est plus nécessaire, tout se fait sur les emplois de l'inclusion. Il ne faut donc pas envoyer de fiches de positionnement aux employeurs mais orienter les candidats via les emplois de l'inclusion.
 
 Les prescripteurs habilités pourront valider le diagnostic d'éligibilité IAE directement sur les emplois de l'inclusion
 
@@ -256,17 +256,17 @@ Si un employeur reçoit une fiche de positionnement il n'a aucun moyen de la ren
 ### _Le candidat ne remplit aucun critère exigé par l'IAE. Puis-je tout de même valider son éligibilité ?_
 
 {% hint style="info" %}
-Si vous êtes  prescripteur habilité, vous pouvez passer outre les critères administratifs. 
+Si vous êtes  prescripteur habilité, vous pouvez passer outre les critères administratifs.&#x20;
 
-Si vous êtes orienteur ou employeur solidaire, adressez le candidat vers un prescripteur habilité \( Utilisez le [moteur de recherche prescripteur](https://emplois.inclusion.beta.gouv.fr/search/prescribers) pour trouver facilement un prescripteur habilité \). Si le prescripteur habilité accepte de valider l'éligibilité IAE, il lui suffit de [postuler pour le candidat ](../mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
+Si vous êtes orienteur ou employeur solidaire, adressez le candidat vers un prescripteur habilité ( Utilisez le [moteur de recherche prescripteur](https://emplois.inclusion.beta.gouv.fr/search/prescribers) pour trouver facilement un prescripteur habilité ). Si le prescripteur habilité accepte de valider l'éligibilité IAE, il lui suffit de [postuler pour le candidat ](../mon-mode-demploi-prescripteur/postuler-pour-un-candidat.md)
 {% endhint %}
 
 ### _Doit-on fournir / conserver les pièces justificatives ?_
 
 {% hint style="info" %}
-Les prescripteurs \(habilités et orienteurs\) n'ont aucune pièce à fournir ni à conserver.
+Les prescripteurs (habilités et orienteurs) n'ont aucune pièce à fournir ni à conserver.
 
-Pour les employeurs, 2 cas de figure : 
+Pour les employeurs, 2 cas de figure :&#x20;
 
 * Si la validation de l'éligibilité IAE est réalisée par un prescripteur habilité = Aucune pièce justificative n'est à conserver
 * Si la validation de l'éligibilité IAE est réalisée par l'employeur  = L'employeur doit conserver les pièces justificatives en cas de contrôle.
@@ -287,15 +287,15 @@ Si l'employeur souhaite embaucher un candidat qui a un diagnostic d'éligibilit�
 ### _Dois-je prouver l'éligibilité du candidat que je veux recruter ?_
 
 {% hint style="info" %}
-Aucun justificatif n'est demandé sur les emplois de l'inclusion, cependant vos interlocuteurs de la Direccte pourront vous demander les justificatifs liés aux critères d’éligibilité de votre candidat _à_ posteriori \(uniquement si l'employeur est à l'origine de la validation de l'éligibilité IAE du candidat\). 
+Aucun justificatif n'est demandé sur les emplois de l'inclusion, cependant vos interlocuteurs de la Direccte pourront vous demander les justificatifs liés aux critères d’éligibilité de votre candidat _à_ posteriori (uniquement si l'employeur est à l'origine de la validation de l'éligibilité IAE du candidat).&#x20;
 {% endhint %}
 
 ### _**Qui vérifie le dossier du candidat lorsque je valide son éligibilité ?**_
 
 {% hint style="info" %}
- Si vous êtes une SIAE, la vérification de l’éligibilité se fait a posteriori sur échantillon par la Direccte.
+&#x20;Si vous êtes une SIAE, la vérification de l’éligibilité se fait a posteriori sur échantillon par la Direccte.
 
-Si vous êtes un prescripteur habilité, il n' y aura aucune vérification à postériori. 
+Si vous êtes un prescripteur habilité, il n' y aura aucune vérification à postériori.&#x20;
 {% endhint %}
 
 ### _**Le service vérifie-t-il l'éligibilité d’un candidat ?**_
@@ -311,7 +311,7 @@ Les GEIQ, EA, AI, EATT n'ont pas de contraintes d'éligibilité.
 ### _J'ai fait une erreur de saisie dans le diagnostic d'éligibilité_
 
 {% hint style="info" %}
-Pour le moment il n'est pas possible de  modifier ces informations depuis les emplois de l'inclusion, [contactez-nous ](https://assistance.inclusion.beta.gouv.fr/)en nous précisant les informations à modifier.
+Pour le moment il n'est pas possible de  modifier ces informations depuis les emplois de l'inclusion, [contactez-nous ](https://assistance.inclusion.beta.gouv.fr)en nous précisant les informations à modifier.
 {% endhint %}
 
 ### _Je ne sais pas qualifier les critères administratifs de mon candidat_
@@ -331,12 +331,10 @@ Si vous êtes employeur en cas de doute, vous pouvez toujours demander à un pre
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr/)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles \(exemple : demande d'information sur le fonctionnement des emplois de l'inclusion\).
+* 💬 [**Poster votre question sur le Forum de l'inclusion **](https://forum.inclusion.beta.gouv.fr)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles (exemple : demande d'information sur le fonctionnement des emplois de l'inclusion).
 
 
 
-* 📝[**Contacter l’équipe** ](https://assistance.inclusion.beta.gouv.fr/)**.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande \(exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …\)
+* 📝[**Contacter l’équipe **](https://assistance.inclusion.beta.gouv.fr)**. **Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande (exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …)
 {% endhint %}
-
-
 

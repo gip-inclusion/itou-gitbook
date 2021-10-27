@@ -4,17 +4,21 @@ description: Connaitre nos mentions légales et CGU
 
 # 🚨 Mentions légales
 
-{% page-ref page="mentions-legales.md" %}
+{% content-ref url="mentions-legales.md" %}
+[mentions-legales.md](mentions-legales.md)
+{% endcontent-ref %}
 
-{% page-ref page="conditions-generales-dutilisation.md" %}
+{% content-ref url="conditions-generales-dutilisation.md" %}
+[conditions-generales-dutilisation.md](conditions-generales-dutilisation.md)
+{% endcontent-ref %}
 
-{% page-ref page="protection-des-donnees.md" %}
+{% content-ref url="protection-des-donnees.md" %}
+[protection-des-donnees.md](protection-des-donnees.md)
+{% endcontent-ref %}
 
 
 
 {% hint style="info" %}
-**La Plateforme de l'inclusion est développée en open-source \(AGPL-3.0\). Vous trouverez le code à l'adresse suivante :**[ **github.com/betagouv/itou**](https://github.com/betagouv/itou/)\*\*\*\*
+**La Plateforme de l'inclusion est développée en open-source (AGPL-3.0). Vous trouverez le code à l'adresse suivante :**[** github.com/betagouv/itou**](https://github.com/betagouv/itou/)****
 {% endhint %}
-
-
 
