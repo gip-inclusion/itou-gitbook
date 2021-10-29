@@ -7,7 +7,7 @@ Si la situation d'un salarié le nécessite, il est possible sous certaines cond
 | 📃Motifs                                                 | ⏱Durées                                                                                                                                         |
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **CDI conclu avec une personne âgée d'au moins 57 ans ** | <p>12 mois de prolongation maximum. </p><p>Renouvellements : jusqu'à la rupture du CDI à l'initiative de l'employeur ou à celle du salarié.</p> |
-| **Fin d'une formation**                                  | 6 mois de prolongation maximum.                                                                                                                 |
+| **Fin d'une formation**                                  | Jusqu'à la fin de l'action de formation                                                                                                         |
 | **RQTH**                                                 | <p>12 mois de prolongation maximum. </p><p>Renouvellements : dans la limite de 5 ans.</p>                                                       |
 | **50 ans et plus**                                       | <p>12 mois de prolongation maximum.</p><p>Renouvellements : dans la limite de 7 ans.</p>                                                        |
 | **Contexte sanitaire (motif temporaire)**                | 12 mois de prolongation maximum.                                                                                                                |
