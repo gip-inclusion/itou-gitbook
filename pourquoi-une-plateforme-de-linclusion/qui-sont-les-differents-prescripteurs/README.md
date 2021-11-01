@@ -9,6 +9,6 @@ Il existe **2 types de prescripteurs** qui n'ont **pas le même champ d'action**
 * [**Prescripteur habilité**](prescripteur-habilite.md) (au national ou au niveau préfectoral)
 * ****[**Orienteur**](orienteur.md) (non-habilité)
 
-![](<../../.gitbook/assets/Capture d’écran 2020-06-22 à 17.24.20.png>)
+![](../../.gitbook/assets/capture-de-cran-2020-06-22-a-17.24.20.png)
 
 ### **    **:point\_right:[** Je suis prescripteur ? Je m'inscris**](https://emplois.inclusion.beta.gouv.fr/signup/prescriber/is\_pole\_emploi)****

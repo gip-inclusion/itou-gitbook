@@ -25,4 +25,4 @@ Vous souhaitez **devenir ambassadrice ou ambassadeur **?&#x20;
 **En savoir + sur la **[**BANDE À ITOU**](../la-bande-a-itou.md)** ! **:blush:&#x20;
 {% endhint %}
 
-![](<../.gitbook/assets/Capture d’écran 2020-07-02 à 15.34.53.png>)
+![](../.gitbook/assets/capture-de-cran-2020-07-02-a-15.34.53.png)

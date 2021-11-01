@@ -6,7 +6,7 @@ description: Aidez vos partenaires dans la prise en main de la Plateforme
 
 **Découvrez les modes d'emploi de la Plateforme à joindre à vos mails. Un outil pratique qui aidera vos partenaires à bien s'y retrouver ! **
 
-![](<../../.gitbook/assets/Capture d’écran 2020-06-26 à 12.28.49.png>)
+![](../../.gitbook/assets/capture-de-cran-2020-06-26-a-12.28.49.png)
 
 ### ****
 

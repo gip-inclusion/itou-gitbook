@@ -12,7 +12,7 @@ Si le** candidat ne remplit pas les** [**critères administratifs d'éligibilit�
 
 
 
-![](<../../.gitbook/assets/Capture d’écran 2020-06-23 à 12.05.31.png>)
+![](../../.gitbook/assets/capture-de-cran-2020-06-23-a-12.05.31.png)
 
 
 

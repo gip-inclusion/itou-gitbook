@@ -14,7 +14,7 @@
 
 ### **                                    Le Pass IAE versus l'agrément Pôle emploi**
 
-![](<../.gitbook/assets/Capture d’écran 2020-07-06 à 12.49.19.png>)
+![](../.gitbook/assets/capture-de-cran-2020-07-06-a-12.49.19.png)
 
 {% hint style="info" %}
 :point\_right:****[** Retrouvez tout le détail de la refonte de l'agrément**](https://synesi.fr/wp-content/uploads/2019/09/20190910-Pacte\_d\_ambition\_iae\_sept\_2019\_Mesure-29.pdf)

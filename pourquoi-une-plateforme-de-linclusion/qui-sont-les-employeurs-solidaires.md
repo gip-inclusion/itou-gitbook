@@ -2,7 +2,7 @@
 
 Un **employeur solidaire** est soumis aux mêmes règles que tout employeur, il **se distingue simplement par sa finalité** : l**’insertion professionnelle de **[**personnes en difficultés**](../qui-est-eligible-iae-criteres-eligibilite/) afin de les accompagner vers **un retour à l'emploi durable**.
 
-![](<../.gitbook/assets/Capture d’écran 2020-06-23 à 13.08.39.png>)
+![](../.gitbook/assets/capture-de-cran-2020-06-23-a-13.08.39.png)
 
 Les **employeurs solidaires**, appelés aussi** ‘’entreprises sociales inclusives’’**, sont** :**
 
@@ -27,7 +27,7 @@ Les **employeurs solidaires**, appelés aussi** ‘’entreprises sociales inclu
 
 ### **Comment se repérer entre les différents employeurs solidaires ?**
 
-![](<../.gitbook/assets/Capture d’écran 2020-06-23 à 12.48.17.png>)
+![](../.gitbook/assets/capture-de-cran-2020-06-23-a-12.48.17.png)
 
 
 

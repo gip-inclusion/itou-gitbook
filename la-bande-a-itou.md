@@ -49,7 +49,7 @@ Intégrer la **communauté des **[**ambassadeurs et ambassadrices**](pourquoi-un
 * Echanger des bonnes pratiques, rencontrer des pairs
 * Partager vos outils et supports de communication auprès de la communauté
 
-![](<.gitbook/assets/Capture d’écran 2020-07-02 à 15.34.53.png>)
+![](.gitbook/assets/capture-de-cran-2020-07-02-a-15.34.53.png)
 
 {% hint style="success" %}
 Vous souhaitez vous aussi **devenir **[**ambassadrice ou ambassadeur**](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md)** **?&#x20;

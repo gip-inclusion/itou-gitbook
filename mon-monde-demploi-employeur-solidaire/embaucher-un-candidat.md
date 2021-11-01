@@ -18,4 +18,4 @@ Pour les [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employ
 
 #### Exemple de Pass IAE
 
-![Pass IAE](<../.gitbook/assets/Capture d’écran 2020-05-01 à 10.15.49.png>)
+![Pass IAE](../.gitbook/assets/capture-de-cran-2020-05-01-a-10.15.49.png)

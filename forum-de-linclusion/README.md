@@ -50,4 +50,4 @@ Le [**Forum de l'inclusion**](https://forum.inclusion.beta.gouv.fr) est à votre
 **Si vous rencontrez un problème technique, n’hésitez pas à**[ **contacter l’équipe**](https://assistance.inclusion.beta.gouv.fr) **! **
 {% endhint %}
 
-![](<../.gitbook/assets/Capture d’écran 2020-06-30 à 13.34.38.png>)
+![](../.gitbook/assets/capture-de-cran-2020-06-30-a-13.34.38.png)

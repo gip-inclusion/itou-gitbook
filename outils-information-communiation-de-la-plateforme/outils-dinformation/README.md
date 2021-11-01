@@ -10,5 +10,5 @@ description: Ne manquez aucune information de la Plateforme !
 
 _D'autres supports arrivent ;)_
 
-![](<../../.gitbook/assets/Capture d’écran 2020-06-30 à 13.38.48.png>)
+![](../../.gitbook/assets/capture-de-cran-2020-06-30-a-13.38.48.png)
 

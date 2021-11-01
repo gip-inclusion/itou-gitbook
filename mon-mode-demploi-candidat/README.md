@@ -12,4 +12,4 @@
 **Une question ?**:point\_right:****[**Contactez l’équipe, **](https://assistance.inclusion.beta.gouv.fr)**nous pouvons vous aider **! :blush:&#x20;
 {% endhint %}
 
-![](<../.gitbook/assets/Capture d’écran 2020-06-26 à 17.24.07.png>)
+![](../.gitbook/assets/capture-de-cran-2020-06-26-a-17.24.07.png)

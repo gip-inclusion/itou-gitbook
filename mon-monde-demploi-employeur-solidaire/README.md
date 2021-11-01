@@ -21,4 +21,4 @@
 * ****[**Visualiser / Gérer mes annexes financières (SIAE)**](visualiser-gerer-mes-annexes-financieres.md)****
 * ****[**Fiches salarié**](fiches-salarie.md)****
 
-![](<../.gitbook/assets/Capture d’écran 2020-06-26 à 20.15.23.png>)
+![](../.gitbook/assets/capture-de-cran-2020-06-26-a-20.15.23.png)

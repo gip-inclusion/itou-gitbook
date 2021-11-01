@@ -12,15 +12,15 @@ Connectez-vous sur [le Marché de l'inclusion](https://lemarche.inclusion.beta.g
 
 Cliquez en haut à droite sur le bouton "**Inscription**"
 
-![](<../../.gitbook/assets/Capture d’écran 2021-02-15 à 17.01.18 (1).png>)
+![](../../.gitbook/assets/capture-de-cran-2021-02-15-a-17.01.18.png)
 
 Toutes les [Entreprises Sociales Inclusives](../les-entreprises-sociales-inclusives.md) peuvent s'inscrire (SIAE, GEIQ, secteur du handicap)
 
-![](<../../.gitbook/assets/Capture d’écran 2021-02-15 à 17.08.58.png>)
+![](../../.gitbook/assets/capture-de-cran-2021-02-15-a-17.08.58.png)
 
 Poursuivez-le parcours d'inscription en vous laissant guider.
 
-![](<../../.gitbook/assets/Capture d’écran 2021-02-15 à 17.13.55.png>)
+![](../../.gitbook/assets/capture-de-cran-2021-02-15-a-17.13.55.png)
 
 Concernant les coordonnées de contact, **pensez à bien identifier la personne en charge de la relation commerciale** avec vos clients. Ce sont les informations transmises au potentiel acheteur qui visitera votre profil.
 

@@ -7,7 +7,7 @@ description: Journal des modifications du pilotage de l'inclusion
 ## Du 25/10/2021 au 05/11/2021
 
 * Correction d'un bug dans le script qui permet d'extraire le département du conventionnement
-* Ajout du TB128 qui sera consultable par les SIAE&#x20;
+* Ajout du TDB128 qui sera consultable par les SIAE&#x20;
 * Ajout du filtre 'numéro de conventionnement' dans le TB128
 * Ajout du lien entre le filtre 'numéro de conventionnement' et 'identifiant de la structure'
 * Mise à jour des scripts qui alimentent les [TB117](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties) et [TB118](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties-1) pour prendre le département du conventionnement au lieu de celui de la structure

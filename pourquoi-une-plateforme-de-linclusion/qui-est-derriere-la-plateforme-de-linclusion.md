@@ -19,7 +19,7 @@ En savoir plus sur les [**startups d'état**](https://beta.gouv.fr)**.**
 
 
 
-![](<../.gitbook/assets/Capture d’écran 2020-06-23 à 13.30.17.png>)
+![](../.gitbook/assets/capture-de-cran-2020-06-23-a-13.30.17.png)
 
 ### **Quel est le rôle du Haut-commissariat à l’inclusion dans l’emploi et à l’engagement des entreprises (HCIEE) ?**
 
