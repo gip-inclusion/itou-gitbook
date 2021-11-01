@@ -32,6 +32,6 @@ Un **candidat adressé par un prescripteur habilité est réputé éligible à l
 Les [**GEIQ, EA, EATT**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md#comment-se-reperer-entre-les-differents-employeurs-solidaires) **n’ont pas besoin de** [**Pass IAE**](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) pour recruter un candidat. Ils ne sont pas soumis aux critères d'éligibilité.
 {% endhint %}
 
-![](../.gitbook/assets/capture-de-cran-2020-06-24-a-18.00.07.png)
+![](<../.gitbook/assets/Capture d’écran 2020-06-24 à 18.00.07.png>)
 
 ### **  **:point\_right:** **[**Je suis employeur solidaire ? Je m'inscris**](https://emplois.inclusion.beta.gouv.fr/accounts/login/?account\_type=siae)****

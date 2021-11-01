@@ -12,7 +12,7 @@ Sur la page d’accueil, je peux même la[ **tester avant de m’inscrire** ](ht
 
 ![](../.gitbook/assets/help-circle-2-.svg) Savoir **où en sont mes candidatures** (à l’étude, acceptées, pour plus tard, refusées…)
 
-![](../.gitbook/assets/capture-de-cran-2020-06-24-a-16.31.13.png)
+![](<../.gitbook/assets/Capture d’écran 2020-06-24 à 16.31.13.png>)
 
 
 

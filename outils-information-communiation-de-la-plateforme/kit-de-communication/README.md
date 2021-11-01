@@ -17,4 +17,4 @@ description: Vos outils de promotion de la Plateforme
 :point\_right: [**L'équipe est là pour vous, contactez-nous **](https://assistance.inclusion.beta.gouv.fr)****:blush:&#x20;
 {% endhint %}
 
-![](../../.gitbook/assets/capture-de-cran-2020-06-30-a-14.51.05.png)
+![](<../../.gitbook/assets/Capture d’écran 2020-06-30 à 14.51.05.png>)

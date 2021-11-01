@@ -4,15 +4,26 @@ description: Journal des modifications du pilotage de l'inclusion
 
 # Journal des modifications
 
-## Du 27/09/2021 au 08/10/2021
+## Du 25/10/2021 au 05/11/2021
+
+* Correction d'un bug dans le script qui permet d'extraire le département du conventionnement
+* Ajout du TB128 qui sera consultable par les SIAE&#x20;
+* Ajout du filtre 'numéro de conventionnement' dans le TB128
+* Ajout du lien entre le filtre 'numéro de conventionnement' et 'identifiant de la structure'
+* Mise à jour des scripts qui alimentent les [TB117](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties) et [TB118](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties-1) pour prendre le département du conventionnement au lieu de celui de la structure
+* Remplacement des filtres département et région de la structure par département et région du conventionnement dans les [TB117](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties), [TB118](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties-1) et TB128
+
+## Du 27/09/2021 au 22/10/2021
 
 * Ajout du graphique "Evolution des candidatures sur les 12 derniers mois, par origine (sans les orienteurs ni les candidats)" au tableau de bord [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
 * Ajout de la part des candidats dans le graphique "Evolution des candidatures sur les 12 derniers mois, par origine" au tableau de bord [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
 * Ajout de filtres Région et Département dans le [TB32](les-tableaux-de-bord-disponibles.md#criteres)
 * Ajout d'un message en bas de page du [TB117](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties) et [TB118](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties-1) pour indiquer aux utilisateurs la possibilité de télécharger les données des graphiques du tableau bord
 * Ajout d'une table avec le nombre de visites et le nombre de visiteurs uniques sur le site des emplois et le site pilotage
-* Ajout d'une table de correspondance entre commune et département, région, établissement public de coopération intercommunale (EPCI), arrondissement, zone d'emploi 2020
+* Ajout d'une table de correspondance entre commune, département, région, établissement public de coopération intercommunale (EPCI), arrondissement et zone d'emploi 2020
 * Correction d'un bug sur les filtres du [TB116](les-tableaux-de-bord-disponibles.md#recrutement)
+* Liaison des filtres type de structure et dénomination de la structure pour les [TB117](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties-1), [TB118](https://app.gitbook.com/@itou/s/doc-inclusion-beta-gouv-fr/\~/drafts/-MkRsUyWfnVEJG9shT\_c/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties)
+* &#x20;Ajout d'un tableau de bord qui permet de mettre en avant les différences entre le département de la structure et le département du conventionnement
 
 ## Du 13/09/2021 au 24/09/2021
 

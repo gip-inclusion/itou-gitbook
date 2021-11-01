@@ -9,7 +9,7 @@ L’insertion par l’activité économique (IAE) permet aux personnes les plus 
 * Ou **recrutées directement par une **[**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)** **
 * Après la réalisation d'un diagnostic social et professionnel [**validant l'éligibilité IAE du candidat**](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#etape-2-la-validation-de-leligibilite-a-liae)****
 
-![](../.gitbook/assets/capture-de-cran-2020-06-23-a-13.51.12.png)
+![](<../.gitbook/assets/Capture d’écran 2020-06-23 à 13.51.12.png>)
 
 **L'éligibilité à l’IAE** du candidat** **peut être **validée sur les emplois de l'inclusion ** par :&#x20;
 
@@ -28,7 +28,7 @@ Les [**GEIQ, EA, EATT**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-e
 Les candidats qui **ne répondent pas aux **[**critères d'éligibilité**](./#criteres-administratifs-de-niveau-1) ou ne peuvent respecter le **délai de carence de 2 ans** entre deux parcours, peuvent être **orientées vers un **[**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est seul à pouvoir [**prescrire un parcours IAE en dehors de ces obligations**](derogation-criteres.md)**.**
 {% endhint %}
 
-![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.23.png)
+![](<../.gitbook/assets/Capture d’écran 2020-06-23 à 15.46.23.png>)
 
 ## Les critères administratifs :&#x20;
 
@@ -79,7 +79,7 @@ Un candidat orienté par un [prescripteur habilité](../pourquoi-une-plateforme-
 
 Sources : [Arrêté du 1er septembre 2021 fixant la liste des critères d'éligibilité des personnes à un parcours d'insertion par l'activité économique et des prescripteurs mentionnés à l'article L. 5132-3 du code du travail ](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044011209) et  [Décret n° 2021-1128 du 30 août 2021 relatif à l'insertion par l'activité économique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043990367)
 
-![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.55.png)
+![](<../.gitbook/assets/Capture d’écran 2020-06-23 à 15.46.55.png>)
 
 ### Diagnostic socio-professionnel de référence <a href="diagnostic_de_reference" id="diagnostic_de_reference"></a>
 

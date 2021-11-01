@@ -14,7 +14,7 @@ Les [**SIAE**](../qui-sont-les-employeurs-solidaires.md) n'ont **pas besoin de v
 Sur les emplois de l'inclusion, lorsque le **délai d'éligibilité de 6 mois d'un candidat est dépassé**, l'employeur solidaire peut **vérifier et valider lui-même les **[**critères d'éligibilité**](../../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1)**. **Il n'a pas besoin de passer par le prescripteur habilité.
 {% endhint %}
 
-![](../../.gitbook/assets/capture-de-cran-2020-06-23-a-11.59.48.png)
+![](<../../.gitbook/assets/Capture d’écran 2020-06-23 à 11.59.48.png>)
 
 ## ****:point\_right: **Liste des prescripteurs habilités au national**
 

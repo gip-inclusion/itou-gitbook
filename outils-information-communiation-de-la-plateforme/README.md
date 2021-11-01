@@ -8,7 +8,7 @@ Tout est mis en place pour **vous informer en continu** sur les évolutions de l
 
 Des **supports dédiés peuvent également être réalisés par **[**notre équipe**](https://beta.gouv.fr/startups/itou.html) selon vos besoins ou les remontées des utilisateurs.
 
-![](../.gitbook/assets/capture-de-cran-2020-06-23-a-18.10.55.png)
+![](<../.gitbook/assets/Capture d’écran 2020-06-23 à 18.10.55.png>)
 
 
 

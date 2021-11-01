@@ -1,6 +1,6 @@
 # C'est quoi l'inclusion par l'emploi ?
 
-![](../.gitbook/assets/capture-de-cran-2020-05-15-a-10.59.27.png)
+![](<../.gitbook/assets/Capture d’écran 2020-05-15 à 10.59.27.png>)
 
 L’inclusion par l'emploi est un **projet de société gouvernemental **qui permet aux **personnes les plus fragiles** de bénéficier de l’**accès à l’emploi et à la formation** pour **s’insérer dans la société** **par le travail** (**I**nsertion par l'**A**ctivité **É**conomique - **IAE**).
 
@@ -14,7 +14,7 @@ Ce dispositif s’appuie sur le **réseau des **[**employeurs solidaires**](qui-
 
 _\*employeurs solidaires : SIAE, EA, EATT, GIEQ_
 
-![](../.gitbook/assets/capture-de-cran-2020-06-22-a-13.59.01.png)
+![](<../.gitbook/assets/Capture d’écran 2020-06-22 à 13.59.01.png>)
 
 ### **L’IAE, un puissant levier de retour à l’emploi**
 

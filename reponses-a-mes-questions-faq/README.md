@@ -48,4 +48,4 @@ Cette Foire aux questions est destinée aux professionnels (Employeurs, prescrip
 [autre.md](autre.md)
 {% endcontent-ref %}
 
-![](../.gitbook/assets/capture-de-cran-2020-06-30-a-16.19.21.png)
+![](<../.gitbook/assets/Capture d’écran 2020-06-30 à 16.19.21.png>)

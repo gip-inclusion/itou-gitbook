@@ -12,4 +12,4 @@
 * ****[**Modifier les informations d'un candidat**](modifier-les-informations-dun-candidat.md)****
 * ****[**Exporter mes candidatures sur Excel**](exporter-mes-candidatures-sur-excel.md)****
 
-![](../.gitbook/assets/capture-de-cran-2020-06-24-a-18.58.52.png)
+![](<../.gitbook/assets/Capture d’écran 2020-06-24 à 18.58.52.png>)
