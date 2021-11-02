@@ -34,11 +34,11 @@ Cliquez sur** "Je travaille pour Pôle emploi"**
 
 Puis cliquez sur **"Continuer".**
 
-![](<../.gitbook/assets/image (161).png>)
+![](<../.gitbook/assets/image (161) (1).png>)
 
 **Complétez le formulaire, en renseignant votre prénom, nom et adresse e-mail professionnelle ** (seules les adresses pole-emploi.fr sont acceptées), **choisissez un mot de passe** puis cliquez sur **"Inscription"**
 
-![](<../.gitbook/assets/image (165).png>)
+![](<../.gitbook/assets/image (165) (1).png>)
 
 {% hint style="info" %}
 ** Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**
@@ -48,11 +48,11 @@ Puis cliquez sur **"Continuer".**
 
 Renseignez le** SIRET de votre organisation **et sélectionnez votre **département, **puis cliquez sur **"Rechercher"**
 
-![](<../.gitbook/assets/image (171).png>)
+![](<../.gitbook/assets/image (171) (1).png>)
 
 Si votre organisation n'est pas encore inscrite, un écran de sélection s'affiche ** : Sélectionnez votre organisation** dans la liste, puis cliquez sur **"Continuer"**
 
-![](<../.gitbook/assets/image (164).png>)
+![](<../.gitbook/assets/image (164) (1).png>)
 
 Complétez le formulaire en renseignant votre** adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur** "Inscription"**
 
@@ -74,11 +74,11 @@ Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoin
 
 Renseignez le** SIRET de votre organisation **et sélectionnez votre **département, **puis cliquez sur **"Rechercher"**
 
-![](<../.gitbook/assets/image (167).png>)
+![](<../.gitbook/assets/image (167) (1).png>)
 
 Si votre organisation n'est pas encore inscrite, un écran de sélection s'affiche ** : **Sélectionnez **"Autre"** dans la liste, puis cliquez sur **"Continuer"**
 
-![](<../.gitbook/assets/image (164).png>)
+![](<../.gitbook/assets/image (164) (1).png>)
 
 ** **Sélectionnez **"Pour une organisation habilitée par le Préfet", **puis cliquez sur **"Continuer"**
 
@@ -86,7 +86,7 @@ Si votre organisation n'est pas encore inscrite, un écran de sélection s'affic
 
 Confirmez votre habilitation préfectorale en cliquant sur** "Oui, je confirme que mon organisation est habilitée par le Préfet", **puis cliquez sur **"Continuer"**
 
-![](<../.gitbook/assets/image (169) (1).png>)
+![](<../.gitbook/assets/image (169) (1) (1).png>)
 
 Complétez le formulaire en renseignant votre** adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur** "Inscription"**
 
@@ -116,7 +116,7 @@ Vous serez notifié(e) par mail dès que votre demande d'habilitation aura été
 
 Renseignez le** SIRET de votre organisation **et sélectionnez votre **département, **puis cliquez sur **"Rechercher"**
 
-![](<../.gitbook/assets/image (171).png>)
+![](<../.gitbook/assets/image (171) (1).png>)
 
 {% hint style="info" %}
 **Vous pouvez également faire le choix d'utiliser les emplois de l'inclusion sans vous rattacher à une organisation. Dans ce cas cliquez sur "Seul (sans organisation)". **[**\[Voir la suite du processus d'inscription pour un orienteur sans organisation\]**](inscription-prescripteur.md#inscription-pour-un-orienteur-sans-organisation)****
@@ -124,7 +124,7 @@ Renseignez le** SIRET de votre organisation **et sélectionnez votre **départem
 
 Sélectionnez** "Autre"**, puis cliquez sur **"Continuer"**
 
-![](<../.gitbook/assets/image (182) (1).png>)
+![](<../.gitbook/assets/image (182) (1) (1).png>)
 
 A la question **"**_Pour qui travaillez-vous ?"_, sélectionnez** "Pour une organisation non-habilitée", puis cliquez sur "Continuer"**
 
@@ -147,11 +147,11 @@ Si un utilisateur est déjà membre de votre organisation vous ne pourrez rejoin
 \
 Cliquez sur** "Je ne fais partie d'aucune organisation"**
 
-![](<../.gitbook/assets/image (175).png>)
+![](<../.gitbook/assets/image (175) (1).png>)
 
 Complétez le formulaire en renseignant votre** adresse e-mail, prénom et nom**. Choisissez votre mot de passe puis cliquez sur** "Inscription"**
 
-![](<../.gitbook/assets/image (170).png>)
+![](<../.gitbook/assets/image (170) (1).png>)
 
 {% hint style="info" %}
 **Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**

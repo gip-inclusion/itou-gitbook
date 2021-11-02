@@ -2,9 +2,9 @@
 
 * [📚 Documentation sur la Plateforme de l'inclusion](README.md)
 
-## Les services proposés <a id="les-4-services-proposes-par-la-plateforme-de-linclusion"></a>
+## Les services proposés <a href="les-4-services-proposes-par-la-plateforme-de-linclusion" id="les-4-services-proposes-par-la-plateforme-de-linclusion"></a>
 
----
+***
 
 * [💼 Les emplois de l'inclusion](les-emplois-de-linclusion-2.md)
 * [📈  Le pilotage de l'inclusion](le-pilotage-de-linclusion/README.md)
@@ -26,7 +26,7 @@
 
 ## La communauté de l'inclusion
 
----
+***
 
 * [💬 Le forum de l'inclusion](forum-de-linclusion/README.md)
   * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
@@ -44,11 +44,11 @@
   * [Commentez un sujet](forum-de-linclusion/commentez-un-sujet.md)
   * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
 * [🚀La Bande à ITOU !](la-bande-a-itou.md)
-* [🌍 Les régionales de l'inclusion](https://regionale.inclusion.beta.gouv.fr/)
+* [🌍 Les régionales de l'inclusion](https://regionale.inclusion.beta.gouv.fr)
 
 ## Les emplois de l'inclusion
 
----
+***
 
 * [🔗 Pourquoi "Les emplois de l'inclusion" ?](pourquoi-une-plateforme-de-linclusion/README.md)
   * [Une co-construction avec les acteurs de l'IAE](pourquoi-une-plateforme-de-linclusion/participer-a-la-plateforme-de-linclusion.md)
@@ -80,7 +80,7 @@
   * [Configurer mes fiches de postes](mon-monde-demploi-employeur-solidaire/gerer-les-fiches-de-poste.md)
   * [Inviter mes collaborateurs à se rattacher au compte de ma structure](mon-monde-demploi-employeur-solidaire/invitation-collaborateurs.md)
   * [Valider une candidature spontanée / Obtenir un pass iae](mon-monde-demploi-employeur-solidaire/valider-une-candidature-spontanee.md)
-  * [Gérer les candidatures et l'éligibilité](mon-monde-demploi-employeur-solidaire/gerer-les-candidatures-et-leligibilite.md)
+  * [Valider l'éligibilité IAE d'un candidat](mon-monde-demploi-employeur-solidaire/gerer-les-candidatures-et-leligibilite.md)
   * [Embaucher un candidat](mon-monde-demploi-employeur-solidaire/embaucher-un-candidat.md)
   * [Modifier les dates de contrat](mon-monde-demploi-employeur-solidaire/modifier-les-dates-de-contrat.md)
   * [Modifier les informations d'un candidat](mon-monde-demploi-employeur-solidaire/modifier-les-informations-dun-candidat.md)
@@ -97,11 +97,11 @@
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-candidat/inscription-candidat.md)
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
 
-## Les dispositifs sur les emplois de l'inclusion <a id="les-dispositifs"></a>
+## Les dispositifs sur les emplois de l'inclusion <a href="les-dispositifs" id="les-dispositifs"></a>
 
----
+***
 
-* [🎫 Contrat IAE \(Eligibilité & diagnostic\)](qui-est-eligible-iae-criteres-eligibilite/README.md)
+* [🎫 Contrat IAE (Eligibilité & diagnostic)](qui-est-eligible-iae-criteres-eligibilite/README.md)
   * [PASS IAE : Comment ça marche ?](qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md)
   * [Dérogation aux critères administratifs](qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
   * [Dérogation au délai de carence](qui-est-eligible-iae-criteres-eligibilite/derogation-au-delai-de-carence.md)
@@ -109,16 +109,16 @@
 * [♿ Contrat en entreprise adaptée](contrat-en-entreprise-adaptee.md)
 * [⏱ Dispositif Premières Heures en chantier](dispositif-premieres-heures-en-chantier.md)
 
-## F.A.Q & Glossaire <a id="les-f.a.q"></a>
+## F.A.Q & Glossaire <a href="les-f.a.q" id="les-f.a.q"></a>
 
----
+***
 
 * [🔎 Foire aux questions PRO](reponses-a-mes-questions-faq/README.md)
   * [📝 Inscription & Gestion de compte](reponses-a-mes-questions-faq/inscription-gestion-de-compte.md)
   * [✅ Orientation candidat & Eligibilité IAE](reponses-a-mes-questions-faq/diagnostic-et-orientation-du-candidat.md)
   * [👀 Suivi et gestion des candidatures](reponses-a-mes-questions-faq/suivi-des-candidatures.md)
   * [🔑 Embauches et PASS IAE](reponses-a-mes-questions-faq/pass-iae.md)
-  * [👥 Rôle des différents utilisateurs \(employeurs, prescripteurs habilités, orienteurs, candidats\)](reponses-a-mes-questions-faq/role-des-differents-utilisateurs.md)
+  * [👥 Rôle des différents utilisateurs (employeurs, prescripteurs habilités, orienteurs, candidats)](reponses-a-mes-questions-faq/role-des-differents-utilisateurs.md)
   * [🛒 Le Marché de l'inclusion](reponses-a-mes-questions-faq/le-marche-de-linclusion.md)
   * [🎈 Autre](reponses-a-mes-questions-faq/autre.md)
 * [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
@@ -126,7 +126,7 @@
 
 ## Communication
 
----
+***
 
 * [🎬 Rendez-vous webinaires](rendez-vous-webinaires/README.md)
   * [Le Marché de l'inclusion](rendez-vous-webinaires/le-marche-de-linclusion.md)
@@ -142,10 +142,9 @@
 
 ## Informations légales
 
----
+***
 
 * [🚨 Mentions légales](mentions/README.md)
   * [Mentions légales](mentions/mentions-legales.md)
   * [Conditions Générales d'Utilisation](mentions/conditions-generales-dutilisation.md)
   * [Protection des données](mentions/protection-des-donnees.md)
-

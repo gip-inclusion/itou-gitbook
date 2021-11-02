@@ -1,16 +1,72 @@
 # Valider une candidature spontanée / Obtenir un pass iae
 
-{% hint style="success" %}
-Si vous êtes une [**SIAE**](https://doc.inclusion.beta.gouv.fr/presentation/employeurs-solidaires), **vous pouvez désormais recruter **une personne en **candidature spontanée **ou **adressée par un **[**orienteur**](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/orienteur)**. **
+En tant que SIAE vous pouvez enregistrer un candidat et demander l'obtention d'un PASS IAE
 
-Après avoir réalisé le [**diagnostic socio-professionnel **](https://doc.inclusion.beta.gouv.fr/qui-est-eligible-iae-criteres-eligibilite#diagnostic\_de\_reference)du candidat, vous pouvez **valider son éligibilité en ligne** !
+&#x20;RDV sur votre tableau de bord , dans le bloc candidatures
+
+Cliquez sur **"Obtenir un PASS IAE (candidature spontanée)"**
+
+![](<../.gitbook/assets/image (171).png>)
+
+## Etape 1 : Renseignez le numéro de Sécurité Sociale du candidat
+
+
+
+![](<../.gitbook/assets/image (166).png>)
+
+{% hint style="warning" %}
+Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
+
+**Renseignez uniquement les 10 premiers chiffres, **
+
+**cliquez sur "Continuer" : **
+
+**Un bandeau bleu s'affiche **<mark style="background-color:blue;"><mark style="color:blue;">**"Vous possédez un numéro de sécurité sociale temporaire ? Cliquez ici pour accéder à l'étape suivante"**<mark style="color:blue;"></mark>
 {% endhint %}
 
-1. Dans **Tableau de bord**, cliquez sur **Obtenir un Pass IAE (Candidature spontanée)**
-2. Renseignez le **mail du candidat** pour lui **créer son compte **s'il n'en possède pas
-3. **Saisissez ses informations**, puis cliquez sur **Continuer**
-4. Sélectionnez le **poste concerné** et rédigez le **message du candidat**
-5. Cliquez sur **Enregistrer la candidature. **
-6. Cliquez sur[** Gérer la candidature**](gerer-les-candidatures-et-leligibilite.md)****
+![](<../.gitbook/assets/image (169).png>)
 
-![Je suis employeur et fais une candidature spontanée](https://s5.gifyu.com/images/demo-employeur-spontv2.gif)
+## Etape 2 : Renseignez l'e-mail personnel du candidat
+
+**Renseignez l'adresse e-mail personnelle du candidat **et cliquez sur** "Continuer". **
+
+Si le candidat ne possède pas d'adresse e-mail cliquez sur "le candidat n'a pas d'e-mail" et laissez vous guider.
+
+![](<../.gitbook/assets/image (185).png>)
+
+{% hint style="danger" %}
+Attention il ne faut surtout pas utiliser votre adresse e-mail ou celle d'un collègue
+{% endhint %}
+
+## Etape 3 :  Renseignez le formulaire d'identification du candidat
+
+**Renseignez toutes les informations demandées **puis cliquez sur** "Continuer"**
+
+![](<../.gitbook/assets/image (174).png>)
+
+{% hint style="info" %}
+Si votre candidat est inscrit chez Pôle emploi, pensez à renseigner son identifiant afin de permettre la détection automatique d'un éventuel agrément Pôle emploi.
+{% endhint %}
+
+## Etape 4 : Rédigez un message de candidature&#x20;
+
+Renseignez toutes les informations que vous jugez utiles d'enregistrer pour le suivi de cette candidature. Une copie de ce message est transmise au candidat
+
+Vous pouvez également enregistrer le CV du candidat en format PDF
+
+Une fois ces éléments complétés, cliquez sur **"Enregistrer la candidature"**
+
+![](<../.gitbook/assets/image (168).png>)
+
+Une fois créée, la candidature est disponible dans la rubrique **"candidatures reçues"**
+
+La mention <mark style="background-color:blue;">"Auto-prescription"</mark> est affichée sur la candidature
+
+Cliquez sur **"Gérer la candidature"  pour consulter le détail et poursuivre la candidature **
+
+![](<../.gitbook/assets/image (184).png>)
+
+{% hint style="info" %}
+En auto prescription, si le candidat n'a pas de diagnostic d'éligibilité IAE rattaché à son profil en ligne ou ne possède pas de PASS IAE en cours de validité , la SIAE doit obligatoirement [valider l'éligibilité IAE du candidat pour l'embaucher.](gerer-les-candidatures-et-leligibilite.md#validez-leligibilite-a-liae)
+{% endhint %}
+
