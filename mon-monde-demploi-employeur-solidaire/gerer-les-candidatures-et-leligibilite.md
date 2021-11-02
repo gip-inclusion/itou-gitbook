@@ -36,7 +36,7 @@ Si le candidat ne remplit pas les conditions administratives, [orientez-le vers 
 
 Pour chaque critère, vous trouverez la pièce justificative associée ainsi que la durée de validité.
 
-**Cochez les critères qui correspondent à la situation administrative de votre candidat**
+**Cochez les critères** qui correspondent à la situation administrative de votre candidat
 
 ![](<../.gitbook/assets/image (182).png>)
 
@@ -48,9 +48,9 @@ Si l'éligibilité IAE a été validée par un prescripteur habilité (sur le si
 
 Une fois les critères sélectionnés , en bas de page cochez la case **"Le candidat étant éligible à l'IAE, je m'engage à conserver les justificatifs correspondants aux critères d'éligibilité sélectionnés pour 24 mois, en cas de contrôle"**
 
-Puis cliquez sur **"Valider"**
+Puis cliquez sur <mark style="background-color:blue;">**"Valider"**</mark>
 
-![](<../.gitbook/assets/image (181).png>)
+![](<../.gitbook/assets/image (181) (1).png>)
 
 {% hint style="info" %}
 Une fois validée, l'éligibilité IAE du candidat est valable 6 mois (uniquement dans votre structure). Si ce candidat n'est pas embauché dans votre structure et qu'une autre structure souhaite le recruter dans le cadre d'une auto prescription ou toute autre orientation hors prescripteur habilité , l'employeur devra valider l'éligibilité IAE du candidat

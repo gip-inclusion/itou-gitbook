@@ -1,4 +1,4 @@
-# Valider une candidature spontanée / Obtenir un pass iae
+# Valider une candidature spontanée pour obtenir un pass iae
 
 En tant que SIAE vous pouvez enregistrer un candidat et demander l'obtention d'un PASS IAE
 
@@ -10,7 +10,7 @@ Cliquez sur **"Obtenir un PASS IAE (candidature spontanée)"**
 
 ## Etape 1 : Renseignez le numéro de Sécurité Sociale du candidat
 
-
+**Renseignez le numéro de Sécurité Sociale**, puis cliquez sur <mark style="background-color:blue;">**"Continuer"**</mark>
 
 ![](<../.gitbook/assets/image (166).png>)
 
@@ -28,7 +28,7 @@ Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
 
 ## Etape 2 : Renseignez l'e-mail personnel du candidat
 
-**Renseignez l'adresse e-mail personnelle du candidat **et cliquez sur** "Continuer". **
+**Renseignez l'adresse e-mail personnelle du candidat **et cliquez sur** **<mark style="background-color:blue;">**"Continuer". **</mark>
 
 Si le candidat ne possède pas d'adresse e-mail cliquez sur "le candidat n'a pas d'e-mail" et laissez vous guider.
 
@@ -40,12 +40,12 @@ Attention il ne faut surtout pas utiliser votre adresse e-mail ou celle d'un col
 
 ## Etape 3 :  Renseignez le formulaire d'identification du candidat
 
-**Renseignez toutes les informations demandées **puis cliquez sur** "Continuer"**
+**Renseignez toutes les informations demandées **puis cliquez sur** **<mark style="background-color:blue;">**"Continuer"**</mark>
 
 ![](<../.gitbook/assets/image (174).png>)
 
 {% hint style="info" %}
-Si votre candidat est inscrit chez Pôle emploi, pensez à renseigner son identifiant afin de permettre la détection automatique d'un éventuel agrément Pôle emploi.
+Si votre candidat est inscrit chez Pôle emploi, pensez à **renseigner son identifiant afin de permettre la détection automatique d'un éventuel agrément Pôle emploi.**
 {% endhint %}
 
 ## Etape 4 : Rédigez un message de candidature&#x20;
@@ -54,15 +54,15 @@ Renseignez toutes les informations que vous jugez utiles d'enregistrer pour le s
 
 Vous pouvez également enregistrer le CV du candidat en format PDF
 
-Une fois ces éléments complétés, cliquez sur **"Enregistrer la candidature"**
+Une fois ces éléments complétés, cliquez sur <mark style="background-color:blue;"></mark><mark style="background-color:blue;">**"Enregistrer la candidature"**</mark>
 
 ![](<../.gitbook/assets/image (168).png>)
 
 Une fois créée, la candidature est disponible dans la rubrique **"candidatures reçues"**
 
-La mention <mark style="background-color:blue;">"Auto-prescription"</mark> est affichée sur la candidature
+La mention "Auto-prescription" est affichée sur la candidature
 
-Cliquez sur **"Gérer la candidature"  pour consulter le détail et poursuivre la candidature **
+Cliquez sur <mark style="background-color:blue;">**"Gérer la candidature"**</mark>**  **pour consulter le détail et poursuivre la candidature** **
 
 ![](<../.gitbook/assets/image (184).png>)
 

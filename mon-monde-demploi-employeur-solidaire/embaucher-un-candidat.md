@@ -1,16 +1,18 @@
-# Embaucher un candidat
+# Embaucher un candidat / Récupérer le PASS IAE
 
 Sur une candidature à l'étude, cliquez <mark style="background-color:green;">"</mark><mark style="background-color:green;">**Je l'embauche"**</mark>
 
 ![](<../.gitbook/assets/image (167).png>)
-
-
 
 Vérifiez/Complétez les données du candidat
 
 ![](<../.gitbook/assets/image (188).png>)
 
 Renseignez les dates de contrat et le message de réponse (une copie est transmise au candidat et au prescripteur si la candidature a été transmise par un prescripteur)
+
+{% hint style="danger" %}
+**On ne peut pas antidater une date de début de contrat. **
+{% endhint %}
 
 ![](<../.gitbook/assets/image (164).png>)
 
@@ -32,10 +34,12 @@ Tous les salariés embauchés avant le 1er décembre et qui seront toujours dans
 Les modalités de mise en œuvre seront prochainement communiquées aux employeurs.
 {% endhint %}
 
-****
+Vous retrouverez le PASS IAE dans le détail de la candidature&#x20;
 
-****
+Si le salarié est inscrit chez Pôle et que vous n'avez pas renseigné son identifiant Pôle emploi, [une vérification manuelle est réalisée par l'équipe des Emplois de l'inclusion](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#verification-des-demandes-de-pass-iae)
 
+![](<../.gitbook/assets/image (181).png>)
 
-
-####
+{% hint style="success" %}
+Une attestation PDF est disponible au téléchargement 5 jours après la date de démarrage du contrat.
+{% endhint %}
