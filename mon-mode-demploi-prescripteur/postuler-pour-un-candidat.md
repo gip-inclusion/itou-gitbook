@@ -28,17 +28,37 @@ Vous pouvez consulter les informations détaillées en cliquant sur le nom, cons
 
 ![](<../.gitbook/assets/image (91).png>)
 
-Après avoir cliqué sur "Postuler" depuis une fiche de poste ou depuis la fiche publique de la structure, suivez les étapes ci-dessous :
+Après avoir cliqué sur "Postuler" depuis une fiche de poste ou depuis la fiche publique de la structure, suivez les étapes ci-dessous&#x20;
 
-[Etape 1 : Renseignez l'e-mail personnel du candidat](postuler-pour-un-candidat.md#etape-1-renseignez-le-mail-personnel-du-candidat)
+[Etape 1 : Renseignez le numéro de Sécurité Sociale du candidat](postuler-pour-un-candidat.md#undefined)
 
-[Etape 2 :  Renseignez le formulaire d'identification du candidat](postuler-pour-un-candidat.md#etape-2-renseignez-le-formulaire-didentification-du-candidat)
+[Etape 2 : Renseignez l'e-mail personnel du candidat](postuler-pour-un-candidat.md#etape-1-renseignez-le-mail-personnel-du-candidat)
 
-[Etape 3 : Validez l'éligibilité à l'IAE du candidat](postuler-pour-un-candidat.md#etape-3-validez-leligibilite-a-liae-du-candidat)
+[Etape 3 :  Renseignez le formulaire d'identification du candidat](postuler-pour-un-candidat.md#etape-2-renseignez-le-formulaire-didentification-du-candidat)
 
-[Etape 4 : Rédigez un message de candidature ](postuler-pour-un-candidat.md#etape-4-redigez-un-message-de-candidature)
+[Etape 4 : Validez l'éligibilité à l'IAE du candidat](postuler-pour-un-candidat.md#etape-3-validez-leligibilite-a-liae-du-candidat)
 
-## Etape 1 : Renseignez l'e-mail personnel du candidat
+[Etape 5 : Rédigez un message de candidature ](postuler-pour-un-candidat.md#etape-4-redigez-un-message-de-candidature)
+
+## Etape 1 : Renseignez le numéro de Sécurité Sociale du candidat
+
+Renseignez les 15 chiffres du numéro de Sécurité Sociale du candidat
+
+![](<../.gitbook/assets/image (169).png>)
+
+{% hint style="warning" %}
+Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
+
+**Renseignez uniquement les 10 premiers chiffres, **
+
+**cliquez sur "Continuer" : **
+
+**Un bandeau bleu s'affiche **<mark style="background-color:blue;"><mark style="color:blue;">**"Vous possédez un numéro de sécurité sociale temporaire ? Cliquez ici pour accéder à l'étape suivante"**<mark style="color:blue;"></mark>
+{% endhint %}
+
+![](<../.gitbook/assets/image (182).png>)
+
+## Etape 2 : Renseignez l'e-mail personnel du candidat
 
 **Renseignez l'adresse e-mail personnelle du candidat et cliquez sur "Continuer". **Si le candidat ne possède pas d'adresse e-mail cliquez sur "le candidat n'a pas d'e-mail" et laissez vous guider.
 
@@ -55,7 +75,7 @@ Attention il ne faut surtout pas utiliser votre adresse e-mail ou celle d'un col
 * Le système ne reconnait pas l'adresse e-mail et il faut donc renseigner les coordonnées du candidat (étape 2)
 {% endhint %}
 
-## Etape 2 :  Renseignez le formulaire d'identification du candidat
+## Etape 3 :  Renseignez le formulaire d'identification du candidat
 
 **Renseignez toutes les informations demandées **puis cliquez sur** "Continuer"**
 
@@ -65,7 +85,7 @@ Attention il ne faut surtout pas utiliser votre adresse e-mail ou celle d'un col
 Si votre candidat est inscrit chez Pôle emploi, pensez à renseigner son identifiant afin de permettre la détection automatique d'un éventuel agrément Pôle emploi.
 {% endhint %}
 
-## Etape 3 : Validez l'éligibilité à l'IAE du candidat&#x20;
+## Etape 4 : Validez l'éligibilité à l'IAE du candidat&#x20;
 
 {% hint style="danger" %}
 Cette étape n'est visible que pour les prescripteurs habilités lorsqu'ils postulent auprès d'une SIAE.
@@ -81,7 +101,7 @@ Cette éligibilité à l'IAE restera valable pendant 6 mois. Tant que l'éligibi
 
 ![](<../.gitbook/assets/image (87).png>)
 
-## Etape 4 : Rédigez un message de candidature&#x20;
+## Etape 5 : Rédigez un message de candidature&#x20;
 
 ### Métiers recherchés :&#x20;
 

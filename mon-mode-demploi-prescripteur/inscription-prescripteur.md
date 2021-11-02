@@ -86,7 +86,7 @@ Si votre organisation n'est pas encore inscrite, un écran de sélection s'affic
 
 Confirmez votre habilitation préfectorale en cliquant sur** "Oui, je confirme que mon organisation est habilitée par le Préfet", **puis cliquez sur **"Continuer"**
 
-![](<../.gitbook/assets/image (169).png>)
+![](<../.gitbook/assets/image (169) (1).png>)
 
 Complétez le formulaire en renseignant votre** adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur** "Inscription"**
 
@@ -124,7 +124,7 @@ Renseignez le** SIRET de votre organisation **et sélectionnez votre **départem
 
 Sélectionnez** "Autre"**, puis cliquez sur **"Continuer"**
 
-![](<../.gitbook/assets/image (182).png>)
+![](<../.gitbook/assets/image (182) (1).png>)
 
 A la question **"**_Pour qui travaillez-vous ?"_, sélectionnez** "Pour une organisation non-habilitée", puis cliquez sur "Continuer"**
 
