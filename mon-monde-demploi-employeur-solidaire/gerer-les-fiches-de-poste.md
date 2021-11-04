@@ -12,7 +12,7 @@ Dans la rubrique "Ma structure" , cliquez sur **"Gérer les métiers et recrutem
 
 #### [Activer/Désactiver la réception des candidatures sur un métier](gerer-les-fiches-de-poste.md#activer-la-reception-des-candidatures)
 
-#### Bloquer la réception de nouvelles candidatures
+#### [Bloquer la réception de nouvelles candidatures](gerer-les-fiches-de-poste.md#bloquer-la-reception-de-nouvelles-candidatures)
 
 {% hint style="danger" %}
 Pensez à bien sauvegarder toutes vos modifications en cliquant sur le bouton **"Enregister les modifications"** qui se trouve en bas de page.
@@ -57,7 +57,7 @@ En cas de besoin vous pouvez également supprimer la fiche métier en cliquant s
 ![S](<../.gitbook/assets/image (186).png>)
 
 {% hint style="info" %}
-Si aucune fiche métier n'est ajoutée ou qu'aucune fiche métier n'est ouverte au recrutement vous pouvez continuer à recevoir des candidatures spontanées. Une option vous permet de [bloquer la réception de toutes les nouvelles candidatures ](gerer-les-fiches-de-poste.md#undefined)(sur un métier précis ou candidature spontanée)
+Si aucune fiche métier n'est ajoutée ou qu'aucune fiche métier n'est ouverte au recrutement vous pouvez continuer à recevoir des candidatures spontanées. Une option vous permet de [bloquer la réception de toutes les nouvelles candidatures.](gerer-les-fiches-de-poste.md#undefined)
 {% endhint %}
 
 {% hint style="success" %}
