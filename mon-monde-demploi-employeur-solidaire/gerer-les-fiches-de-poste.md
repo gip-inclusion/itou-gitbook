@@ -8,9 +8,9 @@ Dans la rubrique "Ma structure" , cliquez sur **"Gérer les métiers et recrutem
 
 #### 👉Depuis cette interface vous pouvez :&#x20;
 
-#### [Ajouter un nouveau métier (ou nouveau recrutement)](gerer-les-fiches-de-poste.md#pour-ajouter-un-nouveau-metier-ou-nouveau-recrutement)
+#### [Ajouter un nouveau métier (ou nouveau recrutement)](gerer-les-fiches-de-poste.md#ajouter-un-nouveau-metier-ou-nouveau-recrutement)
 
-#### [Activer/Désactiver la réception des candidatures sur un métier](gerer-les-fiches-de-poste.md#activer-la-reception-des-candidatures)
+#### [Activer/Désactiver la réception des candidatures sur un métier](gerer-les-fiches-de-poste.md#activer-desactiver-la-reception-des-candidatures-sur-un-metier)
 
 #### [Bloquer la réception de nouvelles candidatures](gerer-les-fiches-de-poste.md#bloquer-la-reception-de-nouvelles-candidatures)
 
