@@ -2,7 +2,7 @@
 
 Sur une candidature à l'étude, cliquez <mark style="background-color:green;">"</mark><mark style="background-color:green;">**Je l'embauche"**</mark>
 
-![](<../.gitbook/assets/image (167).png>)
+![](<../.gitbook/assets/image (167) (1).png>)
 
 Vérifiez/Complétez les données du candidat
 

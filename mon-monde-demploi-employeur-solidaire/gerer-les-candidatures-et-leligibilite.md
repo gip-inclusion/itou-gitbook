@@ -38,7 +38,7 @@ Pour chaque critère, vous trouverez la pièce justificative associée ainsi que
 
 **Cochez les critères** qui correspondent à la situation administrative de votre candidat
 
-![](<../.gitbook/assets/image (182).png>)
+![](<../.gitbook/assets/image (182) (1).png>)
 
 {% hint style="info" %}
 Si l'éligibilité IAE  a été validée par la SIAE,  l'employeur doit conserver les** pièces justificatives pour une durée de 24 mois à compter de la date de déclaration de l'éligibilité de la personne.**

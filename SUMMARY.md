@@ -77,7 +77,7 @@
   * [M'inscrire sur les emplois de l'inclusion](mon-monde-demploi-employeur-solidaire/inscription-employeur.md)
   * [Administrateur de la structure](mon-monde-demploi-employeur-solidaire/administrateur-de-la-structure.md)
   * [Décrire ma structure](mon-monde-demploi-employeur-solidaire/description-structure.md)
-  * [Configurer mes fiches de postes](mon-monde-demploi-employeur-solidaire/gerer-les-fiches-de-poste.md)
+  * [Gérer les métiers et recrutements](mon-monde-demploi-employeur-solidaire/gerer-les-fiches-de-poste.md)
   * [Inviter mes collaborateurs à se rattacher au compte de ma structure](mon-monde-demploi-employeur-solidaire/invitation-collaborateurs.md)
   * [Valider une candidature spontanée pour obtenir un pass iae](mon-monde-demploi-employeur-solidaire/valider-une-candidature-spontanee.md)
   * [Valider l'éligibilité IAE d'un candidat](mon-monde-demploi-employeur-solidaire/gerer-les-candidatures-et-leligibilite.md)

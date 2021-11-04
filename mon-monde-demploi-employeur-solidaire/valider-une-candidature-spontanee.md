@@ -12,7 +12,7 @@ Cliquez sur **"Obtenir un PASS IAE (candidature spontanée)"**
 
 **Renseignez le numéro de Sécurité Sociale**, puis cliquez sur <mark style="background-color:blue;">**"Continuer"**</mark>
 
-![](<../.gitbook/assets/image (166).png>)
+![](<../.gitbook/assets/image (166) (1).png>)
 
 {% hint style="warning" %}
 Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
@@ -24,7 +24,7 @@ Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
 **Un bandeau bleu s'affiche **<mark style="background-color:blue;"><mark style="color:blue;">**"Vous possédez un numéro de sécurité sociale temporaire ? Cliquez ici pour accéder à l'étape suivante"**<mark style="color:blue;"></mark>
 {% endhint %}
 
-![](<../.gitbook/assets/image (169).png>)
+![](<../.gitbook/assets/image (169) (1).png>)
 
 ## Etape 2 : Renseignez l'e-mail personnel du candidat
 

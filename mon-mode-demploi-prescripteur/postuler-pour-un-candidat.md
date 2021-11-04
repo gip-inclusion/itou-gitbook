@@ -44,7 +44,7 @@ Après avoir cliqué sur "Postuler" depuis une fiche de poste ou depuis la fiche
 
 Renseignez les 15 chiffres du numéro de Sécurité Sociale du candidat
 
-![](<../.gitbook/assets/image (169) (1).png>)
+![](<../.gitbook/assets/image (169) (1) (1).png>)
 
 {% hint style="warning" %}
 Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
@@ -56,7 +56,7 @@ Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
 **Un bandeau bleu s'affiche **<mark style="background-color:blue;"><mark style="color:blue;">**"Vous possédez un numéro de sécurité sociale temporaire ? Cliquez ici pour accéder à l'étape suivante"**<mark style="color:blue;"></mark>
 {% endhint %}
 
-![](<../.gitbook/assets/image (182) (1).png>)
+![](<../.gitbook/assets/image (182) (1) (1).png>)
 
 ## Etape 2 : Renseignez l'e-mail personnel du candidat
 
