@@ -57,7 +57,7 @@ En cas de besoin vous pouvez également supprimer la fiche métier en cliquant s
 ![S](<../.gitbook/assets/image (186).png>)
 
 {% hint style="info" %}
-Si aucune fiche métier n'est ajoutée ou qu'aucune fiche métier n'est ouverte au recrutement vous pouvez continuer à recevoir des candidatures spontanées. Une option vous permet de [bloquer la réception de toutes les nouvelles candidatures.](gerer-les-fiches-de-poste.md#undefined)
+Si aucune fiche métier n'est ajoutée ou qu'aucune fiche métier n'est ouverte au recrutement vous pouvez continuer à recevoir des candidatures spontanées. Une option vous permet de [bloquer la réception de toutes les nouvelles candidatures.](gerer-les-fiches-de-poste.md#bloquer-la-reception-de-nouvelles-candidatures)
 {% endhint %}
 
 {% hint style="success" %}
@@ -82,6 +82,6 @@ Cliquez sur **"enregistrer les modifications" **(en bas de page) pour appliquer 
 
 ![](<../.gitbook/assets/image (181).png>)
 
-✅Lorsque les candidature sont débloquées l'interrupteur est sur la gauche (le fond est gris)
+✅Lorsque les candidatures sont débloquées l'interrupteur est sur la gauche (le fond est gris)
 
 ![](<../.gitbook/assets/image (174).png>)
