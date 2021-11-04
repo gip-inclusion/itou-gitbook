@@ -30,7 +30,7 @@ Sur les emplois de l'inclusion, lorsque le **délai d'éligibilité de 6 mois d'
 * Services et clubs de prévention
 * Agence nationale pour la formation professionnelle des adultes (**AFPA**)
 * Points et bureaux information jeunesse (**PIJ/BIJ**)
-* Caisses d’allocation familiale (**CAF**)
+* Caisses d’allocations familiales (**CAF**)
 * Centres d'accueil de demandeurs d'asile (**CADA**)
 * Aide sociale à l’enfance (**ASE**) ou les organisations désignées par le conseil départemental dans le cadre d'une délégation de gestion
 * Centres d’adaptation à la vie active (**CAVA**)
@@ -46,7 +46,7 @@ Sur les emplois de l'inclusion, lorsque le **délai d'éligibilité de 6 mois d'
 * Organismes habilités par le préfet de département pour une durée de cinq ans au plus, renouvelable, après avis du conseil départemental de l'insertion par l'activité économique **(CDIAE)**
 * Pensions de famille /résidences d'accueil
 * Opérateurs d’intermédiation locative
-* Résidences sociales / Foyer de Jeunes Travailleurs **(FJT)**
+* Résidences sociales / Foyers de Jeunes Travailleurs **(FJT)**
 * Organismes mentionnés au 8° du I de l'article L. 312-1 du code de l'action sociale et des familles** \***
 
 {% hint style="info" %}
