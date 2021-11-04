@@ -41,7 +41,7 @@ Renseignez une description du poste.&#x20;
 ![](<../.gitbook/assets/image (167).png>)
 
 {% hint style="success" %}
-Une description bien détaillée permettra aux prescripteurs et candidats d'en savoir plus sur le poste avant de postuler. Vous limiterez ainsi le nombre de candidatures qui ne correspondent pas au poste.
+Une description bien détaillée permettra aux prescripteurs et candidats d'en savoir plus sur le métier avant de postuler. Vous limiterez ainsi le nombre de candidatures qui ne correspondent pas au poste.
 {% endhint %}
 
 Vous pouvez ajouter autant de métiers que vous le souhaitez.
