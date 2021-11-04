@@ -90,7 +90,7 @@ Confirmez votre habilitation préfectorale en cliquant sur** "Oui, je confirme q
 
 Complétez le formulaire en renseignant votre** adresse e-mail professionnelle, prénom et nom**. Choisissez votre mot de passe puis cliquez sur** "Inscription"**
 
-![](<../.gitbook/assets/image (162).png>)
+![](<../.gitbook/assets/image (162) (1).png>)
 
 {% hint style="info" %}
 **Vous recevez un mail contenant un lien de confirmation, cliquez sur ce lien pour activer votre compte.**

@@ -38,7 +38,7 @@ Vous retrouverez le PASS IAE dans le détail de la candidature&#x20;
 
 Si le salarié est inscrit chez Pôle et que vous n'avez pas renseigné son identifiant Pôle emploi, [une vérification manuelle est réalisée par l'équipe des Emplois de l'inclusion](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#verification-des-demandes-de-pass-iae)
 
-![](<../.gitbook/assets/image (181).png>)
+![](<../.gitbook/assets/image (181) (1).png>)
 
 {% hint style="success" %}
 Une attestation PDF est disponible au téléchargement 5 jours après la date de démarrage du contrat.

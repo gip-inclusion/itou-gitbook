@@ -50,7 +50,7 @@ Une fois les critères sélectionnés , en bas de page cochez la case **"Le cand
 
 Puis cliquez sur <mark style="background-color:blue;">**"Valider"**</mark>
 
-![](<../.gitbook/assets/image (181) (1).png>)
+![](<../.gitbook/assets/image (181) (1) (1).png>)
 
 {% hint style="info" %}
 Une fois validée, l'éligibilité IAE du candidat est valable 6 mois (uniquement dans votre structure). Si ce candidat n'est pas embauché dans votre structure et qu'une autre structure souhaite le recruter dans le cadre d'une auto prescription ou toute autre orientation hors prescripteur habilité , l'employeur devra valider l'éligibilité IAE du candidat

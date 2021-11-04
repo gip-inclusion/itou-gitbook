@@ -42,7 +42,7 @@ Attention il ne faut surtout pas utiliser votre adresse e-mail ou celle d'un col
 
 **Renseignez toutes les informations demandées **puis cliquez sur** **<mark style="background-color:blue;">**"Continuer"**</mark>
 
-![](<../.gitbook/assets/image (174).png>)
+![](<../.gitbook/assets/image (174) (1).png>)
 
 {% hint style="info" %}
 Si votre candidat est inscrit chez Pôle emploi, pensez à **renseigner son identifiant afin de permettre la détection automatique d'un éventuel agrément Pôle emploi.**
