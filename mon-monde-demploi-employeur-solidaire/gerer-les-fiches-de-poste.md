@@ -19,7 +19,7 @@ Pensez à bien sauvegarder toutes vos modifications en cliquant sur le bouton **
 {% endhint %}
 
 {% hint style="success" %}
-Revenez régulièrement sur cette page afin de vous assurer que les informations soient à jour. En tant qu'employeur vous êtes garant de la qualité et de la mise à jour des informations publiées pour votre structure.
+Revenez régulièrement sur cette page : en tant qu'employeur vous êtes garant de la qualité et de la mise à jour des informations publiées pour votre structure.
 {% endhint %}
 
 ## Ajouter un nouveau métier (ou nouveau recrutement) :&#x20;
