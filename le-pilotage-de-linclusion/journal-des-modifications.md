@@ -7,11 +7,20 @@ description: Journal des modifications du pilotage de l'inclusion
 ## Du 25/10/2021 au 05/11/2021
 
 * Correction d'un bug dans le script qui permet d'extraire le département du conventionnement
-* Ajout du TDB128 qui sera consultable par les SIAE&#x20;
+* Ajout du TB128 qui sera consultable par les SIAE&#x20;
+* Développement de la fonctionnalité qui permet aux employeurs de visualiser les données de leur structure (données du TB128)  à travers les emplois
 * Ajout du filtre 'numéro de conventionnement' dans le TB128
-* Ajout du lien entre le filtre 'numéro de conventionnement' et 'identifiant de la structure'
+* Ajout du lien entre le filtre 'numéro de conventionnement' et 'identifiant de la structure' dans le TB128
 * Mise à jour des scripts qui alimentent les [TB117](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties) et [TB118](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties-1) pour prendre le département du conventionnement au lieu de celui de la structure
-* Remplacement des filtres département et région de la structure par département et région du conventionnement dans les [TB117](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties), [TB118](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties-1) et TB128
+* Filtre sur le département et région du conventionnement au lieu du département et région de la structure dans les [TB117](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties), [TB118](https://doc.inclusion.beta.gouv.fr/le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles#suivi-des-recrutements-heures-travaillees-et-sorties-1) et TB128
+* Ajout du script qui permet de calculer et suivre le nombre de salarié en insertion
+* Ajout d'un tableau de bord qui permet de visualiser l'évolution mensuelle du nombre de salariés en insertion
+* Amélioration de la visibilité des graphiques sur le [TB54](les-tableaux-de-bord-disponibles.md#employeurs)&#x20;
+* Amélioration de la visibilité des graphiques sur le [TB32](les-tableaux-de-bord-disponibles.md#criteres)&#x20;
+* Simplification des libellés du graphique "Evolution des candidatures sur les 12 derniers mois, par état" sur le [TB116 ](les-tableaux-de-bord-disponibles.md#recrutement)
+* Élargissement de la zone "embed" des tableaux de bord sur le site pilotage&#x20;
+
+
 
 ## Du 27/09/2021 au 22/10/2021
 
