@@ -6,7 +6,7 @@ description: 💡 Un moteur de recherche est disponible en haut à droite ↗↗
 
 ## 🟡 LISTE DES QUESTIONS  :
 
-1️⃣ ** \[ RECHERCHER DES EMPLOYEURS SOLIDAIRES ]**
+1️⃣ **\[ RECHERCHER DES EMPLOYEURS SOLIDAIRES ]**
 
 [Comment lancer une recherche sur les emplois de l'inclusion ?](diagnostic-et-orientation-du-candidat.md#comment-lancer-une-recherche-sur-les-emplois-de-linclusion)
 
@@ -88,7 +88,7 @@ Par défaut le rayon de recherche est de 5km vous pouvez l'agrandir en cliquant 
 A droite du champ "ville" vous avez la possibilité de filtrer par type d'employeur
 {% endhint %}
 
-### _A quoi correspondent les sigles disponibles en filtre de recherche? _
+### _A quoi correspondent les sigles disponibles en filtre de recherche?_&#x20;
 
 {% hint style="info" %}
 Les sigles correspondent aux différents types d'employeurs solidaires. En cliquant sur un des sigles vous pourrez filtrer sur un type d'employeur.
@@ -209,7 +209,7 @@ Pour le moment ce n'est pas possible de le faire en une fois, on peut postuler a
 Non il faut obligatoirement postuler auprès d'une structure.
 {% endhint %}
 
-### _Quel numéro d'identifiant Pôle emploi doit-on saisir ? _
+### _Quel numéro d'identifiant Pôle emploi doit-on saisir ?_&#x20;
 
 {% hint style="info" %}
 Il faut renseigner le numéro de dossier Pole emploi (et pas l'identifiant de connexion pole-emploi.fr )&#x20;
@@ -217,7 +217,7 @@ Il faut renseigner le numéro de dossier Pole emploi (et pas l'identifiant de co
 Il est composé de 8 caractères : 7 chiffres suivis d'une 1 lettre ou d'un chiffre.
 {% endhint %}
 
-### _J'ai fait une erreur de saisie dans le profil du candidat _
+### _J'ai fait une erreur de saisie dans le profil du candidat_&#x20;
 
 {% hint style="info" %}
 La modification des informations d'un candidat n'est possible que si le candidat n'a jamais activé son compte sur les emplois de l'inclusion. S'il a déjà activé son compte (en se connectant une première fois) il a la main pour modifier ses informations depuis son espace candidat à la rubrique "Mon espace", puis "Modifier mon profil"
@@ -331,10 +331,10 @@ Si vous êtes employeur en cas de doute, vous pouvez toujours demander à un pre
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion **](https://forum.inclusion.beta.gouv.fr)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles (exemple : demande d'information sur le fonctionnement des emplois de l'inclusion).
+* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles (exemple : demande d'information sur le fonctionnement des emplois de l'inclusion).
 
 
 
-* 📝[**Contacter l’équipe **](https://assistance.inclusion.beta.gouv.fr)**. **Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande (exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …)
+* 📝[**Contacter l’équipe** ](https://assistance.inclusion.beta.gouv.fr)**.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande (exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …)
 {% endhint %}
 

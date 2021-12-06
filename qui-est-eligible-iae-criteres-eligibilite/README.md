@@ -4,28 +4,28 @@ L’insertion par l’activité économique (IAE) permet aux personnes les plus 
 
 **Qui peut bénéficier d'un parcours d'Insertion par l'Activité Economique (IAE) ? :**
 
-* Les **personnes **en **difficultés sociales et/ou professionnelles **(précarité, âge, santé)
-* **Orientées par un** [**prescripteur habilité ou un orienteur** ](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)vers une[** SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)
-* Ou **recrutées directement par une **[**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)** **
+* Les **personnes** en **difficultés sociales et/ou professionnelles** (précarité, âge, santé)
+* **Orientées par un** [**prescripteur habilité ou un orienteur** ](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)vers une[ **SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)
+* Ou **recrutées directement par une** [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) ****&#x20;
 * Après la réalisation d'un diagnostic social et professionnel [**validant l'éligibilité IAE du candidat**](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#etape-2-la-validation-de-leligibilite-a-liae)****
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-13.51.12.png)
 
-**L'éligibilité à l’IAE** du candidat** **peut être **validée sur les emplois de l'inclusion ** par :&#x20;
+**L'éligibilité à l’IAE** du candidat **** peut être **validée sur les emplois de l'inclusion** par :&#x20;
 
 * Les [**prescripteurs habilités**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)****
 * Les [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)****
 
-**Une fois l'embauche confirmée sur les emplois de l'inclusion par une SIAE, le **[**Pass IAE **](pass-iae-comment-ca-marche.md)**est délivré par mail à l'entreprise sous ≈ 2 jours et disponible dans les tableaux de bord de l'employeur et du candidat**
+**Une fois l'embauche confirmée sur les emplois de l'inclusion par une SIAE, le** [**Pass IAE** ](pass-iae-comment-ca-marche.md)**est délivré par mail à l'entreprise sous ≈ 2 jours et disponible dans les tableaux de bord de l'employeur et du candidat**
 
 ![](../.gitbook/assets/copie-de-parcours-candidat-a-liae-\_-qui-fait-quoi-\_-1-.png)
 
 
 
-Les [**GEIQ, EA, EATT**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md#comment-se-reperer-entre-les-differents-employeurs-solidaires) n’ont **pas besoin de **[**Pass IAE**](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) pour recruter un candidat. Ils ne sont pas soumis aux critères d'éligibilité.
+Les [**GEIQ, EA, EATT**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md#comment-se-reperer-entre-les-differents-employeurs-solidaires) n’ont **pas besoin de** [**Pass IAE**](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) pour recruter un candidat. Ils ne sont pas soumis aux critères d'éligibilité.
 
 {% hint style="warning" %}
-Les candidats qui **ne répondent pas aux **[**critères d'éligibilité**](./#criteres-administratifs-de-niveau-1) ou ne peuvent respecter le **délai de carence de 2 ans** entre deux parcours, peuvent être **orientées vers un **[**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est seul à pouvoir [**prescrire un parcours IAE en dehors de ces obligations**](derogation-criteres.md)**.**
+Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#criteres-administratifs-de-niveau-1) ou ne peuvent respecter le **délai de carence de 2 ans** entre deux parcours, peuvent être **orientées vers un** [**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est seul à pouvoir [**prescrire un parcours IAE en dehors de ces obligations**](derogation-criteres.md)**.**
 {% endhint %}
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.23.png)
@@ -36,14 +36,14 @@ Les candidats qui **ne répondent pas aux **[**critères d'éligibilité**](./#c
 Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il doit avoir :
 
 * Au moins **1 critère administratif de niveau 1**
-* Ou le cumul de** 3 critères administratifs de niveau 2 **(Exception pour les ETTI et les AI : 2 critères administratifs de niveau 2)
+* Ou le cumul de **3 critères administratifs de niveau 2** (Exception pour les ETTI et les AI : 2 critères administratifs de niveau 2)
 {% endhint %}
 
 ## Critères administratifs de niveau 1
 
 | ✅ Critères de Niveau 1                                                                                                                                    | 📃 Pièces justificatives et durées de validité                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><strong>Bénéficiaire du RSA</strong></p><p>Revenu de solidarité active</p>                                                                             | <p><strong>Attestation RSA </strong></p><p>Datant de moins de 3 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                                                 |
+| <p><strong>Bénéficiaire du RSA</strong></p><p>Revenu de solidarité active</p>                                                                             | <p><strong>Attestation RSA</strong> </p><p>Datant de moins de 3 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                                                 |
 | <p><strong>Allocataire ASS</strong></p><p>Allocation de solidarité spécifique</p>                                                                         | <p><strong>Attestation ASS</strong></p><p>Datant de moins de 3 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                                                  |
 | <p><strong>Allocataire AAH</strong></p><p>Allocation aux adultes handicapés</p>                                                                           | <p><strong>Attestation AAH</strong></p><p>Datant de moins de 3 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                                                  |
 | <p><strong>DETLD (Demandeur d’emploi</strong></p><p><strong>de très longue durée)</strong></p><p>+  24 mois d’inscription en continu chez Pôle emploi</p> | <p><strong>Avis de situation Pôle emploi  ou récapitulatif des périodes d'inscription (en cas de radiation)</strong></p><p>Datant de moins de 3 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p> |
@@ -61,14 +61,14 @@ Pour qu'un candidat puisse être déclaré éligible à l'IAE par une SIAE il do
 | **Parent isolé**                                                                                                                                                   | <p><strong>Attestation Allocation de soutien familial (ASF)</strong></p><p>Datant de moins de 3 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                                         |
 | **Personne sans hébergement ou hébergée ou ayant un parcours de rue**                                                                                              | <p><strong>Certificat de domiciliation. A défaut : déclaration sur l'honneur d'un travailleur social ou d'une association</strong></p><p>Datant de moins de 3 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>           |
 | **Réfugié statutaire, protégé subsidiaire ou demandeurs d’asile**                                                                                                  | <p><strong>Titre de séjour valide ou demande de renouvellement du titre de séjour . Pour les demandeurs d’asile : autorisation temporaire de travail</strong><br>Titre valide au moment de la délivrance du PASS IAE ( = Récépissé d'enregistrement)</p> |
-| <p><strong>Résident en ZRR</strong></p><p><a href="https://www.data.gouv.fr/fr/datasets/zones-de-revitalisation-rurale-zrr/">Zone de revitalisation rurale</a></p> | <p><strong>Justificatif de domicile </strong>(facture eau, électricité, internet, téléphone)</p><p>Datant de moins de 6 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                 |
-| <p><strong>Résident QPV</strong></p><p><a href="https://sig.ville.gouv.fr">Quartier prioritaire de la politique de la ville</a></p>                                | <p><strong>Justificatif de domicile  </strong>(facture eau, électricité, internet, téléphone)</p><p>Datant de moins de 6 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                |
+| <p><strong>Résident en ZRR</strong></p><p><a href="https://www.data.gouv.fr/fr/datasets/zones-de-revitalisation-rurale-zrr/">Zone de revitalisation rurale</a></p> | <p><strong>Justificatif de domicile</strong> (facture eau, électricité, internet, téléphone)</p><p>Datant de moins de 6 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                 |
+| <p><strong>Résident QPV</strong></p><p><a href="https://sig.ville.gouv.fr">Quartier prioritaire de la politique de la ville</a></p>                                | <p><strong>Justificatif de domicile</strong>  (facture eau, électricité, internet, téléphone)</p><p>Datant de moins de 6 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                |
 | **Sortant de détention ou personne placée sous main de justice**                                                                                                   | <p><strong>Billet de sortie ou attestation du juge d’application des peines</strong></p><p>Datant de moins de 6 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                         |
 | **Maîtrise de la langue française**                                                                                                                                | <p><strong>Evaluation FLE inférieure au niveau A1</strong></p><p>Datant de moins de 6 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                                                   |
 | **Mobilité**                                                                                                                                                       | <p><strong>Diagnostic mobilité délivré par un prescripteur habilité</strong></p><p>Datant de moins de 6 mois avant la date de délivrance du PASS IAE ( = Récépissé d'enregistrement)</p>                                                                 |
 
 {% hint style="info" %}
-Si l'éligibilité IAE  a été validée par la SIAE,  l'employeur doit conserver les** pièces justificatives pour une durée de 24 mois à compter de la date de déclaration de l'éligibilité de la personne.**
+Si l'éligibilité IAE  a été validée par la SIAE,  l'employeur doit conserver les **pièces justificatives pour une durée de 24 mois à compter de la date de déclaration de l'éligibilité de la personne.**
 
 Si l'éligibilité IAE a été validée par un prescripteur habilité ou que le futur salarié a déjà un PASS IAE en cours de validité : l'employeur n'a pas besoin de conserver de pièces justificatives relatives aux critères d'éligibilité, car l'embauche ne sera pas soumise au contrôle à postériori de la DDETS.
 {% endhint %}
@@ -81,7 +81,7 @@ Sources : [Arrêté du 1er septembre 2021 fixant la liste des critères d'éligi
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.55.png)
 
-### Diagnostic socio-professionnel de référence <a href="diagnostic_de_reference" id="diagnostic_de_reference"></a>
+### Diagnostic socio-professionnel de référence <a href="#diagnostic_de_reference" id="diagnostic_de_reference"></a>
 
 {% file src="../.gitbook/assets/diagnostic-socio-professionnel-de-reference.pdf" %}
 Télécharger le diagnostic socio-professionnel de référence

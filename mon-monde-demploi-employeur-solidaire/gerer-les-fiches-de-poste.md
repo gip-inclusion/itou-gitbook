@@ -70,11 +70,11 @@ En cas de besoin vous avez la possibilité de bloquer la réception de nouvelles
 
 L'option est disponible en haut de page :
 
-Un **interrupteur vous permet de bloquer ou débloquer la réception de nouvelles candidatures. **
+Un **interrupteur vous permet de bloquer ou débloquer la réception de nouvelles candidatures.**&#x20;
 
 ![](<../.gitbook/assets/image (162).png>)
 
-Cliquez sur **"enregistrer les modifications" **(en bas de page) pour appliquer votre choix.
+Cliquez sur **"enregistrer les modifications"** (en bas de page) pour appliquer votre choix.
 
 
 

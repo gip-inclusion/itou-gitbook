@@ -29,5 +29,5 @@ Vous pouvez réinitialiser votre mot de passe sur cette [page](https://emplois.i
 {% endhint %}
 
 {% hint style="warning" %}
-**Vous n’avez pas trouvé la réponse à votre question ? **:point\_right: N'hésitez pas à nous interroger**,** cliquez pour [**contacter l’équipe **](https://assistance.inclusion.beta.gouv.fr)!  :blush:&#x20;
+**Vous n’avez pas trouvé la réponse à votre question ?** :point\_right: N'hésitez pas à nous interroger**,** cliquez pour [**contacter l’équipe** ](https://assistance.inclusion.beta.gouv.fr)!  :blush:&#x20;
 {% endhint %}

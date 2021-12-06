@@ -1,8 +1,8 @@
 # Mon rôle d'employeur
 
-Le site des emplois de l'inclusion me permet de **mettre en avant les postes sur lesquels j’ai besoin de recruter**, de **gérer plus facilement les candidatures** en ligne, **d'obtenir rapidement un agrément **si je suis une SIAE** (**[**Pass IAE**](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md)**)**.&#x20;
+Le site des emplois de l'inclusion me permet de **mettre en avant les postes sur lesquels j’ai besoin de recruter**, de **gérer plus facilement les candidatures** en ligne, **d'obtenir rapidement un agrément** si je suis une SIAE **(**[**Pass IAE**](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md)**)**.&#x20;
 
-Le **recrutement est plus direct, plus simple, plus rapide **pour moi.&#x20;
+Le **recrutement est plus direct, plus simple, plus rapide** pour moi.&#x20;
 
 ### En tant qu'employeur solidaire je peux :&#x20;
 
@@ -18,13 +18,13 @@ Le **recrutement est plus direct, plus simple, plus rapide **pour moi.&#x20;
 
 &#x20;🎫**Confirmer une embauche et obtenir automatiquement un Pass IAE\*** via les emplois de l'inclusion.
 
-💫** Suspendre un PASS IAE\***
+💫 **Suspendre un PASS IAE\***
 
 **🧍‍♀️🧍‍♂️Inviter mes collaborateurs à rejoindre le compte** que j’ai créé pour mon organisation
 
-**💬 Échanger sur le Forum de la la **[**communauté de l'inclusion**](https://communaute.inclusion.beta.gouv.fr)****
+**💬 Échanger sur le Forum de la la** [**communauté de l'inclusion**](https://communaute.inclusion.beta.gouv.fr)****
 
-_\* Dans le cas d'une SIAE. _
+_\* Dans le cas d'une SIAE._&#x20;
 
 {% hint style="warning" %}
 Un **candidat adressé par un prescripteur habilité est réputé éligible à l'IAE**. La SIAE n'a rien à faire.
@@ -34,4 +34,4 @@ Les [**GEIQ, EA, EATT**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-e
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-24-a-18.00.07.png)
 
-### **  **:point\_right:** **[**Je suis employeur solidaire ? Je m'inscris**](https://emplois.inclusion.beta.gouv.fr/accounts/login/?account\_type=siae)****
+### &#x20; ****  :point\_right: **** [**Je suis employeur solidaire ? Je m'inscris**](https://emplois.inclusion.beta.gouv.fr/accounts/login/?account\_type=siae)****

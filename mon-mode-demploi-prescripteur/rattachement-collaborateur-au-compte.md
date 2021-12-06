@@ -1,10 +1,10 @@
 # Inviter mes collaborateurs à se rattacher au compte de l'organisation
 
-Depuis votre tableau de bord, cliquez sur** "Gérer vos Collaborateurs"**
+Depuis votre tableau de bord, cliquez sur **"Gérer vos Collaborateurs"**
 
 ![](../.gitbook/assets/inviterprescripteur.png)
 
-Puis cliquez sur** "Inviter des collaborateurs"**
+Puis cliquez sur **"Inviter des collaborateurs"**
 
 ![](../.gitbook/assets/invit2.png)
 

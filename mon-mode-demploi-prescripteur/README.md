@@ -2,7 +2,7 @@
 
 **Découvrez les infos et les tutos pour vous aider à utiliser les emplois de l'inclusion**
 
-* ****[**Mon rôle de prescripteur **](fonctionnalites-prescripteur.md)****
+* ****[**Mon rôle de prescripteur** ](fonctionnalites-prescripteur.md)****
 * ****[**M'inscrire sur les emplois de l'inclusion**](inscription-prescripteur.md)****
 * ****[**Administrateur de l'organisation**](administrateur-de-lorganisation.md)
 * ****[**Compléter et décrire mon organisation**](description-organisation.md)****

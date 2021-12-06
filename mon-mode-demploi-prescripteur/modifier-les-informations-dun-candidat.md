@@ -15,11 +15,11 @@ Si vous êtes orienteur, 2 solutions :&#x20;
 
 Pour consulter et modifier les informations d'un candidat, RDV sur la candidature concernée :&#x20;
 
-Cliquez sur **"Plus d'informations"  : **
+Cliquez sur **"Plus d'informations"  :**&#x20;
 
 ![](<../.gitbook/assets/image (43).png>)
 
-Puis sur** "Modifier les informations"**
+Puis sur **"Modifier les informations"**
 
 ![](<../.gitbook/assets/image (39).png>)
 

@@ -14,14 +14,14 @@
 
 ## Si je suis prescripteur habilité je peux également :&#x20;
 
-✅ **Valider l'éligibilité IAE **de mon candidat en réalisant un diagnostic social et professionnel individuel
+✅ **Valider l'éligibilité IAE** de mon candidat en réalisant un diagnostic social et professionnel individuel
 
 💥  **Déroger aux critères administratifs** exigés pour l'IAE
 
-💫 **Déroger au délai de carence **imposé entre 2 parcours IAE (délai de carence = 2 ans)
+💫 **Déroger au délai de carence** imposé entre 2 parcours IAE (délai de carence = 2 ans)
 
 🕧 **Autoriser une prolongation de parcours IAE**
 
 
 
-### **    **:point\_right:** **[**Je suis prescripteur ? Je m'inscris**](https://emplois.inclusion.beta.gouv.fr)****
+### &#x20;   ****    :point\_right: **** [**Je suis prescripteur ? Je m'inscris**](https://emplois.inclusion.beta.gouv.fr)****

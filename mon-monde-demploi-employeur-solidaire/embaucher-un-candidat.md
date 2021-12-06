@@ -11,12 +11,12 @@ Vérifiez/Complétez les données du candidat
 Renseignez les dates de contrat et le message de réponse (une copie est transmise au candidat et au prescripteur si la candidature a été transmise par un prescripteur)
 
 {% hint style="danger" %}
-**On ne peut pas antidater une date de début de contrat. **
+**On ne peut pas antidater une date de début de contrat.**&#x20;
 {% endhint %}
 
 ![](<../.gitbook/assets/image (164).png>)
 
-Si vous avez besoin d'obtenir/récupérer un PASS IAE : cliquez sur<mark style="background-color:green;">** "Je l'embauche et j'obtiens un PASS IAE".**</mark>
+Si vous avez besoin d'obtenir/récupérer un PASS IAE : cliquez sur <mark style="background-color:green;">**"Je l'embauche et j'obtiens un PASS IAE".**</mark>
 
 {% hint style="danger" %}
 Si le candidat a déjà un PASS IAE en cours de validité et que vous avez besoin de déclarer son embauche dans l'ASP vous devez obligatoirement cliquer sur "Je l'embauche et j'obtiens un PASS IAE"

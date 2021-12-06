@@ -6,16 +6,16 @@ description: >-
 
 # 🚀La Bande à ITOU !
 
-Intégrer la **communauté des **[**ambassadeurs et ambassadrices**](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md), c'est profiter de certains **privilèges** :
+Intégrer la **communauté des** [**ambassadeurs et ambassadrices**](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md), c'est profiter de certains **privilèges** :
 
 1. Être en **échange direct** avec l’équipe [**ITOU**](https://beta.gouv.fr/startups/itou.html)&#x20;
 2. Découvrir les **informations en avant-première**
 3. **Échanger entre pairs** au sein de la communauté&#x20;
-4. **Partager **vos bonnes pratiques, vos idées, vos outils et supports de communication
-5. Être **identifié comme ambassadeur et ambassadrice **par vos partenaires
+4. **Partager** vos bonnes pratiques, vos idées, vos outils et supports de communication
+5. Être **identifié comme ambassadeur et ambassadrice** par vos partenaires
 6. **Participer à l'évolution** de la Plateforme (groupes de travail, [**OpenLabs**](pourquoi-une-plateforme-de-linclusion/participer-a-la-plateforme-de-linclusion.md#les-openlab-sont-ouverts-a-tous), tests...)
 
-**Être ambassadeur ou ambassadrice volontaire**, c'est aussi accompagner la Plateforme de l'inclusion dans son déploiement : vous **organisez des réunions, **en autonomie ou avec d’autres membres de la communauté de votre zone (région, département, ville), **selon vos disponibilités**.\
+**Être ambassadeur ou ambassadrice volontaire**, c'est aussi accompagner la Plateforme de l'inclusion dans son déploiement : vous **organisez des réunions,** en autonomie ou avec d’autres membres de la communauté de votre zone (région, département, ville), **selon vos disponibilités**.\
 \
 
 
@@ -40,7 +40,7 @@ Intégrer la **communauté des **[**ambassadeurs et ambassadrices**](pourquoi-un
 
 **RETOURS UTILISATEURS / UTILISATRICES :**
 
-* Participer aux[** Openlabs**](pourquoi-une-plateforme-de-linclusion/participer-a-la-plateforme-de-linclusion.md#les-openlab-sont-ouverts-a-tous) / aux groupes de travail et de co-construction
+* Participer aux[ **Openlabs**](pourquoi-une-plateforme-de-linclusion/participer-a-la-plateforme-de-linclusion.md#les-openlab-sont-ouverts-a-tous) / aux groupes de travail et de co-construction
 * Être sollicité pour un feedback et/ou un test utilisateur
 * Identifier les personnes sceptiques sur l'intérêt, l'utilité et/ou le fonctionnement de la Plateforme de l'inclusion
 
@@ -52,7 +52,7 @@ Intégrer la **communauté des **[**ambassadeurs et ambassadrices**](pourquoi-un
 ![](.gitbook/assets/capture-de-cran-2020-07-02-a-15.34.53.png)
 
 {% hint style="success" %}
-Vous souhaitez vous aussi **devenir **[**ambassadrice ou ambassadeur**](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md)** **?&#x20;
+Vous souhaitez vous aussi **devenir** [**ambassadrice ou ambassadeur**](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md) **** ?&#x20;
 
 :point\_right: Nous vous invitons à [**remplir ce questionnaire**](https://docs.google.com/forms/d/e/1FAIpQLSdMqvNwnXX8CZ-LJuFl5MU4sYM-v-QLOXZJT87BNJZC9rF0rQ/viewform), laissez-vous ensuite guider ! Vous recevrez ensuite automatiquement les **invitations à nos rendez-vous**.
 {% endhint %}

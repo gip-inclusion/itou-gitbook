@@ -14,7 +14,7 @@ description: >-
 {% hint style="success" %}
 **⌛ Durée : 1h30**
 
-**📜 Programme: une présentation détaillée du site les emplois de l'inclusion spéciale prescripteurs + des réponses à vos questions **
+**📜 Programme: une présentation détaillée du site les emplois de l'inclusion spéciale prescripteurs + des réponses à vos questions**&#x20;
 
 * ****[**Mercredi 3 Novembre à 10h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-26?type=detailed)****
 * ****[**Lundi 15 Novembre à 15h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-27?type=detailed)****
@@ -38,5 +38,5 @@ En vous inscrivant, vous recevrez un lien d'accès individuel. Le jour J pensez 
 {% endhint %}
 
 {% hint style="info" %}
-&#x20;Vous souhaitez** organiser un webinaire de formation** sur votre territoire ou au sein de votre réseau ? :point\_right:****[**Accéder au formulaire**](https://startupsbeta.typeform.com/to/btgqYsdQ) ! :blush:&#x20;
+&#x20;Vous souhaitez **organiser un webinaire de formation** sur votre territoire ou au sein de votre réseau ? :point\_right:****[**Accéder au formulaire**](https://startupsbeta.typeform.com/to/btgqYsdQ) ! :blush:&#x20;
 {% endhint %}

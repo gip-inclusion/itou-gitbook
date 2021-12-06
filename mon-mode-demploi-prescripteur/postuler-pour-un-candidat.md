@@ -8,7 +8,7 @@ Dans le bloc candidatures, cliquez sur **"Postuler pour un candidat"**
 
 La page du moteur de recherche des employeurs s'affiche :&#x20;
 
-**Ecrivez le nom de la ville**, **sélectionnez-là dans le menu déroulant **(1), puis cliquez sur "**Rechercher" (**2)
+**Ecrivez le nom de la ville**, **sélectionnez-là dans le menu déroulant** (1), puis cliquez sur "**Rechercher" (**2)
 
 {% hint style="danger" %}
 La ville doit obligatoirement être sélectionnée dans le menu déroulant sinon elle ne sera pas reconnue. Si le menu déroulant ne s'affiche pas, il faut mettre à jour votre navigateur.&#x20;
@@ -18,7 +18,7 @@ La ville doit obligatoirement être sélectionnée dans le menu déroulant sinon
 
 Les employeurs solidaires qui se situent à 25 km autour de la ville recherchée, s'affichent :&#x20;
 
-**Sur la gauche, vous trouverez des filtres **( Distance en Km, Départements, Arrondissement pour Paris-Lyon- Marseille, et par type de structure), il vous suffit de sélectionner le ou les filtres de votre choix pour affiner ou élargir votre recherche
+**Sur la gauche, vous trouverez des filtres** ( Distance en Km, Départements, Arrondissement pour Paris-Lyon- Marseille, et par type de structure), il vous suffit de sélectionner le ou les filtres de votre choix pour affiner ou élargir votre recherche
 
 ![](<../.gitbook/assets/image (102).png>)
 
@@ -47,11 +47,11 @@ Renseignez les 15 chiffres du numéro de Sécurité Sociale du candidat
 ![](<../.gitbook/assets/image (169) (1) (1).png>)
 
 {% hint style="warning" %}
-Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
+Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 :**&#x20;
 
-**Renseignez uniquement les 10 premiers chiffres, **
+**Renseignez uniquement les 10 premiers chiffres,**&#x20;
 
-**cliquez sur "Continuer" : **
+**cliquez sur "Continuer" :**&#x20;
 
 **Un bandeau bleu s'affiche **<mark style="background-color:blue;"><mark style="color:blue;">**"Vous possédez un numéro de sécurité sociale temporaire ? Cliquez ici pour accéder à l'étape suivante"**<mark style="color:blue;"></mark>
 {% endhint %}
@@ -60,7 +60,7 @@ Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
 
 ## Etape 2 : Renseignez l'e-mail personnel du candidat
 
-**Renseignez l'adresse e-mail personnelle du candidat et cliquez sur "Continuer". **Si le candidat ne possède pas d'adresse e-mail cliquez sur "le candidat n'a pas d'e-mail" et laissez vous guider.
+**Renseignez l'adresse e-mail personnelle du candidat et cliquez sur "Continuer".** Si le candidat ne possède pas d'adresse e-mail cliquez sur "le candidat n'a pas d'e-mail" et laissez vous guider.
 
 {% hint style="danger" %}
 Attention il ne faut surtout pas utiliser votre adresse e-mail ou celle d'un collègue
@@ -77,7 +77,7 @@ Attention il ne faut surtout pas utiliser votre adresse e-mail ou celle d'un col
 
 ## Etape 3 :  Renseignez le formulaire d'identification du candidat
 
-**Renseignez toutes les informations demandées **puis cliquez sur** "Continuer"**
+**Renseignez toutes les informations demandées** puis cliquez sur **"Continuer"**
 
 ![](<../.gitbook/assets/image (84).png>)
 
@@ -91,7 +91,7 @@ Si votre candidat est inscrit chez Pôle emploi, pensez à renseigner son identi
 Cette étape n'est visible que pour les prescripteurs habilités lorsqu'ils postulent auprès d'une SIAE.
 {% endhint %}
 
-**Sélectionnez le ou les  critère(s) relatif(s) à la situation administrative du candidat **puis cliquez sur **"Valider" **
+**Sélectionnez le ou les  critère(s) relatif(s) à la situation administrative du candidat** puis cliquez sur **"Valider"**&#x20;
 
 {% hint style="success" %}
 Si le candidat n'a aucun critère il sera tout de même possible de valider l'éligibilité à l'IAE car le statut de prescripteur habilité permet de [déroger aux critères administratifs.](../qui-est-eligible-iae-criteres-eligibilite/derogation-criteres.md)
@@ -123,7 +123,7 @@ Plus votre message sera précis et plus l'employeur sera en mesure de détermine
 
 Le CV est facultatif lorsque vous postulez (sauf si l'employeur l'a mentionné dans la fiche de poste)
 
-Vous pouvez cliquer sur **"Choisissez un fichier" **pour récupérer le CV depuis votre ordinateur, vous pouvez également le glisser directement dans la fenêtre dédiée.
+Vous pouvez cliquer sur **"Choisissez un fichier"** pour récupérer le CV depuis votre ordinateur, vous pouvez également le glisser directement dans la fenêtre dédiée.
 
 Pour être ajouté, le CV doit être au format PDF
 
@@ -134,7 +134,7 @@ SI vous souhaitez convertir votre document au format PDF, voici des tutoriels po
 
 
 
-Cliquez sur **"Envoyer la candidature" **pour transmettre la candidature à l'employeur
+Cliquez sur **"Envoyer la candidature"** pour transmettre la candidature à l'employeur
 
 {% hint style="success" %}
 Une notification e-mail est transmise à l'employeur et au candidat. L'employeur pourra retrouver la candidature directement dans son tableau de bord avec toutes les informations que vous avez renseignées.&#x20;

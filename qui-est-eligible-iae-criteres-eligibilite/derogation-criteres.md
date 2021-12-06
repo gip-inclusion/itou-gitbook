@@ -18,7 +18,7 @@ Voici la procédure :&#x20;
 Si besoin vous pouvez utiliser le [moteur de recherche des prescripteurs habilités](https://inclusion.beta.gouv.fr/search/prescribers)
 {% endhint %}
 
-**2- Si le prescripteur est d'accord, il lui suffit de vous transmettre la candidature **depuis son tableau de bord. Le prescripteur n'a aucun justificatif à vous transmettre ni à conserver.
+**2- Si le prescripteur est d'accord, il lui suffit de vous transmettre la candidature** depuis son tableau de bord. Le prescripteur n'a aucun justificatif à vous transmettre ni à conserver.
 
 **3- Récupérez la candidature dans vos candidatures à traiter et validez l'embauche**, vous n'avez aucune pièce justificative à conserver
 

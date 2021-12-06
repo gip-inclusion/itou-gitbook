@@ -23,5 +23,5 @@ Employeurs solidaires
 {% hint style="info" %}
 **Une demande d'outils ? Une suggestion ? N'hésitez pas à nous solliciter !**
 
-:point\_right:[ **L'équipe est là pour vous, contactez-nous**](https://assistance.inclusion.beta.gouv.fr)** **:blush:&#x20;
+:point\_right:[ **L'équipe est là pour vous, contactez-nous**](https://assistance.inclusion.beta.gouv.fr) **** :blush:&#x20;
 {% endhint %}

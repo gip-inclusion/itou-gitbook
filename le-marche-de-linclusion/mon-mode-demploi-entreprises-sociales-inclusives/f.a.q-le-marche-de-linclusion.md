@@ -2,23 +2,23 @@
 
 ## 🟡 LISTE DES QUESTIONS  :
 
-1️⃣ **\[ INSCRIPTION \]**
+1️⃣ **\[ INSCRIPTION ]**
 
-[J'ai déjà créé un compte sur la Plateforme de l'inclusion, est-ce que j'ai besoin d'en faire un nouveau ?](../../reponses-a-mes-questions-faq/le-marche-de-linclusion.md#jai-deja-cree-un-compte-sur-la-plateforme-de-linclusion-est-ce-que-jai-besoin-den-faire-un-nouveau)
+[J'ai déjà créé un compte sur la Plateforme de l'inclusion, est-ce que j'ai besoin d'en faire un nouveau ?](broken-reference)
 
-[Je gère plusieurs structures, faut-il un compte pour chacune d'entre elles ?](../../reponses-a-mes-questions-faq/le-marche-de-linclusion.md#je-gere-plusieurs-structures-faut-il-un-compte-pour-chacune-dentre-elles)
+[Je gère plusieurs structures, faut-il un compte pour chacune d'entre elles ?](broken-reference)
 
-[Je suis le ou la responsable de la structure, or ce n'est pas moi qui gère l'interface avec les clients, est-ce à moi de créer le compte ?](../../reponses-a-mes-questions-faq/le-marche-de-linclusion.md#je-suis-le-ou-la-responsable-de-la-structure-or-ce-nest-pas-moi-qui-gere-linterface-avec-les-clients-est-ce-a-moi-de-creer-le-compte)
+[Je suis le ou la responsable de la structure, or ce n'est pas moi qui gère l'interface avec les clients, est-ce à moi de créer le compte ?](broken-reference)
 
-**2️⃣ \[ MISE À JOUR DE VOTRE PROFIL \]**
+**2️⃣ \[ MISE À JOUR DE VOTRE PROFIL ]**
 
-[Comment faire pour que mon profil soit certifié ?](../../reponses-a-mes-questions-faq/le-marche-de-linclusion.md#comment-faire-pour-que-mon-profil-soit-certifie)
+[Comment faire pour que mon profil soit certifié ?](broken-reference)
 
-**3️⃣ \[ PUBLICATION D'UNE OFFRE SUR LE MARCHÉ \]**
+**3️⃣ \[ PUBLICATION D'UNE OFFRE SUR LE MARCHÉ ]**
 
-[J'ai posté une offre de prestation mais celle-ci n'apparaît toujours pas sur le Marché, pourquoi ?](../../reponses-a-mes-questions-faq/le-marche-de-linclusion.md#jai-poste-une-offre-de-prestation-mais-celle-ci-napparait-toujours-pas-sur-le-marche-pourquoi)
+[J'ai posté une offre de prestation mais celle-ci n'apparaît toujours pas sur le Marché, pourquoi ?](broken-reference)
 
-[Comment rédiger une offre claire et attractive pour les acheteurs ?](../../reponses-a-mes-questions-faq/le-marche-de-linclusion.md#comment-rediger-une-offre-claire-et-attractive-pour-les-acheteurs)
+[Comment rédiger une offre claire et attractive pour les acheteurs ?](broken-reference)
 
 Puis-je faire une offre globale pour tous mes services ?
 
@@ -26,14 +26,14 @@ Je fais de la mise à disposition de personnel, je peux proposer de nombreux ser
 
 J'ai plusieurs établissements qui proposent des services identiques, comment dupliquer ces offres ?
 
-## 🟢LES REPONSES : 
+## 🟢LES REPONSES :&#x20;
 
 ## 1️⃣ INSCRIPTION
 
 ### _J'ai déjà créé un compte sur la Plateforme de l'inclusion, est-ce que j'ai besoin d'en faire un nouveau ?_
 
 {% hint style="info" %}
-Oui ! Pour le moment, les deux services ne sont pas liés et vous devez disposer d'un accès différent. 
+Oui ! Pour le moment, les deux services ne sont pas liés et vous devez disposer d'un accès différent.&#x20;
 {% endhint %}
 
 ### _Je gère plusieurs structures, faut-il un compte pour chacune d'entre elles ?_
@@ -69,9 +69,9 @@ Si ces trois conditions sont réunies, nous "certifions" votre profil. Cette act
 ### _J'ai posté une offre de prestation mais celle-ci n'apparaît toujours pas sur le Marché, pourquoi ?_
 
 {% hint style="info" %}
-Lorsqu'une offre est postée sur le Marché de l'inclusion, elle est soumise à validation par nos équipes. Nous nous assurons qu'elle remplisse quelques critères de qualité conformément aux attentes des acheteurs qui viennent visiter les différentes annonces. 
+Lorsqu'une offre est postée sur le Marché de l'inclusion, elle est soumise à validation par nos équipes. Nous nous assurons qu'elle remplisse quelques critères de qualité conformément aux attentes des acheteurs qui viennent visiter les différentes annonces.&#x20;
 
-Une fois que nous constatons que votre annonce correspond bien à [une offre claire et attractive](../../reponses-a-mes-questions-faq/le-marche-de-linclusion.md#comment-rediger-une-offre-claire-et-attractive-pour-les-acheteurs), nous la publions et elle sera ainsi visible par tous les visiteurs.
+Une fois que nous constatons que votre annonce correspond bien à [une offre claire et attractive](broken-reference), nous la publions et elle sera ainsi visible par tous les visiteurs.
 {% endhint %}
 
 ### _Comment rédiger une offre claire et attractive pour les acheteurs ?_
@@ -79,9 +79,8 @@ Une fois que nous constatons que votre annonce correspond bien à [une offre cla
 {% hint style="info" %}
 Afin de passer votre annonce en statut : publiée, nous vérifions certains critères. Ainsi, votre offre doit :
 
-* Correspondre à un seul type d'activité. \(une offre par prestation différente\)
+* Correspondre à un seul type d'activité. (une offre par prestation différente)
 * Avoir un titre clair en lien avec la prestation proposée
 * Être suffisamment détaillée et fournir à l'acheteur tous les éléments utiles qui l'aideront à prendre sa décision.
 * Être illustrée d'une ou plusieurs photos de qualité afin d'être rapidement identifiée parmi les annonces en ligne.
 {% endhint %}
-

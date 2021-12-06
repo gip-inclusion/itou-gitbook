@@ -8,7 +8,7 @@
 
 ![](<../.gitbook/assets/image (6).png>)
 
-3\. Renseignez le Prénom, Nom et Adresse mail de votre collaborateur puis cliquez sur **Envoyer. **Vous pouvez en inviter plusieurs en même temps en cliquant sur **"Ajouter un autre collaborateur"**
+3\. Renseignez le Prénom, Nom et Adresse mail de votre collaborateur puis cliquez sur **Envoyer.** Vous pouvez en inviter plusieurs en même temps en cliquant sur **"Ajouter un autre collaborateur"**
 
 ![](<../.gitbook/assets/image (5).png>)
 

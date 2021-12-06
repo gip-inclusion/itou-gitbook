@@ -14,7 +14,7 @@ Une fois le téléchargement terminé, n'ouvrez pas directement le fichier.
 
 ### **👉 Ouvrez une nouvelle page Excel**
 
-Cliquez sur** "Données", **puis sur** "A partir d'un fichier texte/CSV"**
+Cliquez sur **"Données",** puis sur **"A partir d'un fichier texte/CSV"**
 
 ![](<../.gitbook/assets/image (70).png>)
 

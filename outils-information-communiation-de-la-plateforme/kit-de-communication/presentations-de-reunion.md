@@ -6,7 +6,7 @@ description: Simplifiez vos présentations et  gagnez du temps
 
 **Ces présentations sous formats modifiables vous permettent d'organiser vos réunions rapidement et avec simplicité.**
 
-### Présentation pour réunion **de déploiement **via LiveStorm
+### Présentation pour réunion **de déploiement** via LiveStorm
 
 {% file src="../../.gitbook/assets/livestorm_presentation-plateforme-de-linclusion.pptx" %}
 

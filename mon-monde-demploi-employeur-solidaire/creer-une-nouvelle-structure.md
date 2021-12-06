@@ -1,7 +1,7 @@
 # Créer une nouvelle structure
 
 {% hint style="warning" %}
-Seul **l'administrateur **(celui qui a créé le compte) peut **ajouter une nouvelle structure**. Pour **changer d'administrateur**, merci de nous [**contacter par mail**.](https://assistance.inclusion.beta.gouv.fr)
+Seul **l'administrateur** (celui qui a créé le compte) peut **ajouter une nouvelle structure**. Pour **changer d'administrateur**, merci de nous [**contacter par mail**.](https://assistance.inclusion.beta.gouv.fr)
 {% endhint %}
 
 {% hint style="info" %}

@@ -125,12 +125,12 @@ Si vous avez postulé pour lui en indiquant son mail, il sera informé par mail 
 {% hint style="info" %}
 _Il existe 7 types de statut :_
 
-* _**Nouvelle candidature **= L'employeur n'a pas encore pris connaissance de la candidature_
+* _**Nouvelle candidature** = L'employeur n'a pas encore pris connaissance de la candidature_
 * _**Candidature à l'étude =** L'employeur a pris connaissance de la candidature_
-* _**Candidature acceptée = **L'employeur a décidé d'embaucher le candidat_
-* _**Embauche pour plus tard **= L'employeur a différé la réponse ( l'embauche n'est pas garantie)_
+* _**Candidature acceptée =** L'employeur a décidé d'embaucher le candidat_
+* _**Embauche pour plus tard** = L'employeur a différé la réponse ( l'embauche n'est pas garantie)_
 * _**Candidature déclinée =** L'employeur a refusé la candidature_
-* _**Embauche annulée = **L'employeur avait accepté l'embauche mais s'est rétracté ( exemple : le candidat ne se présente pas)_
+* _**Embauche annulée =** L'employeur avait accepté l'embauche mais s'est rétracté ( exemple : le candidat ne se présente pas)_
 * _**Embauché ailleurs =** Une autre structure a embauché ce candidat_
 {% endhint %}
 
@@ -163,10 +163,10 @@ Si cela est nécessaire, vous pouvez contacter l'employeur et/ou renouveler la c
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion **](https://forum.inclusion.beta.gouv.fr)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles (exemple : demande d'information sur le fonctionnement des emplois de l'inclusion).
+* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles (exemple : demande d'information sur le fonctionnement des emplois de l'inclusion).
 
 
 
-* 📝[**Contacter l’équipe**](https://assistance.inclusion.beta.gouv.fr)** . **Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande (exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …)
+* 📝[**Contacter l’équipe**](https://assistance.inclusion.beta.gouv.fr) **.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande (exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …)
 {% endhint %}
 

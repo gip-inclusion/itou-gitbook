@@ -6,11 +6,10 @@ Si la situation d'un salarié le nécessite, il est possible sous certaines cond
 
 | 📃Motifs                                                                                   | ⏱Durées                                                                                                                                         |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:green;">**CDI conclu avec une personne âgée d'au moins 57 ans **</mark> | <p>12 mois de prolongation maximum. </p><p>Renouvellements : jusqu'à la rupture du CDI à l'initiative de l'employeur ou à celle du salarié.</p> |
+| <mark style="color:green;">**CDI conclu avec une personne âgée d'au moins 57 ans**</mark>  | <p>12 mois de prolongation maximum. </p><p>Renouvellements : jusqu'à la rupture du CDI à l'initiative de l'employeur ou à celle du salarié.</p> |
 | <mark style="color:green;">**Fin d'une formation**</mark>                                  | Jusqu'à la fin de l'action de formation                                                                                                         |
 | **RQTH**                                                                                   | <p>12 mois de prolongation maximum. </p><p>Renouvellements : dans la limite de 5 ans.</p>                                                       |
 | **50 ans et plus**                                                                         | <p>12 mois de prolongation maximum.</p><p>Renouvellements : dans la limite de 7 ans.</p>                                                        |
-| **Contexte sanitaire (motif temporaire)**                                                  | 12 mois de prolongation maximum.                                                                                                                |
 
 ### 🟠Motif de prolongation supplémentaire pour les AI et ACI&#x20;
 
@@ -19,13 +18,13 @@ Si la situation d'un salarié le nécessite, il est possible sous certaines cond
 | **Difficultés particulières qui font  obstacle à l'insertion durable  dans l’emploi** | <p>12 mois de prolongation maximum.                                                                                                                                                                      </p><p>Renouvellements : dans la limite de 5 ans.</p> |
 
 {% hint style="success" %}
-**Les motifs**<mark style="color:green;">** "Cdi conclu avec personne âgée d'au moins 57 ans" **</mark>**et**<mark style="color:green;">** "Fin de formation" **</mark>**ne nécessitent pas l'accord préalable d'un prescripteur habilité**
+**Les motifs **<mark style="color:green;">**"Cdi conclu avec personne âgée d'au moins 57 ans"**</mark>** et **<mark style="color:green;">**"Fin de formation"**</mark>** ne nécessitent pas l'accord préalable d'un prescripteur habilité**
 {% endhint %}
 
 {% hint style="info" %}
 ## Comment ça marche ?&#x20;
 
-1️⃣** L'employeur sollicite un prescripteur habilité pour demander la prolongation**.&#x20;
+1️⃣ **L'employeur sollicite un prescripteur habilité pour demander la prolongation**.&#x20;
 
 Cette demande se fait en dehors du site (e-mail, courrier, téléphone) :&#x20;
 
@@ -34,10 +33,10 @@ Cette demande se fait en dehors du site (e-mail, courrier, téléphone) :&#x20;
 
 
 
-2️⃣ **Le prescripteur habilité prend sa décision : **
+2️⃣ **Le prescripteur habilité prend sa décision :**&#x20;
 
-* <mark style="color:green;">**S'il donne son accord**</mark> <mark style="color:green;">: l'employeur peut enregistrer l'autorisation de prolongation</mark> <mark style="color:blue;"></mark>[<mark style="color:blue;">\[voir mode d'emploi\]</mark>](prolonger-un-pass-iae.md#mode-demploi-pour-enregistrer-une-demande-de-prolongation-en-ligne)<mark style="color:blue;">.</mark>
-* <mark style="color:red;">**S'il refuse :**</mark><mark style="color:red;"><mark style="color:green;">** **<mark style="color:green;"></mark><mark style="color:red;">il doit motiver le refus par écrit et notifier, par tout moyen la structure et le salarié ou candidat.</mark>
+* <mark style="color:green;">**S'il donne son accord**</mark> <mark style="color:green;"></mark><mark style="color:green;">: l'employeur peut enregistrer l'autorisation de prolongation</mark> <mark style="color:blue;"></mark> [<mark style="color:blue;">\[voir mode d'emploi\]</mark>](prolonger-un-pass-iae.md#mode-demploi-pour-enregistrer-une-demande-de-prolongation-en-ligne)<mark style="color:blue;">.</mark>
+* <mark style="color:red;">**S'il refuse :**</mark><mark style="color:red;">** **</mark><mark style="color:red;"><mark style="color:green;">****<mark style="color:green;"></mark> <mark style="color:red;"></mark><mark style="color:red;">il doit motiver le refus par écrit et notifier, par tout moyen la structure et le salarié ou candidat.</mark>
 
 <mark style="color:red;"></mark>
 {% endhint %}
@@ -45,7 +44,7 @@ Cette demande se fait en dehors du site (e-mail, courrier, téléphone) :&#x20;
 ## Mode d'emploi pour enregistrer une demande de prolongation en ligne :&#x20;
 
 {% hint style="danger" %}
-L'enregistrement de l'autorisation de prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément. **
+L'enregistrement de l'autorisation de prolongation est **possible dès le 3ème mois qui précède la fin d'un agrément et jusqu'au dernier jour de validité d'un agrément.**&#x20;
 
 Si l'agrément  est expiré il ne sera plus possible de demander une prolongation.
 {% endhint %}
@@ -66,7 +65,7 @@ Cliquez sur "Prolonger" et compléter le[ formulaire de prolongation](prolonger-
 
 ### Cas 2 : L'agrément du candidat/salarié n'est pas disponible dans votre tableau de bord
 
-Depuis votre tableau de bord, dans le bloc "Mes candidatures", cliquez sur** "Prolonger/Suspendre un agrément"**
+Depuis votre tableau de bord, dans le bloc "Mes candidatures", cliquez sur **"Prolonger/Suspendre un agrément"**
 
 ![](<../.gitbook/assets/image (83).png>)
 
@@ -94,7 +93,7 @@ Complétez le formulaire d'autorisation, puis cliquez sur **"Valider la déclara
 
 ![Sur cet écran le motif "difficultés particulières..." n'apparait pas car la structure n'est pas concernée](<../.gitbook/assets/image (121).png>)
 
-Vérifiez les informations puis cliquez sur**  "Confirmer la déclaration"**
+Vérifiez les informations puis cliquez sur  **"Confirmer la déclaration"**
 
 ![](<../.gitbook/assets/image (103).png>)
 

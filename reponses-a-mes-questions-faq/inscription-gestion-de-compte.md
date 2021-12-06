@@ -78,7 +78,7 @@ description: �� Un moteur de recherche est disponible en haut à droite ↗�
 
 ## 1️⃣ INSCRIPTION
 
-### _Je veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ? _
+### _Je veux créer un compte Prescripteur, mais je ne trouve pas mon organisation dans la liste des prescripteurs ?_&#x20;
 
 {% hint style="info" %}
 La liste correspond uniquement aux prescripteurs habilités au national.&#x20;
@@ -94,7 +94,7 @@ Si votre organisation n'est pas habilitée, vous pouvez créer votre compte orie
 ### Je n'arrive pas à créer mon compte Employeur ou j'ai un message ''Siret non reconnu'' que dois-je faire ?
 
 {% hint style="info" %}
-**Pour les SIAE : **
+**Pour les SIAE :**&#x20;
 
 Nous recevons les données concernant les entreprises récemment (re)conventionnées assez régulièrement, mais pas en temps réel.
 
@@ -107,7 +107,7 @@ Ainsi, nous vous invitons à renouveler assez souvent votre tentative d'inscript
 
 Dès que ces éléments seront portés à notre connaissance, nous procéderons à la création de votre SIAE
 
-**Pour les GEIQ/EA : **
+**Pour les GEIQ/EA :**&#x20;
 
 &#x20;Si vous tentez d'inscrire une Entreprise Adaptée ou un GEIQ, merci d'utiliser [ce formulaire](https://itou.typeform.com/to/RYfNLR79).
 {% endhint %}
@@ -135,14 +135,14 @@ Il faut renvoyer une nouvelle invitation.
 {% hint style="info" %}
 Les employeurs peuvent créer leur antennes depuis leur tableau de bord.
 
-**En revanche les prescripteurs doivent **[**nous contacter** ](https://assistance.inclusion.beta.gouv.fr)pour que nous puissions créer les différentes antennes.
+**En revanche les prescripteurs doivent** [**nous contacter** ](https://assistance.inclusion.beta.gouv.fr)pour que nous puissions créer les différentes antennes.
 
 _Exemple  : Un Conseil Départemental a 10 Maisons du département dans différentes villes, ces maisons du département ont le même numéro SIRET que le Conseil Départemental._
 
 _Le service social conseil départemental a déjà créé le compte de l'organisation mère ( = Le Conseil départemental, siège). En nous contactant nous pourrons créer les 10 antennes ( = Les maisons du département)_
 
 \
-**Prérequis nécessaire à la demande de création d'antennes: **
+**Prérequis nécessaire à la demande de création d'antennes:**&#x20;
 
 Avoir une organisation prescripteur inscrite sur les emplois de l'inclusion ( = Organisation mère )
 {% endhint %}
@@ -254,7 +254,7 @@ Une fois que vous avez créé votre compte Employeur, rendez-vous sur votre ‘�
 La géolocalisation dépend de l'adresse de votre structure. Si l’adresse comporte une erreur, vous pouvez la modifier en cliquant sur "modifier les informations"
 {% endhint %}
 
-### _&#xD;Comment corriger le nom de ma structure s’il est incorrect ?_
+### &#xD;_Comment corriger le nom de ma structure s’il est incorrect ?_
 
 {% hint style="info" %}
 Depuis votre tableau de bord, cliquez sur "Modifier les informations"
@@ -323,7 +323,7 @@ Pour la deuxième organisation et les suivantes  :
 
 2 cas de figure :&#x20;
 
-* **L'autre organisation que vous souhaitez rejoindre a déjà des membres **= il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur les emplois de l'inclusion
+* **L'autre organisation que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur les emplois de l'inclusion
 * **L'autre organisation que vous souhaitez rejoindre n'existe pas encore sur les emplois de l'inclusion**= il faut nous [contacter ](https://assistance.inclusion.beta.gouv.fr)afin que nous puissions créer votre organisation et rattacher votre compte utilisateur
 
 Une fois votre compte rattaché, vous pouvez **passer d'un tableau de bord à l'autre en cliquant sur le bouton situé en haut à droite "changer de structure"**
@@ -340,7 +340,7 @@ Pour la deuxième structure et les suivantes  :
 
 2 cas de figure :&#x20;
 
-* **L'autre structure que vous souhaitez rejoindre a déjà des membres **= il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur les emplois de l'inclusion
+* **L'autre structure que vous souhaitez rejoindre a déjà des membres** = il faut leur demander de vous inviter avec l'adresse mail que vous utilisez sur les emplois de l'inclusion
 * **L'autre structure que vous souhaitez rejoindre n'existe pas encore sur les emplois de l'inclusion**= il vous faudra cliquer sur ["Créer / rejoindre une autre structure"](../mon-monde-demploi-employeur-solidaire/creer-une-nouvelle-structure.md)
 {% endhint %}
 
@@ -361,10 +361,10 @@ Demandez à vos nouveaux collègues de vous inviter sur le tableau de bord de vo
 {% hint style="warning" %}
 **2 Possibilités :**
 
-* 💬 [**Poster votre question sur le Forum de l'inclusion **](https://forum.inclusion.beta.gouv.fr)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles (exemple : demande d'information sur le fonctionnement des emplois de l'inclusion).
+* 💬 [**Poster votre question sur le Forum de l'inclusion** ](https://forum.inclusion.beta.gouv.fr)afin que la communauté puisse vous répondre. La réponse profitera à d'autres utilisateurs 🤝. Privilégiez ce canal lorsqu'il s'agit d'une demande de renseignement sans données personnelles (exemple : demande d'information sur le fonctionnement des emplois de l'inclusion).
 
 
 
-* 📝[**Contacter l’équipe **](https://assistance.inclusion.beta.gouv.fr)**. **Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande (exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …)
+* 📝[**Contacter l’équipe** ](https://assistance.inclusion.beta.gouv.fr)**.** Dans ce cas merci de nous communiquer un maximum d'informations qui nous permettront d'étudier votre demande (exemple : nom prénom mail du candidat, mail de l'utilisateur concerné, numéro du PASS IAE, numéro ID de votre structure ou à défaut numéro de SIRET …)
 {% endhint %}
 

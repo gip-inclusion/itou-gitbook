@@ -1,6 +1,6 @@
 # PASS IAE : Comment ça marche ?
 
-## **Le PASS IAE : **
+## **Le PASS IAE :**&#x20;
 
 * valide l’entrée en parcours IAE du candidat
 * a une durée de validité de 2 ans [(des prolongations sont possibles dans certains cas)](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#prolongation)
@@ -29,7 +29,7 @@ Les orienteurs et les candidats ne peuvent pas valider d'éligibilité à l'IAE,
 Le prescripteur habilité peut valider l'éligibilité à l'IAE d'un candidat sur la base d'un diagnostic socio-professionnel réalisé dans le cadre d'un entretien.
 
 {% hint style="success" %}
-Seul le** **[**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md) peut prescrire un **parcours qui déroge à l'obligation de carence de 2 ans entre 2 parcours IAE et/ou à celle des **[**critères administratifs d'éligibilité IAE.**](./#criteres-administratifs-de-niveau-1)****
+Seul le **** [**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md) peut prescrire un **parcours qui déroge à l'obligation de carence de 2 ans entre 2 parcours IAE et/ou à celle des** [**critères administratifs d'éligibilité IAE.**](./#criteres-administratifs-de-niveau-1)****
 
 **Toutes les candidatures transmises par un prescripteur habilité via les emplois de l'inclusion sont reconnues éligibles à l'IAE pour 6 mois.**
 {% endhint %}

@@ -5,8 +5,8 @@ Les suspensions de PASS IAE sont possibles depuis la fiche candidature disponibl
 {% hint style="success" %}
 L'employeur peut suspendre un PASS IAE pour les motifs suivants :
 
-* ****[**Contrat de travail suspendu**](https://travail-emploi.gouv.fr/droit-du-travail/la-vie-du-contrat-de-travail/article/contrat-de-travail-les-principales-caracteristiques#Quelles-sont-les-situations-entrainant-la-suspension-du-contrat-de-travail-nbsp)** depuis plus de 15 jours **
-* **Contrat de travail rompu **
+* ****[**Contrat de travail suspendu**](https://travail-emploi.gouv.fr/droit-du-travail/la-vie-du-contrat-de-travail/article/contrat-de-travail-les-principales-caracteristiques#Quelles-sont-les-situations-entrainant-la-suspension-du-contrat-de-travail-nbsp) **depuis plus de 15 jours**&#x20;
+* **Contrat de travail rompu**&#x20;
 * **Contrat de travail terminé**
 {% endhint %}
 
@@ -28,11 +28,11 @@ Ensuite sur **"Suspendre"**
 
 Renseignez la date de début et de fin (la suspension peut être rétroactive et il vous sera également possible de modifier les dates en cas de besoin)
 
-_Attention s'il s'agit d'un agrément Pôle emploi récupéré via le module "prolonger/suspendre un agrément"  la rétroactivité n'est pas possible, en cas de besoin vous pouvez _[_nous contacter_](https://assistance.inclusion.beta.gouv.fr/accueil/support)_._
+_Attention s'il s'agit d'un agrément Pôle emploi récupéré via le module "prolonger/suspendre un agrément"  la rétroactivité n'est pas possible, en cas de besoin vous pouvez_ [_nous contacter_](https://assistance.inclusion.beta.gouv.fr/accueil/support)_._
 
 ![](<../.gitbook/assets/image (133).png>)
 
-Sélectionnez le **motif **et cliquez sur **"Valider la suspension"**
+Sélectionnez le **motif** et cliquez sur **"Valider la suspension"**
 
 ![](<../.gitbook/assets/image (138).png>)
 
@@ -44,6 +44,6 @@ La mention "PASS IAE suspendu" est affichée sur la fiche candidature
 
 ![](<../.gitbook/assets/image (136).png>)
 
-Si besoin vous pouvez **"Modifier" **ou **"Annuler"** la suspension (possible uniquement si elle est encore en cours de validité, sinon [contactez-nous ](https://assistance.inclusion.beta.gouv.fr/accueil/support))
+Si besoin vous pouvez **"Modifier"** ou **"Annuler"** la suspension (possible uniquement si elle est encore en cours de validité, sinon [contactez-nous ](https://assistance.inclusion.beta.gouv.fr/accueil/support))
 
 ![](<../.gitbook/assets/image (140).png>)

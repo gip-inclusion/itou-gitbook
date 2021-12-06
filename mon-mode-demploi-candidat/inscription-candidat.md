@@ -1,6 +1,6 @@
 # M'inscrire sur les emplois de l'inclusion
 
-**Rendez-vous sur le **[**site des emplois de l'inclusion,**](https://emplois.inclusion.beta.gouv.fr)** **puis cliquez sur **"S'inscrire/Se connecter" **puis sur **"candidat"**
+**Rendez-vous sur le** [**site des emplois de l'inclusion,**](https://emplois.inclusion.beta.gouv.fr) **** puis cliquez sur **"S'inscrire/Se connecter"** puis sur **"candidat"**
 
 ![](<../.gitbook/assets/image (109).png>)
 
@@ -16,7 +16,7 @@ Si vous avez coché une case (en dehors de la case "[autre](inscription-candidat
 
 Si vous avez un compte sur Pole-emploi.fr vous pouvez utilisez vos identifiants de connexion en cliquant sur **"Se connecter avec Pôle emploi"**
 
-Sinon vous pouvez **créer un compte en renseignant les informations demandées** (e-mail, prénom, nom, mot de passe). Cliquez sur **"inscription" **pour valider le formulaire
+Sinon vous pouvez **créer un compte en renseignant les informations demandées** (e-mail, prénom, nom, mot de passe). Cliquez sur **"inscription"** pour valider le formulaire
 
 {% hint style="success" %}
 Un e-mail de validation vous sera transmis afin de confirmer votre compte. Vous pourrez ensuite accéder à votre tableau de bord candidat

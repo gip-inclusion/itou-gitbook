@@ -23,12 +23,12 @@ Envoyez-nous un mail à [lemarche@inclusion.beta.gouv.fr](mailto:lemarche@inclus
 
 ## Retrouvez les Webinaires en Replay !
 
-### :point\_right:17.12**.20 **Open Webinaire #4 : Inscription sur le Marché de l'inclusion
+### :point\_right:17.12**.20** Open Webinaire #4 : Inscription sur le Marché de l'inclusion
 
 {% embed url="https://youtu.be/-n4V2Fzrh_8" %}
 
 
 
-### :point\_right:27**.10.20 **Open Webinaire #1 : Inscription sur le Marché de l'inclusion
+### :point\_right:27**.10.20** Open Webinaire #1 : Inscription sur le Marché de l'inclusion
 
 {% embed url="https://youtu.be/gtGP_aEIYRQ" %}

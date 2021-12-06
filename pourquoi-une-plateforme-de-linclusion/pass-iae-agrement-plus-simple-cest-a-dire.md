@@ -3,21 +3,21 @@
 ## **Qu'est ce qui change  ?**
 
 * **Suppression de la délivrance de l'agrément par Pôle** **emploi** avant toute embauche IAE
-* En remplacement, **évaluation et validation de l'éligibilité à l’IAE via **[**les emplois de l'inclusion **](https://emplois.inclusion.beta.gouv.fr)**(**[**critères d'éligibilité**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1)**) **selon 2 voies  :&#x20;
+* En remplacement, **évaluation et validation de l'éligibilité à l’IAE via** [**les emplois de l'inclusion** ](https://emplois.inclusion.beta.gouv.fr)**(**[**critères d'éligibilité**](../qui-est-eligible-iae-criteres-eligibilite/#criteres-administratifs-de-niveau-1)**)** selon 2 voies  :&#x20;
   * Par les [**prescripteurs habilités**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)****
-  * Directement par les [**SIAE **](pass-iae-agrement-plus-simple-cest-a-dire.md#recrutement-direct-par-une-siae)****
-* **Délivrance d'un **[**PASS IAE**](../qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md)** déclenché par la SIAE** lors de la confirmation d'embauche sur le site
+  * Directement par les [**SIAE** ](pass-iae-agrement-plus-simple-cest-a-dire.md#recrutement-direct-par-une-siae)****
+* **Délivrance d'un** [**PASS IAE**](../qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md) **déclenché par la SIAE** lors de la confirmation d'embauche sur le site
 
 {% content-ref url="../qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md" %}
 [pass-iae-comment-ca-marche.md](../qui-est-eligible-iae-criteres-eligibilite/pass-iae-comment-ca-marche.md)
 {% endcontent-ref %}
 
-### **                                    Le Pass IAE versus l'agrément Pôle emploi**
+### &#x20;                                   **Le Pass IAE versus l'agrément Pôle emploi**
 
 ![](../.gitbook/assets/capture-de-cran-2020-07-06-a-12.49.19.png)
 
 {% hint style="info" %}
-:point\_right:****[** Retrouvez tout le détail de la refonte de l'agrément**](https://synesi.fr/wp-content/uploads/2019/09/20190910-Pacte\_d\_ambition\_iae\_sept\_2019\_Mesure-29.pdf)
+:point\_right:****[ **Retrouvez tout le détail de la refonte de l'agrément**](https://synesi.fr/wp-content/uploads/2019/09/20190910-Pacte\_d\_ambition\_iae\_sept\_2019\_Mesure-29.pdf)
 {% endhint %}
 
 ## Vérification des demandes de PASS IAE
@@ -42,7 +42,7 @@ Dans ce dernier cas, l’employeur peut se rapprocher d’un prescripteur habili
 
 
 {% hint style="info" %}
-**Pour trouver les **[**prescripteurs habilités**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national)** proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
+**Pour trouver les** [**prescripteurs habilités**](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national) **proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
 {% endhint %}
 
 ## **Extension, Suspension, Prolongation, Dérogation, Interruption : Quels changements avec le PASS IAE ?**
@@ -97,7 +97,7 @@ L'enregistrement d'une prolongation est possible dès le 3ème mois qui précèd
 ### Dérogation au délai de carence
 
 {% hint style="warning" %}
-Seuls les[ **prescripteurs habilités **](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national)peuvent déroger au délai de carence exigé entre 2 Pass IAE/Agréments  (= 2 ans).
+Seuls les[ **prescripteurs habilités** ](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national)peuvent déroger au délai de carence exigé entre 2 Pass IAE/Agréments  (= 2 ans).
 
 Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoyer la candidature à l'employeur.
 {% endhint %}
@@ -105,13 +105,13 @@ Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoye
 ### Dérogation aux critères administratifs exigés pour entrer en parcours IAE
 
 {% hint style="warning" %}
-Les [**prescripteurs habilités **](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national)sont les seuls autorisés à prescrire un parcours IAE à un candidat qui ne remplit pas les critères d'éligibilité.&#x20;
+Les [**prescripteurs habilités** ](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national)sont les seuls autorisés à prescrire un parcours IAE à un candidat qui ne remplit pas les critères d'éligibilité.&#x20;
 
 Pour ce faire, le prescripteur habilité doit utiliser la Plateforme pour envoyer la candidature à l'employeur.
 {% endhint %}
 
 {% hint style="success" %}
-**Pour trouver les **[**prescripteurs habilités **](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national)**proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
+**Pour trouver les** [**prescripteurs habilités** ](qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national)**proches de vous, pensez à utiliser le moteur de recherche depuis votre tableau de bord !**
 {% endhint %}
 
 ### Interruption

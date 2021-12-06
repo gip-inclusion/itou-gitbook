@@ -12,7 +12,7 @@ Puis cliquez sur **"Modifier les informations"**
 
 ![](<../.gitbook/assets/image (40).png>)
 
-Corrigez les informations, puis cliquez sur** "Enregistrer"**
+Corrigez les informations, puis cliquez sur **"Enregistrer"**
 
 ![](<../.gitbook/assets/image (36).png>)
 

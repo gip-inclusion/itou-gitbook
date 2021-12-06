@@ -2,7 +2,7 @@
 
 * [📚 Documentation sur la Plateforme de l'inclusion](README.md)
 
-## Les services proposés <a href="les-4-services-proposes-par-la-plateforme-de-linclusion" id="les-4-services-proposes-par-la-plateforme-de-linclusion"></a>
+## Les services proposés <a href="#les-4-services-proposes-par-la-plateforme-de-linclusion" id="les-4-services-proposes-par-la-plateforme-de-linclusion"></a>
 
 ***
 
@@ -97,7 +97,7 @@
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-candidat/inscription-candidat.md)
   * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
 
-## Les dispositifs sur les emplois de l'inclusion <a href="les-dispositifs" id="les-dispositifs"></a>
+## Les dispositifs sur les emplois de l'inclusion <a href="#les-dispositifs" id="les-dispositifs"></a>
 
 ***
 
@@ -109,7 +109,7 @@
 * [♿ Contrat en entreprise adaptée](contrat-en-entreprise-adaptee.md)
 * [⏱ Dispositif Premières Heures en chantier](dispositif-premieres-heures-en-chantier.md)
 
-## F.A.Q & Glossaire <a href="les-f.a.q" id="les-f.a.q"></a>
+## F.A.Q & Glossaire <a href="#les-f.a.q" id="les-f.a.q"></a>
 
 ***
 
@@ -117,9 +117,7 @@
   * [📝 Inscription & Gestion de compte](reponses-a-mes-questions-faq/inscription-gestion-de-compte.md)
   * [✅ Orientation candidat & Eligibilité IAE](reponses-a-mes-questions-faq/diagnostic-et-orientation-du-candidat.md)
   * [👀 Suivi et gestion des candidatures](reponses-a-mes-questions-faq/suivi-des-candidatures.md)
-  * [🔑 Embauches et PASS IAE](reponses-a-mes-questions-faq/pass-iae.md)
   * [👥 Rôle des différents utilisateurs (employeurs, prescripteurs habilités, orienteurs, candidats)](reponses-a-mes-questions-faq/role-des-differents-utilisateurs.md)
-  * [🛒 Le Marché de l'inclusion](reponses-a-mes-questions-faq/le-marche-de-linclusion.md)
   * [🎈 Autre](reponses-a-mes-questions-faq/autre.md)
 * [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
 * [💡 Glossaire de l'inclusion](glossaire-inclusion.md)

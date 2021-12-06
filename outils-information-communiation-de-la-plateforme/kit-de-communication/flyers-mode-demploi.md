@@ -4,7 +4,7 @@ description: Aidez vos partenaires dans la prise en main de la Plateforme
 
 # 4 Flyers mode d'emploi
 
-**Découvrez les modes d'emploi de la Plateforme à joindre à vos mails. Un outil pratique qui aidera vos partenaires à bien s'y retrouver ! **
+**Découvrez les modes d'emploi de la Plateforme à joindre à vos mails. Un outil pratique qui aidera vos partenaires à bien s'y retrouver !**&#x20;
 
 ![](../../.gitbook/assets/capture-de-cran-2020-06-26-a-12.28.49.png)
 

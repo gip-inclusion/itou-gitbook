@@ -15,11 +15,11 @@ Cliquez sur **"Obtenir un PASS IAE (candidature spontanée)"**
 ![](<../.gitbook/assets/image (166) (1).png>)
 
 {% hint style="warning" %}
-Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
+Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 :**&#x20;
 
-**Renseignez uniquement les 10 premiers chiffres, **
+**Renseignez uniquement les 10 premiers chiffres,**&#x20;
 
-**cliquez sur "Continuer" : **
+**cliquez sur "Continuer" :**&#x20;
 
 **Un bandeau bleu s'affiche **<mark style="background-color:blue;"><mark style="color:blue;">**"Vous possédez un numéro de sécurité sociale temporaire ? Cliquez ici pour accéder à l'étape suivante"**<mark style="color:blue;"></mark>
 {% endhint %}
@@ -28,7 +28,7 @@ Si votre candidat a un numéro provisoire qui commence **par 3, 4, 7 ou 8 : **
 
 ## Etape 2 : Renseignez l'e-mail personnel du candidat
 
-**Renseignez l'adresse e-mail personnelle du candidat **et cliquez sur** **<mark style="background-color:blue;">**"Continuer". **</mark>
+**Renseignez l'adresse e-mail personnelle du candidat** et cliquez sur ** **<mark style="background-color:blue;">**"Continuer".**</mark>&#x20;
 
 Si le candidat ne possède pas d'adresse e-mail cliquez sur "le candidat n'a pas d'e-mail" et laissez vous guider.
 
@@ -40,7 +40,7 @@ Attention il ne faut surtout pas utiliser votre adresse e-mail ou celle d'un col
 
 ## Etape 3 :  Renseignez le formulaire d'identification du candidat
 
-**Renseignez toutes les informations demandées **puis cliquez sur** **<mark style="background-color:blue;">**"Continuer"**</mark>
+**Renseignez toutes les informations demandées** puis cliquez sur ** **<mark style="background-color:blue;">**"Continuer"**</mark>
 
 ![](<../.gitbook/assets/image (174) (1).png>)
 
@@ -54,7 +54,7 @@ Renseignez toutes les informations que vous jugez utiles d'enregistrer pour le s
 
 Vous pouvez également enregistrer le CV du candidat en format PDF
 
-Une fois ces éléments complétés, cliquez sur <mark style="background-color:blue;"></mark><mark style="background-color:blue;">**"Enregistrer la candidature"**</mark>
+Une fois ces éléments complétés, cliquez sur <mark style="background-color:blue;"></mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">**"Enregistrer la candidature"**</mark>
 
 ![](<../.gitbook/assets/image (168).png>)
 
@@ -62,7 +62,7 @@ Une fois créée, la candidature est disponible dans la rubrique **"candidatures
 
 La mention "Auto-prescription" est affichée sur la candidature
 
-Cliquez sur <mark style="background-color:blue;">**"Gérer la candidature"**</mark>**  **pour consulter le détail et poursuivre la candidature** **
+Cliquez sur <mark style="background-color:blue;">**"Gérer la candidature"**</mark>**  **  pour consulter le détail et poursuivre la candidature ****&#x20;
 
 ![](<../.gitbook/assets/image (184).png>)
 

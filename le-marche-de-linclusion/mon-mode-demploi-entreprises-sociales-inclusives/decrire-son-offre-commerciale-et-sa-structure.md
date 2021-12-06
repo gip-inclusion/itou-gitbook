@@ -27,7 +27,7 @@ Voici quelques conseils pour construire une belle et convaincante description de
 
 **Créer le désir :** expliquez comment votre produit ou service résout le problème de votre prospect en listant les bénéfices pour lui, les effets positifs qu'il pourra en retirer. Ici il ne sera pas question de décrire les caractéristiques de votre service.&#x20;
 
-**Un peu de détails : **Décrire ensuite succinctement votre produit ou service afin d'illustrer votre argumentaire.
+**Un peu de détails :** Décrire ensuite succinctement votre produit ou service afin d'illustrer votre argumentaire.
 
 **On passe à l'action :** Terminez en indiquant clairement au prospect comment rentrer en contact avec vous. En résumer, votre contenu doit pousser votre prospect à l'action.
 {% endhint %}

@@ -1,6 +1,6 @@
 # 💼 Les emplois de l'inclusion
 
-Le site les emplois de l'inclusion a été conçu dans le cadre du [**Pacte IAE**](https://travail-emploi.gouv.fr/IMG/pdf/pacte\_d\_ambition\_iae\_sept\_2019\_synthese.pdf), un dispositif d’État pour l’**Inclusion par l’Activité Économique** **des personnes les plus éloignées de l’emploi **en raison de difficultés sociales, professionnelles, ou de santé.
+Le site les emplois de l'inclusion a été conçu dans le cadre du [**Pacte IAE**](https://travail-emploi.gouv.fr/IMG/pdf/pacte\_d\_ambition\_iae\_sept\_2019\_synthese.pdf), un dispositif d’État pour l’**Inclusion par l’Activité Économique** **des personnes les plus éloignées de l’emploi** en raison de difficultés sociales, professionnelles, ou de santé.
 
 C’est un **téléservice évolutif** porté par :
 
@@ -23,6 +23,6 @@ C’est un **téléservice évolutif** porté par :
 
 
 
-**              Consulter le Pacte IAE **:point\_down:&#x20;
+&#x20;             **Consulter le Pacte IAE** :point\_down:&#x20;
 
 ****[![](.gitbook/assets/pacte\_d\_ambition\_iae\_sept\_2019\_synthese-2.png) ](https://travail-emploi.gouv.fr/IMG/pdf/pacte\_d\_ambition\_iae\_sept\_2019\_synthese.pdf)

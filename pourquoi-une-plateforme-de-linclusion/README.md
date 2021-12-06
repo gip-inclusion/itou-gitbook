@@ -2,7 +2,7 @@
 
 Pour **simplifier l’accès à l’emploi** des personnes qui en sont le plus éloignées et **lever les freins qui limitent l’action de l’IAE** (lourdeurs administratives, difficultés d’accès aux profils éligibles, délais des parcours, manque d’outils professionnalisés…).&#x20;
 
-Ce téléservice facilite la mise en relation des **candidats à l’emploi d’insertion** avec les [**employeurs solidaires**](qui-sont-les-employeurs-solidaires.md) et les accompagnants [**prescripteurs**](qui-sont-les-differents-prescripteurs/)** **(orienteurs et prescripteurs).&#x20;
+Ce téléservice facilite la mise en relation des **candidats à l’emploi d’insertion** avec les [**employeurs solidaires**](qui-sont-les-employeurs-solidaires.md) et les accompagnants [**prescripteurs**](qui-sont-les-differents-prescripteurs/) **** (orienteurs et prescripteurs).&#x20;
 
 Il offre aux utilisateurs un **outil mutualisé** pour **simplifier les procédures**, **fluidifier les parcours d’insertion** entre professionnels, **renforcer la qualité de l’accompagnement** des personnes.
 
@@ -19,7 +19,7 @@ C’est une **véritable place de marché de l’IAE** : offres d'emploi par vil
 
 
 
-** Une info claire, simple, efficace sur l’IAE  pour tous les acteurs**
+&#x20;**Une info claire, simple, efficace sur l’IAE  pour tous les acteurs**
 
 * Les [**candidats à l’emploi d'insertion**](../qui-est-eligible-iae-criteres-eligibilite/)****
 * Les [**prescripteurs**](qui-sont-les-differents-prescripteurs/) (orienteurs, prescripteurs Pôle emploi, CAP emploi, missions locales, services sociaux, PJJ,  associations…)&#x20;
