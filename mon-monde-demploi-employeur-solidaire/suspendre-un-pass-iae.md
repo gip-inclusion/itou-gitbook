@@ -26,9 +26,7 @@ Ensuite sur **"Suspendre"**
 
 ![Ce lien ne s'affiche que le 5ème jour qui suit la date de démarrage du PASS IAE ](<../.gitbook/assets/image (141).png>)
 
-Renseignez la date de début et de fin (la suspension peut être rétroactive et il vous sera également possible de modifier les dates en cas de besoin)
-
-_Attention s'il s'agit d'un agrément Pôle emploi récupéré via le module "prolonger/suspendre un agrément"  la rétroactivité n'est pas possible, en cas de besoin vous pouvez_ [_nous contacter_](https://assistance.inclusion.beta.gouv.fr/accueil/support)_._
+Renseignez la date de début et de fin (Rétroactivité possible 30 jours avant la date du jour)
 
 ![](<../.gitbook/assets/image (133).png>)
 
