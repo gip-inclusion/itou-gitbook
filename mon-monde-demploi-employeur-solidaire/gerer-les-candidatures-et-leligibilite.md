@@ -58,7 +58,7 @@ Une fois validée, l'éligibilité IAE du candidat est valable 6 mois (uniquemen
 
 Après avoir validé : un bandeau vert <mark style="background-color:green;">"Eligibilité confirmée"</mark> s'affiche en haut de page : &#x20;
 
-![](<../.gitbook/assets/image (183).png>)
+![](<../.gitbook/assets/image (183) (1).png>)
 
 Le détail des critères et la date de fin de validité du diagnostic sont visibles dans la candidature rubrique "Critères d'éligibilité"
 
