@@ -113,13 +113,7 @@
 
 ***
 
-* [🔎 Foire aux questions PRO](reponses-a-mes-questions-faq/README.md)
-  * [📝 Inscription & Gestion de compte](reponses-a-mes-questions-faq/inscription-gestion-de-compte.md)
-  * [✅ Orientation candidat & Eligibilité IAE](reponses-a-mes-questions-faq/diagnostic-et-orientation-du-candidat.md)
-  * [👀 Suivi et gestion des candidatures](reponses-a-mes-questions-faq/suivi-des-candidatures.md)
-  * [👥 Rôle des différents utilisateurs (employeurs, prescripteurs habilités, orienteurs, candidats)](reponses-a-mes-questions-faq/role-des-differents-utilisateurs.md)
-  * [🎈 Autre](reponses-a-mes-questions-faq/autre.md)
-* [🔎 Foire aux questions Candidats](foire-aux-questions-candidats.md)
+* [🔎 Foire aux questions PRO](reponses-a-mes-questions-faq.md)
 * [💡 Glossaire de l'inclusion](glossaire-inclusion.md)
 
 ## Communication

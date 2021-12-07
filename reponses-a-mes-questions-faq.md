@@ -1,8 +1,10 @@
 ---
-description: Glossaire des métiers de l'insertion et de l'inclusion
+description: >-
+  La plupart des utilisateurs trouvent une réponse à leur question en consultant
+  la FAQ
 ---
 
-# 💡 Glossaire de l'inclusion
+# 🔎 Foire aux questions PRO
 
 ## La documentation a déménagé !
 

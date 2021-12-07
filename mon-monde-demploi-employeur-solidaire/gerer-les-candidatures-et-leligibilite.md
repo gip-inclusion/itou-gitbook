@@ -21,7 +21,7 @@ Dans le détail de la candidature (après avoir cliqué sur <mark style="backgro
 
 Vous trouverez en bas de page un bouton ** **<mark style="background-color:blue;">**"Valider les critères d'éligibilité"**</mark>
 
-![](<../.gitbook/assets/image (180).png>)
+![](<../.gitbook/assets/image (180) (1).png>)
 
 {% hint style="success" %}
 Pour valider l'éligibilité IAE du candidat il faut :
