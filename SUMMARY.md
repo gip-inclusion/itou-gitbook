@@ -28,23 +28,7 @@
 
 ***
 
-* [💬 Le forum de l'inclusion](forum-de-linclusion/README.md)
-  * [Présentation du Forum de l'inclusion](forum-de-linclusion/presentation-du-forum-de-linclusion.md)
-  * [Les espaces d'échanges par territoire](forum-de-linclusion/les-espaces-dechanges-par-territoire.md)
-  * [La Ressourcerie](forum-de-linclusion/la-ressourcerie.md)
-  * [Les espaces d'échanges par communauté d'acteurs](forum-de-linclusion/les-espaces-dechanges-par-communaute-dacteurs/README.md)
-    * [Comment utiliser un espace d'échanges par communauté d'acteurs](forum-de-linclusion/les-espaces-dechanges-par-communaute-dacteurs/comment-utiliser-un-espace-dechanges-par-communaute-dacteurs.md)
-    * [Créer votre espace d'échange par communauté d'acteurs](forum-de-linclusion/les-espaces-dechanges-par-communaute-dacteurs/creer-votre-espace-dechange-par-communaute-dacteurs.md)
-  * [Formation](forum-de-linclusion/formation.md)
-  * [Créer votre compte](forum-de-linclusion/creer-votre-compte.md)
-  * [Configurez votre profil](forum-de-linclusion/configurez-votre-profil.md)
-  * [Gérez vos notifications mail](forum-de-linclusion/gerez-vos-notifications-mail.md)
-  * [Postez un sujet](forum-de-linclusion/postez-un-sujet.md)
-  * [Marquer vote sujet comme "résolu"](forum-de-linclusion/marquer-vote-sujet-comme-resolu.md)
-  * [Commentez un sujet](forum-de-linclusion/commentez-un-sujet.md)
-  * [Découvrez les groupes d'acteurs du Forum](forum-de-linclusion/decouvrez-les-groupes-dacteurs-du-forum.md)
 * [🚀La Bande à ITOU !](la-bande-a-itou.md)
-* [🌍 Les régionales de l'inclusion](https://regionale.inclusion.beta.gouv.fr)
 
 ## Les emplois de l'inclusion
 
@@ -123,14 +107,6 @@
 * [🎬 Rendez-vous webinaires](rendez-vous-webinaires/README.md)
   * [Le Marché de l'inclusion](rendez-vous-webinaires/le-marche-de-linclusion.md)
   * [📖 Les emplois de l'inclusion](rendez-vous-webinaires/la-plateforme-de-linclusion.md)
-* [🛠️ Outils d'info & de com](outils-information-communiation-de-la-plateforme/README.md)
-  * [Outils d'information](outils-information-communiation-de-la-plateforme/outils-dinformation/README.md)
-    * [Flyer de présentation](outils-information-communiation-de-la-plateforme/outils-dinformation/flyer-de-presentation.md)
-  * [Kit de communication](outils-information-communiation-de-la-plateforme/kit-de-communication/README.md)
-    * [3 Modèles de mail](outils-information-communiation-de-la-plateforme/kit-de-communication/modeles-de-mail.md)
-    * [4 Flyers mode d'emploi](outils-information-communiation-de-la-plateforme/kit-de-communication/flyers-mode-demploi.md)
-    * [3 Présentations de réunion](outils-information-communiation-de-la-plateforme/kit-de-communication/presentations-de-reunion.md)
-    * [Logo des emplois de l'inclusion](outils-information-communiation-de-la-plateforme/kit-de-communication/logos-plateforme-inclusion.md)
 
 ## Informations légales
 

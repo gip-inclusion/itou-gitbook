@@ -19,7 +19,7 @@ C’est un **téléservice évolutif** porté par :
 
 ![](.gitbook/assets/monitor.svg) Le calendrier des [webinaires](rendez-vous-webinaires/)
 
-![](.gitbook/assets/book-open.svg) Le [Kit de communication](outils-information-communiation-de-la-plateforme/kit-de-communication/)&#x20;
+![](.gitbook/assets/book-open.svg) Le [Kit de communication](broken-reference)&#x20;
 
 
 
