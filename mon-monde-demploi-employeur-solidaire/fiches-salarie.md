@@ -16,16 +16,20 @@ Le transfert vers l'Extranet IAE 2.0  de l'ASP  des données relatives aux embau
 
 {% hint style="danger" %}
 **Attention : Si vous avez utilisé la fonction « Prolonger /Suspendre un agrément »** : cette fonction est destinée à prolonger ou suspendre un agrément émis par Pôle emploi pour un salarié déjà présent dans vos effectifs (donc déjà déclaré dans l’ASP)\
-Si vous avez utilisé cette fonction pour une embauche non déclarée dans l’ASP. Vous devez générer une nouvelle candidature en cliquant sur « Obtenir un PASS IAE », renseigner l’email du salarié, valider toutes les étapes jusqu’à l’embauche en cliquant sur « je l’embauche et j’obtiens un PASS IAE » (si la date de contrat est passée, renseignez la date du jour en date de début de contrat, cela n’impactera pas l’agrément existant. Vous pourrez ensuite corriger la date de contrat dans l’extranet ASP
+Si vous avez utilisé cette fonction pour une embauche non déclarée dans l’ASP. Vous devez générer une nouvelle candidature en cliquant sur « Déclarer une embauche », renseigner le NIR et l’email du salarié, valider toutes les étapes jusqu’à l’embauche en cliquant sur « Oui, j'ai besoin d'une aide au poste » (si la date de contrat est passée, renseignez la date du jour en date de début de contrat, cela n’impactera pas l’agrément existant. Vous pourrez ensuite corriger la date de contrat dans l’extranet ASP
 {% endhint %}
 
-### Etape 2 : Affichage d'une fiche salarié à transférer ( J+5 après la date de démarrage du contrat)
+### Etape 2 : Affichage d'une fiche salarié à transférer&#x20;
 
 Depuis votre tableau de bord cliquez sur  **"Gérer mes fiches salarié"** &#x20;
 
 ![](<../.gitbook/assets/image (144).png>)
 
-Toutes vos embauches seront transférées dans cette page ( après 96h, c'est à dire le 5ème jour qui suit la date de démarrage du contrat de travail)
+Toutes vos embauches (avec PASS IAE) seront transférées dans cette page&#x20;
+
+{% hint style="warning" %}
+Si une fiche salarié avec le même PASS IAE a déjà été initiée dans une de vos structures (avec le même numéro SIRET) alors la fiche salarié ne sera pas créée.
+{% endhint %}
 
 ![](<../.gitbook/assets/image (152).png>)
 
