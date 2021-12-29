@@ -4,4 +4,4 @@
 
 La page que vous recherchez se trouve sur le nouveau site de La communauté &#x20;
 
-[https://communaute.inclusion.beta.gouv.fr/doc/emplois/mon-role-de-prescripteur-2/](https://communaute.inclusion.beta.gouv.fr/doc/emplois/mon-role-de-prescripteur-2/)
+[https://communaute.inclusion.beta.gouv.fr/aide/emplois/mode-demploi-prescripteur-orienteur/](https://communaute.inclusion.beta.gouv.fr/aide/emplois/mode-demploi-prescripteur-orienteur/)
