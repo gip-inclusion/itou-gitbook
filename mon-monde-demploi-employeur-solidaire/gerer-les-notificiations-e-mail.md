@@ -1,14 +1,7 @@
 # Gérer les notifications e-mail
 
-En tant qu'employeur vous pouvez gérer vos notifications 
+## La documentation a déménagé !
 
-Cliquez sur **"Mon espace"**, puis sur **"Préférences"**
+La page que vous recherchez se trouve sur le nouveau site de la communauté :
 
-![](../.gitbook/assets/image%20%2850%29.png)
-
-**Activez/désactivez** les notifications de votre choix, puis cliquez sur **"Enregistrer" :** 
-
-![](../.gitbook/assets/image%20%2848%29.png)
-
-
-
+[https://communaute.inclusion.beta.gouv.fr/doc/emplois/gerer-les-notifications-e-mail/](https://communaute.inclusion.beta.gouv.fr/doc/emplois/gerer-les-notifications-e-mail/)
