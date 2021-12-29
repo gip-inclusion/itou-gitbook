@@ -1,6 +1,6 @@
 # Inviter mes collaborateurs à se rattacher au compte de l'organisation
 
-La documentation a déménagé !&#x20;
+## La documentation a déménagé !&#x20;
 
 La page que vous recherchez se trouve sur le nouveau site de La communauté &#x20;
 
