@@ -16,9 +16,7 @@ description: >-
 
 **📜 Programme: une présentation détaillée du site les emplois de l'inclusion spéciale prescripteurs + des réponses à vos questions**&#x20;
 
-* ****[**Mercredi 8 Décembre  à 11h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-28?type=detailed)****
-* ****[**Mardi 21 Décembre à 10h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-29?type=detailed)****
-* ****[**Mercredi 5 Janvier à 14h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-30?type=detailed)
+* ****[**Mercredi 12 Janvier à 14h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs-30?type=detailed)
 * ****[**Jeudi 20 Janvier à 10h00 - Webinaire de démonstration pour les prescripteurs**](https://app.livestorm.co/itou/open-webinaire-les-emplois-de-linclusion-demonstration-pour-les-prescripteurs?type=detailed)
 {% endhint %}
 
