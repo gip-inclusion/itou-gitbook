@@ -2,12 +2,6 @@
 
 * [📚 Documentation sur la Plateforme de l'inclusion](README.md)
 
-## La communauté de l'inclusion
-
-***
-
-* [🚀La Bande à ITOU !](la-bande-a-itou.md)
-
 ## Les emplois de l'inclusion
 
 ***
