@@ -2,28 +2,6 @@
 
 * [📚 Documentation sur la Plateforme de l'inclusion](README.md)
 
-## Les services proposés <a href="#les-4-services-proposes-par-la-plateforme-de-linclusion" id="les-4-services-proposes-par-la-plateforme-de-linclusion"></a>
-
-***
-
-* [💼 Les emplois de l'inclusion](les-emplois-de-linclusion-2.md)
-* [📈  Le pilotage de l'inclusion](le-pilotage-de-linclusion/README.md)
-  * [Les tableaux de bord](le-pilotage-de-linclusion/les-tableaux-de-bord-disponibles.md)
-  * [Dictionnaire des indicateurs](le-pilotage-de-linclusion/dictionnaire-des-indicateurs.md)
-  * [Journal des modifications](le-pilotage-de-linclusion/journal-des-modifications.md)
-* [🤝 Le marché de l'inclusion](le-marche-de-linclusion/README.md)
-  * [Les Entreprises Sociales Inclusives, c'est quoi ?](le-marche-de-linclusion/les-entreprises-sociales-inclusives.md)
-  * [📕 Mon mode d'emploi ''Entreprises Sociales Inclusives"](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/README.md)
-    * [F.A.Q Le marché de l'inclusion](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/f.a.q-le-marche-de-linclusion.md)
-    * [Renseigner le réseau auquel vous adhérez](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/renseigner-le-reseau-auquel-vous-adherez.md)
-    * [Ajouter mes références clients](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/ajouter-mes-references-clients.md)
-    * [M'inscrire sur le Marché](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/minscrire-sur-le-marche.md)
-    * [Publier une ou plusieurs offres commerciales](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/publier-mon-offre-de-prestation.md)
-    * [Réaliser une belle fiche prestataire](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/realiser-une-belle-fiche-prestataire.md)
-    * [Ajouter votre périmètre d'intervention](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/ajouter-votre-perimetre-dintervention.md)
-    * [Décrire son offre commerciale et sa structure](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/decrire-son-offre-commerciale-et-sa-structure.md)
-    * [Ajouter le logo de ma structure](le-marche-de-linclusion/mon-mode-demploi-entreprises-sociales-inclusives/ajouter-le-logo-de-ma-structure.md)
-
 ## La communauté de l'inclusion
 
 ***
@@ -34,18 +12,6 @@
 
 ***
 
-* [🔗 Pourquoi "Les emplois de l'inclusion" ?](pourquoi-une-plateforme-de-linclusion/README.md)
-  * [Une co-construction avec les acteurs de l'IAE](pourquoi-une-plateforme-de-linclusion/participer-a-la-plateforme-de-linclusion.md)
-  * [Une communauté d'ambassadeurs](pourquoi-une-plateforme-de-linclusion/devenir-ambassadrice-ambassadeur.md)
-  * [C'est quoi l'inclusion par l'emploi ?](pourquoi-une-plateforme-de-linclusion/cest-quoi-linclusion-par-lemploi.md)
-  * [Les mesures phares du Pacte IAE](pourquoi-une-plateforme-de-linclusion/mesures-phare-pacte-iae/README.md)
-    * [Zoom sur la mesure 5 du Pacte Ambition IAE](pourquoi-une-plateforme-de-linclusion/mesures-phare-pacte-iae/zoom-sur-la-mesure-5-du-pacte-ambition-iae.md)
-  * [Pass IAE : un agrément plus simple](pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md)
-  * [Les différents prescripteurs](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/README.md)
-    * [Prescripteur habilité](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)
-    * [Orienteur](pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/orienteur.md)
-  * [Les employeurs solidaires](pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)
-  * [Qui est à l'origine du projet ?](pourquoi-une-plateforme-de-linclusion/qui-est-derriere-la-plateforme-de-linclusion.md)
 * [📘 Mode d'emploi ''prescripteur/orienteur''](mon-mode-demploi-prescripteur/README.md)
   * [Mon rôle de prescripteur](mon-mode-demploi-prescripteur/fonctionnalites-prescripteur.md)
   * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-prescripteur/inscription-prescripteur.md)

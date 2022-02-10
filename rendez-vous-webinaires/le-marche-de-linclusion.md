@@ -1,6 +1,6 @@
 # Le Marché de l'inclusion
 
-Pour accompagner les entreprises sociales inclusives (SIAE, GEIQ et EA) dans la mise en avant de leurs offres commerciales, [le Marché de l'inclusion](../le-marche-de-linclusion/) vous propose des Webinaires. L'objectif sera **de vous aider à valoriser votre offre commerciale afin de pérenniser vos activités et vos recrutements d'insertion.**
+Pour accompagner les entreprises sociales inclusives (SIAE, GEIQ et EA) dans la mise en avant de leurs offres commerciales, [le Marché de l'inclusion](broken-reference) vous propose des Webinaires. L'objectif sera **de vous aider à valoriser votre offre commerciale afin de pérenniser vos activités et vos recrutements d'insertion.**
 
 ### 👉 Assistez au prochain Webinaire de Questions/Réponses.
 

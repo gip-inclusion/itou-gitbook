@@ -3,7 +3,7 @@
 ## **Le PASS IAE :**&#x20;
 
 * valide l’entrée en parcours IAE du candidat
-* a une durée de validité de 2 ans [(des prolongations sont possibles dans certains cas)](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#prolongation)
+* a une durée de validité de 2 ans [(des prolongations sont possibles dans certains cas)](broken-reference)
 * permet au candidat d’être recruté par toutes les structures d’insertion
 * permet à une structure d’insertion de bénéficier d’une aide au poste pour l’embauche d’un candidat
 
@@ -29,7 +29,7 @@ Les orienteurs et les candidats ne peuvent pas valider d'éligibilité à l'IAE,
 Le prescripteur habilité peut valider l'éligibilité à l'IAE d'un candidat sur la base d'un diagnostic socio-professionnel réalisé dans le cadre d'un entretien.
 
 {% hint style="success" %}
-Seul le **** [**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md) peut prescrire un **parcours qui déroge à l'obligation de carence de 2 ans entre 2 parcours IAE et/ou à celle des** [**critères administratifs d'éligibilité IAE.**](./#criteres-administratifs-de-niveau-1)****
+Seul le **** [**prescripteur habilité**](broken-reference) peut prescrire un **parcours qui déroge à l'obligation de carence de 2 ans entre 2 parcours IAE et/ou à celle des** [**critères administratifs d'éligibilité IAE.**](./#criteres-administratifs-de-niveau-1)****
 
 **Toutes les candidatures transmises par un prescripteur habilité via les emplois de l'inclusion sont reconnues éligibles à l'IAE pour 6 mois.**
 {% endhint %}
@@ -56,7 +56,7 @@ Une SIAE peut valider l'éligibilité à l'IAE du candidat en respectant ces 2 �
 
 Pour obtenir un PASS IAE, l'employeur doit valider l'embauche du candidat éligible à l'IAE directement depuis son tableau de bord :&#x20;
 
-* Le [PASS IAE est délivré dans un délai maximum de 2 jours ouvrés.](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md#verification-des-demandes-de-pass-iae)
+* Le [PASS IAE est délivré dans un délai maximum de 2 jours ouvrés.](broken-reference)
 * Un numéro de PASS IAE est communiqué à l'employeur pour les démarches dans l'Extranet IAE 2.0 de l'ASP
 * Une attestation de PASS IAE est disponible au téléchargement 5 jours après le démarrage du contrat.
 

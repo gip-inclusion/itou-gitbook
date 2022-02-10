@@ -5,16 +5,16 @@ L’insertion par l’activité économique (IAE) permet aux personnes les plus 
 **Qui peut bénéficier d'un parcours d'Insertion par l'Activité Economique (IAE) ? :**
 
 * Les **personnes** en **difficultés sociales et/ou professionnelles** (précarité, âge, santé)
-* **Orientées par un** [**prescripteur habilité ou un orienteur** ](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/)vers une[ **SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)
-* Ou **recrutées directement par une** [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md) ****&#x20;
+* **Orientées par un** [**prescripteur habilité ou un orienteur** ](broken-reference)vers une[ **SIAE**](broken-reference)
+* Ou **recrutées directement par une** [**SIAE**](broken-reference) ****&#x20;
 * Après la réalisation d'un diagnostic social et professionnel [**validant l'éligibilité IAE du candidat**](https://doc.inclusion.beta.gouv.fr/pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire#etape-2-la-validation-de-leligibilite-a-liae)****
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-13.51.12.png)
 
 **L'éligibilité à l’IAE** du candidat **** peut être **validée sur les emplois de l'inclusion** par :&#x20;
 
-* Les [**prescripteurs habilités**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md)****
-* Les [**SIAE**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md)****
+* Les [**prescripteurs habilités**](broken-reference)****
+* Les [**SIAE**](broken-reference)****
 
 **Une fois l'embauche confirmée sur les emplois de l'inclusion par une SIAE, le** [**Pass IAE** ](pass-iae-comment-ca-marche.md)**est délivré par mail à l'entreprise sous ≈ 2 jours et disponible dans les tableaux de bord de l'employeur et du candidat**
 
@@ -22,10 +22,10 @@ L’insertion par l’activité économique (IAE) permet aux personnes les plus 
 
 
 
-Les [**GEIQ, EA, EATT**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-employeurs-solidaires.md#comment-se-reperer-entre-les-differents-employeurs-solidaires) n’ont **pas besoin de** [**Pass IAE**](../pourquoi-une-plateforme-de-linclusion/pass-iae-agrement-plus-simple-cest-a-dire.md) pour recruter un candidat. Ils ne sont pas soumis aux critères d'éligibilité.
+Les [**GEIQ, EA, EATT**](broken-reference) n’ont **pas besoin de** [**Pass IAE**](broken-reference) pour recruter un candidat. Ils ne sont pas soumis aux critères d'éligibilité.
 
 {% hint style="warning" %}
-Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#criteres-administratifs-de-niveau-1) ou ne peuvent respecter le **délai de carence de 2 ans** entre deux parcours, peuvent être **orientées vers un** [**prescripteur habilité**](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md). Il est seul à pouvoir [**prescrire un parcours IAE en dehors de ces obligations**](derogation-criteres.md)**.**
+Les candidats qui **ne répondent pas aux** [**critères d'éligibilité**](./#criteres-administratifs-de-niveau-1) ou ne peuvent respecter le **délai de carence de 2 ans** entre deux parcours, peuvent être **orientées vers un** [**prescripteur habilité**](broken-reference). Il est seul à pouvoir [**prescrire un parcours IAE en dehors de ces obligations**](derogation-criteres.md)**.**
 {% endhint %}
 
 ![](../.gitbook/assets/capture-de-cran-2020-06-23-a-15.46.23.png)
@@ -74,7 +74,7 @@ Si l'éligibilité IAE a été validée par un prescripteur habilité ou que le 
 {% endhint %}
 
 {% hint style="success" %}
-Un candidat orienté par un [prescripteur habilité](../pourquoi-une-plateforme-de-linclusion/qui-sont-les-differents-prescripteurs/prescripteur-habilite.md#liste-des-prescripteurs-habilites-au-national) sur le site des emplois de l'inclusion n'est pas soumis à ces critères administratifs. En clair, si un prescripteur habilité accompagne un candidat qui n'a aucun critère ou pas le nombre suffisant de critères et qu'il estime qu'un parcours IAE est pertinent pour ce candidat il pourra [déroger aux critères administratifs](derogation-criteres.md)
+Un candidat orienté par un [prescripteur habilité](broken-reference) sur le site des emplois de l'inclusion n'est pas soumis à ces critères administratifs. En clair, si un prescripteur habilité accompagne un candidat qui n'a aucun critère ou pas le nombre suffisant de critères et qu'il estime qu'un parcours IAE est pertinent pour ce candidat il pourra [déroger aux critères administratifs](derogation-criteres.md)
 {% endhint %}
 
 Sources : [Arrêté du 1er septembre 2021 fixant la liste des critères d'éligibilité des personnes à un parcours d'insertion par l'activité économique et des prescripteurs mentionnés à l'article L. 5132-3 du code du travail ](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044011209) et  [Décret n° 2021-1128 du 30 août 2021 relatif à l'insertion par l'activité économique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043990367)
