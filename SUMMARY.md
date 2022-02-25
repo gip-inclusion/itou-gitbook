@@ -36,10 +36,6 @@
   * [Visualiser / Gérer mes annexes financières](mon-monde-demploi-employeur-solidaire/visualiser-gerer-mes-annexes-financieres.md)
   * [Exporter mes candidatures sur Excel](mon-monde-demploi-employeur-solidaire/exporter-mes-candidatures-sur-excel.md)
   * [Fiches salarié](mon-monde-demploi-employeur-solidaire/fiches-salarie.md)
-* [📗 Mode d'emploi ''candidat''](mon-mode-demploi-candidat/README.md)
-  * [Mon rôle de candidat](mon-mode-demploi-candidat/fonctionnalites-candidat.md)
-  * [M'inscrire sur les emplois de l'inclusion](mon-mode-demploi-candidat/inscription-candidat.md)
-  * [Envoyer ma candidature à un employeur](mon-mode-demploi-candidat/envoyer-candidature.md)
 
 ## Les dispositifs sur les emplois de l'inclusion <a href="#les-dispositifs" id="les-dispositifs"></a>
 
@@ -58,15 +54,6 @@
 ***
 
 * [🔎 Foire aux questions PRO](reponses-a-mes-questions-faq.md)
-* [💡 Glossaire de l'inclusion](glossaire-inclusion.md)
-
-## Communication
-
-***
-
-* [🎬 Rendez-vous webinaires](rendez-vous-webinaires/README.md)
-  * [Le Marché de l'inclusion](rendez-vous-webinaires/le-marche-de-linclusion.md)
-  * [📖 Les emplois de l'inclusion](rendez-vous-webinaires/la-plateforme-de-linclusion.md)
 
 ## Informations légales
 

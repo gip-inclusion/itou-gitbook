@@ -1,9 +1,0 @@
----
-description: Glossaire des métiers de l'insertion et de l'inclusion
----
-
-# 💡 Glossaire de l'inclusion
-
-## La documentation a déménagé !
-
-La page que vous recherchez se trouve sur le nouveau site de la communauté : [https://communaute.inclusion.beta.gouv.fr/aide/emplois/f-a-q-glossaire/](https://communaute.inclusion.beta.gouv.fr/aide/emplois/f-a-q-glossaire/)
