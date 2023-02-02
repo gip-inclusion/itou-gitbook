@@ -16,17 +16,17 @@ Le site les emplois de l'inclusion a pour objectif de proposer une solution num�
 
 ## Article 3 – Définitions
 
-« L’Utilisateur » est la personne physique utilisatrice des emplois de l'inclusion, quelque soit son rôle: Candidat, Prescripteur ou Employeur.
+« L’Utilisateur » est la personne physique utilisatrice des emplois de l'inclusion, quel que soit son rôle : Candidat, Prescripteur, Employeur solidaire ou Institution partenaire.
 
-Le « Profil » ou « Espace personnel » est le compte créé directement ou indirectement par un Utilisateur dans le but de bénéficier des Services offerts par le site des emplois de l'inclusion
+Le « Profil » ou « Espace personnel » est le compte créé directement ou indirectement par un Utilisateur dans le but de bénéficier des Services offerts par le site des emplois de l'inclusion.
 
-Les « Services » sont les moyens offerts par les emplois de l'inclusion pour que chaque acteur de l’insertion professionnelle, \(Candidat, Prescripteur et Employeur\) puisse jouer le rôle qui est le sien dans le parcours d’insertion.
+Les « Services » sont les moyens offerts par les emplois de l'inclusion pour que chaque acteur de l’insertion professionnelle, (Candidat, Prescripteur, Employeur solidaire et Institution partenaire) puisse jouer le rôle qui est le sien dans le parcours d’insertion.
 
 « Le Candidat » est la personne physique candidate, chercheur d’emploi solidaire, bénéficiant d’un accompagnement renforcé, facilitant l’insertion professionnelle au travers de structures de l’inclusion.
 
-« Le Prescripteur » est la personne qui, suite à un diagnostic sur l’éligibilité de l’Utilisateur, établit qu’elle puisse bénéficier des Services offerts par les emplois de l'Inclusion visant à faciliter l’insertion professionnelle au travers de structures de l’inclusion. Il s’agit d’un participant au service public pour l’emploi au sens des articles L.5311-1 à L.5311-6 du Code du travail.
+« Le Prescripteur » est la personne qui, à la suite d’un diagnostic sur l’éligibilité de l’Utilisateur, établit qu’elle puisse bénéficier des Services offerts par les emplois de l'Inclusion visant à faciliter l’insertion professionnelle au travers de structures de l’inclusion. Il s’agit d’un participant au service public pour l’emploi au sens des articles L.5311-1 à L.5311-6 du Code du travail.
 
-« L’Employeur » est la personne travaillant pour le compte de la structure professionnelle proposant des offres d’emploi pour des candidats éligibles par le biais des Services offerts par les emplois de l'Inclusion visant à faciliter l’insertion professionnelle au travers de structures de l’inclusion.
+« L’Employeur solidaire » est la personne travaillant pour le compte de la structure professionnelle proposant des offres d’emploi pour des candidats éligibles par le biais des Services offerts par les emplois de l'Inclusion visant à faciliter l’insertion professionnelle au travers de structures de l’inclusion.
 
 ## Article 4- Fonctionnalités
 
@@ -34,55 +34,44 @@ Les « Services » sont les moyens offerts par les emplois de l'inclusion pour q
 
 En s’inscrivant aux Services réservés, l’Utilisateur s’engage à fournir des informations sincères et exactes permettant de créer son compte ou son Profil.
 
-Pour accéder aux Services, l’Utilisateur devra ensuite s’identifier à l’aide de son identifiant et de son mot de passe qui lui seront communiqués après son inscription. Le mot de passe doit être choisi par l’utilisateur de façon à ce qu’il ne puisse être deviné par un tiers. Cette information doit être sécurisée, conservée et non-cédée.
+L’Utilisateur qui s’est inscrit directement sur le site « Les Emplois de l’inclusion » devra ensuite s’identifier à l’aide de son identifiant et de son mot de passe qui lui seront communiqués après son inscription. Le mot de passe doit être choisi par l’utilisateur de façon à ce qu’il ne puisse être deviné par un tiers. Cette information doit être sécurisée, conservée et non-cédée.
+
+L’Utilisateur qui s’inscrit directement sur le site « Les Emplois de l’inclusion » doit renseigner sa situation et indiquer son NIR ou son numéro de SIRET ou le numéro SIREN de sa structure.
+
+Pour accéder aux Services, l’Utilisateur peut s’inscrire ou se connecter via d’autres plateformes numériques que l’on retrouve sur le site « Les Emplois de l’inclusion ». L’Utilisateur peut s’inscrire ou se connecter via « France Connect », via « Pôle Emploi » en renseignant son nom d’utilisateur ou son code SAFIR ou via « Inclusion Connect » en renseignant son nom, prénom, adresse e-mail.
+
 
 ### 4.2 Description des fonctionnalités pour le Candidat
 
 L’Espace personnel du Candidat permet à celui-ci d’accéder aux Services offerts par les emplois de l'Inclusion dont les fonctionnalités sont les suivantes :
 
-* Modification de son mot de passe et de son identifiant ;
-* Modification des informations relatives à son Profil;
-* Réalisation de démarche en ligne visant à postuler à des offres d’emploi.
-* Proposition de solutions d’accompagnement par sms ou mail
+* 	Modification 	de son mot de passe et de son identifiant ; \
+* 	Modification 	des informations relatives à son Profil; \
+* 	Réalisation 	de démarche en ligne visant à postuler à des offres d’emploi. \
+* 	Proposition 	de solutions d’accompagnement par sms ou mail \
 
 Lorsque son Profil a été créé de manière indirecte, c’est-à-dire par un Prescripteur, le Candidat est informé par voie électronique, selon les informations fournies par le Prescripteur.
 
 #### Modification de son mot de passe et de son identifiant
 
+
 Le mot de passe du Candidat peut être modifié en toutes circonstances par ce dernier et doit être choisi de façon à ce qu’il ne puisse pas permettre un accès non autorisé d’un tiers.
 
-Lorsque le Profil du Candidat a été créé indirectement, le Prescripteur ayant créé le Profil est tenu de permettre au Candidat d’accéder à son compte.
-
-Le Candidat s’engage à en préserver la confidentialité et à avertir immédiatement l’opérateur du service de toute utilisation non autorisée de ces informations.
-
-Le service des emplois de l'Inclusion ne pourra être tenue pour responsable des dommages causés par l’utilisation du mot de passe par une personne non autorisée.
+Lorsque le Profil du Candidat a été créé indirectement, le Prescripteur ayant créé le Profil est tenu de permettre au Candidat d’accéder à son compte. Le Candidat s’engage à en préserver la confidentialité et à avertir immédiatement l’opérateur du service de toute utilisation non autorisée de ces informations. Le service des emplois de l'Inclusion ne pourra être tenu pour responsable des dommages causés par l’utilisation du mot de passe par une personne non autorisée.
 
 #### Modification des informations relatives à son Profil
 
-Le Candidat peut modifier les informations relatives à son Profil.
-
-La confirmation des modifications engage le Candidat sur l’exactitude des informations transmises.
-
-Le Candidat qui procède à une fausse déclaration pour lui-même s’expose, aux sanctions prévues à l’article 441-1 du Code pénal allant jusqu’à 3 ans de prison et 45 000 € d’amende.
+Le Candidat peut modifier les informations relatives à son Profil. La confirmation des modifications engage le Candidat sur l’exactitude des informations transmises.
 
 #### Réalisation de démarche en ligne visant à postuler à des offres d’emploi
 
-Le Candidat pourra réaliser toute démarche visant à postuler à des offres d’emploi, seul ou accompagné d’un Prescripteur.
+Le Candidat pourra réaliser toute démarche visant à postuler à des offres d’emploi, seul ou accompagné d’un Prescripteur. Il s’engage, lorsqu’il postule à des offres d’emploi seul, à l’exactitude des informations transmises.
 
-Il s’engage, lorsqu’il postule à des offres d’emploi seul, à l’exactitude des informations transmises.
+Il peut autoriser un Prescripteur à intervenir, lorsqu’il postule à une offre d’emploi. Cette autorisation est sa responsabilité. Le Candidat peut remplir toute information relative à son parcours professionnel ou à sa situation. Il peut s’agir de renseignements sur son parcours professionnel préalable à toute candidature d’emploi, ou de renseignements relatifs à l’emploi obtenu au travers des emplois de l'Inclusion.
 
-Il peut autoriser un Prescripteur à intervenir, lorsqu’il postule à une offre d’emploi. Cette autorisation est sa responsabilité.
+#### Proposition de solutions d’accompagnement par sms ou e-mail
 
-Le Candidat peut remplir toute information relative à son parcours professionnel ou à sa situation. Il peut s’agir de renseignements sur son parcours professionnel préalable à toute candidature d’emploi, ou de renseignements relatifs à l’emploi obtenu au travers des emplois de l'Inclusion.
-
-Le Candidat qui procède à une fausse déclaration pour lui-même s’expose, aux sanctions prévues à l’article 441-1 du Code pénal allant jusqu’à 3 ans de prison et 45 000 € d’amende.
-
-Sur signalement, l’opérateur peut révoquer une autorisation et supprimer tout Profil contrevenant aux présentes conditions générales d’utilisation.
-
-**Proposition de solutions d’accompagnement par sms ou e-mail**
-
-Le candidat pourra se voir proposer des solutions d'accompagnement via les partenaires locaux engagés dans l'accompagnement des personnes en recherche d'emploi.
-
+Le Candidat pourra se voir proposer des solutions d'accompagnement via les partenaires locaux engagés dans l'accompagnement des personnes en recherche d'emploi.
 Ces propositions seront transmises par SMS ou Mail.
 
 Des questionnaires peuvent être adressés aux candidats. Les réponses aux questionnaires seront utilisées par les emplois de l'inclusion et ses partenaires locaux pour proposer des solutions d'accompagnement adaptées aux besoins des candidats.
@@ -90,121 +79,70 @@ Des questionnaires peuvent être adressés aux candidats. Les réponses aux ques
 ### 4.3 Description des fonctionnalités pour le Prescripteur
 
 L’Espace personnel du Prescripteur permet à celui-ci d’accéder aux Services offerts pour lui par les emplois de l'Inclusion dont les fonctionnalités sont les suivantes :
-
-* Modification de son mot de passe et de son identifiant ;
-* Modification des informations relatives à son Profil ;
-* Remplir les critères relatifs à l’éligibilité des Profils Candidats ;
-* Aide à la réalisation de démarche en ligne par les Candidats visant à postuler à des offres d’emploi ;
-* Création de Profil Candidat.
-
+-  Modification de son mot de passe et de son identifiant ;
+-  Modification des informations relatives à son Profil ;
+-  Remplir les critères relatifs à l’éligibilité des Profils Candidats ;
+-  Aide à la réalisation de démarche en ligne par les Candidats visant à postuler à des offres d’emploi ;
+-  Création de Profil Candidat.
 Lorsque son Profil a été créé de manière indirecte, le Prescripteur est informé par voie électronique, à l’adresse utilisée pour créer le compte de ladite création.
 
 #### Modification de son mot de passe et de son identifiant
 
-Le mot de passe du Prescripteur peut être modifié en toutes circonstances par ce dernier et doit être choisi de façon à ce qu’il ne puisse pas permettre un accès non autorisé d’un tiers.
-
-Le Prescripteur s’engage à en préserver la confidentialité et à avertir immédiatement l’opérateur du service de toute utilisation non autorisée de ces informations.
-
-Le service des emplois de l'Inclusion ne pourra être tenue pour responsable des dommages causés par l’utilisation du mot de passe par une personne non autorisée.
+Le mot de passe du Prescripteur peut être modifié en toutes circonstances par ce dernier et doit être choisi de façon à ce qu’il ne puisse pas permettre un accès non autorisé d’un tiers. Le Prescripteur s’engage à en préserver la confidentialité et à avertir immédiatement l’opérateur du service de toute utilisation non autorisée de ces informations. Le service des emplois de l'Inclusion ne pourra être tenue pour responsable des dommages causés par l’utilisation du mot de passe par une personne non autorisée.
 
 #### Modification des informations relatives à son Profil
 
-Le Prescripteur peut modifier les informations relatives à son Profil.
-
-La confirmation des modifications engage le Prescripteur sur l’exactitude des informations transmises.
-
-Le Prescripteur qui procède à une fausse déclaration pour lui-même s’expose, aux sanctions prévues à l’article 441-1 du Code pénal allant jusqu’à 3 ans de prison et 45 000 € d’amende.
+Le Prescripteur peut modifier les informations relatives à son Profil. La confirmation des modifications engage le Prescripteur sur l’exactitude des informations transmises.
 
 #### Remplir les critères relatifs à l’éligibilité des Profils Candidats
 
-Le Prescripteur pourra remplir les critères relatifs à l’éligibilité des Profils Candidats dont il a la charge.
-
- Le Prescripteur s’engage à l’exactitude des informations transmises au regard de l’éligibilité des Profils Candidats.
-
-Le Prescripteur qui procède à une fausse déclaration pour autrui s’expose, aux sanctions prévues à l’article 441-1 du Code pénal allant jusqu’à 3 ans de prison et 45 000€ d’amende.
-
-Sur signalement, l’opérateur peut révoquer une autorisation et supprimer tout Profil contrevenant aux présentes conditions générales d’utilisation.
+Le Prescripteur pourra remplir les critères relatifs à l’éligibilité des Profils Candidats dont il a la charge. Le Prescripteur s’engage à l’exactitude des informations transmises au regard de l’éligibilité des Profils Candidats. Sur signalement, l’opérateur peut révoquer une autorisation et supprimer tout Profil contrevenant aux présentes conditions générales d’utilisation.
 
 #### Aide à la réalisation de démarche en ligne par les Candidats visant à postuler à des offres d’emploi
 
-Le Prescripteur pourra contribuer à toute démarche en ligne par les Candidats visant à postuler à des offres d’emploi, après autorisation de l’Utilisateur.
-
-Chaque modification effectuée par le Prescripteur sur le Profil Candidat sera notifiée au Candidat.
+Le Prescripteur pourra contribuer à toute démarche en ligne par les Candidats visant à postuler à des offres d’emploi, après autorisation de l’Utilisateur. Chaque modification effectuée par le Prescripteur sur le Profil Candidat sera notifiée au Candidat.
 
 #### Création de Profil Candidat
 
-Le Prescripteur peut créer un Profil Candidat. Il s’engage à ce que les informations relatives au Candidat dont le Profil est créé soient exactes.
+Le Prescripteur peut créer un Profil Candidat. Il s’engage à ce que les informations relatives au Candidat dont le Profil est créé soient exactes. Chaque création de Profil Candidat sera notifiée au Candidat correspondant sur l’adresse e-mail renseignée. Le Prescripteur ne peut plus modifier le Profil une fois la notification envoyée, sauf en ce qui concerne le critère d’éligibilité.
 
-Chaque création de Profil Candidat sera notifiée au Candidat correspondant sur l’adresse e-mail renseignée.
+### 4.4 Description des fonctionnalités pour l'Employeur solidaire
 
-Le Prescripteur ne peut plus modifier le Profil une fois la notification envoyée, sauf en ce qui concerne le critère d’éligibilité.
-
-Le Prescripteur qui procède à une fausse déclaration pour autrui s’expose, aux sanctions prévues à l’article 441-1 du Code pénal allant jusqu’à 3 ans de prison et 45 000€ d’amende.
-
-### 4.4 Description des fonctionnalités pour l'Employeur
-
-L’Espace personnel de l'Employeur permet à celui-ci d’accéder aux Services offerts pour lui par les emplois de l'Inclusion dont les fonctionnalités sont les suivantes :
-
-* Modification de son mot de passe et de son identifiant ;
-* Modification des informations relatives à son Profil ;
-* Proposer des offres d’emploi et répondre aux candidatures ;
-* Remplir les critères relatifs à l’éligibilité des Profils Candidats ;
-* Renseigner les informations relatives aux contrats des Candidats devenus salariés en leur sein ;
-* Création de Profil Candidat.
-
-Lorsque son Profil a été créé de manière indirecte, l'Employeur est informé par voie électronique, à l’adresse utilisée pour créer le compte de ladite création.
-
+L’Espace personnel de l'Employeur solidaire permet à celui-ci d’accéder aux Services offerts pour lui par les emplois de l'Inclusion dont les fonctionnalités sont les suivantes :
+- Modification de son mot de passe et de son identifiant ;
+- Modification des informations relatives à son Profil ;
+- Proposer des offres d’emploi et répondre aux candidatures ;
+- Remplir les critères relatifs à l’éligibilité des Profils Candidats ;
+- Renseigner les informations relatives aux contrats des Candidats devenus salariés en leur sein ;
+- Création de Profil Candidat.
+Lorsque son Profil a été créé de manière indirecte, l'Employeur solidaire est informé par voie électronique, à l’adresse utilisée pour créer le compte de ladite création.
 #### Modification de son mot de passe et de son identifiant
 
-Le mot de passe de l'Employeur peut être modifié en toutes circonstances par ce dernier et doit être choisi de façon à ce qu’il ne puisse pas permettre un accès non autorisé d’un tiers.
-
-L'Employeur s’engage à en préserver la confidentialité et à avertir immédiatement l’opérateur du service de toute utilisation non autorisée de ces informations.
-
-Le site des emplois de l'Inclusion ne pourra être tenue pour responsable des dommages causés par l’utilisation du mot de passe par une personne non autorisée.
+Le mot de passe de l'Employeur solidaire peut être modifié en toutes circonstances par ce dernier et doit être choisi de façon à ce qu’il ne puisse pas permettre un accès non autorisé d’un tiers. L'Employeur solidaire s’engage à en préserver la confidentialité et à avertir immédiatement l’opérateur du service de toute utilisation non autorisée de ces informations. Le site des emplois de l'Inclusion ne pourra être tenue pour responsable des dommages causés par l’utilisation du mot de passe par une personne non autorisée.
 
 #### Modification des informations relatives à son Profil
 
-L'Employeur peut modifier les informations relatives à son Profil.
-
-La confirmation des modifications engage l'Employeur sur l’exactitude des informations transmises.
-
-L'Employeur qui procède à une fausse déclaration pour lui-même s’expose, aux sanctions prévues à l’article 441-1 du Code pénal allant jusqu’à 3 ans de prison et 45 000 € d’amende.
+L'Employeur solidaire peut modifier les informations relatives à son Profil. La confirmation des modifications engage l'Employeur solidaire sur l’exactitude des informations transmises.
 
 #### Proposer des offres d’emploi et répondre aux candidatures
 
-L’Employeur peut proposer aux Candidats des offres d’emplois répondant aux critères du dispositif d'inclusion dans lequel il s'inscrit.
-
-L’Employeur peut également répondre et gérer les candidatures des Candidats répondant à ses offres.
-
-Chaque réponse de l’Employeur à une candidature ou modification du statut de la candidature sera notifiée au Candidat.
+L’Employeur solidaire peut proposer aux Candidats des offres d’emplois répondant aux critères du dispositif d'inclusion dans lequel il s'inscrit. L’Employeur solidaire peut également répondre et gérer les candidatures des Candidats répondant à ses offres. Chaque réponse de l’Employeur solidaire à une candidature ou modification du statut de la candidature sera notifiée au Candidat.
 
 #### Remplir les critères relatifs à l’éligibilité des Profils Candidats
 
-L'Employeur pourra remplir les critères relatifs à l’éligibilité des Profils Candidats dont il a la charge.
-
-L'Employeur s’engage à l’exactitude des informations transmises au regard de l’éligibilité des Profils Candidats.
-
-L'Employeur qui procède à une fausse déclaration pour autrui s’expose, aux sanctions prévues à l’article 441-1 du Code pénal allant jusqu’à 3 ans de prison et 45 000€ d’amende.
-
-Sur signalement, l’opérateur peut révoquer une autorisation et supprimer tout Profil contrevenant aux présentes conditions générales d’utilisation.
+L'Employeur solidaire pourra remplir les critères relatifs à l’éligibilité des Profils Candidats dont il a la charge. L'Employeur solidaire s’engage à l’exactitude des informations transmises au regard de l’éligibilité des Profils Candidats. Sur signalement, l’opérateur peut révoquer une autorisation et supprimer tout Profil contrevenant aux présentes conditions générales d’utilisation.
 
 #### Renseigner les informations relatives aux contrats des Candidats devenus salariés en leur sein
 
-L’Employeur peut renseigner les informations relatives aux contrats des Candidats devenus salariés.
-
+L’Employeur solidaire peut renseigner les informations relatives aux contrats des Candidats devenus salariés.
 #### Création de Profil Candidat
 
-L'Employeur peut créer un Profil Candidat. Il s’engage à ce que les informations relatives au Candidat dont le Profil est créé soient exactes.
-
-Chaque création de Profil Candidat sera notifiée au Candidat correspondant sur l’adresse e-mail renseignée.
-
-L'Employeur ne peut plus modifier le Profil une fois la notification envoyée, sauf en ce qui concerne le critère d’éligibilité.
-
-L'Employeur qui procède à une fausse déclaration pour autrui s’expose, aux sanctions prévues à l’article 441-1 du Code pénal allant jusqu’à 3 ans de prison et 45 000€ d’amende.
+L'Employeur solidaire peut créer un Profil Candidat. Il s’engage à ce que les informations relatives au Candidat dont le Profil est créé soient exactes. Chaque création de Profil Candidat sera notifiée au Candidat correspondant sur l’adresse e-mail renseignée. L'Employeur solidaire ne peut plus modifier le Profil une fois la notification envoyée, sauf en ce qui concerne le critère d’éligibilité.
 
 ### 4.5 Suspension ou Suppression de l’Espace personnel
 
-Tout Utilisateur membre régulièrement inscrit pourra solliciter sa désinscription en se rendant à la page dédiée sur son Espace personnel ou en [nous contactant](https://assistance.inclusion.beta.gouv.fr/). Celle-ci sera effective dans un délai raisonnable.
+Tout Utilisateur membre régulièrement inscrit pourra solliciter sa désinscription en se rendant à la page dédiée sur son Espace personnel ou en [nous contactant](mailto:assistance@inclusion.beta.gouv.fr). Celle-ci sera effective dans un délai raisonnable.
+
 
 L’éditeur se réserve la possibilité de supprimer ou suspendre pour une période donnée l’accès au service des emplois de l'inclusion pour un utilisateur, en cas de violation des présentes règles d’utilisation ou s’il estime que l’usage du site porte préjudice à son image ou ne correspond pas aux exigences de sécurité.
 
@@ -222,8 +160,8 @@ L’éditeur s’engage à la sécurisation des emplois de l'inclusion, notammen
 
 L’éditeur fournit les moyens nécessaires et raisonnables pour assurer un accès continu aux emplois de l'inclusion, sans contrepartie financière. Il se réserve la liberté de faire évoluer, de modifier ou de suspendre, sans préavis, les emplois de l'inclusion pour des raisons de maintenance ou pour tout autre motif jugé nécessaire.
 
-Ce site peut mettre à disposition des liens pouvant orienter l’utilisateur vers des sites réalisés par des tiers extérieurs. Ces tiers sont les seuls responsables du contenu publié par leur soin. L’équipe n’a aucun contrôle sur le contenu de ces sites, ces contenus ne sauraient engager la responsabilité de l’administration.
-
+Ce site peut mettre à disposition des liens pouvant orienter l’utilisateur vers des sites réalisés par des tiers extérieurs.
+Ces tiers sont les seuls responsables du contenu publié par leur soin. L’équipe n’a aucun contrôle sur le contenu de ces sites, ces contenus ne sauraient engager la responsabilité de l’administration.
 ### 5.2 Le Candidat
 
 Le Candidat s'assure de garder son mot de passe secret. Toute divulgation du mot de passe, quelle que soit sa forme, est interdite. Il assume les risques liés à l'utilisation de son identifiant et mot de passe.
@@ -231,30 +169,38 @@ Le Candidat s'assure de garder son mot de passe secret. Toute divulgation du mot
 Toute information transmise par le Candidat est de sa seule responsabilité. Il est rappelé que toute personne procédant à une fausse déclaration pour elle-même ou pour autrui s’expose, notamment, aux sanctions prévues à l’article 441-1 du code pénal, prévoyant des peines pouvant aller jusqu’à trois ans d’emprisonnement et 45 000 euros d’amende.
 
 Le Candidat s'engage à ne pas mettre en ligne de contenus ou informations contraires aux dispositions légales et réglementaires en vigueur.
-
 Le contenu du Candidat peut être, à tout moment et pour n'importe quelle raison, supprimé ou modifié par le site, sans préavis.
 
 ### 5.3 Le Prescripteur
 
-Le Prescripteur s'assure de garder son mot de passe secret. Toute divulgation du mot de passe, quelle que soit sa forme, est interdite. Il s’engage à ce que seuls les salariés autorisés aient accès au compte et aux informations contenues dans celui-ci. Il assume les risques liés à l'utilisation de son identifiant et mot de passe. 
+Le Prescripteur s'assure de garder son mot de passe secret. Toute divulgation du mot de passe, quelle que soit sa forme, est interdite. Il s’engage à ce que seuls les salariés autorisés aient accès au compte et aux informations contenues dans celui-ci. Il assume les risques liés à l'utilisation de son identifiant et mot de passe.
 
-Le Prescripteur est tenu d’utiliser son mail professionnel lorsqu’il est sur les emplois de l'Inclusion. 
+Le Prescripteur est tenu d’utiliser son mail professionnel lorsqu’il est sur les emplois de l'Inclusion.
 
 Toute information transmise par le Prescripteur est de sa seule responsabilité. Il est rappelé que toute personne procédant à une fausse déclaration pour elle-même ou pour autrui s’expose, notamment, aux sanctions prévues à l’article 441-1 du code pénal, prévoyant des peines pouvant aller jusqu’à trois ans d’emprisonnement et 45 000 euros d’amende.
 
 Le Prescripteur s'engage à ne pas mettre en ligne de contenus ou informations contraires aux dispositions légales et réglementaires en vigueur. Le contenu du Prescripteur peut être à tout moment et pour n'importe quelle raison supprimé ou modifié par le site, sans préavis.
 
-### 5.4 L’Employeur
+### 5.4 L’Employeur solidaire
 
-L’Employeur s'assure de garder son mot de passe secret. Toute divulgation du mot de passe, quelle que soit sa forme, est interdite. Il s’engage à ce que seuls les salariés autorisés aient accès au compte et aux informations contenues dans celui-ci. Il assume les risques liés à l'utilisation de son identifiant et mot de passe.
+L’Employeur solidaire s'assure de garder son mot de passe secret. Toute divulgation du mot de passe, quelle que soit sa forme, est interdite. Il s’engage à ce que seuls les salariés autorisés aient accès au compte et aux informations contenues dans celui-ci. Il assume les risques liés à l'utilisation de son identifiant et mot de passe.
 
-L’Employeur est tenu d’utiliser son mail professionnel lorsqu’il est sur les emplois de l'Inclusion.
+L’Employeur solidaire est tenu d’utiliser son mail professionnel lorsqu’il est sur les emplois de l'Inclusion.
 
-Toute information transmise par l’Employeur est de sa seule responsabilité. Il est rappelé que toute personne procédant à une fausse déclaration pour elle-même ou pour autrui s’expose, notamment, aux sanctions prévues à l’article 441-1 du code pénal, prévoyant des peines pouvant aller jusqu’à trois ans d’emprisonnement et 45 000 euros d’amende.
+Toute information transmise par l’Employeur solidaire est de sa seule responsabilité. Il est rappelé que toute personne procédant à une fausse déclaration pour elle-même ou pour autrui s’expose, notamment, aux sanctions prévues à l’article 441-1 du code pénal, prévoyant des peines pouvant aller jusqu’à trois ans d’emprisonnement et 45 000 euros d’amende.
 
-L’Employeur s'engage à ne pas mettre en ligne de contenus ou informations contraires aux dispositions légales et réglementaires en vigueur. Le contenu de l’Employeur peut être à tout moment et pour n'importe quelle raison supprimé ou modifié par le site, sans préavis.
+L’Employeur solidaire s'engage à ne pas mettre en ligne de contenus ou informations contraires aux dispositions légales et réglementaires en vigueur. Le contenu de l’Employeur solidaire peut être à tout moment et pour n'importe quelle raison supprimé ou modifié par le site, sans préavis.
+
+### 5.5. L’Institution partenaire
+
+L’Institution partenaire s'assure de garder son mot de passe secret. Toute divulgation du mot de passe, quelle que soit sa forme, est interdite. Elle s’engage à ce que seuls les salariés autorisés aient accès au compte et aux informations contenues dans celui-ci. Elle assume les risques liés à l'utilisation de son identifiant et mot de passe.
+
+L’Institution partenaire est tenue d’utiliser son mail professionnel lorsqu’elle est sur les emplois de l'Inclusion.
+
+Toute information transmise par l’Institution partenaire est de sa seule responsabilité. Il est rappelé que toute personne procédant à une fausse déclaration pour elle-même ou pour autrui s’expose, notamment, aux sanctions prévues à l’article 441-1 du code pénal, prévoyant des peines pouvant aller jusqu’à trois ans d’emprisonnement et 45 000 euros d’amende.
+
+L’Institution partenaire s'engage à ne pas mettre en ligne de contenus ou informations contraires aux dispositions légales et réglementaires en vigueur. Le contenu de l’Institution partenaire peut être à tout moment et pour n'importe quelle raison supprimé ou modifié par le site, sans préavis.
 
 ## Article 6 - Mise à jour des conditions d’utilisation
 
-Les termes des présentes conditions d’utilisation peuvent être amendés à tout moment, sans préavis, en fonction des modifications apportées aux emplois de l'inclusion, de l’évolution de la législation ou pour tout autre motif jugé nécessaire.
-
+Les termes des CGU doivent être acceptés au moment de la connexion. Toute modification des CGU réalisée en fonction des modifications apportées au site, de l’évolution de la législation ou pour tout autre motif jugé nécessaire, nécessite votre consentement.
