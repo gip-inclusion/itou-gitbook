@@ -62,4 +62,4 @@
 * [🚨 Mentions légales](mentions/README.md)
   * [Mentions légales](mentions/mentions-legales.md)
   * [Conditions Générales d'Utilisation](mentions/conditions-generales-dutilisation.md)
-  * [Protection des données](mentions/protection-des-donnees.md)
+  * [Politique de confidentialité](mentions/politique-de-confidentialite.md)

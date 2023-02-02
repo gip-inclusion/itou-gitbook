@@ -12,8 +12,8 @@ description: Connaitre nos mentions légales et CGU
 [conditions-generales-dutilisation.md](conditions-generales-dutilisation.md)
 {% endcontent-ref %}
 
-{% content-ref url="protection-des-donnees.md" %}
-[protection-des-donnees.md](protection-des-donnees.md)
+{% content-ref url="politique-de-confidentialite.md" %}
+[politique-de-confidentialite.md](politique-de-confidentialite.md)
 {% endcontent-ref %}
 
 

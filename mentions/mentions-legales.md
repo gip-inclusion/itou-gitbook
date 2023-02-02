@@ -1,12 +1,12 @@
 ---
-description: Mentions légales des emplois de l’Inclusion
+description: Mentions légales des emplois de l’inclusion
 ---
 
 # Mentions légales
 
 ## Éditeur
 
-Le site « Les Emplois de l’Inclusion » est édité par :
+Le site « Les emplois de l’inclusion » est édité par :
 
 Le Groupement d’Intérêt Public « Plateforme de l’inclusion » :
 
