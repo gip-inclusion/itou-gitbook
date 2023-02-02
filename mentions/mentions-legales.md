@@ -4,23 +4,27 @@ description: Mentions légales des emplois de l’Inclusion
 
 # Mentions légales
 
-## Editeur des emplois de l'inclusion
+## Éditeur
 
-Le site des emplois de l'inclusion est édité par la Délégation générale à l’emploi et à la formation professionnelle, Pôle emploi et le Conseil de l’inclusion dans l’emploi.
+Le site « Les Emplois de l’Inclusion » est édité par :
 
-#### DGEFP
+Le Groupement d’Intérêt Public « Plateforme de l’inclusion » :
 
-10-18 place des 5-Martyrs-du-Lycée-Buffon 75015 Paris
+127 Rue de Grenelle
+75007 Paris
 
 ## Directeur de la publication
 
-Monsieur Bruno Lucas
+Le Directeur de la publication est Monsieur Arnaud Denoix.
 
 ## Hébergement des emplois de l'inclusion
 
-Ce site est hébergé en France par la société CleverCloud :
+Ce site est hébergé par :
 
-CleverCloud SAS - 3 rue de l'Allier, 44000 Nantes, France
+Clever Cloud SAS
+5, passage de l’industrie
+92130 Issy-Les-Moulineaux
+France
 
 ## Accessibilité
 
@@ -28,22 +32,23 @@ La conformité aux normes d’accessibilité numérique est un objectif ultérie
 
 #### En savoir plus
 
-Pour en savoir plus sur la politique d’accessibilité numérique de l’État, voir le [Référentiel général d'amélioration de l'accessibilité – RGAA Version 4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
-
+Pour en savoir plus sur la politique d’accessibilité numérique de l’Etat, voir le lien suivant : https://www.numerique.gouv.fr/publications/rgaa-accessibilite/
 ## Signaler un dysfonctionnement
 
-Si vous rencontrez un défaut d’accessibilité vous empêchant d’accéder à un contenu ou une fonctionnalité du site, merci de nous contacter :[ ](https://communaute.inclusion.beta.gouv.fr/aide/)[https://communaute.inclusion.beta.gouv.fr/aide/](https://communaute.inclusion.beta.gouv.fr/aide/)
-
+Si vous rencontrez un défaut d’accessibilité vous empêchant d’accéder à un contenu ou à une fonctionnalité du site, merci de nous en faire part ici : https://communaute.inclusion.beta.gouv.fr/aide/
 Si vous n’obtenez pas de réponse rapide de notre part, vous êtes en droit de faire parvenir vos doléances ou une demande de saisine au Défenseur des droits.
 
-Pour le joindre, vous pouvez :
+Pour le joindre, vous pouvez :
 
-* utiliser le [formulaire de contact en ligne](https://formulaire.defenseurdesdroits.fr/code/afficher.php?ETAPE=accueil\_2016) ;
-* composer le 09 69 39 00 00 (du lundi au vendredi 8h-20h) ;
-* envoyer un courrier (sans timbre) à l’adresse : Défenseur des droits, Libre réponse 71120, 75342 Paris CEDEX 07.
+- Utiliser le formulaire de contact en ligne ici : https://formulaire.defenseurdesdroits.fr/code/afficher.php?ETAPE=accueil_2016 ;
+- Composer le 09 69 39 00 00 (du lundi au vendredi de 8h à 20h) ;
+- Envoyer un courrier (sans timbre) à l’adresse suivante : Défenseur des droits, Libre réponse 71120, 75342 Paris CEDEX 07.
+
+Pour en savoir plus sur la politique d’accessibilité numérique de l’État : http://references.modernisation.gouv.fr/accessibilite-numerique
 
 ## Sécurité
 
 Le site est protégé par un certificat électronique, matérialisé pour la grande majorité des navigateurs par un cadenas. Cette protection participe à la confidentialité des échanges.
+En aucun cas les services associés à la plateforme ne seront à l’origine d’envoi de courriels pour demander la saisie d’informations personnelles.
 
-En aucun cas les services associés aux emplois de l'inclusion ne seront à l’origine d’envoi de courriels pour demander la saisie d’informations personnelles.
+En aucun cas les services associés à la plateforme de l’inclusion ne seront à l’origine d’envoi de courriels pour demander la saisie de vos informations personnelles.
